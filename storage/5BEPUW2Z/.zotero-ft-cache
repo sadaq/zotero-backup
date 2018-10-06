@@ -1,0 +1,1206 @@
+American Journal of Epidemiology
+ª The Author 2010. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of
+Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+Original Contribution
+
+Vol. 172, No. 12 DOI: 10.1093/aje/kwq308 Advance Access publication:
+November 2, 2010
+
+Use of A Mendelian Randomization Approach to Assess the Causal Relation of g-Glutamyltransferase with Blood Pressure and Serum Insulin Levels
+
+David Conen, Peter Vollenweider, Valentin Rousson, Pedro Marques-Vidal, Fred Paccaud, Ge´ rard Waeber, and Murielle Bochud*
+* Correspondence to Prof. Murielle Bochud, Institute of Social and Preventive Medicine, Centre Hospitalier Universitaire Vaudois and University of Lausanne, CH-1015 Lausanne, Switzerland (e-mail: murielle.bochud@chuv.ch).
+Initially submitted April 6, 2010; accepted for publication August 16, 2010.
+Elevated levels of c-glutamyltransferase (GGT) have been associated with elevated blood pressure (BP) and diabetes. However, the causality of these relations has not been addressed. The authors performed a crosssectional analysis (2003–2006) among 4,360 participants from the population-based Cohorte Lausannoise (CoLaus) Study (Lausanne, Switzerland). The rs2017869 variant of the c-glutamyltransferase 1 (GGT1) gene, which explained 1.6% of the variance in GGT levels, was used as an instrument for Mendelian randomization (MR). Sex-speciﬁc GGT quartiles were strongly associated with both systolic and diastolic BP (all P ’s < 0.0001). After multivariable adjustment, these relations were attenuated but remained signiﬁcant. Using MR, the authors observed no positive association of GGT with BP (systolic: b À5.68, 95% conﬁdence interval (CI): À11.51, 0.16 (P ¼ 0.06); diastolic: b ¼ À2.24, 95% CI: À5.98, 1.49 (P ¼ 0.24)). The association of GGT with insulin was also attenuated after multivariable adjustment but persisted in the fully adjusted model (b ¼ 0.07, 95% CI: 0.04, 0.09; P < 0.0001). Using MR, the authors also observed a positive association of GGT with insulin (b ¼ 0.19, 95% CI: 0.01, 0.37; P ¼ 0.04). In conclusion, the authors found evidence for a direct causal relation of GGT with fasting insulin but not with BP.
+blood pressure; diabetes mellitus; gamma-glutamyltransferase; insulin; Mendelian randomization analysis; obesity
+Abbreviations: CoLaus, Cohorte Lausannoise; GGT, c-glutamyltransferase; GGT1, c-glutamyltransferase 1; OLS, ordinary least squares; 2SLS, 2-stage least squares; SNP, single nucleotide polymorphism.
+
+Many studies have shown that persons with elevated levels of c-glutamyltransferase (GGT) have higher levels of blood pressure and insulin and higher prevalences of diabetes and hypertension (1–14). Although these relations have been found to persist after adjustment for a variable number of covariates, signiﬁcant attenuation usually occurs. Nevertheless, these ﬁndings have been interpreted as 1 piece of evidence for the involvement of fatty liver disease and oxidative stress in the pathogenesis of hypertension and type 2 diabetes mellitus (15).
+However, we are not aware of any study that has investigated whether these signiﬁcant relations are truly causal or are due to residual confounding. Evidence for a causal relation would provide important epidemiologic conﬁrmation of prior basic scientiﬁc ﬁndings about the involvement of oxidative stress in the pathogenesis of insulin resistance,
+
+type 2 diabetes mellitus, and blood pressure elevation (15, 16). A randomized trial showing that selectively lowering GGT levels also lowers blood pressure and insulin levels would support a causal relation, but such a trial is currently unavailable, and other ways to establish causality are needed.
+Mendelian randomization refers to the random allocation of alleles at the time of gamete formation (17, 18). Such allocation is expected to be independent of any behavioral and environmental factors (known or unknown), usually allowing analysis of largely unconfounded risk associations that are not due to reverse causation (17–19). Therefore, to assess the potential causal role of GGT in the pathogenesis of blood pressure elevation and insulin resistance, we performed a Mendelian randomization analysis of blood pressure and fasting insulin in a population-based cohort study.
+
+1431
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+Am J Epidemiol 2010;172:1431–1441
+
+1432 Conen et al.
+
+MATERIALS AND METHODS
+All subjects were participants in the Cohorte Lausannoise (CoLaus) Study, an ongoing population-based cohort study. Recruitment of the study population has been described in detail previously (20). Brieﬂy, a complete list of the inhabitants of Lausanne, Switzerland, aged 35–75 years (n ¼ 56,694) was provided by staff of the city’s population registry. Subjects were selected using a simple, nonstratiﬁed random selection approach. In total, a random sample of 35% of the overall population was drawn. Recruitment began in June 2003 and ended in May 2006 (20). The study was approved by the ethics committee of the University of Lausanne, and written informed consent was obtained from participants before data collection. Only Caucasian subjects were included. For the present analysis, we excluded all participants with missing values for GGT (n ¼ 12), blood pressure (n ¼ 5), insulin (n ¼ 727), or the genetic polymorphism used as the instrumental variable (n ¼ 1,084).
+Data were collected by trained ﬁeld interviewers. Seated blood pressure was measured 3 times on the left arm with an appropriate-sized cuff and after at least 10 minutes of rest, using a validated Omron HEM-907 automated oscillometric sphygmomanometer (Matsusaka Company Ltd., Matsusaka, Japan) (21). The average of the last 2 measurements was used for all blood-pressure-related analyses. Percent fat mass (in percentage of total body weight) was assessed by electrical bioimpedance after a 5-minute rest using the Bodystat 1,500 body mass analyzer (Bodystat Ltd., Isle of Man, United Kingdom), as described in detail previously (22).
+Venous blood samples were drawn after an overnight fast. Most clinical chemistry assays were performed by the CHUV Clinical Laboratory (University of Lausanne) on fresh blood samples. Adiponectin and insulin levels were measured by Pathway Diagnostics Corporation (Los Angeles, California). Insulin was assayed using a solid-phase, 2-site chemiluminescent immunometric assay with a maximum intraassay coefﬁcient of variation of 13.7% (Diagnostic Products Corporation, Los Angeles, California). GGT was assayed using an optimized standard method (Roche Diagnostics, Basel, Switzerland) with maximum inter- and intrabatch coefﬁcients of variation of 1.6% and 0.4%, respectively. Details on all measurements performed in the CoLaus study have been published previously (20).
+Nuclear DNA was extracted from whole blood. Genotyping was performed using the Affymetrix 500 K single nucleotide polymorphism (SNP) chip, as recommended by the manufacturer (Affymetrix, Inc., Santa Clara, California). Persons with less than 95% genotyping efﬁciency overall (or <90% efﬁciency on either array; n ¼ 399) and persons with possible gender inconsistencies (n ¼ 5) were removed. Monomorphic SNPs with less than 70% genotyping efﬁciency, with a minor allele frequency less than 1%, and/or not in Hardy-Weinberg proportions were excluded from the analyses. Twenty-seven SNPs were located in and around the c-glutamyltransferase 1 (GGT1) gene (6100 kilobases) and were therefore considered for the present analysis.
+Baseline characteristics were compared across sexspeciﬁc GGT quartiles using Kruskal-Wallis tests for contin-
+
+uous variables and chi-squared tests for categorical variables. We used multivariable linear regression analyses to compare blood pressure and insulin levels across quartiles of GGT and to adjust for potential confounders. In a ﬁrst step, crude models were adjusted for age and sex. Subsequently, body mass index (weight (kg)/height (m)2), alcohol consumption, and smoking were added to the models. We then performed a stepwise selection procedure, to choose relevant covariates among a wide range of potential confounders. Covariates from prior models were forced into the models. For simplicity, covariates selected for systolic blood pressure models were also used for diastolic blood pressure, with the exception of age squared, which was added to the diastolic blood pressure models. For all analyses, data on insulin and other biomarkers were log-transformed to improve the normality of the residuals, as well as the linearity of their associations.
+To explore the potential causal effect of GGT on blood pressure or insulin, we applied a Mendelian randomization approach using instrumental variables. In a ﬁrst stage, we regressed GGT on our instrument (genotypes at rs2017869), which was the SNP explaining the largest proportion of GGT variance in our sample (1.64%). In a second stage, we regressed the response of interest (e.g., systolic blood pressure, diastolic blood pressure, or insulin) on the ﬁtted values from the ﬁrst-stage regression, referred to hereafter as ‘‘explained’’ GGT. The regression coefﬁcient associated with explained GGT in this second stage can be interpreted as a causal effect of GGT on the response, provided that the instrument is correlated with GGT and that the instrument has no effect on the response other than its effect through GGT. We ensured that the instrument was sufﬁciently strong by checking that the F value obtained in the ﬁrst-stage regression was greater than 10 (23). The second assumption cannot be veriﬁed from the data, but in our case, it is unlikely that the GGT1 gene affects either blood pressure or insulin independently of GGT. We analyzed the association of rs2017869 with all potential confounders using 1-way analysis of variance or chi-squared tests and found no signiﬁcant relations, as shown in Appendix Table 1. For each association of interest, we conducted both ordinary least squares (OLS) regression and 2-stage least squares (2SLS) regression, using the ivregress function in Stata (Stata Corporation, College Station, Texas). We compared OLS and 2SLS estimates using the Durbin-Hausman test (24). Whenever appropriate, we also explored whether the signiﬁcant interactions found using OLS were conﬁrmed using 2SLS.
+We performed tests for linear trend by assigning to each participant the sex-speciﬁc median of the GGT quartile to which he or she belonged. Effect modiﬁcation was assessed using multiplicative interaction terms. All statistical analyses were performed using SAS, version 9.2 (SAS Institute, Inc., Cary, North Carolina), or Stata, version 10.1. A 2-tailed P value less than 0.05 was prespeciﬁed to indicate statistical signiﬁcance.
+RESULTS
+In total, 4,360 participants were included in the present analysis. Of those, 2,270 (52.1%) were female. Baseline
+Am J Epidemiol 2010;172:1431–1441
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+GGT, Blood Pressure, and Insulin 1433
+
+characteristics are shown in Table 1 according to sexspeciﬁc GGT quartile. With increasing levels of GGT, participants were signiﬁcantly older, had a higher body mass index, more often had diabetes or hypertension, and had a less favorable lipid proﬁle. They also consumed more alcohol, as evidenced by higher levels of carbohydratedeﬁcient transferring (Table 1), and had higher levels of C-reactive protein, uric acid, and total protein.
+Systolic and diastolic blood pressures increased from median values of 121 mm Hg and 76 mm Hg, respectively, in the lowest GGT quartile to 133 mm Hg and 82 mm Hg, respectively, in the highest GGT quartile (Table 1). After adjustment for age and sex, these relations were signiﬁcantly attenuated, but a highly signiﬁcant trend persisted (Table 2). In the fully adjusted model, the increases in systolic and diastolic blood pressure were reduced to 1.0 mm Hg, 1.3 mm Hg, and 2.2 mm Hg (P for linear trend ¼ 0.005) and 0.9 mm Hg, 1.0 mm Hg, and 1.2 mm Hg (P for linear trend ¼ 0.08) in the second, third, and fourth GGT quartiles, respectively.
+Median insulin levels are also shown in Table 1 according to GGT quartile. Age and sex adjustment did not inﬂuence much the highly signiﬁcant gradient observed across GGT quartiles (Table 3). By contrast, additional adjustment for body mass index, alcohol, and smoking substantially attenuated these relations (Table 3). Sensitivity analyses showed that this attenuation was exclusively due to the effect of body mass index. Additional adjustment further attenuated the gradual increase in insulin levels across GGT quartiles. Nevertheless, a highly signiﬁcant gradient of insulin levels across GGT quartiles persisted even in the fully adjusted model (Table 3). In the primary analyses, diabetes and antidiabetic treatment were not considered for the multivariable insulin models because of potential overadjustment and the statistical ‘‘noise’’ induced by the effect of treatment on insulin levels. However, forcing these variables into the multivariable models did not signiﬁcantly change our results (data not shown).
+Results of selected subgroup analyses are shown in Appendix Table 2. Associations between blood pressure and GGT were consistent across different strata of sex, body mass index, and alcohol consumption. A signiﬁcant relation between blood pressure and GGT was evident in persons younger than age 55 years but not among older persons. Accordingly, the multiplicative interaction test with age was highly signiﬁcant for both systolic (P ¼ 0.001) and diastolic (P < 0.0001) blood pressure. With regard to insulin, consistent ﬁndings were obtained across different strata of age, sex, and alcohol consumption. By contrast, the highly signiﬁcant relation between GGT and insulin was seen only among persons with a body mass index of at least 25, not among leaner persons. Accordingly, the GGT 3 body mass index interaction was highly statistically signiﬁcant (P < 0.0001).
+The frequency of the rs2017869 variant did not deviate signiﬁcantly from Hardy-Weinberg proportions (P ¼ 0.73), and genotype frequencies are shown in Table 1. Median GGT levels were 20 U/L (interquartile range, 14–32), 23 U/L (interquartile range, 15–36), and 25 U/L (interquartile range, 18–42) for the GG, GC, and CC genotypes, respectively
+Am J Epidemiol 2010;172:1431–1441
+
+(P < 0.0001). The rs2017869 variant was an appropriate instrumental variable (F ¼ 72.87 in the ﬁrst-stage regression). The strong positive association between GGT and systolic blood pressure in crude OLS analyses (b ¼ 7.75, P < 0.001) was not conﬁrmed using 2SLS (b ¼ À2.78, P ¼ 0.389). The OLS coefﬁcient differed signiﬁcantly from the 2SLS coefﬁcient, regardless of the adjustment procedure used (Table 4). Because of the signiﬁcant age 3 log GGT interaction in OLS analyses, we also present results stratiﬁed by age group. This age 3 log GGT interaction was not signiﬁcant in 2SLS analyses (P ¼ 0.055). These results provide some evidence against a positive causal relation between systolic blood pressure and GGT. Similar results and conclusions were obtained for diastolic blood pressure (data not shown).
+By contrast, the positive association of GGT with fasting insulin in crude OLS analyses (b ¼ 0.25, P < 0.0001) was conﬁrmed using 2SLS (b ¼ 0.20, P ¼ 0.034). There was no signiﬁcant difference between the 2 coefﬁcients (P ¼ 0.637) (Table 5). Whereas various adjustment procedures strongly attenuated the OLS association of GGT with fasting insulin levels, we observed no such effect with the 2SLS coefﬁcient. Our results are compatible with a direct causal effect of GGT on fasting insulin, used as a proxy for insulin resistance. Results were similar in men and women (data not shown). Unlike what was found for the OLS analysis, there was no GGT 3 body mass index interaction in the 2SLS analysis (P ¼ 0.814), which suggests that any causal effect is similar in lean and overweight participants. The rs2017869 variant was a much better instrument in the absence of regular alcohol consumption. In that group, a signiﬁcant Mendelian randomization coefﬁcient could be established, suggesting that GGT also plays a causal role in persons who abstain from alcohol consumption.
+DISCUSSION
+In population-based genetic association studies, random allocation of genetic variants from parents to offspring at conception is expected to be independent of any known or unknown behavioral and environmental factors, usually allowing the analysis of largely unconfounded risk associations, similar to a randomized trial in many ways (17, 18). This random association is usually referred to as Mendelian randomization. Using a Mendelian randomization approach, we found convincing evidence that GGT levels were causally associated with fasting insulin, which represents an indirect measure of insulin resistance. The relation of genetically explained GGT with insulin was similar in men and women and was particularly strong among participants who reported not drinking alcohol regularly.
+While we were able to conﬁrm the results of prior studies showing a strong positive association between GGT and insulin levels (25–27), this ‘‘nongenetic’’ association was substantially attenuated by adjustment for potential confounders. By contrast, the coefﬁcient obtained from the instrumental-variable approach was barely affected by various adjustment procedures, consistent with the notion that genetically explained GGT levels should not be confounded. Similarly, the instrumental-variable approach did
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+1434 Conen et al. Am J Epidemiol 2010;172:1431–1441
+
+Table 1. Baseline Characteristics of Participants According to Sex-Speciﬁc Quartile of c-Glutamyltransferase Level, CoLaus Study, Lausanne, Switzerland, 2003–2006
+
+Sex-Speciﬁc Quartile of g-Glutamyltransferase
+
+Characteristic
+
+1 (n 5 1,068)
+
+Median (IQR)
+
+No. %
+
+2 (n 5 1,077)
+
+Median (IQR)
+
+No. %
+
+3 (n 5 1,115)
+
+Median (IQR)
+
+No. %
+
+4 (n 5 1,100)
+
+Median (IQR)
+
+No. %
+
+P Valuea
+
+c-Glutamyltransferase, U/L
+
+Men
+
+16 (14–18)
+
+24 (22–26)
+
+35 (32–40)
+
+67 (53–102)
+
+Women
+
+11 (9–12)
+
+14 (13–15)
+
+20 (18–22)
+
+35 (29–54)
+
+Age, years Body mass indexb
+
+48 (41–57) 24.1 (21.9–26.4)
+
+52 (44–61) 25.2 (22.9–28.0)
+
+56 (46–63) 26.3 (23.8–29.1)
+
+58 (49–65) 27.4 (24.3–30.5)
+
+<0.0001 <0.0001
+
+% body fat
+
+26 (21–33)
+
+28 (23–35)
+
+30 (24–38)
+
+31 (25–39)
+
+<0.0001
+
+Diabetes mellitus
+
+29 2.7
+
+52 4.8
+
+76 6.8
+
+142 12.9 <0.0001
+
+Antidiabetic treatment
+
+18 1.7
+
+27 2.5
+
+44 4.0
+
+78 7.1 <0.0001
+
+Systolic blood pressure, mm Hg 121 (112–132)
+
+126 (115–138)
+
+130 (119–142)
+
+133 (122–146)
+
+<0.0001
+
+Diastolic blood pressure, mm Hg
+
+76 (70–83)
+
+79 (73–86)
+
+80 (74–88)
+
+82 (75–90)
+
+<0.0001
+
+Hypertension
+
+220 20.6
+
+363 33.7
+
+483 43.3
+
+598 54.4 <0.0001
+
+Antihypertensive treatment
+
+98 9.2
+
+163 15.1
+
+250 22.4
+
+335 30.5 <0.0001
+
+History of lipid-lowering treatment
+
+58 5.4
+
+120 11.1
+
+149 13.4
+
+211 19.2 <0.0001
+
+Triglycerides, mmol/L
+
+1.0 (0.7–1.3)
+
+1.1 (0.8–1.6)
+
+1.3 (0.9–1.7)
+
+1.4 (1.0–2.1)
+
+<0.0001
+
+Total cholesterol, mmol/L
+
+5.3 (4.7–6.0)
+
+5.5 (4.8–6.2)
+
+5.7 (5.0–6.4)
+
+5.9 (5.1–6.6)
+
+<0.0001
+
+High density lipoprotein cholesterol, mmol/L
+
+1.6 (1.4–1.9)
+
+1.6 (1.3–1.9)
+
+1.6 (1.3–1.9)
+
+1.5 (1.3–1.8)
+
+<0.0001
+
+Current smoking
+
+254 23.8
+
+278 25.8
+
+283 25.4
+
+316 28.7 0.07
+
+Alcohol consumption, drinks/day 0.4 (0.0–1.0)
+
+0.6 (0.0–1.1)
+
+0.7 (0.0–1.4)
+
+0.9 (0.1–2.0)
+
+<0.0001
+
+Carbohydrate-deﬁcient transferrin, 0.8 (0.6–1.0) % of total transferrin
+
+0.8 (0.6–1.0)
+
+0.8 (0.6–1.0)
+
+0.9 (0.7–1.1)
+
+<0.0001
+
+Aspartate aminotransferase, U/L
+
+25 (21–29)
+
+26 (22–31)
+
+27 (23–33)
+
+32 (26–40)
+
+<0.0001
+
+Alanine aminotransferase, U/L
+
+18 (14–24)
+
+22 (17–29)
+
+24 (19–32)
+
+32 (23–47)
+
+<0.0001
+
+Insulin, lU/L
+
+5.7 (4.0–8.0)
+
+6.7 (4.7–9.9)
+
+7.9 (5.1–11.0)
+
+8.7 (5.8–13.5)
+
+<0.0001
+
+Glucose, mmol/L
+
+5.3 (5.0–5.6)
+
+5.3 (5.0–5.7)
+
+5.4 (5.1–5.9)
+
+5.6 (5.2–6.1)
+
+<0.0001
+
+Adiponectin, lg/mL
+
+8.56 (5.33–13.11)
+
+8.02 (4.97–12.58)
+
+8.20 (5.14–12.42)
+
+7.68 (4.85–12.12)
+
+0.0037
+
+Uric acid, lmol/L
+
+278 (232–336)
+
+305 (252–360)
+
+319 (265–379)
+
+339 (281–407)
+
+<0.0001
+
+C-reactive protein, mg/L
+
+0.8 (0.4–1.9)
+
+1.2 (0.6–2.5)
+
+1.5 (0.8–3.1)
+
+2.1 (1.0–4.1)
+
+<0.0001
+
+Albumin, g/L
+
+44 (42–46)
+
+44 (43–46)
+
+44 (43–46)
+
+45 (43–46)
+
+<0.0001
+
+Protein, g/L
+
+74 (71–76)
+
+74 (72–77)
+
+75 (72–78)
+
+76 (73–79)
+
+<0.0001
+
+GGT1 rs2017869 genotype
+
+GG
+
+518 48.5
+
+454 42.2
+
+411 36.9
+
+348 31.6 <0.0001
+
+GC
+
+458 42.9
+
+491 45.6
+
+529 47.4
+
+554 50.4
+
+CC
+
+92 8.6
+
+132 12.3
+
+175 15.7
+
+198 18.0
+
+Abbreviations: CoLaus, Cohorte Lausannoise; GGT1, c-glutamyltransferase 1; IQR, interquartile range. a Kruskal-Wallis test for continuous variables and chi-squared test for categorical variables. b Weight (kg)/height (m)2.
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+GGT, Blood Pressure, and Insulin 1435
+
+Table 2. Change in Systolic and Diastolic Blood Pressures of Participants (mm Hg) According to Sex-Speciﬁc Quartile of c-Glutamyltransferase, CoLaus Study, Lausanne, Switzerland, 2003–2006
+
+Variable and Regression Model
+Systolic blood pressure Crude Age- and sex-adjusted Multivariable-adjusted 1b Multivariable-adjusted 2c
+Diastolic blood pressure Crude Age- and sex-adjusted Multivariable-adjusted 1b Multivariable-adjusted 2d
+
+Sex-Speciﬁc Quartile of g-Glutamyltransferase
+
+1 (n 5 1,068) (b 5 0)
+
+2 (n 5 1,077) b P Value
+
+3 (n 5 1,115) b P Value
+
+4 (n 5 1,100)
+
+b
+
+P Value
+
+P for Trenda
+
+Referent Referent Referent Referent
+
+4.7 <0.0001 2.3 0.0008 1.5 0.02 1.0 0.15
+
+8.1 <0.0001 4.2 <0.0001 2.6 0.0001 1.3 0.05
+
+11.8 <0.0001 <0.0001
+
+6.7 <0.0001 <0.0001
+
+4.4 <0.0001 <0.0001
+
+2.2 0.003
+
+0.005
+
+Referent Referent Referent Referent
+
+2.5 <0.0001 2.0 <0.0001 1.3 0.003 0.9 0.03
+
+3.9 <0.0001 3.2 <0.0001 1.9 <0.0001 1.0 0.02
+
+5.5 <0.0001 <0.0001
+
+4.6 <0.0001 <0.0001
+
+2.6 <0.0001 <0.0001
+
+1.2 0.01
+
+0.08
+
+Abbreviation: CoLaus, Cohorte Lausannoise. a P value for linear trend across quartiles of c-glutamyltransferase. b Adjusted for age, sex, body mass index, alcohol consumption, and smoking. c Adjusted for age, sex, body mass index, alcohol consumption, smoking, C-reactive protein, albumin, aspartate
+aminotransferase, antihypertensive treatment, lipid-lowering treatment, and total cholesterol. d Adjusted for age, age squared, sex, body mass index, alcohol consumption, smoking, C-reactive protein, albu-
+min, aspartate aminotransferase, antihypertensive treatment, lipid-lowering treatment, and total cholesterol.
+
+not conﬁrm the signiﬁcant GGT 3 body mass index interaction of the OLS analysis, which suggests that this interaction is due to confounding effects. Our results are therefore in line with prospective studies showing that GGT levels predict incident type 2 diabetes mellitus (1–9). Remarkably, we also found that the coefﬁcient for insulin obtained from the instrumental-variable approach was larger than the fully adjusted ‘‘nongenetic’’ coefﬁcient (Table 5), potentially reﬂecting adverse effects of lifelong elevations in GGT levels.
+Similar to what was found for insulin, various adjustment procedures led to a dramatic decrease in the strength of the nongenetic association between GGT and blood pressure. Nevertheless, we conﬁrmed results of prior studies showing a ‘‘nongenetic’’ positive association of GGT with blood
+
+pressure and hypertension (1, 10–14). However, in contrast to the insulin results, no evidence for a direct causal role of GGT in blood pressure control emerged in the genetic instrument analysis. These results suggest that the previously reported association of GGT levels with incident hypertension is not causal but most likely due to residual confounding.
+Our results are in line with recent experimental ﬁndings linking oxidative stress to insulin resistance (28, 29). GGT expression is induced by oxidative stress (30), and GGT deﬁciency leads to an increase in oxidative stress (31). In animal models, dysregulated glutathione metabolism is associated with impaired insulin action in adipocytes (32). Reactive oxygen species are increased in cellular models of insulin resistance, and a treatment designed to alter levels
+
+Table 3. Change in Insulin Level (lU/L) According to Sex-Speciﬁc Quartile of c-Glutamyltransferase, CoLaus Study, Lausanne, Switzerland, 2003–2006
+
+Regression Model
+Crude Age- and sex-adjusted Multivariable-adjusted 1b Multivariable-adjusted 2c
+
+Sex-Speciﬁc Quartile of g-Glutamyltransferase
+
+1 (n 5 1,068) (b 5 0)
+
+2 (n 5 1,077)
+
+b
+
+P Value
+
+3 (n 5 1,115)
+
+b
+
+P Value
+
+4 (n 5 1,100)
+
+b
+
+P Value
+
+Referent 0.15 <0.0001 0.27 <0.0001 0.39 <0.0001
+
+Referent 0.13 <0.0001 0.25 <0.0001 0.36 <0.0001
+
+Referent 0.08 0.0005 0.15 <0.0001 0.23 <0.0001
+
+Referent 0.04 0.08
+
+0.08 0.0005 0.09 0.0002
+
+P for Trenda
+<0.0001 <0.0001 <0.0001 <0.0001
+
+Abbreviation: CoLaus, Cohorte Lausannoise. a P value for linear trend across quartiles of c-glutamyltransferase. b Adjusted for age, sex, body mass index, alcohol consumption, and smoking. c Adjusted for age, sex, body mass index, alcohol consumption, smoking, percent body fat, uric acid, aspartate
+aminotransferase, alanine aminotransferase, protein, adiponectin, total cholesterol, high density lipoprotein choles-
+terol, triglycerides, and lipid-lowering treatment.
+
+Am J Epidemiol 2010;172:1431–1441
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+1436 Conen et al.
+
+Table 4. Change in Systolic Blood Pressure (mm Hg) According to c-Glutamyltransferase Level Using an Instrumental-Variable Approach, CoLaus Study, Lausanne, Switzerland, 2003–2006a
+
+Variable and Regression Model
+All participants Crude Age- and sex-adjusted Multivariable-adjusted 1c Multivariable-adjusted 2d
+Age group !55 years Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2 <55 years Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2
+Alcohol consumption <1 drink/day Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2 !1 drink/day Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2
+
+No. of Participants
+
+Ordinary Least Squares
+
+b
+
+95% CI
+
+P Value
+
+4,360 4,360 4,359 4,359
+
+7.75 7.00, 8.50 <0.0001 3.97 3.21, 4.73 <0.0001 2.52 1.73, 3.31 <0.0001 1.30 0.32, 2.03 0.007
+
+2,009 2,009 2,009 2,008
+
+4.08 2.90, 5.26 <0.0001 2.43 1.21, 3.66 <0.0001 1.32 0.05, 2.60 0.042 0.13 À1.25, 1.51 0.854
+
+2,351 2,351 2,351 2,351
+
+8.26 7.42, 9.10 <0.0001 5.58 4.65, 6.50 <0.0001 3.69 0.27, 4.65 <0.0001 2.45 1.42, 3.48 <0.0001
+
+3,279 3,279 3,278 3,278
+
+7.39 6.45, 8.33 <0.0001 3.31 2.38, 4.24 <0.0001 2.10 1.16, 3.04 <0.0001 0.87 À0.11, 1.87 0.082
+
+1,081 1,081 1,081 1,081
+
+6.39 4.98, 7.81 <0.0001 4.98 3.57, 6.39 <0.0001 3.20 1.69, 4.72 <0.0001 1.86 0.14, 3.57 0.034
+
+2-Stage Least Squares
+
+P for
+
+b
+
+95% CI
+
+P Value
+
+F Value (First Stage)
+
+Differenceb
+
+À2.78 À4.53 À4.82 À5.68
+
+À9.13, 3.56 À10.71, 1.64 À10.61, 0.96 À11.51, 0.16
+
+0.389 0.150 0.102 0.056
+
+72.87
+
+0.001 0.007 0.012 0.020
+
+À9.20 À11.7 À13.0 À11.7
+
+À21.0, 2.58 À24.5, 1.06 À25.5,À0.41 À23.5, 0.05
+
+0.126 0.072 0.043 0.051
+
+2.55 0.43 0.72 À0.75
+
+À3.29, 8.39 À5.87, 6.74 À4.96, 6.40 À6.85, 5.36
+
+0.392 0.893 0.804 0.811
+
+25.38 53.00
+
+0.026 0.029 0.025 0.047
+0.053 0.106 0.299 0.298
+
+À1.02 À1.86 À2.22 À3.75
+
+À7.74, 5.68 À8.17, 4.46 À8.34, 3.90 À9.97, 2.82
+
+0.765 0.564 0.476 0.273
+
+À9.93 À14.30 À13.24 À12.21
+
+À26.94, 7.08 À33.49, 4.88 À29.05, 2.55 À26.11, 1.68
+
+0.252 0.144 0.100 0.085
+
+71.60 11.11
+
+0.013 0.105 0.161 0.167
+0.059 0.048 0.040 0.045
+
+Abbreviations: CI, conﬁdence interval; CoLaus, Cohorte Lausannoise. a Systolic blood pressure was the dependent variable, and c-glutamyltransferase was the independent variable of interest. Data on
+c-glutamyltransferase were log-transformed for all analyses. In models including all participants and using multivariable adjustment model 1,
+the P value for the interaction between age and log-transformed c-glutamyltransferase was <0.0001 for ordinary least squares and 0.055 for
+2-stage least squares. b P value for the difference between ordinary least squares and 2-stage least squares estimates (Durbin-Hausman test). c Adjusted for age, sex, body mass index, smoking, and alcohol consumption. d Adjusted for age, sex, body mass index, alcohol consumption, smoking, C-reactive protein, albumin, aspartate aminotransferase, antihyper-
+tensive treatment, lipid-lowering treatment, and total cholesterol.
+
+of reactive oxygen species was found to improve insulin sensitivity and glucose homeostasis in insulin-resistant mice (15). Overall, these recent results strongly support the hypothesis that dysregulation of antioxidant enzymes could lead to dysfunction of adipocytes, including insulin resistance.
+In prior studies, researchers have consistently reported an increased incidence of cardiovascular mortality (33, 34) and all-cause mortality (35–37) among persons with elevated GGT levels. For example, in a cohort study of 163,944 Austrian adults with a 17-year follow-up period, GGT levels were associated with a 60% increase in cardiovascular
+
+mortality (33). In the Third National Health and Nutrition Examination Survey, GGT was associated with a 50% increase in all-cause mortality and a 2.4-fold increased risk of diabetes-related mortality (35). Such associations were not observed for other liver enzymes, suggesting that the observed relations for GGT are not just due to diffuse liver pathology. Our study indirectly supports the causality of these associations, although their detailed mechanisms remain largely unclear, and further studies are needed in this regard.
+The strengths of this study are its large sample size, the population-based nature of the cohort, the large number of relevant characteristics assessed, and the availability of
+Am J Epidemiol 2010;172:1431–1441
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+GGT, Blood Pressure, and Insulin 1437
+
+Table 5. Change in Insulin Level (lU/L) According to c-Glutamyltransferase Level Using an Instrumental-Variable Approach, Lausanne, Switzerland, 2003–2006a
+
+Variable and Regression Model
+All participants Crude Age- and sex-adjusted Multivariable-adjusted 1c Multivariable-adjusted 2d
+Body mass indexe <25 Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2 !25 Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2
+Alcohol consumption <1 drink/day Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2 !1 drink/day Crude Age- and sex-adjusted Multivariable-adjusted 1 Multivariable-adjusted 2
+
+No. of Participants
+
+Ordinary Least Squares
+
+b
+
+95% CI
+
+P Value
+
+4,360 4,359 4,359 4,307
+
+0.25 0.22, 0.27 <0.0001 0.22 0.19, 0.25 <0.0001 0.14 0.12, 0.17 <0.0001 0.07 0.04, 0.09 <0.0001
+
+1,918 1,918 1,918 1,889
+2,442 2,442 2,441 2,418
+
+0.10 0.06, 0.13 <0.0001 0.08 0.04, 0.13 <0.0001 0.09 0.05, 0.13 <0.0001 0.03 À0.02, 0.08 0.235
+0.22 0.19, 0.25 <0.0001 0.21 0.18, 0.25 <0.0001 0.18 0.14, 0.21 <0.0001 0.08 0.04, 0.11 <0.0001
+
+3,279 3,279 3,278 3,238
+1,081 1,081 1,081 1,069
+
+0.27 0.24, 0.30 <0.0001 0.24 0.21, 0.28 <0.0001 0.15 0.12, 0.18 <0.0001 0.07 0.03, 0.10 <0.0001
+0.24 0.20, 0.29 <0.0001 0.21 0.17, 0.26 <0.0001 0.12 0.08, 0.17 <0.0001 0.04 À0.01, 0.10 0.112
+
+2-Stage Least Squares
+
+P for
+
+b
+
+95% CI
+
+P Value
+
+F Value (First Stage)
+
+Differenceb
+
+0.20 0.02, 0.39 0.19 À0.02, 0.39 0.18 À0.01, 0.36 0.19 0.01, 0.37
+
+0.034 0.070 0.055 0.042
+
+72.87
+
+0.637 0.756 0.713 0.177
+
+0.14 À0.30, 0.57 0.13 À0.34, 0.60 0.14 À0.32, 0.59 0.16 À0.20, 0.53
+
+0.539 0.589 0.558 0.373
+
+0.17 À0.03, 0.36 0.16 À0.05, 0.37 0.19 0.01, 0.38 0.17 À0.03, 0.36
+
+0.096 0.130 0.039 0.097
+
+14.23 61.32
+
+0.860 0.853 0.840 0.459
+0.621 0.646 0.847 0.357
+
+0.22 0.02, 0.43 0.21 À0.01, 0.43 0.22 0.02, 0.42 0.23 0.02, 0.44
+
+0.033 0.056 0.035 0.036
+
+0.12 À0.32, 0.56 0.06 À0.43, 0.56 0.01 À0.43, 0.46 0.05 À0.27, 0.38
+
+0.597 0.803 0.952 0.741
+
+71.60 11.11
+
+0.637 0.792 0.541 0.139
+0.580 0.556 0.634 0.951
+
+Abbreviation: CoLaus, Cohorte Lausannoise. a Insulin was the dependent variable, and c-glutamyltransferase was the independent variable of interest. Data on both were log-transformed for
+all analyses. In models including all participants and using multivariable adjustment model 1, the P value for the interaction between body mass
+index and log-transformed c-glutamyltransferase was <0.0001 for ordinary least squares and 0.814 for 2-stage least squares. b P value for the difference between ordinary least squares and 2-stage least squares estimates (Durbin-Hausman test). c Adjusted for age, sex, body mass index, smoking, and alcohol consumption. d Adjusted for age, sex, body mass index, alcohol consumption, smoking, percent body fat, uric acid, aspartate aminotransferase, alanine
+aminotransferase, protein, adiponectin, total cholesterol, high density lipoprotein cholesterol, triglycerides, and lipid-lowering treatment. e Weight (kg)/height (m)2.
+
+a large number of biomarkers and genetic information on all participants. Nevertheless, the following potential limitations should also be taken into account in interpreting the present results. First, only middle-aged Caucasians were included, and generalizability to other populations remains unclear. Second, because our instrument (rs2017869) was rather weak (i.e., 1.6% of GGT variance explained), Mendelian randomization analyses resulted in wide conﬁdence intervals and low precision. In addition, insulin resistance was estimated only indirectly via fasting insulin levels; however, direct measurements such as those made by euglycemic hyperinsulinemic clamp are hardly feasible in large-
+Am J Epidemiol 2010;172:1431–1441
+
+scale, population-based studies. Finally, the blood pressure measurements showed high intraindividual variability (38), which may have limited our power to reveal a causal GGTblood pressure relation.
+Using a Mendelian randomization approach, we found evidence for a direct causal association between GGT and fasting insulin levels. These ﬁndings suggest that an association of GGT with the risk of type 2 diabetes mellitus might occur via insulin resistance. Given the role of GGT in glutathione homeostasis, our epidemiologic results are in line with experimental data showing the importance of oxidative stress in the pathogenesis of insulin resistance. If conﬁrmed
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+1438 Conen et al.
+
+in other settings, these results underscore the usefulness of the Mendelian randomization approach to infer causality in observational epidemiology and to unravel underlying pathophysiologic mechanisms.
+ACKNOWLEDGMENTS
+Author afﬁliations: Department of Medicine, University Hospital Basel, Basel, Switzerland (David Conen); Department of Medicine, Centre Hospitalier Universitaire Vaudois and University of Lausanne, Lausanne, Switzerland (Peter Vollenweider, Ge´rard Waeber); and Institute of Social and Preventive Medicine, Centre Hospitalier Universitaire Vaudois and University of Lausanne, Lausanne, Switzerland (Valentin Rousson, Pedro Marques-Vidal, Fred Paccaud, Murielle Bochud).
+The CoLaus Study was supported ﬁnancially by contributions from GlaxoSmithKline, the Faculty of Biology and Medicine of the University of Lausanne, and the Swiss National Science Foundation (grants 33CSCO-122661 and 3100AO-116323/1). Dr. Murielle Bochud was supported by the Swiss National Science Foundation (grant 3200BO111361/2) and the Swiss School of Public Health Plus. Dr. David Conen was supported by grants from University Hospital Basel.
+The authors thank the CoLaus study team for data collection and Dr. Vincent Mooser for his helpful comments.
+Parts of this article were presented at the 20th meeting of the European Society of Hypertension, Oslo, Norway, June 18–21, 2010.
+Conﬂict of interest: none declared.
+REFERENCES
+1. Lee DH, Jacobs DR Jr, Gross M, et al. Gammaglutamyltransferase is a predictor of incident diabetes and hypertension: the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2003;49(8): 1358–1366.
+2. Lee DH, Silventoinen K, Jacobs DR Jr, et al. cGlutamyltransferase, obesity, and the risk of type 2 diabetes: observational cohort study among 20,158 middle-aged men and women. J Clin Endocrinol Metab. 2004;89(11):5410– 5414.
+3. Lee DH, Ha MH, Kim JH, et al. Gamma-glutamyltransferase and diabetes—a 4 year follow-up study. Diabetologia. 2003;46(3):359–364.
+4. Monami M, Bardini G, Lamanna C, et al. Liver enzymes and risk of diabetes and cardiovascular disease: results of the Firenze Bagno a Ripoli (FIBAR) study. Metabolism. 2008;57(3):387–392.
+5. Perry IJ, Wannamethee SG, Shaper AG. Prospective study of serum gamma-glutamyltransferase and risk of NIDDM. Diabetes Care. 1998;21(5):732–737.
+6. Nannipieri M, Gonzales C, Baldi S, et al. Liver enzymes, the metabolic syndrome, and incident diabetes: the Mexico City Diabetes Study. Diabetes Care. 2005;28(7):1757–1762.
+7. Andre´ P, Balkau B, Born C, et al. Three-year increase of gamma-glutamyltransferase level and development of type 2
+
+diabetes in middle-aged men and women: the D.E.S.I.R. cohort. Diabetologia. 2006;49(11):2599–2603. 8. Meisinger C, Lo¨wel H, Heier M, et al. Serum gammaglutamyltransferase and risk of type 2 diabetes mellitus in men and women from the general population. J Intern Med. 2005; 258(6):527–535. 9. Nakanishi N, Nishina K, Li W, et al. Serum gammaglutamyltransferase and development of impaired fasting glucose or type 2 diabetes in middle-aged Japanese men. J Intern Med. 2003;254(3):287–295. 10. Yamada Y, Ishizaki M, Kido T, et al. Alcohol, high blood pressure, and serum gamma-glutamyl transpeptidase level. Hypertension. 1991;18(6):819–826. 11. Miura K, Nakagawa H, Nakamura H, et al. Serum gammaglutamyl transferase level in predicting hypertension among male drinkers. J Hum Hypertens. 1994;8(6):445–449. 12. Nilssen O, Forde OH. Seven-year longitudinal population study of change in gamma-glutamyltransferase: the Tromsø Study. Am J Epidemiol. 1994;139(8):787–792. 13. Ikai E, Honda R, Yamada Y. Serum gamma-glutamyl transpeptidase level and blood pressure in nondrinkers: a possible pathogenetic role of fatty liver in obesity-related hypertension. J Hum Hypertens. 1994;8(2):95–100. 14. Stranges S, Trevisan M, Dorn JM, et al. Body fat distribution, liver enzymes, and risk of hypertension: evidence from the Western New York Study. Hypertension. 2005;46(5): 1186–1193. 15. Houstis N, Rosen ED, Lander ES. Reactive oxygen species have a causal role in multiple forms of insulin resistance. Nature. 2006;440(7086):944–948. 16. Harrison DG, Gongora MC. Oxidative stress and hypertension. Med Clin North Am. 2009;93(3):621–635. 17. Clayton D, McKeigue PM. Epidemiological methods for studying genes and environmental factors in complex diseases. Lancet. 2001;358(9290):1356–1360. 18. Nitsch D, Molokhia M, Smeeth L, et al. Limits to causal inference based on Mendelian randomization: a comparison with randomized controlled trials. Am J Epidemiol. 2006;163(5): 397–403. 19. Smith GD, Ebrahim S. Mendelian randomization: prospects, potentials, and limitations. Int J Epidemiol. 2004;33(1):30–42. 20. Firmann M, Mayor V, Vidal PM, et al. The CoLaus Study: a population-based study to investigate the epidemiology and genetic determinants of cardiovascular risk factors and metabolic syndrome. BMC Cardiovasc Disord. 2008;8:6. (doi: 10.1186/1471-2261-8-6). 21. El Assaad MA, Topouchian JA, Darne´ BM, et al. Validation of the Omron HEM-907 device for blood pressure measurement. Blood Press Monit. 2002;7(4):237–241. 22. Marques-Vidal P, Bochud M, Mooser V, et al. Obesity markers and estimated 10-year fatal cardiovascular risk in Switzerland. Nutr Metab Cardiovasc Dis. 2009;19(7):462–468. 23. Stock JH, Wright JH, Yogo M. A survey of weak instruments and weak identiﬁcation in generalized method of moments. J Bus Econ Statist. 2002;20(4):518–529. 24. Lawlor DA, Harbord RM, Sterne JA, et al. Mendelian randomization: using genes as instruments for making causal inferences in epidemiology. Stat Med. 2008;27(8):1133–1163. 25. Fraser A, Ebrahim S, Smith GD, et al. A comparison of associations of alanine aminotransferase and gammaglutamyltransferase with fasting glucose, fasting insulin, and glycated hemoglobin in women with and without diabetes. Hepatology. 2007;46(1):158–165. 26. Shin JY, Chang SJ, Shin YG, et al. Elevated serum gammaglutamyltransferase levels are independently associated with
+Am J Epidemiol 2010;172:1431–1441
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+GGT, Blood Pressure, and Insulin 1439
+
+insulin resistance in non-diabetic subjects. Diabetes Res Clin Pract. 2009;84(2):152–157. 27. Thamer C, Tschritter O, Haap M, et al. Elevated serum GGT concentrations predict reduced insulin sensitivity and increased intrahepatic lipids. Horm Metab Res. 2005;37(4):246–251. 28. Patsouris D, Li PP, Thapar D, et al. Ablation of CD11cpositive cells normalizes insulin sensitivity in obese insulin resistant animals. Cell Metab. 2008;8(4):301–309. 29. Furukawa S, Fujita T, Shimabukuro M, et al. Increased oxidative stress in obesity and its impact on metabolic syndrome. J Clin Invest. 2004;114(12):1752–1761. 30. Zhang H, Forman HJ. Redox regulation of gamma-glutamyl transpeptidase. Am J Respir Cell Mol Biol. 2009;41(5): 509–515. 31. Jean JC, Liu Y, Brown LA, et al. Gamma-glutamyl transferase deﬁciency results in lung oxidant stress in normoxia. Am J Physiol Lung Cell Mol Physiol. 2002;283(4):L766–L776. 32. Kobayashi H, Matsuda M, Fukuhara A, et al. Dysregulated glutathione metabolism links to impaired insulin action in adipocytes. Am J Physiol Endocrinol Metab. 2009;296(6): E1326–E1334. 33. Ruttmann E, Brant LJ, Concin H, et al. Gammaglutamyltransferase as a risk factor for cardiovascular disease mortality: an epidemiological investigation in a cohort of
+
+163,944 Austrian adults. Circulation. 2005;112(14):2130– 2137. 34. Strasak AM, Kelleher CC, Klenk J, et al. Longitudinal change in serum gamma-glutamyltransferase and cardiovascular disease mortality: a prospective population-based study in 76,113 Austrian adults. Arterioscler Thromb Vasc Biol. 2008;28(10): 1857–1865. 35. Ruhl CE, Everhart JE. Elevated serum alanine aminotransferase and gamma-glutamyltransferase and mortality in the United States population. Gastroenterology. 2009;136(2): 477–485. 36. Lee DS, Evans JC, Robins SJ, et al. Gamma glutamyl transferase and metabolic syndrome, cardiovascular disease, and mortality risk: the Framingham Heart Study. Arterioscler Thromb Vasc Biol. 2007;27(1):127–133. 37. Stojakovic T, Scharnagl H, Trauner M, et al. Serum gammaglutamyl transferase and mortality in persons undergoing coronary angiography—the Ludwigshafen Risk and Cardiovascular Health Study. Atherosclerosis. 2010;208(2): 564–571. 38. Mansoor GA, McCabe EJ, White WB. Long-term reproducibility of ambulatory blood pressure. J Hypertens. 1994;12(6): 703–708.
+
+(Appendix tables follow)
+
+Am J Epidemiol 2010;172:1431–1441
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+1440 Conen et al.
+
+Appendix Table 1. Baseline Characteristics of Participants According to GGT1 rs2017869 Genotype, CoLaus Study, Lausanne, Switzerland, 2003–2006
+
+Characteristic
+c-Glutamyltransferase, U/L Age, years Sex Body mass indexa % body fat Diabetes mellitus Antidiabetic treatment Systolic blood pressure,
+mm Hg Diastolic blood pressure,
+mm Hg Hypertension Antihypertensive treatment History of lipid-lowering
+treatment Triglycerides, mmol/L Total cholesterol, mmol/L High density lipoprotein
+cholesterol, mmol/L Current smoking Alcohol consumption,
+drinks/day Carbohydrate-deﬁcient
+transferrin, % of total transferrin Aspartate aminotransferase, U/L Alanine aminotransferase, U/L Insulin, lU/L Glucose, mmol/L Adiponectin, lg/mL Uric acid, lmol/L C-reactive protein, mg/L Albumin, g/L Protein, g/L
+
+GG (n 5 1,731)
+
+Median (IQR)
+
+No. %
+
+20 (14–32)
+
+53 (45–62)
+
+798 46.1
+
+25.6 (22.9–28.5)
+
+29 (23–37)
+
+127 7.3
+
+70 4.0
+
+127 (117–140)
+
+79 (73–87)
+
+659 38.1 321 18.5 209 12.1
+
+1.2 (0.8–1.7) 5.6 (4.9–6.3) 1.6 (1.3–1.9)
+
+0.6 (0.0–1.4)
+
+477 27.6
+
+0.8 (0.6–1.0)
+
+27 (23–33)
+23 (17–32)
+7.0 (4.9–10.0) 5.4 (5.0–5.9) 8.30 (5.05–12.54) 308 (253–368) 1.4 (0.6–2.9) 44 (43–46) 75 (72–77)
+
+GGT1 rs2017869 Genotype
+
+GC (n 5 2,032)
+
+Median (IQR)
+
+No. %
+
+23 (15–36)
+
+54 (45–63)
+
+991 48.8
+
+25.7 (23.2–28.6)
+
+29 (23–36)
+
+125 6.2
+
+67 3.3
+
+128 (117–140)
+
+80 (73–87)
+
+783 38.5 406 20.0 253 12.5
+
+1.1 (0.8–1.7) 5.6 (4.9–6.2) 1.6 (1.3–1.9)
+
+0.6 (0.0–1.4)
+
+507 25.0
+
+0.8 (0.6–1.0)
+
+27 (23–34)
+23 (18–33)
+7.0 (5.0–11.0) 5.4 (5.1–5.8) 7.93 (5.04–12.43) 313 (259–373) 1.3 (0.7–2.9) 44 (43–46) 75 (72–78)
+
+CC (n 5 597)
+
+Median (IQR)
+
+No. %
+
+P Value
+
+25 (18–42)
+
+<0.0001
+
+53 (44–62)
+
+0.29
+
+301 50.4 0.11
+
+25.7 (23.1–28.6)
+
+0.49
+
+28 (23–36)
+
+0.42
+
+47 7.9 0.20
+
+30 5.0 0.13
+
+126 (117–138)
+
+0.71
+
+79 (73–86)
+
+0.89
+
+222 37.2 0.83 119 19.9 0.51
+76 12.7 0.90
+
+1.2 (0.9–1.6)
+
+0.41
+
+5.5 (4.9–6.3)
+
+0.69
+
+1.5 (1.3–1.9)
+
+0.26
+
+0.6 (0.0–1.4)
+
+147 24.6 0.14 0.54
+
+0.8 (0.6–1.0)
+
+0.66
+
+27 (23–33)
+
+0.23
+
+23 (18–34)
+
+0.32
+
+7.0 (4.8–11.3)
+
+0.16
+
+5.4 (5.1–5.8)
+
+0.91
+
+8.24 (5.09–12.62)
+
+0.62
+
+308 (261–369)
+
+0.14
+
+1.4 (0.7–2.9)
+
+0.80
+
+44 (43–46)
+
+0.29
+
+75 (72–77)
+
+0.70
+
+Abbreviations: CoLaus, Cohorte Lausannoise; GGT1, c-glutamyltransferase 1; IQR, interquartile range. a Weight (kg)/height (m)2.
+
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+
+Am J Epidemiol 2010;172:1431–1441
+
+GGT, Blood Pressure, and Insulin 1441
+
+Appendix Table 2. Change in Blood Pressure (mm Hg) or Insulin Level (lU/L) According to Sex-Speciﬁc Quartile of c-Glutamyltransferase in Subgroup Analyses, CoLaus Study, Lausanne, Switzerland, 2003–2006
+
+Characteristic
+Age group !55 years SBPb DBPb Insulin levelc <55 years SBP DBP Insulin level
+Sex Male SBP DBP Insulin level Female SBP DBP Insulin level
+Body mass indexd !25 SBP DBP Insulin level <25 SBP DBP Insulin level
+Alcohol consumption !1 drink/day SBP DBP Insulin level <1 drink/day SBP DBP Insulin level
+
+1 (b 5 0)
+n ¼ 325 Referent Referent Referent n ¼ 743 Referent Referent Referent
+n ¼ 481 Referent Referent Referent n ¼ 587 Referent Referent Referent
+n ¼ 400 Referent Referent Referent n ¼ 668 Referent Referent Referent
+n ¼ 721 Referent Referent Referent n ¼ 347 Referent Referent Referent
+
+Sex-Speciﬁc Quartile of g-Glutamyltransferase
+
+2
+
+3
+
+b
+
+P Value
+
+b
+
+P Value
+
+b
+
+4 P Value
+
+n ¼ 449
+
+1.0
+
+0.41
+
+0.2
+
+0.76
+
+0.02 0.54
+
+n ¼ 628
+
+0.7
+
+0.30
+
+1.1
+
+0.04
+
+0.05 0.07
+
+n ¼ 600 À0.2
+0.2 0.07 n ¼ 515 2.4 1.3 0.09
+
+0.89 0.76 0.04
+0.001 0.02 0.004
+
+n ¼ 635 0.9
+À0.2 0.07
+n ¼ 465 3.3 2.3 0.12
+
+0.47 0.80 0.07
+0.0001 0.0003 0.0009
+
+n ¼ 541
+
+0.9
+
+0.34
+
+0.8
+
+0.20
+
+0.03 0.31
+
+n ¼ 536
+
+1.0
+
+0.27
+
+1.2
+
+0.04
+
+0.03 0.27
+
+n ¼ 529 1.3 1.2 0.04
+n ¼ 586 1.1 1.1 0.12
+
+0.17 0.08 0.30
+0.26 0.06 0.0001
+
+n ¼ 539 2.8 1.5 0.09
+n ¼ 561 1.5 1.1 0.09
+
+0.008 0.04 0.02
+0.16 0.10 0.007
+
+n ¼ 559
+
+0.4
+
+0.67
+
+0.5
+
+0.42
+
+0.08 0.01
+
+n ¼ 517
+
+1.0
+
+0.22
+
+1.1
+
+0.05
+
+0.01 0.71
+
+n ¼ 712
+
+0.6
+
+0.57
+
+0.6
+
+0.38
+
+0.13 <0.0001
+
+n ¼ 404
+
+1.4
+
+0.14
+
+1.2
+
+0.06
+
+0.04 0.23
+
+n ¼ 771
+
+1.3
+
+0.22
+
+0.9
+
+0.18
+
+0.16 <0.0001
+
+n ¼ 329
+
+2.6
+
+0.01
+
+1.1
+
+0.13
+
+0.01 0.72
+
+n ¼ 779
+
+0.5
+
+0.56
+
+1.0
+
+0.04
+
+0.06 0.01
+
+n ¼ 298
+
+2.3
+
+0.07
+
+1.1
+
+0.18
+
+À0.02 0.59
+
+n ¼ 831 1.6 1.5 0.06
+n ¼ 284 1.9 0.8 0.12
+
+0.04 0.004 0.03
+0.15 0.33 0.004
+
+n ¼ 842 2.7 1.7 0.08
+n ¼ 258 3.1 1.5 0.10
+
+0.002 0.002 0.005
+0.03 0.10 0.04
+
+P for Interactiona
+0.001 <0.0001
+0.16
+0.62 0.79 0.37
+0.25 0.32 <0.0001
+0.77 0.70 0.40
+
+Abbreviations: CoLaus, Cohorte Lausannoise; DBP, diastolic blood pressure; SBP, systolic blood pressure. a For every individual trait, multiplicative interaction tests were conducted using nonstratiﬁed multivariable regres-
+sion models. b Adjusted for age, sex, body mass index, alcohol consumption, smoking, C-reactive protein, albumin, aspartate
+aminotransferase, antihypertensive treatment, lipid-lowering treatment, and total cholesterol. c Adjusted for age, sex, body mass index, alcohol consumption, smoking, percent body fat, uric acid, aspartate
+aminotransferase, alanine aminotransferase, protein, adiponectin, total cholesterol, high density lipoprotein choles-
+terol, triglycerides, and lipid-lowering treatment. d Weight (kg)/height (m)2.
+
+Am J Epidemiol 2010;172:1431–1441
+Downloaded from https://academic.oup.com/aje/article-abstract/172/12/1431/192107 by guest on 15 August 2018
+

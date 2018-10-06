@@ -1,0 +1,733 @@
+Articles
+
+Global burden of hypertension: analysis of worldwide data
+
+Patricia M Kearney, Megan Whelton, Kristi Reynolds, Paul Muntner, Paul K Whelton, Jiang He
+Summary
+Background Reliable information about the prevalence of hypertension in different world regions is essential to the development of national and international health policies for prevention and control of this condition. We aimed to pool data from different regions of the world to estimate the overall prevalence and absolute burden of hypertension in 2000, and to estimate the global burden in 2025.
+Methods We searched the published literature from Jan 1, 1980, to Dec 31, 2002, using MEDLINE, supplemented by a manual search of bibliographies of retrieved articles. We included studies that reported sex-speciﬁc and age-speciﬁc prevalence of hypertension in representative population samples. All data were obtained independently by two investigators with a standardised protocol and data-collection form.
+Results Overall, 26·4% (95% CI 26·0–26·8%) of the adult population in 2000 had hypertension (26·6% of men [26·0–27·2%] and 26·1% of women [25·5–26·6%]), and 29·2% (28·8–29·7%) were projected to have this condition by 2025 (29·0% of men [28·6–29·4%] and 29·5% of women [29·1–29·9%]). The estimated total number of adults with hypertension in 2000 was 972 million (957–987 million); 333 million (329–336 million) in economically developed countries and 639 million (625–654 million) in economically developing countries. The number of adults with hypertension in 2025 was predicted to increase by about 60% to a total of 1·56 billion (1·54–1·58 billion).
+Interpretation Hypertension is an important public-health challenge worldwide. Prevention, detection, treatment, and control of this condition should receive high priority.
+
+Lancet 2005; 365: 217–23
+Departments of Epidemiology (P M Kearney MD, M Whelton BS, K Reynolds PhD, P Muntner PhD, Prof P K Whelton MD, Prof J He MD), and Medicine (P Muntner, Prof P K Whelton, Prof J He), and Tulane Hypertension and Renal Center of Excellence (P Munter, Prof P K Whelton, Prof J He), Tulane University School of Public Health and Tropical Medicine, New Orleans, LA, USA; and Clinical Trial Service Unit and Epidemiological Studies Unit, Radcliffe Inﬁrmary, Oxford, UK (P M Kearney)
+Correspondence to: Dr Jiang He, Department of Epidemiology, Tulane University School of Public Health and Tropical Medicine, 1430 Tulane Avenue SL18, New Orleans, LA 70112, USA jhe@tulane.edu
+
+Introduction
+Hypertension is an important worldwide public-health challenge because of its high frequency and concomitant risks of cardiovascular and kidney disease.1,2 It has been identiﬁed as the leading risk factor for mortality, and is ranked third as a cause of disability-adjusted life-years.3 The prevalence of hypertension in various regions of the world has been widely reported;4–9 however, no information has been compiled for its prevalence and absolute burden around the world. Accurate estimates of the worldwide prevalence of this condition are essential as a source of primary information and for rational planning of health services. Measurement of the global burden of hypertension would allow international public-health policy-makers to assign sufﬁcient priority and resources to its management and prevention.
+National representative studies of the prevalence of this condition have been done in some countries, whereas in others, published data are from regional or local population-based samples. We aimed to pool data from population-based studies in different regions to estimate the overall prevalence and absolute burden of hypertension in the whole world and in various regions in 2000, and to estimate the global burden in 2025.
+Methods
+We searched MEDLINE using the medical subject headings “prevalence”, “hypertension”, “blood pressure”, and “cross-sectional studies”. The search was restricted to studies in human beings published from Jan 1, 1980, to Dec 31, 2002. We searched for additional studies manually using references cited in reviews and original study
+
+articles. Additionally, we searched the WHO Global Cardiovascular InfoBase.10 Publications in another language were translated into English. Eligibility criteria for inclusion were: (1) population-based cross-sectional survey in which prevalence of hypertension (or data to calculate it) was reported; (2) methods for measurement of blood pressure were described; (3) hypertension was deﬁned as an average systolic blood pressure 140 mm Hg or greater, diastolic blood pressure 90 mm Hg or greater, or use of antihypertensive medication; and (4) sex-speciﬁc and age-speciﬁc prevalence of hypertension was reported. If a national study was available for a country, we used its data. If not, we used data from the largest and most recent multisite or regional study. 18 national, three multisite, and nine regional studies met the eligibility criteria and were included in the analysis.11–42 All data were extracted independently by two of us (PMK, MW), with a standardised protocol and data-collection form.
+Countries were grouped together into world regions according to the World Bank’s World Development Report 1993:43 countries with established market economies, mainly high-income members of the Organization for Economic Co-operation and Development; countries of the former socialist economies of Europe; Latin America and the Caribbean; China; India; the middle eastern crescent; other Asia and islands; and sub-Saharan Africa. The criteria used by the World Bank to deﬁne these regions include socioeconomic development, epidemiological homogeneity, and geographical proximity.43 For countries without valid estimates of prevalence (n=163) or standard error, we applied data from the country within the same world region with the
+
+www.thelancet.com Vol 365 January 15, 2005
+
+217
+
+Articles
+
+most similar gross national income per capita. This characteristic was chosen as an indicator of hypertension risk among countries because it is the method used by the World Bank to classify economies,44 and previous reviews have reported a positive association between this value and prevalence of hypertension.45,46
+Not all studies provided data for the full age range under consideration (20 years and older). For each of the 17 studies with missing age ranges, we did logistic regression analysis using Stata47 to estimate the relation between age and probability of having hypertension. The predicted probability from the model was used as an estimate of the missing age-speciﬁc prevalence so that all age-groups of interest, from 20–24 years to 80 years and older, could contribute to the analysis. We tested the ﬁt of the logistic model by applying the model to the six national studies in both economically developed and
+
+Year Age Study sample size (n) range (years)
+
+Blood pressure methods
+
+Device
+
+Measures/ Preparation visits (n)
+
+Established market economies
+
+USA11,12
+
+1988–94 у18 National sample (19 661) Standard mercury 6/2
+
+5-minute rest
+
+Canada13
+
+1986–92 18–74 National sample (23 129) Standard mercury 4/2
+
+5-minute rest
+
+Spain14
+
+1990 35–64 National sample (2021) Random zero 3/1
+
+..
+
+England15
+
+1998 у20 National sample (11 529) Electronic
+
+3/1
+
+5-minute rest
+
+Germany16
+
+1997–99 18–79 National sample (7124) Standard mercury 3/1
+
+5-minute rest
+
+Greece17
+
+1997 18–91 Regional sample (665) Standard mercury 3/1
+
+5-minute rest
+
+Italy18
+
+1998 35–74 National sample (8233) Standard mercury 2/1
+
+5-minute rest
+
+Sweden19
+
+1999 25–74 Regional sample (1823) Standard mercury 2/1
+
+5-minute rest
+
+Australia20,21
+
+1989 25–64 National sample (19 315) Standard mercury 2/1
+
+..
+
+Japan22
+
+1980 30–74 National sample (10 346) Standard mercury* 1/1
+
+..
+
+Former socialist economies
+
+Slovakia23
+
+1978–89 45–64 Multisite sample (484 185) Standard mercury 2/1
+
+5-minute rest
+
+India
+
+North India rural24 1994–95 21–70 Regional sample (2559) Random zero 3/2‡ 5-minute rest
+
+North India urban251997 25–64 Regional sample (1806) Standard mercury 3/1
+
+5-minute rest
+
+North India rural26 1997 у25 Regional sample (1935) Standard mercury 1 or 2/1§ 5-minute rest
+
+West India urban27 1995† у20 Regional sample (2122) Standard mercury 2 or 3/1 5-minute rest
+
+West India rural28 1994† у20 Regional sample (3148) Standard mercury 2 or 3/1¶ ..
+
+Latin America and the Caribbean
+
+Mexico29
+
+1992–93 20–69 National sample (14 657) Standard mercury 1/1
+
+5-minute rest
+
+Paraguay30
+
+1993–94 20–74 National sample (9880) Aneroid
+
+2/1
+
+10-minute rest
+
+Venezuela31
+
+1996 у20 National sample (7424) Standard mercury 3/1
+
+..
+
+Middle eastern crescent
+
+Egypt32
+
+1991 25–95 National sample (6733) Standard mercury 4/1
+
+5-minute rest
+
+Turkey33
+
+1995 у18 Regional sample (1466) Aneroid
+
+2/1
+
+5-minute rest
+
+China34
+
+2000–01 35–74 National sample (15 854) Standard mercury 3/1
+
+5-minute rest
+
+Other Asia and islands
+
+Korea35
+
+1990 у30 National sample (21 242) Standard mercury 2/1
+
+5-minute rest
+
+Thailand36
+
+2000–01 у35 National sample (5350) Standard mercury 3/1
+
+5-minute rest
+
+Taiwan37
+
+1991 у19 National sample (4894) Standard mercury 2/1
+
+5-minute rest
+
+Sub-Saharan Africa
+
+South Africa38 1998 15–65 National sample (13 802) Electronic
+
+3/1
+
+5-minute rest
+
+Cameroon39
+
+1998† 25–74 Multi-site sample (1798) Standard mercury 3/1
+
+30-minute rest
+
+Cameroon40
+
+1995 у25 Regional sample (1467) Standard mercury 3/1
+
+10-minute rest
+
+Tanzania41
+
+1996–97 у15 Multisite sample (1698) Standard mercury 2/1
+
+..
+
+Zimbabwe42
+
+1995 у25 Regional sample (775) Electronic
+
+3/1
+
+5-minute rest
+
+*Hypertension deﬁned as average systolic blood pressure у140 mm Hg, or diastolic blood pressure у90 mm Hg. †Year of
+publication of study as year of survey not given. ‡Two blood pressure readings recorded on one day and third taken after interval of 5–7 days. §If blood pressure у140/90, second reading taken in lying position after 5-minute rest. ¶Third blood pressure reading recorded after 30 minutes if either of ﬁrst two was у140/90 mm Hg.
+
+Table 1: Characteristics of studies by world region
+
+developing countries that reported the prevalence of hypertension for the complete age range, 20–80 years and older. The goodness of ﬁt was tested by Pearson’s ␹2 statistic with 12 degrees of freedom, and was good (all p values >0·15) except for Venezuela, where large age groupings were used.
+Studies that met the inclusion criteria provided population data for the prevalence of hypertension for six of seven regions. No study from the former socialist economies met all criteria for inclusion; however, a large population-based study from Slovakia,23 a country within this region, reported age-speciﬁc prevalence of hypertension, deﬁned as average systolic blood pressure 160 mm Hg or more, diastolic blood pressure 95 mm Hg or more, or use of antihypertensive medication. We used a conversion factor derived from the English National Hypertension study,15 in which estimates of hypertension frequency were reported for both the 140/90 mm Hg and 160/95 mm Hg cutoffs, to estimate the frequency of hypertension in Slovakia according to the blood pressure criteria necessary for inclusion in our analysis.15 This factor was applied with ratios calculated separately for men and women within each 5-year age-group.
+Although no national study has investigated the prevalence of hypertension in India, ﬁve regional studies met the inclusion criteria.24–28 Three rural studies were initially combined, as were two urban studies, weighted by the proportion of the population of India in the region of the study. The pooled urban and rural data were then combined, weighted by the proportion of the total population that resides in urban and rural areas, respectively. Similarly in Cameroon, rural and urban studies were combined, weighted by the proportion of the total population that resides in rural and urban areas.39,40
+Statistical analysis The prevalence of hypertension within all selected studies was standardised by age to the 1990 world population48 separately for each sex by the direct method to allow comparison of prevalence in individual studies.49 Crude prevalences of sex-speciﬁc and age-speciﬁc hypertension for each country were applied to the WHO sex-speciﬁc and age-speciﬁc population counts in 2000, and to projections of the expected number of adults in that country for 2025, to estimate the number of people with hypertension in the country for each sex and age-group in each year. The estimates for 2025 were based on the projected changes in size and age composition of the population, and did not include an estimate of changes in incidence of hypertension. The total number of people with hypertension in every country was estimated for men and women separately. The totals from every country in a region were summed to provide an estimate of the total number of people with hypertension in that region, and the numbers from each region were added to obtain worldwide counts. The prevalences of hypertension by
+
+218
+
+www.thelancet.com Vol 365 January 15, 2005
+
+Articles
+
+region for 2000 and 2025 were calculated by dividing the total number of people with hypertension within every region by the total number of individuals in that region. We estimated worldwide prevalence by dividing the total number of people with hypertension worldwide by the total adult world population. SEs for the prevalences were taken from those studies that reported them. For the remaining studies, SEs were estimated as the square root of ([prevalence of hypertensionϫ(1–prevalence of hypertension)]/sample size in the survey). The SE of the number of people with hypertension within a region and worldwide was then estimated with Taylor series approximation methods. These calculations were done separately for the populations in 2000 and 2025, and were used to provide 95% CIs.
+Role of the funding source The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had ﬁnal responsibility for the decision to submit for publication.
+Results
+The number of participants per study ranged from 665 to 484 185 (table 1). The standard mercury sphygmomanometer was the most common device used to measure blood pressure. Apart from three studies, blood pressure was measured at least twice per visit. Three studies measured blood pressure at two visits, and the remaining studies measured it on a single occasion.
+Table 2 shows crude and age-adjusted prevalence of hypertension for each study; ﬁgure 1 shows the estimated prevalence of hypertension in people aged 20 years and older for 2000 and 2025. Overall, 26·4% (95% CI 26·0–26·8%) of the world’s adult population in 2000 had hypertension (26·6% in men [26·0–27·2%] and 26·1% in women [25·5–26·6%]), and 29·2% (28·8–29·7%) were predicted to have hypertension by 2025 (29·0% in men [28·6–29·4%] and 29·5% in women [29·1–29·9%]). Regions with the highest estimated prevalence of hypertension had roughly twice the rate of regions with the lowest estimated prevalence. In men, the highest estimated prevalence was in the region “Latin America and the Caribbean”, whereas for
+Figure 1: Frequency of hypertension in people aged 20 years and older by world region and sex in 2000 (upper) and 2025 (lower) In 2000, 95% CI by region for men and women, respectively, were: established market economies (36·6–38·2) (36·6–37·8); former socialist economies (35·2–35·4) (39·0–39·2); India (17·8–23·4) (18·1–23·6); Latin America and the Caribbean (40·1-41·4) (34·3-35·4); middle eastern crescent (21·1–22·8) (22·9–24·5); China (21·2–23·9) (18·4–21·1); other Asia and islands (16·1–17·9) (13·8–15·3); sub-Saharan Africa (26·0–27·7) (27·6–29·0). In 2025, 95% CIs by region for men and women, respectively, were: established market economies (40·8–42·3) (41·9–43·0); former socialist economies (39·0–39·2) (45·8–46·0); India (21·2–24·7) (21·9–25·3); Latin America and the Caribbean (44·1–44·9) (39·9–40·6); middle eastern crescent (23·5–24·5) (26·6–27·5); China (26·6–28·8) (25·9–28·0); other Asia and islands (18·2–19·4) (16·6–17·5); sub-Saharan Africa (26·5–27·4) (27·8–28·4).
+
+Crude rate of hypertension
+
+Age-standardised rate of hypertension
+
+Men rate (SE) Women rate (SE) Overall rate (SE) Men
+
+Women Overall
+
+Established market economies
+
+USA11,12
+
+23·5% (1·2)
+
+Canada13
+
+26·0% (0·4)
+
+Spain14
+
+46·2% (1·8)
+
+England15
+
+43·4% (0·7)
+
+Germany16
+
+60·2% (0·8)
+
+Greece17
+
+30·2% (2·8)
+
+Italy18
+
+44·8% (0·9)
+
+Sweden19
+
+44·8% (1·6)
+
+Australia20,21
+
+31·9% (0·5)
+
+Japan22
+
+50·1% (0·3)
+
+India
+
+North India rural24 3·4% (0·6)
+
+North India urban2525·0% (1·4)
+
+North India rural26 20·8% (1·3)
+
+West India urban2730·0% (1·2)
+
+West India rural28 24·0% (1·0)
+
+Latin American and the Caribbean
+
+Mexico29
+
+37·5% (0·6)
+
+Paraguay30
+
+28·8% (0·5)
+
+Venezuela31
+
+45·2% (0·8)
+
+Middle eastern crescent
+
+Egypt32
+
+25·7% (1·4)
+
+Turkey33
+
+26·0% (1·5)
+
+China34
+
+28·6% (0·7)
+
+Other Asian and islands
+
+Korea35
+
+..
+
+Thailand36
+
+21·3% (1·3)
+
+Taiwan37
+
+33·1% (0·7)
+
+Sub-Saharan Africa
+
+South Africa38 22·9% (0·6)
+
+Cameroon39
+
+17·9% (1·4)
+
+Cameroon40
+
+14·2% (1·3)
+
+Tanzania41
+
+31·3% (1·7)
+
+Zimbabwe42
+
+41·0% (2·5)
+
+23·3% (0·9) 18·0% (0·4) 44·3% (1·4) 35·0% (0·6) 50·3% (0·8) 27·1% (2·3) 30·6% (0·8) 32·0% (1·5) 20·7% (0·4) 43·3% (0·3)
+6·8% (0·7) 22·3% (1·4) 20·8% (1·3) 33·0% (1·7) 17·0% (1·1)
+28·1% (0·5) 40·9% (0·9) 28·9% (0·7)
+26·9% (1·2) 34·1% (1·9) 25·8% (0·7)
+.. 19·8% (1·0) 28·0% (0·6)
+24·6% (0·5) 11·2% (1·0) 16·3% (1·4) 31·0% (1·5) 28·0% (2·3)
+
+23·4% (0·9) 22·0% (0·3) 45·1% (1·1) 38·8% (0·5) 55·3% (0·6) 28·4% (1·7) 37·7% (0·5) 38·4% (1·1) ·· ··
+5·2% (0·5) .. 20·8% (0·9) 30·9% (1·0) 21·0% (0·7)
+32·0% (0·4) 32·5% (0·5) 36·9% (0·6)
+26·3% (0·9) 29·6% (1·2) 27·2% (0·5)
+19·8% (0·3) 20·5% (1·6) 30·5% (0·5)
+23·9% (0·7) 14·1% (1·7) 15·4% (0·9) 31·1% (1·1) 34·1% (1·7)
+
+21·0% 23·5% 41·7% 34·7% 55·4% 18·5% 42·0% 39·6% 30·8% 42·7%
+3·5% 24·5% 21·5% 31·8% 23·3%
+38·6% 32·4% 47·7%
+25·9% 21·8% 28·8%
+21·8% 22·1% 27·1%
+22·9% 18·5% ·· 30·2% 25·3%
+
+19·7% 15·6% 39·0% 25·7% 56·6% 15·9% 43·3% 40·9% 20·1% 35·0%
+7·5% 23·2% 24·9% 27·8% 19·8%
+30·1% 41·9% 32·2%
+29·3% 30·9% 26·6%
+19·4% 21·4% 20·8%
+23·4% 12·6% ·· 32·3% 41·0%
+
+20·3% 21·4% 40·0% 29·6% ·· 16·9% ·· ·· ·· 38·3%
+5·5% 23·8% 23·1% 30·7% 22·0%
+33·5% 35·4% 39·7%
+27·4% 25·7% 27·7%
+.. 21·7 23·7%
+23·1% 15·0% ·· 31·3% 33·1%
+
+Table 2: Rate of hypertension in people aged 20 years and older in world regions
+
+Rate of hypertension (%)
+
+2000
+
+50
+
+40
+
+37·4 37·2
+
+39·1 35·3
+
+40·7 34·8
+
+Men Women
+
+30 20
+
+20·6 20·9
+
+26·9 28·3
+
+22·0 23·7
+
+22·6 19·7
+
+17·0 14·5
+
+10
+
+0
+
+2025
+
+50
+
+45·9 41·6 42·5 39·1
+
+40
+
+44·5 40·2
+
+30
+
+22·9 23·6
+
+24·0 27·0 27·7 27·0
+
+27·0 28·2
+
+20
+
+18·8 17·1
+
+10
+
+0 markEesttaebcolisnhoemdiesFormer esococinaolimsties
+
+India
+
+LattihneACmareirbicbaean Middle eacsrteesrcnent
+
+and
+
+China
+
+Other Asiaiasnladnds Sub-SaharAafnrica
+
+www.thelancet.com Vol 365 January 15, 2005
+
+219
+
+Articles
+
+Established market economies
+
+Former socialist economies
+
+India
+
+Men, 2000 Age (years)
+20–29 14·4% 30–39 21·2% 40–49 32·6% 50–59 44·8% 60–69 60·3% у70 71·2% Women, 2000 Age (years) 20–29 6·2% 30–39 9·9% 40–49 23·3% 50–59 42·0% 60–69 61·3% у70 80·3% Men, 2025 Age (years) 20–29 13·2% 30–39 19·9% 40–49 32·6% 50–59 45·0% 60–69 58·7% у70 71·3% Women, 2025 Age (years) 20–29 5·5% 30–39 9·1% 40–49 23·4% 50–59 42·4% 60–69 60·3% у70 80·6%
+
+18·7% 28·0% 34·1% 41·6% 53·7% 64·5%
+3·2% 9·6% 29·2% 45·8% 75·3% 91·8%
+18·8% 28·6% 34·2% 42·0% 54·0% 64·9%
+3·2% 10·0% 29·2% 46·2% 76·0% 92·2%
+
+8·5% 14·8% 24·8% 32·6% 39·9% 51·0%
+7·1% 13·3% 23·4% 32·9% 42·2% 57·8%
+8·5% 14·9% 24·9% 32·7% 39·9% 51·0%
+7·2% 13·4% 23·4% 32·9% 42·3% 58·0%
+
+Latin America and the Caribbean
+27·6% 30·9% 41·5% 64·9% 67·3% 72·9%
+15·8% 24·0% 43·1% 55·4% 61·1% 70·0%
+26·8% 30·5% 41·6% 64·6% 67·4% 72·9%
+16·2% 24·4% 43·0% 55·6% 60·9% 69·1%
+
+Table 3: Age-speciﬁc rate of hypertension by world region
+
+Middle eastern crescent
+11·2% 14·1% 26·1% 37·2% 46·6% 51·7%
+5·1% 12·0% 28·1% 48·3% 60·6% 67·9%
+11·2% 14·4% 26·2% 37·3% 46·7% 51·5%
+5·1% 12·1% 28·2% 48·6% 60·7% 67.8%
+
+China
+10·6% 15·7% 22·8% 33·6% 43·7% 53·2%
+5·5% 9·4% 18·9% 32·0% 44·2% 59·9%
+10·5% 15·9% 22·7% 34·5% 43·5% 53·4%
+5·4% 9·6% 18·7% 33·0% 43·7% 59·9%
+
+Other Asia and islands
+
+SubSaharan Africa
+
+11·1% 13·6% 17·8% 24·8% 30·8% 34·6%
+7·2% 8·5% 15·0% 26·1% 31·4% 33·7%
+11·1% 13·6% 17·8% 24·8% 30·9% 34·5%
+7·1% 8·5% 15·3% 26·2% 31·4% 33·7%
+
+10·5% 22·7% 38·5% 48·1% 57·4% 58·5%
+9·9% 22·7% 39·5% 50·1% 61·0% 62·3%
+10·5% 23·0% 39·1% 48·6% 58·0% 58·8%
+10·1% 22·9% 40·2% 50·8% 61·5% 62·5%
+
+Overall
+12·7% 18·4% 27·8% 39·0% 49·1% 59·5%
+7·4% 12·6% 24·9% 39·1% 53·4% 70·0%
+10·8% 17·1% 26·4% 36·1% 46·0% 57·1%
+6·8% 12·4% 23·7% 37·0% 50·3% 66·8%
+
+women the highest estimated prevalence was in the former socialist economies. The lowest estimated prevalence of hypertension for both men and women was in the region “other Asia and islands”. Between 2000 and 2025, the worldwide prevalence of hypertension was predicted to increase by 9% in men and 13% in women because of projected changes in the age distribution of the population. Speciﬁcally, a larger proportion of the world population is expected to be older by 2025.
+The relation between sex and prevalence of hypertension varied by world region; four regions had higher prevalences in men and four had higher prevalences in women. The absolute differences between estimated prevalences in men and women were small; the greatest discrepancy was in “Latin America and the Caribbean”, with a difference of 5·9%. The sexspeciﬁc and age-speciﬁc prevalences indicate that the overall similarity masks an interaction between sex and age (table 3). At young ages the prevalences of hypertension were higher in men than in women, whereas in older people they were higher in women than in men. Figure 2 shows estimates of the absolute number of individuals with hypertension in different
+
+world regions. The estimated total number of people with hypertension in 2000 was 972 million (95% CI 957–987 million); 333 million (329–336 million) in economically developed countries, and 639 million (625–654 million) in economically developing countries.
+The region with the greatest estimated number of people with hypertension was the established market economies. However, both economically developed and developing regions had many people with hypertension, and about two-thirds of the total were in developing regions. The number of adults with hypertension was projected to increase by 60% to a total of 1·56 billion (1·54 billion–1·58 billion) in 2025. Most of this rise can be attributed to an expected increase in the number of people with hypertension in economically developing regions. Although the number of people with hypertension in economically developed countries was projected to increase by 24% from 333 million to 413 million (409–418 million), a rise of 80% was predicted for economically developing countries from 639 million to 1·15 billion (1·12–1·17 billion). On the basis of these estimates, almost three-quarters of the world’s hypertensive population will be in economically developing countries by 2025.
+
+220
+
+www.thelancet.com Vol 365 January 15, 2005
+
+Articles
+
+Number of people with hypertension (millions)
+
+2000
+
+180
+
+160
+
+140
+
+123·3
+
+120 116·2
+
+100
+
+98·5 83·1
+
+Men Women
+
+80 60 40
+
+52·5 60·4 57·8 60·0 54·3
+
+40·6
+
+35·9 37·9
+
+38·4 33·0 38·2 41·6
+
+20
+
+0
+
+2025
+
+180
+
+161·8
+
+160 147·9
+
+140
+
+120
+
+107·3106·2 102·1 98·5
+
+100
+
+80
+
+59·7
+
+72·2 80·4
+
+60
+
+44·0
+
+40
+
+20
+
+0 markEesttaebcolisnhoemdiesFormer esococinaolimsties
+
+India anLdattihneACmareirbicbaean Middle eacsrteesrcnent
+
+151·7147·5 67·3 62·1 73·6 77·1
+
+China
+
+Other Asiaiasnladnds Sub-SaharAafnrica
+
+Figure 2: Number of people with hypertension aged 20 years and older by world region and sex in 2000 (upper) and 2025 (lower) In 2000, 95% CIs by region for men and women, respectively, were: established market economies (113·7–118·7 million) (121·2–125·4 million); former socialist economies (40·5–40·8 million) (52·3–52·6 million); India (52·2–68·5 million) (50·1–65·5 million); Latin America and the Caribbean (59·1–60·9 million) (53·4–55·2 million); middle eastern crescent (34·5–37·3 million) (36·6–39·2 million); China (92·5–104·5 million) (77·4–88·9 million); other Asia and islands (36·3–40·5 million) (31·4–34·6 million); sub-Saharan Africa (37·0–39·4 million) (40·6–42·7 million). In 2025, the 95% CIs by region for men and women, respectively, were: established market economies (144·7–151·1 million) (159·2–164·5 million); former socialist economies (43·9–44·1 million) (59·5–59·8 million); India (94·3–120·2 million) (90·9–121·6 million); Latin America and the Caribbean (100·7–103·4 million) (97·1–99·8 million); middle eastern crescent (69·5–74·8 million) (78·0–82·9 million); China (144·2–159·2 million) (140·0–155·0 million); other Asia and islands (63·9–70·6 million) (59·5–64·7 million); sub-Saharan Africa (71·2–76·0 million) (75·0–79·1 million).
+
+Discussion
+Our analysis indicates that more than a quarter of the world’s adult population—totalling nearly one billion—had hypertension in 2000, and that this proportion will increase to 29%—1·56 billion—by 2025. It also suggests that men and women have similar overall prevalence of hypertension, and that such prevalences increase with age consistently in all world regions. A particularly high prevalence of hypertension was reported in Latin America and the Caribbean, and other Asia and Islands had the lowest prevalence. The estimates in our analysis are limited by several factors. In most studies, blood pressure was measured on only one visit and the prevalence of mild hypertension might therefore have been overestimated.
+The projections for 2025 are based on the assumption that the country, age, and sex speciﬁc prevalence estimates will remain constant. Little information is available about trends for the incidence and prevalence of hypertension. Existing data suggest that the prevalence of hypertension has remained stable or decreased in economically developed countries during the past decade, and has increased in economically developing countries.50 Furthermore, the prevalence of hypertension in some economically developed countries might be increasing.34,51
+
+Thus overall, our assumption probably resulted in an underestimate of the true prevalence of hypertension by 2025. Finally, the methods that we used to estimate the variance of absolute numbers and prevalence of hypertension were conservative. Therefore, the CIs could be smaller than those we report.
+The high prevalence of hypertension worldwide has contributed to the present pandemic of cardiovascular disease. During the past century, such disease has changed from a minor cause of death and disability to one of the major contributors to the global burden of disease.52 Cardiovascular diseases are now responsible for 30% of all deaths worldwide.53,54 The rapid rise in the mortality of cardiovascular disease over a fairly short period is attributable mainly to changes in environmental risk factors, such as diet and physical activity.55
+Our ﬁndings also indicate that hypertension is a greater population burden in economically developing rather than developed countries. Although hypertension is more common in economically developed countries (37·3%) than in economically developing ones (22·9%), the much larger population of developing countries results in a considerably larger absolute number of individuals affected. Moreover, our projection of the number of people with hypertension for 2025 is probably an underestimate since it does not account for the rapid
+
+www.thelancet.com Vol 365 January 15, 2005
+
+221
+
+Articles
+
+changes in lifestyle and concurrent increase in the risk of hypertension that is taking place in these countries.56,57 Not only does hypertension affect more people in economically developing than developed countries, but onset of cardiovascular disease is also at an earlier age in developing countries.58 In 1990, the proportion of deaths from cardiovascular disease before age 70 years was 46·7% in economically developing countries compared with 26·5% in developed countries.56 The magnitude of the burden of hypertension in both developed and developing countries contributes to predictions of a worldwide epidemic of cardiovascular disease.59
+Hypertension is important not only because of its high frequency but also because it is a major modiﬁable risk factor for cardiovascular and kidney disease. However, hypertension is only one of several proven major modiﬁable risk factors for cardiovascular disease.60 In combination, these factors provide a powerful means of predicting risk and preventing disease and death.61 A comprehensive approach is needed that focuses on several inter-related risks to health, including hypertension, high LDL and low HDL cholesterol concentrations, tobacco use, high body-mass index, physical inactivity, poor diet, and diabetes mellitus.62,63
+The coordinating committee of the US National High Blood Pressure Education Program61 has recommended a combination of population-based and intensive targeted strategies for primary prevention of hypertension. Interventions that have proven effective include weight loss, reduced intake of dietary sodium, moderate alcohol consumption, potassium supplementation, modiﬁcation of eating habits, and increased physical activity.61 These lifestyle changes also have a positive effect on other cardiovascular risk factors such as obesity and type 2 diabetes mellitus. Secondary prevention efforts entail detection, treatment, and control of hypertension. Although improvements have been made in detection and treatment in some countries, worldwide rates of control remain far from adequate.50
+Interventions to reduce the burden of cardiovascular disease have been successful in Europe, North America, Australia, and New Zealand, and have substantially decreased age-adjusted cardiovascular mortality.64 Personal and non-personal health-service interventions have proved cost effective at both regional and global levels.65 Although personal health-service strategies have greater potential to reduce the burden of disease, they are less cost effective than population-wide ones.65 The availability of analyses of cost-effectiveness allows key decision-makers to establish the most appropriate interventions with the available resources. In economically developing regions where health-care resources are especially scarce, investment in populationbased primary prevention strategies could yield the greatest beneﬁt.
+The magnitude of the burden of hypertension needs not only an increase in awareness, treatment, and control of
+
+this condition, but also concerted efforts that target primary prevention. Changes in the lifestyles of the general population, would result in a lower prevalence of hypertension.
+Contributors P M Kearney, M Whelton, and K Reynolds contributed to collection, assembly, analysis, and interpretation of data, and drafting and critical revision of the report. P K Whelton and J He contributed to the idea for and design of the study, analysis and interpretation of data, and drafting and critical revision of the report. P Muntner contributed to analysis and interpretation of data, statistical analysis, and critical revision of the report.
+Conﬂict of interest statement We declare that we have no conﬂict of interest.
+Acknowledgments This work was supported in part by grant R01 HL68057 from the National Heart, Lung and Blood Institute of the National Institutes of Health, in Bethesda, MD, USA. We would like to acknowledge Tamara ChavezLindell, Andrea Montis, Olga Gurgeva, and Jorg Ruhe for translating nonEnglish language papers.
+References 1 He J, Whelton PK. Epidemiology and prevention of hypertension.
+Med Clin North Am 1997; 81: 1077–97. 2 Whelton PK. Epidemiology of hypertension. Lancet 1994; 344:
+101–06.
+3 Ezzati M, Lopez AD, Rodgers A, Vander Hoorn S, Murray CJ. Selected major risk factors and global and regional burden of disease. Lancet 2002; 360: 1347–60.
+4 Ueshima H, Zhang XH, Choudhury SR. Epidemiology of hypertension in China and Japan. J Hum Hypertens 2000; 14: 765–69.
+5 Singh RB, Suh IL, Singh VP, et al. Hypertension and stroke in Asia: prevalence, control and strategies in developing countries for prevention. J Hum Hypertens 2000; 14: 749–63.
+6 Hernandez-Hernandez R, Armas-Padilla MC, Armas-Hernandez MJ, Velasco M. Hypertension and cardiovascular health in Venezuela and Latin American countries. J Hum Hypertens 2000; 14 (suppl 1): S2–5.
+7 Halberstein RA. Blood pressure in the Caribbean. Hum Biol 1999; 71: 659–84.
+8 Gupta R. Hypertension in India: deﬁnition, prevalence and evaluation. J Indian Med Assoc 1999; 97: 74–80.
+9 Wolf-Maier K, Cooper RS, Banegas JR, et al. Hypertension prevalence and blood pressure levels in 6 European countries, Canada, and the United States. JAMA 2003; 289: 2363–69.
+10 WHO Collaborating Center for Surveillance of Cardiovascular Diseases, division of cardiology, University of Ottawa. Global Cardiovascular InfoBase. http://cvdinfobase.ca/ (accessed Nov 14, 2001).
+11 Burt VL, Whelton P, Roccella EJ, et al. Prevalence of hypertension in the US adult population. Results from the Third National Health and Nutrition Examination survey, 1988–91. Hypertension 1995; 25: 305–13.
+12 Wolz M, Cutler J, Roccella EJ, Rohde F, Thom T, Burt V. Statement from the National High Blood Pressure Education Program: prevalence of hypertension. Am J Hypertens 2000; 13: 103–04.
+13 Joffres MR, Ghadirian P, Fodor JG, Petrasovits A, Chockalingam A, Hamet P. Awareness, treatment, and control of hypertension in Canada. Am J Hypertens 1997; 10: 1097–02.
+14 Banegas JR, Rodriguez-Artalejo F, de la Cruz Troca JJ, Guallar-Castillon P, del Rey Calero J. Blood pressure in Spain: distribution, awareness, control, and beneﬁts of a reduction in average pressure. Hypertension 1998; 32: 998–1002.
+15 Primatesta P, Brookes M, Poulter NR. Improved hypertension management and control: results from the health survey for England 1998. Hypertension 2001; 38: 827–32.
+16 Thamm M. Blood pressure in Germany: current status and trends. Gesundheitswesen 1999; 61 Spec No: S90–93.
+17 Stergiou GS, Thomopoulou GC, Skeva, II, Mountokalakis TD. Prevalence, awareness, treatment, and control of hypertension in Greece: the Didima study. Am J Hypertens 1999; 12: 959–65.
+
+222
+
+www.thelancet.com Vol 365 January 15, 2005
+
+Articles
+
+18 Giampaoli S, Palmieri L, Dima F, Pilotto L, Vescio MF, Vanuzzo D. Socioeconomic aspects and cardiovascular risk factors: experience at the Cardiovascular Epidemiologic Observatory. Ital Heart J 2001; 2: 294–302.
+19 Stegmayr B, Harmsen P, Rajakangas A, et al. Stroke around the Baltic Sea: incidence, case fatality and population risk factors in Denmark, Finland, Sweden and Lithuania. Cerebrovasc Dis 1996; 6: 80–88.
+20 Bennett SA, Magnus P. Trends in cardiovascular risk factors in Australia. Results from the National Heart Foundation’s Risk Factor Prevalence Study, 1980–1989. Med J Aust 1994; 161: 519–27.
+21 National Cardiovascular Disease Database. Cardiovascular risk factors report AIHW analysis of the NHF Risk Factor Prevalence Study. http://www.aihw.gov.au/pls/cvd/cvd_risk.show_form. (accessed Feb 27, 2002).
+22 Baba S, Pan WH, Ueshima H, et al. Blood pressure levels, related factors, and hypertension control status of Japanese and Americans. J Hum Hypertens 1991; 5: 317–32.
+23 Riecansky I, Egnerova A. Cardiovascular program in Slovakia-Results achieved over the years 1978-1989. Bratisl Lek Listy 1991; 92: 203–18.
+24 Malhotra P, Kumari S, Kumar R, Jain S, Sharma BK. Prevalence and determinants of hypertension in an un-industrialized rural population of North India. J Hum Hypertens 1999; 13: 467–72.
+25 Singh RB, Beegom R, Ghosh S, et al. Epidemiological study of hypertension and its determinants in an urban population of North India. J Hum Hypertens 1997; 11: 679–85.
+26 Singh RB, Sharma JP, Rastogi V, Niaz MA, Singh NK. Prevalence and determinants of hypertension in the Indian social class and heart survey. J Hum Hypertens 1997; 11: 51–56.
+27 Gupta R, Guptha S, Gupta VP, Prakash H. Prevalence and determinants of hypertension in the urban population of Jaipur in western India. J Hypertens 1995; 13: 1193–200.
+28 Gupta R, Sharma AK. Prevalence of hypertension and subtypes in an Indian rural population: clinical and electrocardiographic correlates. J Hum Hypertens 1994; 8: 823–29.
+29 Arroyo P, Fernandez V, Loria A, et al. Hypertension in urban Mexico: the 1992–93 national survey of chronic diseases. J Hum Hypertens 1999; 13: 671–75.
+30 Ramirez MO, Pino CT, Furiasse LV, Lee AJ, Fowkes FG. Paraguayan National Blood Pressure Study: prevalence of hypertension in the general population. J Hum Hypertens 1995; 9: 891–97.
+31 Sulbaran T, Silva E, Calmon G, Vegas A. Epidemiologic aspects of arterial hypertension in Maracaibo, Venezuela. J Hum Hypertens 2000; 14: S6–S9.
+32 Ibrahim MM, Rizk H, Appel LJ, et al. Hypertension prevalence, awareness, treatment, and control in Egypt. Results from the Egyptian National Hypertension Project (NHP). NHP Investigative Team. Hypertension 1995; 26: 886–90.
+33 Sonmez HM, Basak O, Camci C, et al. The epidemiology of elevated blood pressure as an estimate for hypertension in Aydin, Turkey. J Hum Hypertens 1999; 13: 399–404.
+34 Gu D, Reynolds K, Wu X, et al. Prevalence, awareness, treatment, and control of hypertension in China. Hypertension 2002; 40: 920–27.
+35 Kim JS, Jones DW, Kim SJ, Hong YP. Hypertension in Korea: a national survey. Am J Prev Med 1994; 10: 200–04.
+36 InterASIA Collaborative group. Cardiovascular risk factor levels in urban and rural Thailand: The International Collaborative Study of Cardiovascular Disease in Asia (InterASIA). Eur J Cardiovasc Prev Rehabil 2003; 10: 249–57.
+37 Pan WH, Chang HY, Yeh WT, Hsiao SY, Hung YT. Prevalence, awareness, treatment and control of hypertension in Taiwan: results of Nutrition and Health Survey in Taiwan (NAHSIT) 1993–1996. J Hum Hypertens 2001; 15: 793–98.
+38 Steyn K, Gaziano TA, Bradshaw D, Laubscher R, Fourie J. South African Demographic and Health Coordinating Team. Hypertension in South African adults: results from the Demographic and Health Survey, 1998. J Hypertens 2001; 19: 1717–25.
+39 Mbanya JC, Minkoulou EM, Salah JN, Balkau B. The prevalence of hypertension in rural and urban Cameroon. Int J Epidemiol 1998; 27: 181–85.
+
+40 Cooper R, Rotimi C, Ataman S, et al. The prevalence of hypertension in seven populations of West African origin. Am J Public Health 1997; 87: 160–68.
+41 Edwards R, Unwin N, Mugusi F, et al. Hypertension prevalence and care in an urban and rural area of Tanzania. J Hypertens 2000; 18: 145–52.
+42 Mufunda J, Scott LJ, Chifamba J, et al. Correlates of blood pressure in an urban Zimbabwean population and comparison to other populations of African origin. J Human Hypertens 2000; 14: 65–73.
+43 World Bank: World Development Report 1993: Investing in Health. New York: Oxford University Press, 1993.
+44 Data and Statistics Section of the World Bank Group. World Development Indicators 2003: Country Classiﬁcation. http://www. worldbank.org/data/wdi2003/economy (accessed May 7, 2003).
+45 Fuentes R, Ilmaniemi N, Laurikainen E, Tuomilehto J, Nissinen A. Hypertension in developing countries: a review of population-based studies carried out from 1980 to 1998. J Hypertens 2000; 18: 521–29.
+46 Forrester T, Wilks R, Bennett F, et al. Obesity in the Caribbean. Ciba Found Symp 1996; 201: 17–26.
+47 StataCorp. Stata Statistical Software: Release 7.0. College Station, TX: Stata Corporation, 2001.
+48 Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat. World Population Prospects: The 2000 Revision and World Urbanization Prospects: The 2001 Revision. http:///esa.un.org/unpp (accessed Jan 28, 2002).
+49 Gordis L. Epidemiology. 2nd edn. Philadelphia, PA: WB Saunders, 2000.
+50 Kearney PM, Whelton M, Reynolds K, Whelton PK, He J. Worldwide prevalence of hypertension: a systematic review. J Hypertens 2004; 22: 11–19.
+51 Hajjar I, Kotchen TA. Trends in Prevalence, Awareness, Treatment, and Control of Hypertension in the United States, 1988-2000. JAMA 2003; 290: 199–206.
+52 Levenson JW, Skerrett PJ, Gaziano JM. Reducing the global burden of cardiovascular disease: the role of risk factors. Prev Cardiol 2002; 5: 188–99.
+53 Murray CJ, Lopez AD. Mortality by cause for eight regions of the world: Global Burden of Disease Study. Lancet 1997; 349: 1269–76.
+54 World Health Report. Mental Health: New Understanding, New Hope. Geneva, Switzerland: WHO, 2001: 144–49.
+55 Yusuf S, Reddy S, Ounpuu S, Anand S. Global burden of cardiovascular diseases. Part II: variations in cardiovascular disease by speciﬁc ethnic groups and geographic regions and prevention strategies. Circulation 2001; 104: 2855–64.
+56 Seedat YK. Hypertension in developing nations in sub-Saharan Africa. J Hum Hypertens 2000; 14: 739–47.
+57 Singh RB, Suh IL, Singh VP, et al. Hypertension and stroke in Asia: prevalence, control and strategies in developing countries for prevention. J Hum Hypertens 2000; 14: 749–63.
+58 Pearson TA. Cardiovascular disease in developing countries: myths, realities, and opportunities. Cardiovasc Drugs Ther 1999; 13: 95–104.
+59 Murray CJL, Lopez AD. Global Comparative Assessments in the Health Sector. WHO: Geneva, Switzerland, 1994.
+60 Poulter N. Global risk of cardiovascular disease. Heart 2003; 89 (suppl II): 2–5.
+61 Whelton PK, He J, Appel LJ, et al. Primary prevention of hypertension. Clinical and Public Health Advisory From the National High Blood Pressure Education Program. JAMA 2002; 288: 1882–88.
+62 WHO. Innovative care for chronic conditions: building blocks for action. Geneva: WHO, document No WHO/MNC/CCH/02.01:2002.
+63 Hamet P. The burden of blood pressure: where are we and where should we go? Can J Cardiol 2000; 16: 1483–87.
+64 Thom TJ. International mortality from heart disease: rates and trends. Int J Epidemiol 1989: 18: S20–S28.
+65 Murray CJ, Lauer JA, Hutubessy RCW, et al. Effectiveness and costs of interventions to lower systolic blood pressure and cholesterol: a global and regional analysis on reduction of cardiovascular-disease risk. Lancet 2003; 361: 717–25.
+
+www.thelancet.com Vol 365 January 15, 2005
+
+223
+

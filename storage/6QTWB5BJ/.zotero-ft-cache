@@ -1,0 +1,254 @@
+Atherosclerosis 189 (2006) 297–302
+
+Serum ␥-glutamyltransferase is a predictor of incident coronary events in apparently healthy men from the general population
+C. Meisinger a,b,∗, A. Do¨ring b, A. Schneider b, H. Lo¨wel b,
+for the KORA Study Group
+a Central Hospital of Augsburg, MONICA/KORA Myocardial Infarction Registry, Stenglinstr. 2, D-86156 Augsburg, Germany b GSF National Research Center for Environment and Health, Institute of Epidemiology, Neuherberg, Germany
+Received 31 August 2005; received in revised form 22 December 2005; accepted 11 January 2006 Available online 17 February 2006
+Abstract
+Objective: To investigate whether serum ␥-glutamyltransferase (GGT) is an independent predictor for incident coronary events in initially healthy men from the general population. Methods and results: The study was based on 1878 men (aged 25–64 years) who participated in the ﬁrst MONICA Augsburg survey 1984/1985, and who were free of coronary heart disease at baseline. Up to 2002 a total of 150 incident acute coronary events occurred. Baseline levels of GGT were higher in men who experienced an event than in event-free men (28.4 ± 2.0 units/l versus 22.4 ± 2.1 units/l, p 0.0002). GGT was highly correlated with other cardiovascular risk factors. In a Cox proportional hazards model after age adjustment hazard ratios (HR) for incident myocardial infarction across GGT quartiles (<13, 13 to <20, 20 to <35, and ≥35 units/l) were 1.0, 1.84, 2.02, and 3.08 (p for trend 0.0001). Further adjustment for hypertension, TC/HDL ratio, diabetes, smoking, physical activity, alcohol intake, education years and BMI attenuated the association; comparing the highest versus lowest quartile of GGT the HR for a ﬁrst-ever coronary event was then 2.34 (95% CI, 1.23–4.44). Conclusions: Serum GGT is a strong predictor of acute coronary events in apparently healthy men from the general population, independent of other risk factors for cardiovascular disease. © 2006 Elsevier Ireland Ltd. All rights reserved.
+Keywords: Arteriosclerosis; Men; Myocardial infarction; Risk factors; ␥-Glutamyltransferase
+
+1. Introduction
+Usually, an increase in GGT concentration has been regarded as a marker of alcohol consumption or liver disease [1]. Recently, it has been suggested that serum GGT is an independent prognostic marker for cardiac death and reinfarction, both in unselected populations and in patients with coronary artery disease [2–4]. GGT is located on the external surface of most cells and is responsible of glutathione (GSH) catabolism by hydrolysis of its ␥-glutamyl bond between glutamate and cysteine. This reaction produces cysteinyl–glycine moieties, which are usually taken
+∗ Corresponding author. Tel.: +49 821 400 4373; fax: +49 821 400 2838. E-mail address: christa.meisinger@gsf.de (C. Meisinger).
+
+within intracellular milieu by the action of membrane dipeptidases, as precursors for GSH resynthesis [5]. The body of current evidence from studies indicates that GGT may have a role in the pathogenesis of atherosclerosis. GGT activity has been detected in atheromatous plaques of carotid and coronary arteries [6]. Furthermore, cysteinyl–glycine deriving from the hydrolysis of GSH performed by GGT has been found to trigger iron-dependent production of reactive oxygen species (ROS) [7] as well as low-density lipoprotein oxidation in vitro [6]. These facts could provide a pathological basis for the hypothesis of a direct participation of GGT in oxidative processes within the plaque and thus in atherogenesis and coronary artery disease progression. Prior studies have found that serum GGT predicted cardiac mortality or non-fatal myocardial infarction (MI), especially among
+
+0021-9150/$ – see front matter © 2006 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.atherosclerosis.2006.01.010
+
+298
+
+C. Meisinger et al. / Atherosclerosis 189 (2006) 297–302
+
+ischaemic patients with established coronary atherosclerosis and previous MI [2,4]. In the present prospective study, we tested the hypothesis whether GGT, possibly as a marker of oxidative stress is an early predictor of incident acute coronary events in initially healthy men aged 25–64 years from the general population in Augsburg, Southern Germany.
+2. Methods
+The presented data were derived from the ﬁrst populationbased MONICA (Monitoring trends and determinants on cardiovascular diseases) Augsburg (Southern Germany) survey conducted between October 1984 and June 1985. The MONICA Augsburg project was part of the multinational WHO MONICA project and the design of the project has been described in detail elsewhere [8]. Brieﬂy, the crosssectional survey was carried out in the city of Augsburg and the counties Augsburg and Aichach-Friedberg to estimate the prevalence and distribution of cardiovascular risk factors among men and women. Altogether 4022 persons (2023 men, 1999 women, response 79.3%) aged 25–64 years participated in the cross-sectional study. All subjects were prospectively followed within the framework of the Cooperative Health Research in the Region of Augsburg (KORA).
+Mortality was ascertained by regularly checking the vital status of all participants through the population registries inside and outside the study area; this procedure guaranteed that the vital status of cohort members who had moved out of the study area could also be assessed. The present study was restricted to men because analyses were not feasible in women due to the small number of events. Follow-up information was available for 2023 men. Up to December 31st 2002 altogether 385 men had died. For the present analyses, we excluded persons with prevalent myocardial infarction or with symptoms or signs of stable chronic angina pectoris at baseline (n = 106), and all subjects with incomplete data on any of the covariables (n = 39). Finally, the prospective analyses comprised 1878 men aged 25–64 years at baseline.
+Informed consent was obtained from every participant in the study. The study was approved by an institutional review board.
+2.1. Outcome
+The outcome variable for the present analysis was a combination of incident fatal or non-fatal acute MI and sudden cardiac death. They were identiﬁed through the MONICA/KORA coronary event registry of the 25–74 year old study population and censored at the 75th year of age [9]. Up to 31 December 2000, the diagnosis of a major non-fatal MI was based on the MONICA algorithm taking into account symptoms, cardiac enzymes, and ECG changes [10]. Since 1 January 2001, all patients with MI diagnosed according to ESC and ACC criteria were included [11,12]. Coronary
+
+deaths were validated by death certiﬁcates, autopsy report, chart review, and information from the coroner or the last treating physician.
+2.2. Data collection
+Baseline information on sociodemographic variables, medical history, smoking habits, physical activity level, angina pectoris, and alcohol consumption were gathered by trained and certiﬁed medical staff (mainly nurses) through a standardized face-to-face interview. The participants were also asked about the awareness, diagnosis and treatment of hypertension. Information concerning medical drug use was obtained. All participants were asked to bring to the interview all medications taken within the last 7 days preceding the examination. In addition they underwent an extensive standardized medical examination including the collection of a blood sample. All study measurements were conducted by a centrally trained staff according to the World Health Organization MONICA protocol using standard instruments. These procedures have been described elsewhere in detail [8]. A quality assurance program was employed in the study to ensure the quality of the data collection over the entire study period.
+Hypertension was deﬁned as a measured blood pressure higher than 140/90 mmHg and/or the use of antihypertensive medication, given that the subjects were aware of being hypertensive. Participants were classiﬁed as active during leisure time if they regularly participated in sports in summer and winter for atleast 1 h/week in either season.
+2.3. Clinical chemical measurements
+A non-fasting venous blood sample was obtained from all study participants while sitting. Blood analyses were carried out with an autoanalyser by a clinical laboratory (Central hospital of Augsburg, Germany). Total serum cholesterol analyses were carried out using an enzymatic method (CHOD-PAP; Boehringer Mannheim, Germany). HDL cholesterol was also measured enzymatically after precipitation of the apoprotein B-containing lipoproteins with phosphotungstate/Mg2+ (Boehringer Mannheim, Germany). Serum ␥-glutamyltransferase was determined by a photometric method (smac, Technicon). Internal and external quality control was performed according to the WHO MONICA Manual [8].
+2.4. Statistical analyses
+The duration of the follow-up was calculated as the interval between the baseline examination and the occurrence of an incident fatal or non-fatal acute coronary event, death or the date, when the participants were still alive. Means or proportions for baseline demographic and clinical characteristics were computed for men with and without an incident coronary event. The Chi2-test was used to test the differences
+
+C. Meisinger et al. / Atherosclerosis 189 (2006) 297–302
+
+299
+
+in prevalences. The general linear model was used to compare means (F-test). The study population was stratiﬁed into four groups of GGT concentrations with use of cut-points of 13, 20, and 35 units/l (25th, 50th, and 75th percentiles). Relative risks of incident coronary events were computed for quartiles 2–4, as compared with the lowest quartile in Cox proportional hazards models: The ﬁrst model included GGT and in addition age (continuous). The second model included the previous factors plus education years (</≥ 12 years), hypertension (yes/no), TC/HDL cholesterol ratio (continuous), physical activity (active/inactive), smoking status (regular smoking, that is a subject who smoked atleast one cigarette per day at baseline, yes/no), alcohol intake (0 g/day, 0.1–39.9 g/day, ≥40 g/day), BMI (continuous), and history of diabetes (yes/no and unknown). The TC/HDL cholesterol ratio and GGT were logarithmically transformed before inclusion in analysis as continuous variables since they were not normally distributed. Tests for linear trend across increasing categories of GGT were conducted by assigning the median value within each category to the respective category and by treating the categories as a continuous variable. Furthermore, it was assessed whether GGT would increase the risk of an incident coronary event in men with low and with high alcohol consumption. For this subgroup analyses, the median of the daily alcohol intake (20 g/day) was used as cut-point.
+Kaplan–Meier survival plots of GGT quartiles in relation to incident coronary events were examined. Comparisons between survival curves were performed using log-rank test. Results are presented as hazard ratios (HRs) and 95% conﬁdence intervals (CI). Signiﬁcance tests were two tailed and p-values less than 0.05 are stated as statistically signiﬁcant. All analyses were performed using the Statistical Analysis System (Version 8.2, SAS Institute Inc., Cary, NC).
+
+3. Results
+In total, 150 incident cases of fatal (n = 80) and non-fatal (n = 70) coronary events, including sudden cardiac deaths, were registered between 1984 and 2002 (mean follow-up period 15.7 years). Men with an acute coronary event were signiﬁcantly older, had a higher BMI, higher total cholesterol, and lower HDL cholesterol levels. They had a signiﬁcantly higher TC/HDL ratio and higher systolic and diastolic blood pressure values. They were more frequently smokers and less frequently physically active. Men with an acute coronary event had also a higher prevalence of diabetes and hypertension. Concentrations of GGT were signiﬁcantly higher than in those without a coronary event during follow-up. There were no signiﬁcant differences with regard to education and alcohol consumption between men with an event and men without an event (Table 1).
+GGT was positively correlated with age (p ≤ 0.0001), BMI (p ≤ 0.0001), systolic blood pressure (p ≤ 0.0001), total cholesterol (p ≤ 0.0001), and the TC/HDL ratio (p ≤ 0.0001), but was not correlated with HDL cholesterol. GGT was also signiﬁcantly related to physical activity (p = 0.0005), smoking (p ≤ 0.0001), diabetes (p = 0.0184), alcohol intake (p ≤ 0.0001), and education (p = 0.0010) (Table 2).
+Serum GGT concentration showed a strong relationship with incident coronary events in men (Table 3). GGT levels in the fourth quartile were signiﬁcantly associated with incident coronary events independent of age (HR 3.08; 95% CI 1.68–5.63) when compared with the ﬁrst quartile. Further adjustment for hypertension, TC/HDL ratio, diabetes, smoking, physical activity, alcohol intake, education years, and BMI attenuated the association; comparing the highest versus the lowest quartile of GGT the HR for a ﬁrst-ever coronary event was then 2.34 (95% CI, 1.23–4.44; p for trend
+
+Table 1 Mean (S.D.) and prevalence of demographic and clinical characteristics of men with and without incident coronary event, age 25–64 years
+
+Characteristics
+
+Men with incident coronary event (n = 150)
+
+Age (years)a Body mass index (kg/m2)a Systolic blood pressure (mmHg)a Diastolic blood pressure (mmHg)a Hypertension (%)b ␥-Glutamyltransferase (units/l)c Total cholesterol (mg/dl)a HDL cholesterol (mg/dl)a Total/HDL cholesterol ratioc
+Physical activity (%)
+Regular smoker (%)
+History of diabetes (%)
+Alcohol intake
+0 g/day (%)
+0.1–39.9 g/day (%) ≥40 g/day (%)
+Education <12 years (%)
+
+52.9 (8.3) 27.9 (3.4) 139.4 (17.2) 85.5 (10.9) 56.7 28.4 (2.0) 256.1 (46.1) 46.6 (15.5) 5.7 (1.4) 26.0 49.3
+9.3
+16.7 37.3 46.0 74.0
+
+a Mean (S.D.), p-value from t-test. b Blood pressure values ≥140/90 mmHg and/or use of antihypertensive medication. c Geometric mean, p-value from t-test for log-transformed characteristic.
+
+Men without incident coronary event (n = 1728)
+44.0 (11.3) 26.8 (3.5) 132.8 (16.2) 82.8 (11.3) 37.4 22.4 (2.1) 234.0 (46.0) 51.4 (15.6) 4.7 (1.4) 45.4 33.3
+2.0
+12.4 46.5 41.1 68.4
+
+p-value
+<0.0001 0.0003
+<0.0001 0.0044
+<0.0001 0.0002
+<0.0001 0.0004
+<0.0001 <0.0001 <0.0001 <0.0001
+0.0693
+0.1556
+
+300
+
+C. Meisinger et al. / Atherosclerosis 189 (2006) 297–302
+
+Table 2 Association between ␥-glutamyltransferase and other cardiovascular risk factors by Pearson correlation coefﬁcient r and mean (S.D.) with p-values
+␥-Glutamyltransferase
+
+Agea BMIa Total cholesterola HDL cholesterola Total/HDL cholesterol ratioa Systolic blood pressurea
+
+Pearson correlation coefﬁcient
+0.11 0.27 0.30 −0.03 0.23 0.26
+
+p-value
+<0.0001 <0.0001 <0.0001
+0.1909 <0.0001 <0.0001
+
+Geometric mean (S.D.)
+
+p-value
+
+Hypertensionb No Yes
+
+19.8 (2.0) 28.5 (2.1)
+
+<0.0001
+
+Regular smokerb No Yes
+
+21.2 (2.1) 26.1 (2.2)
+
+<0.0001
+
+Physical activityb No Yes
+
+24.1 (2.1) 21.3 (2.1)
+
+0.0005
+
+History of diabetesb No Yes
+
+22.6 (2.1) 31.2 (2.5)
+
+0.0184
+
+Educationb <12 years ≤12 years
+
+21.0 (2.0) 23.7 (2.2)
+
+0.0010
+
+Alcohol intakeb 0 g/day 0.1–39.9 g/day ≥40 g/day
+
+17.7 (1.9) 19.2 (1.9) 29.8 (2.2)
+
+<0.0001
+
+a Pearson correlation coefﬁcient. b Geometric mean (S.D.) of ␥-glutamyltransferase, p-value from t-test and
+F-test, respectively.
+
+Fig. 1. Association of GGT quartiles with incident coronary events.
+impact of GGT on the incidence of coronary events was analyzed separately for the two groups. In the subgroup with low alcohol intake the HR was 2.63 (95% CI, 1.01–6.84) for men in the fourth GGT quartile when compared with men in the ﬁrst quartile after multivariable adjustment. Comparing the highest versus lowest quartile of GGT the HR for an incident coronary event was 2.12 (95% CI, 0.88–5.13) among men with a high alcohol intake.
+Fig. 1 shows the Kaplan–Maier curves for incident coronary events by GGT categories. With increasing GGT concentrations coronary event rates increased signiﬁcantly over the more than 15 years of follow-up (log-rank test p ≤ 0.0001). The event curves for the men with GGT concentrations in the second, third and fourth quartile begin to separate from the ﬁrst quartile very early during follow-up, and separate to a greater extent with increasing follow-up time.
+
+0.0219). Table 3 further describes the observed crude incidence rates of coronary events by GGT categories. Incidence of coronary events increased with increasing GGT levels from 19.9/10,000 person-years in the ﬁrst quartile to 77.2/10,000 person-years in the fourth quartile.
+To assess whether GGT levels increase the risk of a ﬁrstever coronary event for men with low alcohol intake (<20 g daily) and men with high alcohol intake (≥20 g daily), the
+
+4. Discussion
+In this prospective cohort study, the relative risk of a ﬁrst-ever coronary event associated with serum GGT concentrations in initially healthy men from the general population was investigated. Serum GGT concentrations were elevated in men who subsequently developed an event compared with
+
+Table 3 Relative risks for incident coronary events according to quartiles of GGT among men aged 25–64 years at baseline
+
+Men
+
+GGT
+
+<13 units/l
+
+13 to <20 units/l
+
+20 to <35 units/l
+
+≥35 units/l
+
+p-value for trend
+
+Total number n = 1878 Number of incident cases Person-years (PY) Crude rate per 10000 PY
+
+n = 395 13 6529 19.9
+
+n = 511 38 8052 47.2
+
+n = 494 43 7654 56.2
+
+n = 478 56 7257 77.2
+
+HR (95% CI) Model 1a Model 2b
+
+1.0
+
+1.84 (0.98–3.46)
+
+2.02 (1.08–3.75)
+
+3.08 (1.68–5.63)
+
+0.0001
+
+1.0
+
+1.88 (1.00–3.56)
+
+1.63 (0.86–3.10)
+
+2.34 (1.23–4.44)
+
+0.0219
+
+a Model 1: adjusted for age. b Model 2: adjusted for age, education, history of diabetes, hypertension, TC/HDL ratio, regular smoking, physical activity, alcohol intake, and BMI.
+
+C. Meisinger et al. / Atherosclerosis 189 (2006) 297–302
+
+301
+
+those who did not. Furthermore, there was a strong correlation between serum GGT and the known cardiovascular risk factors. Although a part of the association between serum GGT and the risk of an acute coronary event was mediated through these risk factors, GGT was strongly and independently associated with incident coronary events even after multivariable adjustment.
+It has been shown that serum GGT is an independent prognostic marker for reinfarction and cardiac death, both in patients with coronary artery disease and in unselected populations [2–4]. Few population studies [3,13–15] have examined the association between serum GGT and all cause mortality, but these studies focused on GGT as an indicator of alcohol consumption. Wannamethee et al. [3] investigated GGT as a prognostic marker for cardiovascular and overall mortality in a large population of middle-aged men. The study found that GGT levels in the top quintile were independently associated with both outcomes. A Swedish study reported that 10-year mortality was twice as high amongst patients in the two highest quartiles as compared with those in the lowest one [2]. Recently, a prospective study showed that GGT is an independent cardiac risk factor in ischaemic patients with established coronary atherosclerosis and previous myocardial infarction [4], using mortality and mortality plus nonfatal myocardial infarction as end-points. GGT showed an independent prognostic value beyond known established risk factors in 262 patients with previous MI, whereas it did not show signiﬁcant prognostic value in 207 patients without previous MI.
+The results of our study have important implications. We showed that serum GGT concentration discriminated men who subsequently developed an acute coronary event from those who remained event-free, even after adjustment for major CHD risk factors and alcohol consumption. A number of epidemiologic studies have examined the association between alcohol consumption and heart disease. Most of these studies have shown a U- or J-shaped relationship of alcohol intake to cardiovascular [16,17] and all-cause mortality [18] suggesting that a mild to moderate alcohol consumption may have a beneﬁcial effect on cardiovascular disease risk [17]. One explanation for this relationship could be that light-to-moderate alcohol consumption is associated with a lower level of coagulatory factors, while higher alcohol intake is associated with impaired ﬁbrinolytic potential [19]. Furthermore, it has been found that moderate alcohol consumption results in dose-dependent increases in plasma concentrations of HDL cholesterol, a well-established major protective factor against CHD [20]. In the present study, there was an increasing trend of incident coronary events with increasing levels of GGT. The dose-response relationship of serum GGT to ﬁrst-ever coronary events was present in the subgroup with low alcohol intake as well as in the group with high alcohol intake. Thus the hypothesis that GGT may contribute to the clinical manifestation of CHD independently from alcohol consumption is supported. Moreover, the role of GGT in the atherosclerotic process seems to be more com-
+
+plex than it is currently thought. Recent ﬁndings suggested a possible role for GGT in the cellular process of LDL oxidation and atherogenesis [6]. Evidence from in vitro studies indicates that atherosclerosis represents a state of heightened oxidative stress characterized by lipid and protein oxidation in the vascular wall. Low-density lipoprotein oxidation is an early event in atherosclerosis and contributes to atherogenesis because oxLDL supports foam cell formation and has a number of potentially proatherogenic activities [21–24]. GGT is found in serum and in the plasma membranes of virtually all cell types. Its physiological role is to initiate the hydrolysis of extracellular GSH, a tripeptide in which cysteine lies between alpha-glycine and gamma-glutamate residues [5]. Cysteine and other thiol components are known to promote LDL oxidation by reducing Fe(III) to redox Fe(II) [6]. Moreover, it was shown that cysteinyl–glycine, a product of GGT/GSH reaction, but not GSH was responsible for reactive oxygen species (ROS) formation initiated by the reductive release of iron from transferring indicating that GGT is directly involved in ROS generation leading to free radical damage of nucleic acids and oxidative modiﬁcations of lipids and proteins [25]. Experimental studies have found that active GGT is present within coronary plaques underlining the hypothesis of a direct participation of GGT in LDL oxidation within the plaque and in atherogenesis [26].
+The MONICA/KORA Augsburg Study has several limitations that need to be considered. GGT levels were measured only once at baseline, we were therefore unable to account for within-individual variability in the present study. Although we adjusted for a variety of confounders, additional factors that are known to be associated with acute coronary events, such as fasting blood glucose and triglycerides were not available in this study. Thus, confounding by unmeasured variables cannot be entirely excluded. Other reasons for a GGT elevation, for example acute/chronic cholecystitis, pancreatitis and hepatitis were not ascertained and could therefore have biased the present ﬁndings. Finally, because the study was limited to men of German nationality between 25 and 64 years of age, caution should be used in generalizing these results to women, other populations and other age groups. The strengths of the MONICA/KORA Augsburg Cohort Study are primarily its prospective design, the representativeness of the cohort, based on a random sample of the general population and the availability of data on lifestyle and multiple cardiovascular risk factors. Because the MONICA/KORA myocardial infarction registry in Augsburg is well established, we should have recovered all incident coronary events that occurred in the cohort.
+In conclusion, the present results provide that serum GGT is a strong and independent predictor of acute coronary events in apparently healthy men from the general population. So far, the underlying pathophysiological mechanisms are not entirely clear. It seems that oxidative stress may be involved [27]. Further studies are needed to conﬁrm the present ﬁndings and to investigate the biological mechanisms underlying this association.
+
+302
+
+C. Meisinger et al. / Atherosclerosis 189 (2006) 297–302
+
+Acknowledgements
+The KORA research and the MONICA Augsburg studies were initiated and ﬁnanced by the GSF—National Research Center for Environment and Health, which is funded by the German Federal Ministry of Education, Science, Research and Technology and by the State of Bavaria. Morbidity and Mortality follow-ups in 1997/1998 and 2002/2003 were in addition supported by grants from the Federal Ministry of Education, Science, Research and Technology (01 ER 9701/4) and the German Research Foundation (DFG) (TH 784/2-1), respectively. We thank all members of the GSF Institute of Epidemiology and the ﬁeld staff in Augsburg who were involved in the planning and conduct of the study. Finally, we express our appreciation to all study participants.
+References
+[1] Teschke R, Brand A, Strohmeyer G. Induction of hepatic microsomal gamma-glutamyltransferase activity following chronic alcohol consumption. Biochem Biophys Res Commun 1977;75:718–24.
+[2] Karlson BW, Wiklund O, Hallgren P, et al. Ten-year mortality amongst patients with a very small or unconﬁrmed acute myocardial infarction in relation to clinical history, metabolic screening and signs of myocardial ischaemia. J Intern Med 2000;247:449–56.
+[3] Wannamethee G, Ebrahim S, Shaper AG. Gamma-glutamyltransferase: determinants and association with mortality from ischaemic heart disease and all causes. Am J Epidemiol 1995;142:699–708.
+[4] Emdin M, Passino C, Michelassi C, et al. Prognostic value of serum gamma-glutamyltransferase activity after myocardial infarction. Eur Heart J 2001;22:1802–7.
+[5] Whitﬁeld JB. ␥-Glutamyltransferase. Crit Rev Clin Lab Sci 2001;38:263–355.
+[6] Paolicchi A, Minotti G, Tonarelli P, et al. Gammaglutamyltranspeptidase-dependent iron reduction and LDL oxidation: a potential mechanism in atherosclerosis. J Invest Med 1999;47: 151–60.
+[7] Dominici S, Valentini M, Maellaro E, et al. Redox modulation of cell surface protein thiols in U937 lymphoma cells: the role of gammaglutamyl transpeptidase-dependent H2O2 production and S-thiolation. Free Radic Biol Med 1999;27:623–35.
+[8] Keil U, Liese AD, Hense HW, et al. Classical risk factors and their impact on incident non-fatal and fatal myocardial infarction and allcause mortality in southern Germany. Results from the MONICA Augsburg Cohort Study. Eur Heart J 1998;19:1197–207.
+[9] Loewel H, Lewis M, Hoermann A, Keil U. Case ﬁnding, data quality aspects and comparability of myocardial infarction registers: results of a South German Register Study. J Clin Epidemiol 1991;44:249–60.
+[10] WHO MONICA Project. WHO MONICA Project: objectives and design. Int J Epidemiol 1989;18(Suppl. 1):29–37.
+
+[11] The Joint European Society of Cardiology/American College of Cardiology Committee. Myocardial infarction redeﬁned—a consensus document of The Joint European Society of Cardiology/American College of Cardiology for the redeﬁnition of myocardial infarction. J Am Coll Cardiol 2000;36:959–69.
+[12] Luepker R, Apple FS, Christenson RH, et al. Case deﬁnitions for acute coronary heart disease in epidemiology and clinical research studies. A statement from the AHA Council on Epidemiology and Prevention; AHA Statistics Committee; World Heart Federation Council on Epidemiology and Prevention; the European Society of Cardiology Working Group on Epidemiology and Prevention; Centers for Disease Control and Prevention; and the National Heart, Lung, and Blood Institute. Circulation 2003;108:2543–9.
+[13] Brenner H, Rothenbacher D, Arndt V, et al. Distribution, determinants, and prognostic value of gamma-glutamyltranspeptidase for all-cause mortality in a cohort of construction workers from south Germany. Prev Med 1997;26:305–10.
+[14] Petersson B, Trell E, Hood B. Premature death and associated risk factors in urban middle aged men. Am J Med 1984;77:418–26.
+[15] Gill JS, Zezulka AV, Shipley MJ, Gill SK, Beevers DG. Stroke and alcohol consumption. N Engl J Med 1986;315:1041–6.
+[16] Leppala JM, Paunio M, Virtamo J, et al. Alcohol consumption and stroke incidence in male smokers. Circulation 1999;100:1209– 14.
+[17] Hill DA. In vino veritas: alcohol and heart disease. Am J Med Sci 2005;329:124–35.
+[18] Gronbaek M, Johansen D, Becker U, et al. Changes in alcohol intake and mortality: a longitudinal population-based study. Epidemiology 2004;15:222–8.
+[19] Mukamal KJ, Jadhav PP, D’Agostino RB, et al. Alcohol consumption and hemostatic factors. Analysis of the Framingham Offspring Cohort. Circulation 2001;104:1367–73.
+[20] De Oliveira e Silva ER, Foster D, McGee Harper M, et al. Alcohol consumption raises HDL cholesterol levels by increasing the transport rate of apolipoproteins A-I and A-II. Circulation 2000;102:2347–52.
+[21] Witztum JL, Steinberg D. Role of oxidized low density lipoprotein in atherogenesis. J Clin Invest 1991;88:1785–92.
+[22] Steinberg D, Lewis A. Conner memorial lecture: oxidative modiﬁcation of LDL and atherogenesis. Circulation 1997;95:1062–71.
+[23] Berliner JA, Navab M, Fogelman AM, et al. Atherosclerosis: basic mechanisms. Oxidation, inﬂammation, and genetics. Circulation 1995;91:2488–96.
+[24] Meisinger C, Baumert J, Khuseyinova N, Lo¨wel H, Koenig W. Plasma oxidized low density lipoprotein: a strong predictor for acute coronary heart disease events in apparently healthy middle aged men from the general population. Circulation 2005;112:651–7.
+[25] Drozdz R, Parmentier C, Hachad H, et al. ␥-Glutamyltransferase dependent generation of reactive oxygen species from a glutathione/transferring system. Free Radic Biol Med 1998;25:786– 92.
+[26] Paolicchi A, Emdin M, Ghliozeni E, et al. Human atherosclerotic plaques contain gamma-glutamyl transpeptidase enzyme activity. Circulation 2004;109:1440.
+[27] Lee DH, Blomhoff R, Jacobs Jr DR. Is serum gamma glutamyltransferase a marker of oxidative stress? Free Radic Res 2004;38:535–9.
+

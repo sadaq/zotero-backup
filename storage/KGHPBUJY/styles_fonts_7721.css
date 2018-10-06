@@ -1,0 +1,81 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3345160, 2017-02-15T02:38:22-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed ../fonts/ProximaNova(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ProximaNova-Extrabld by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/extrabld/
+ * 
+ * Webfont: ProximaNova-Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+ * 
+ * Webfont: ProximaNova-Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/black/
+ * 
+ * Webfont: ProximaNova-Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+ * 
+ * Webfont: ProximaNova-Medium by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/medium/
+ * 
+ * Webfont: ProximaNova-Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ * 
+ * Webfont: ProximaNova-Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3345160
+ * Licensed pageviews: 44,000,000
+ * ../fonts/ProximaNova copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url('//hello.myfonts.net/count/333229');
+  
+@font-face { /* 333229_0_0 ProximaNova Light */
+font-family: 'ProximaNova';
+src: url('../fonts/ProximaNova/ProximaNova-Light.woff2') format('woff2'),
+	 url('../fonts/ProximaNova/ProximaNova-Light.woff') format('woff');
+font-weight:200;
+font-style:lighter;}
+
+@font-face {  /* 333229_1_0 ProximaNova Normal */
+font-family: 'ProximaNova';
+src: url('../fonts/ProximaNova/ProximaNova-Regular.woff2') format('woff2'),
+	 url('../fonts/ProximaNova/ProximaNova-Regular.woff') format('woff');
+font-weight:400;
+font-weight:normal;
+font-style:normal;}
+
+@font-face { /* 333229_2_0 ProximaNova Semi-Bold */
+font-family: 'ProximaNova';
+src: url('../fonts/ProximaNova/ProximaNova-Bold.woff2') format('woff2'),
+	 url('../fonts/ProximaNova/ProximaNova-Bold.woff') format('woff');
+font-weight:600;
+font-weight:bold;
+font-style:bold;}
+
+@font-face { /* 333229_2_0 ProximaNova Extra-Bold */
+font-family: 'ProximaNova';
+src: url('../fonts/ProximaNova/ProximaNova-ExtraBold.woff2') format('woff2'),
+	 url('../fonts/ProximaNova/ProximaNova-ExtraBold.woff') format('woff');
+font-weight:900;}
+
+@font-face { 
+font-family: 'Arnhem';
+src: url('../fonts/Arnhem/ArnhemPro-Bold.woff') format('woff');
+font-weight:600;
+font-weight:bold;
+font-style:bold;}
+
+
+ 

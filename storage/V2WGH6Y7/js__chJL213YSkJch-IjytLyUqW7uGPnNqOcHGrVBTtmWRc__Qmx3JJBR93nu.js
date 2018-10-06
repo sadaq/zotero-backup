@@ -1,0 +1,1 @@
+(function(a){var e=a.ajax.prototype.beforeSerialize;a.ajax.prototype.beforeSerialize=function(r,t){e.call(this,r,t);t.data['ajax_page_state[jquery_version]']=a.settings.ajaxPageState.jquery_version}})(Drupal);

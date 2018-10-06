@@ -1,0 +1,572 @@
+Review
+Gamma-glutamyltransferase and risk of hypertension: a systematic review and dose^response meta-analysis of prospective evidence
+Setor K. Kunutsora, Tanefa A. Apekeyb, and Bernard M.Y. Cheungc,d
+
+The objective of this review was to obtain a reliable estimate of the magnitude of the prospective association between gamma-glutamyltransferase (GGT) and risk of hypertension, and to characterize the nature of the dose– response relationship. We conducted a systematic review and dose–response meta-analysis of published prospective studies. Relevant studies were identified in a literature search of MEDLINE, EMBASE, and Web of Science databases up to May 2015. Study-specific relative risks (RRs) were meta-analyzed using random effects models. We examined a potential nonlinear relationship using restricted cubic splines. Of the 612 titles reviewed, we included 14 cohort studies with data on 44 582 participants and 5 270 hypertension cases. In a comparison of extreme thirds of baseline levels of GGT, RR for hypertension in pooled analysis of all 14 studies was 1.32 (95% confidence interval: 1.23–1.43). There was heterogeneity among the studies (P < 0.001), which was to a large part explained by average age of participants at baseline, average duration of follow-up, and the degree of confounder adjustment. In a pooled dose–response analysis of 10 studies with relevant data, there was evidence of a linear association between GGT and hypertension risk (P for nonlinearity ¼ 0.37). The pooled RR of hypertension per 5 U/l increment in GGT levels was 1.08 (95% confidence interval: 1.04–1.13). Baseline circulating GGT level is associated with an increased risk of hypertension in the general population, consistent with a linear dose–response relationship. Further investigation of any potential relevance of GGT in hypertension prevention is warranted.
+Keywords: dose–response, gamma-glutamyltransferase, high blood pressure, hypertension, meta-analysis, prospective studies
+Abbreviations: BP, blood pressure; CI, confidence interval; CVD, cardiovascular disease; GGT, gammaglutamyltransferase; NOS, Newcastle–Ottawa Scale; RR, relative risk; SD, standard deviation
+INTRODUCTION
+H ypertension or high blood pressure (BP) has risen to pandemic proportions – affecting over 1 billion people worldwide and it has been estimated that
+
+this number will reach 1.56 billion by 2025 [1]. In addition to being the leading global risk for mortality in the world [2], hypertension is the most common modifiable and leading risk factor for cardiovascular disease (CVD) [3], which represents a worldwide epidemic and is the leading cause of mortality globally [4]. To date, established risk factors for hypertension include excess body weight, excess dietary sodium intake, reduced physical activity, and excess alcohol intake [5,6]. In line with the 2013 guidelines developed by the European Society of Hypertension and the European Society of Cardiology (ESH/ESC) [7], lifestyle changes have been recommended as the cornerstone for the prevention of hypertension or high BP. These include a combination of population-based and intensive-targeted approaches such as reduction of salt and alcohol consumption, maintaining a healthy body weight, regular exercise, and elimination of smoking [7]. Although established risk factors for hypertension explain a large proportion of its risk, its pathogenesis is still not fully established as multiple factors appear to be involved. There is, therefore, a need to further assess potential risk factors, which may have causal or predictive relevance to hypertension and which will help further tailor preventive and therapeutic interventions.
+Gamma-glutamyltransferase (GGT), a sensitive but nonspecific index of liver injury and a biological clue of excessive alcohol intake, has been strongly linked to the development of adverse cardiometabolic outcomes [8–10] including hypertension [11]. Elevated serum levels of GGT has been postulated to reflect the development and progression of hepatic steatosis; which may play an important role in the development of insulin resistance and hyperinsulinemia, resulting in high BP or hypertension [12–14].
+Journal of Hypertension 2015, 33:2373–2381
+aMusculoskeletal Research Unit, School of Clinical Sciences, University of Bristol, Southmead Hospital, Southmead, bFaculty of Health and Social Sciences, School of Health and Wellbeing, Leeds Beckett University, Leeds, UK, cDepartment of Medicine and dState Key Laboratory of Pharmaceutical Biotechnology, University of Hong Kong, Hong Kong
+Correspondence to Setor K. Kunutsor, MD, PhD, Musculoskeletal Research Unit, School of Clinical Sciences, University of Bristol, Learning & Research Building (Level 1), Southmead Hospital, Southmead, BS10 5NB, United Kingdom. Tel: +44 0 7539589186; fax: +44 0 1174147924; e-mail: skk31@cantab.net
+Received 18 May 2015 Revised 28 August 2015 Accepted 28 August 2015
+J Hypertens 33:2373–2381 Copyright ß 2015 Wolters Kluwer Health, Inc. All rights reserved.
+DOI:10.1097/HJH.0000000000000763
+
+Journal of Hypertension
+
+www.jhypertension.com 2373
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kunutsor et al.
+
+Until recently, there has been uncertainty regarding the magnitude and nature of the prospective association between GGT level and risk of hypertension. Liu et al. [15] synthesized available prospective epidemiological data on the association between GGT and hypertension and reported a pooled multivariate adjusted relative risk (RR) [95% confidence interval (CI)] of 1.94 (1.55–2.43) for hypertension in a comparison of top versus bottom category of baseline GGT levels. However, in this review, the authors did not standardize the reported risk estimates (they reported comparisons for the highest versus lowest category of GGT levels irrespective of the risk estimates the eligible studies reported) to a consistent comparison before pooling. In addition, they separately pooled the results of three studies that provided risk estimates per 1 standard deviation (SD) increment in loge GGT levels. Given these, the magnitude of the association could not be precisely determined. In addition, although the evidence suggests there is a strong association between elevated baseline circulating GGT and risk of incident hypertension; characterization of the nature and magnitude of the dose– response relationship is, however, still lacking, as this was not addressed by previous studies and the recent review. It is uncertain whether there is a clear continuous dose– response relationship to the association or if this association is evident only beyond a particular threshold level of GGT. It is important to establish this, especially if there exists a threshold that would potentially optimize the detection of individuals at increased risk of hypertension. A dose– response analysis is more efficient than comparing the highest to lowest category approach, as it uses all of the exposure-disease information and provides a detailed description of the risk of the disease throughout the observed range of the exposure [16]. Against this background, our first objective using a meta-analytic approach, was to obtain a reliable estimate of the magnitude of the association between GGT and hypertension, by including all relevant studies and standardizing reported risk estimates from all studies to a consistent comparison (top versus bottom thirds of baseline levels of GGT) before pooling. Our second objective was to quantify and characterize in detail the nature of the dose–response relationship between GGT level and risk of hypertension.
+METHODS
+Data sources and searches This systematic review and meta-analysis of studies was conducted using a predefined protocol and reported in accordance with Preferred Reporting Items For Systematic Reviews and Meta-Analyses and Meta-analysis Of Observational Studies in Epidemiology guidelines [17,18] (Supplementary Materials 1–2, http://links.lww.com/ HJH/A535). We searched MEDLINE, EMBASE, and Web of Science for prospective (cohort, case-cohort or ‘nested case control’) population-based studies that measured the level of enzymatic activity of GGT and evaluated associations between baseline circulating level of GGT with risk of hypertension or high BP up to May 2015. The computerbased searches combined free and medical subject heading search terms and combined key words related to GGT (e.g.
+
+‘gamma glutamyltransferase’) and hypertension (e.g. ‘hypertension’, ‘blood pressure’). There were no restrictions on language or the publication date. We scanned the reference lists of retrieved articles for all relevant additional studies and review articles. We restricted the search to studies of humans. Further details on the search strategy are presented in Supplementary Material 3, http://links. lww.com/HJH/A535.
+Study selection Observational cohort studies were included if they had at least 1-year of follow-up, assessed associations of GGT with hypertension in adults (>18 years), measured samples at baseline, recruited participants representative of, approximately, general populations (i.e., did not select participants on the basis of confirmed preexisting medical conditions such as hypertension or high BP, cardiovascular disease, liver disease, or chronic kidney disease at baseline). Retrospective studies were not included.
+Data extraction and quality assessment Two authors independently abstracted data and performed quality assessments using a standardized predesigned data collection form. Data were abstracted, wherein available, on study, publication date, geographical location, population source, time of baseline survey, sample population, study design, sample source (plasma/serum), nature of sample (fresh or frozen and storage temperature), assay type and source, sample size, number of hypertension cases, hypertension case definition, mean age range at start of study, duration of follow-up, and degree of adjustment for potential confounders (defined as ‘þ’ when RRs were adjusted for age and/or sex; ‘þþ’ further adjustment for potential risk factors for hypertension such as BMI, plasma or serum lipids, smoking status, exercise, or alcohol consumption; and ‘þþþ’ additional adjustment for other liver enzymes and or inflammatory markers). We extracted RRs reported for the greatest degree of adjustment. In the case of multiple publications involving the same cohort, the most up-to-date study or study with the most comprehensive information was abstracted. We contacted authors of eligible studies wherein the published data were insufficient, to provide relevant missing information.
+Study quality was assessed based on the nine-star Newcastle–Ottawa Scale (NOS) [19] using predefined criteria namely: selection (population representativeness), comparability (adjustment for confounders), and ascertainment of outcome. The NOS assigns a maximum of four points for selection, two points for comparability, and three points for outcome. Nine points on the NOS reflects the highest study quality. A score of at least 5 indicated adequate quality for inclusion in the review.
+Data synthesis and analysis The RR with 95% CIs was used as the common measure of association across studies. To enable a consistent approach to the meta-analysis and enhance interpretation of the findings, reported study-specific risk estimates (per standard deviation change, quintiles, quartiles, and user-defined cutoffs) were transformed to involve comparisons between the top third and bottom third of each study population’s
+
+2374
+
+www.jhypertension.com
+
+Volume 33  Number 12  December 2015
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Gamma-glutamyltransferase and hypertension risk
+
+baseline distribution of GGT levels, using standard statistical methods [20,21], which have been described in detail in Supplementary Material 4, http://links.lww.com/HJH/ A535. Briefly, log-risk estimates were transformed assuming a normal distribution (or that a transformation of the explanatory variable for which the risk ratio is based was normally distributed), with the comparison between top and bottom thirds being equivalent to 2.18 times the logrisk ratio for a 1 standard deviation increase (or equivalently, as 2.18/2.54 times the log risk ratio for a comparison of extreme quarters and as 2.18/2.80 times the log risk ratio for a comparison of extreme quintiles). Standard errors of the log-risk estimates were calculated using published confidence limits and were standardized in the same way. When studies published more than one estimate of the association according to subgroups (e.g. by sex), we obtained a within-study summary estimate using a fixed effect meta-analysis. Summary RRs were pooled using a random effects model to minimize the effect of betweenstudy heterogeneity [22].
+To avoid making an assumption of linearity for an exposure-response (e.g. GGT-hypertension) relation, exposure-response relations are usually reported through RRs corresponding to ranges of exposure levels. Therefore, in a meta-analysis, it is useful to model the relation in a flexible nonlinear manner and assess evidence for or lack of nonlinearity, using graphical and statistical testing procedures [23]. We, therefore, performed a two-stage dose–response meta-analysis using the method proposed by Orsini et al. [24], to examine a potential nonlinear relationship between GGT levels and hypertension risk by modeling GGT levels using restricted cubic splines with 3 knots at percentiles 25, 50, and 75% of the distribution [25]. This method requires that the number of cases, personyears of follow-up or non-cases, and the RRs with the variance estimates for at least three quantitative categories of GGT levels are known. The median or mean level of GGT for each category was assigned to each corresponding RR. If data were not available, we estimated the median using the midpoint of each category. When the highest or lowest category was open, we assumed it to be the same amplitude as the adjacent category. In the first stage, as described by Orsini et al. [24], a restricted cubic spline model with two spline transformations (3 knots minus 1) was estimated using generalized least-squares regression taking into account the correlation within each set of published RRs. In the second stage, the two regression coefficients and the variance/covariance matrix that had been estimated within each study were combined using the restricted maximum likelihood method in a multivariate random-effects meta-analysis [26]. A P value for nonlinearity was calculated by testing that the coefficient of the second spline was equal to zero [27].
+Statistical heterogeneity across studies was quantified using Cochran x2 and the I2 statistics [28,29]. Study-level characteristics including geographical location, sex, average age at baseline, average duration of follow-up, number of cases, case definition for hypertension, degree of adjustment, and study quality were prespecified as characteristics for assessment of heterogeneity, which was conducted using stratified analysis and random effects meta-regression
+
+Included
+
+Eligibility
+
+Screening
+
+Identification
+
+[30]. We assessed the potential for small study effects such as publication bias through formal tests, namely Begg’s funnel plots [31] and Egger’s regression symmetry test [32]. Finally, we adjusted for the effect of publication bias by the use of the Duval and Tweedie’s nonparametric trimand-fill method [33]. All analyses were conducted using Stata version 13 (Stata Corp, College Station, Texas, USA).
+RESULTS Study identification and selection
+Our initial search identified 612 potentially relevant citations (Fig. 1). After screening the titles and abstracts, 23 articles remained for further evaluation. We reviewed and assessed these 23 articles, and excluded nine articles because they had no relevant outcome (n ¼ 6), and they were not prospective (n ¼ 2) or duplicated a previous publication using the same cohort (n ¼ 1). In sum, this meta-analysis included 14 articles (Supplementary Material 5, http://links.lww.com/HJH/A535) based on 14 unique prospective cohort studies comprising 44 582 participants and 5 270 hypertension cases.
+Study characteristics and quality Table 1 provides details of the eligible studies. The mean age of participants at baseline ranged from, approximately, 25 to 62 years. One study included participants aged 15 years and over, however, participants who were less than 18 years comprised only 9.3% of the total sample [34]. Two studies included participants from Europe (France and Turkey), two from North America (United States), nine
+612 Potentially relevant citations identified From MEDLINE, EMBASE, Web of Science,
+and reference list of relevant studies
+589 excluded on the basis of title and/ or abstract
+23 Full-text articles retrieved for more detailed evaluation
+9 Articles excluded due to: 6 No relevant outcome 2 Cross-sectional designs 1 Overlapping participants
+14 Articles included, based on 14 unique studies
+FIGURE 1 Selection of studies included in the meta-analysis GGT, gammaglutamyltransferase.
+
+Journal of Hypertension
+
+www.jhypertension.com 2375
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kunutsor et al.
+
+2376
+
+TABLE 1. Characteristics of published prospective studies evaluating associations between gamma-glutamyltransferase and incident hypertension
+
+www.jhypertension.com
+
+Lead author, Name of study
+
+publication or source of
+
+year
+
+participants
+
+Location of study
+
+Year(s) of Baseline mean
+
+baseline
+
+age (age
+
+% Duration of Total no. of Number Hypertension case
+
+survey
+
+range), years men follow-up participants of cases definition
+
+Covariates adjusted Study
+
+for
+
+quality
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Yamada, 1991 Miura, 1994
+
+Metal Products Factory
+Rural community
+
+Japan Japan
+
+1983
+
+43.0 (35–54) 100.0
+
+5.0
+
+1979–1980 47.8 (30–69) 100.0
+
+10.0
+
+Lee, 2002
+
+Steel Manufacturing South Korea 1994; 1998 NS (25–50) 100.0
+
+4
+
+Company
+
+Lee, 2003
+
+CARDIA
+
+USA
+
+1985–1986 25.0 (18–30)
+
+NS
+
+15.0
+
+Stranges, 2005 WNYS Andre, 2007 DESIR
+
+USA
+
+1986 – 2001
+
+NS (39–79)
+
+65.4
+
+6.0
+
+France
+
+1994–1996 46.0 (30–65) 55.2
+
+3.0
+
+Jo, 2009
+
+HPC
+
+Jimba, 2009 SSK Hospital
+
+Hwang, 2010 Community
+
+South Korea 2002
+
+38.7 (19–86) 70.8
+
+4.0
+
+Japan
+
+2002 – 2003
+
+49.0 (NS)
+
+NS
+
+3.0
+
+South Korea 2003
+
+54.1 (>30)
+
+39.2
+
+5.0
+
+Cheung, 2011 CRISPS-2
+
+Hong Kong 2005–2008 47.3 (25–75) 39.5
+
+5.3
+
+1 393 77
+8 170
+4 704
+897 1 776 17 281 1 027 293 708
+
+29 SBP 160 mmHg, DBP 95 mmHg
+36 SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+169 SBP 160 mmHg, DBP 95 mmHg, and/or taking antihypertensive medication
+
+708 SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+
+195 377 2,170 288 83
+
+SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+SBP 130 mmHg, DBP 85 mmHg or treatment of previously diagnosed hypertension
+SBP 130 mmHg, DBP 85 mmHg, or taking antihypertensive medication
+SBP 130 mmHg, DBP 85 mmHg, or taking antihypertensive medication
+SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+
+126 SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+
+Unadjusted
+
+6
+
+Age, SBP, DBP, alcohol
+
+8
+
+consumption
+
+Age, BMI, smoking (pack
+
+7
+
+years), drinking, exercise,
+
+family history of
+
+hypertension, SBP or
+
+DBP, changes of BMI,
+
+drinking during four
+
+years
+
+Study center, race, sex,
+
+8
+
+age, alcohol
+
+consumption, BMI,
+
+smoking, PA, fasting
+
+serum glucose, insulin
+
+for diabetes, SBP, insulin
+
+for hypertension
+
+Age, gender, race, average
+
+7
+
+amount of alcohol,
+
+smoking status, BMI, PA,
+
+SBP
+
+Age
+
+7
+
+Age
+
+6
+
+Age, sex, alcohol habits,
+
+7
+
+BMI at baseline
+
+Age, education, BMI,
+
+7
+
+alcohol intake, smoking,
+
+exercise, salt intake,
+
+family history of
+
+hypertension, ALT
+
+Age, sex, SBP at baseline
+
+9
+
+and follow-up duration,
+
+baseline BMI, HDL-C,
+
+HOMA-IR, CRP,
+
+fibrinogen, current
+
+smoking, change in BMI
+
+Volume 33  Number 12  December 2015
+
+Gamma-glutamyltransferase and hypertension risk
+
+ALT, alanine aminotransferase; CARDIA, Coronary Artery Risk Development in Young Adults; CRISPS-2, Cardiovascular Risk Factor Prevalence Study; DESIR, Data from Epidemiological Study on the Insulin Resistance Syndrome; HDL-C, high density lipoprotein cholesterol; HOMA-IR, homeostasis model assessment of insulin resistance; HPC, Health Promotion Centre; hsCRP, high sensitivity C-reactive protein; LDL-C, low density lipoprotein cholesterol; NS, not stated; PA, physical activity; SSK, Saitama-ken Saiseikai Kurihashi; TARFS, Turkish Adult Risk Factor Study; TC, total cholesterol; TG, triglycerides; WNYS, Western New York Health Study.
+
+7
+
+8
+
+7
+
+8
+
+diabetes, dyslipidemia
+
+abdominal obese, PA,
+
+Age, sex, ethnicity,
+
+acid, HDL-C, LDL-C, TG,
+
+hsCRP, SBP
+
+baseline glucose, uric
+
+smoking status, PA,
+
+Age, sex, alcohol amount,
+
+Age, sex, menopause, BMI,
+
+Age and sex
+
+alcohol use
+
+SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+
+476 SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+119 SBP130 mmHg, DBP85 mmHg, or taking antihypertensive medication
+389 SBP 140 mmHg, DBP 90 mmHg, or taking antihypertensive medication
+
+100 5,270
+
+1,422 285 4 783 1,766 44,582
+
+from Asia (South Korea, Hong Kong, Japan, and China), and one from Australia. Duration of follow-up to the development of hypertension ranged from 3 to 15 years. Studies ascertained the diagnosis of hypertension (or high blood pressure) using the following definitions: blood pressure at least 130/85 mmHg, 140/90 mmHg, 160/ 95 mmHg and/or taking antihypertensive medication. All studies evaluated the associations in, approximately, general healthy populations with the exception of one study, which was conducted among prehypertensive adults [35]. The degree of covariate adjustment varied, but majority of studies adjusted for potential risk factors for hypertension such as age, BMI, smoking status, exercise, and alcohol consumption, with three additionally adjusting for another liver enzyme or inflammatory markers. Two studies adjusted for only age. An unadjusted estimate was calculated for one study. Overall, we judged all of the included studies to be of adequate quality (quality score: 6–9). One study scored 9 points, four studies scored 8 points, seven studies scored 7 points, and two studies scored 6 points. Supplementary Material 6, http://links.lww.com/HJH/A535 provides assay characteristics of measured levels of GGT from studies contributing to the analysis. Apart from seven studies that did not provide specific details of type of assays used for GGT measurements, all other studies employed the enzymatic colorimetric method, which has been shown to be precise for detecting GGT activity [36]. As reported in Supplementary Material 6, http://links.lww.com/HJH/ A535, the majority of studies assessed the associations within normal reference ranges of GGT.
+Association of gamma-glutamyltransferase and hypertension The pooled RR (95% CI) of hypertension in a comparison of individuals in the top thirds with those in the bottom thirds of baseline GGT level for all 14 studies was 1.32 (1.23–1.43) (Fig. 2). The combined RR excluding the study, which was conducted among participants with prehypertension was 1.31 (1.22–1.42), which was similar to the main finding. Similarly, the pooled RR was 1.26 (1.18–1.35) on excluding the study with an unadjusted estimate and 1.30 (1.21–1.40) on excluding the study that included participants aged 15 years and over. The pooled RR was minimally attenuated on simultaneously excluding all three studies 1.23 (1.15–1.31). On simultaneous exclusion of the study with an unadjusted estimate and studies that presented only ageadjusted estimates, the pooled RR was attenuated but not significantly altered 1.08 (1.02–1.13). There was substantial heterogeneity between studies (I2 > 70%), which was partly explained by study level characteristics such as age at baseline (P for meta-regression ¼ 0.007), average followup duration (P for meta-regression ¼ 0.04), and degree of adjustment (P for meta-regression <0.0001) (Supplementary Material 7, http://links.lww.com/HJH/A535). A stronger association was observed in studies that included older participants (45 years) compared to studies with younger participants (<45 years) and studies with a longer duration of follow-up (5 years) compared to studies with shorter duration of follow-up (<5 years). In further subgroup analysis (data not shown), a stronger association was observed in Asian studies 2.16 (1.47–3.19) compared
+
+6.6
+
+3.0
+
+3.5
+
+4.0
+
+Rural indigenous Australia 1997–2008 31.4 (15–78) 41.0
+
+67.9
+
+60.2
+
+44.0 (NS)
+
+NS ( 40)
+
+2003–2004 52.0 (33–84) 49.1
+
+Kangbuk Samsung South Korea 2002–2005
+
+2004 – 2008
+
+China
+
+Turkey
+
+community
+
+Hospital
+
+Shangai
+
+TARFS
+
+Li, 2015 Total
+
+Kim, 2012
+
+Xu, 2011
+
+Onat, 2011
+
+Journal of Hypertension
+
+www.jhypertension.com 2377
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kunutsor et al.
+
+Author, year of No. of cases Degree of adjustment publication
+
+Yamada, 1991 Miura, 1994 Li, 2015 Cheung, 2011 Hwang, 2010 Kim, 2012 Jo, 2009 Stranges, 2005 Onat, 2011 Xu, 2011 Andre, 2007 Jimba, 2009 Lee, 2003 Lee, 2002 Overall
+
+29 36 100 126 83 389 2,170 195 476 119 382 288 708 169
+
++ ++ ++ +++ +++ +++ + ++ ++ + + ++ ++ ++
+
+RR (95% CI)
+7.86 (2.89, 9.40) 5.82 (1.83, 18.56) 3.10 (1.80, 5.60) 2.68 (1.36, 5.26) 2.68 (1.18, 6.11) 2.30 (1.22, 4.34) 1.91 (1.70, 2.16) 1.78 (1.08, 2.95) 1.49 (1.23, 1.80) 1.46 (0.76, 2.80) 1.45 (1.08, 1.94) 1.15 (0.76, 1.73) 1.02 (1.01, 1.03) 1.01 (1.00, 1.02) 1.32 (1.23, 1.43)
+
+.5
+
+1
+
+2.5
+
+5 7.5 12.5 20
+
+RR (95%CI) top versus bottom third of baseline GG Tlevel
+
+FIGURE 2 Relative risks for hypertension in individuals in the top compared with the bottom third of baseline levels of gamma-glutamyltransferase in eligible studies. The summary estimate presented was calculated using a random effects model; y, degree of adjustment: þ, unadjusted or adjusted for age and/ or sex; þþ, further adjustment for potential hypertension risk factors; þþþ, additional adjustment for other liver markers or inflammatory markers; Size of data markers are proportional to the inverse of the variance of the relative ratio; CI, confidence interval (bars); GGT, gamma-glutamyltransferase; RR, relative risk. Risk comparisons originally reported by the eligible studies are as follows: Yamada 1991, reported number of hypertension cases by GGT categories (50 and <50 U/L); Miura 1994, userdefined cutoffs; Li 2015, estimates provided by authors; Cheung 2011, tertiles; Hwang 2010, quartiles; Kim 2012, quartiles; Jo 2009, quartiles; Stranges 2005, quintiles; Onat 2011, per standard deviation change; Xu 2011, quartiles; Andre 2007, quartiles; Jimba 2009, tertiles; Lee 2003, user-defined cut-offs; and Lee 2002, user-defined cut-offs. The studies mentioned in this figure are included in the reference list in Supplementary Material 5.
+
+with other populations 1.53 (1.12–2.10) (P for metaregression ¼ 0.293). Egger’s test was significant (P ¼ 0.001), consistent with observed funnel plot asymmetry (Supplementary Material 8, http://links.lww.com/HJH/ A535), suggesting that studies with less striking results were less likely to have been reported. Despite the concern that small studies with null results often tend not to be published, we found no definitive evidence of such selective reporting when studies were grouped by size in metaregression analysis (Supplementary Material 7, http://links.lww.com/HJH/A535). Duval and Tweedie’s trim-and-fill method identified seven missing studies and addition of these hypothetical missing studies did not alter the significant association between GGT and hypertension risk, although substantially weaker (pooled RR comparing top versus bottom third, 1.11: 1.02–1.20).
+Dose–response analysis In pooled analysis of 10 studies (total of 13 data points because results for men and women were reported separately for some of the studies) providing relevant data, we found no evidence of statistically significant departure from linearity (P for nonlinearity ¼ 0.37) between GGT levels and risk of hypertension, which was present across the spectrum of GGT values (4.5–54.5 U/L) in our study. Visual
+
+inspection of the plot was also consistent with a linear shape (Fig. 3). The combined RR (95% CI) of hypertension for a 5 U/l increment in GGT level was 1.08 (1.04–1.13).
+
+Relative risk
+
+3.00 2.60 2.20 1.80
+1.40
+
+1.00
+
+5
+
+15
+
+25
+
+35
+
+45
+
+55
+
+Gamma glutamyltransferase (U/l)
+
+FIGURE 3 Dose–response relation between gamma-glutamyltransferase levels and relative risk of hypertension for pooled results of studies providing relevant data. Adjusted relative risks and 95% confidence intervals (CIs; dashed lines) are reported. GGT levels were modeled with restricted cubic splines with 3 knots. Lines with long dashes represent the pointwise 95% CIs for the fitted linear trend (solid line). Lines with short dashes represent the linear trend. The vertical axis is on a log scale; GGT, gamma-glutamyltransferase.
+
+2378
+
+www.jhypertension.com
+
+Volume 33  Number 12  December 2015
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Gamma-glutamyltransferase and hypertension risk
+
+DISCUSSION
+Unlike the previous elegant review by Liu et al. [15], who presented a pooled estimate for hypertension comparing the highest versus lowest category of GGT levels irrespective of the risk comparisons reported by the included studies; the present meta-analysis provides a more precise estimate of the magnitude of the association between baseline circulating GGT and incident hypertension. Comparing individuals in the top versus bottom thirds of circulating GGT levels, our results show an, approximately, 30% increased risk of future hypertension in pooled analysis of 14 variably adjusted eligible studies. The risk was attenuated to 8% in pooled results of only studies that adjusted for established risk factors and/or other potential confounders. The observed heterogeneity among the studies seemed to be explained by average age of participants at baseline, average duration of follow-up, and the degree of confounder adjustment. There were more extreme results in studies conducted among older individuals, consistent with established evidence that increasing age is associated with a significant increase in the incidence of hypertension or high BP. As expected, a stronger association with longer followup duration was also demonstrated. A stronger association was observed in Asian populations compared with Western populations (though P-value for meta-regression >0.05), consistent with findings from the previous review [15] and the fact that liver diseases and metabolic syndrome (strongly associated with hypertension or high BP) are very prevalent in Asians. A stronger association was also observed in men compared with women (although P-value for meta-regression >0.05); which is consistent with the significant sex differences in GGT levels, with men having higher levels than women [37]. In addition, men are more likely to develop cardiometabolic diseases at lower average levels of risk markers such as BMI [38], which is also causally associated with GGT levels [39]. However, in the context of the greater proportion of studies featuring more male than female participants in our review, these findings should be interpreted with caution. Our study also provides for the first time, a detailed assessment of the dose–response nature of the association between circulating GGT level and risk of hypertension. The findings were consistent with a linear dose–response relationship, which was characterized by an 8% increase in the risk of hypertension for every 5 U/l increment in circulating GGT level.
+Possible explanations for findings A large body of evidence has shown that GGT is positively and independently associated with cardiovascular disease (CVD) risk and in a linear fashion [10,40]. Several mechanistic pathways postulated for this association include oxidative stress, increased inflammation, and underlying fatty liver [41]. These same pathways have also been implicated in the relationship between GGT and risk of hypertension. Elevations of serum hepatic enzymes including GGT, have been linked to the development and progression of fatty liver with increasing BMI [42]. Elevated GGT levels are also suggested to signify oxidative stress and a state of chronic inflammation [43]. The states of oxidative stress, increased inflammation, and fatty liver may impair insulin signaling in
+
+the liver, leading to impaired insulin secretion and insulin resistance, which have been implicated in the development of hypertension or high BP [12,14].
+Implications of findings Our findings are relevant, as they provide further insight concerning the relationship between baseline circulating GGT levels and risk of hypertension and may also have implications for the prevention of hypertension or high BP. Although the cutoff value and reference range for GGT has not been clearly defined, and is essentially arbitrary, being determined ideally by enzyme measuring activity in a healthy population and using the central 95% of values obtained from the population [44]; the recommended cutoff for the upper normal limit of GGT is set at an average of 51 U/l for men and 33 U/l for women [45]. Consistent with the large body of evidence, suggesting an increased risk of adverse cardiometabolic outcomes at GGT levels considered to reflect normal reference ranges [8,9,40], our findings also underscore a potentially deleterious role of increasing GGT levels within the normal range on future risk of hypertension in general population settings. Lifestyle measures such as salt restriction, moderation of alcohol consumption, high consumption of vegetables and fruits and low-fat, maintaining a healthy body weight, regular physical exercise, and elimination of smoking have been recommended as the cornerstone for the prevention of hypertension in nonhypertensive individuals [7]. Given that serum GGT levels can be considerably reduced by most of these lifestyle interventions [46], which also affect levels of established risk factors for hypertension; there remains a possibility that lowering or modification of serum levels of GGT may help in hypertension prediction or prevention. Further evaluation is warranted.
+Strengths and limitations The strengths and limitations of this meta-analysis merit careful consideration. The notable strengths include our ability to transform reported risk estimates from all contributing studies to a consistent comparison (top versus bottom thirds) to allow a consistent combination of estimates across studies, therefore, obtaining a reliable estimate of the magnitude of the association and enhancing interpretation of the overall findings. We have also provided a detailed assessment of the dose–response relationship between GGT and risk of hypertension, which has not been previously demonstrated. We systematically explored and identified the possible sources of heterogeneity using stratified analyses and meta-regression. Formal tests demonstrated evidence of publication bias, suggesting that studies with less striking results were less likely to have been reported. However, there was no clear evidence of such selective reporting when studies were grouped by size. A detailed quality assessment of eligible studies was performed, with all included studies attaining moderate to high quality scores. Our main weakness was the inability to fully examine the impact of adjustment for potential confounding factors, because the review was based on variably adjusted data reported in the published literature. However, majority of included studies adjusted for major potential confounders (including alcohol consumption which is
+
+Journal of Hypertension
+
+www.jhypertension.com 2379
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kunutsor et al.
+
+known to increase serum levels of GGT) of the GGThypertension association and grouping the studies by degree of adjustment did not appreciably alter the direction of the association. In addition, the dose–response analysis was based on data points from 10 out of the 14 eligible studies, as the investigators concerned did not respond to our request for additional data or could not be contacted at all. Finally, it was not possible to correct the estimates for within individual variation in levels of GGT, because the included studies lacked serial assessments of circulating levels of this exposure in the same individuals.
+CONCLUSION
+Circulating level of GGT is associated with an increased risk of hypertension in the general population, consistent with a linear dose–response relationship. Further investigation of any potential relevance of GGT in hypertension prevention is warranted.
+ACKNOWLEDGEMENTS
+S.K.K. had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. We sincerely thank Dr. Ming Li, School of Population Health, Sansom Institute for Health Research, University of South Australia, Adelaide for readily providing additional data on request.
+Conflicts of interest There are no conflicts of interest.
+REFERENCES
+1. Kearney PM, Whelton M, Reynolds K, Muntner P, Whelton PK, He J. Global burden of hypertension: analysis of worldwide data. Lancet 2005; 365:217–223.
+2. Kizer JR, Benkeser D, Arnold AM, Mukamal KJ, Ix JH, Zieman SJ, et al. Associations of total and high-molecular-weight adiponectin with allcause and cardiovascular mortality in older persons: the cardiovascular health study. Circulation 2012; 126:2951–2961.
+3. Lawes CM, Bennett DA, Feigin VL, Rodgers A. Blood pressure and stroke: an overview of published reviews. Stroke 2004; 35:776– 785.
+4. Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics – 2013 update: a report from the American Heart Association. Circulation 2013; 127:e6–e245.
+5. Whelton PK, He J, Appel LJ, Cutler JA, Havas S, Kotchen TA, et al. Primary prevention of hypertension: clinical and public health advisory from The National High Blood Pressure Education Program. JAMA 2002; 288:1882–1888.
+6. Stamler J, Stamler R, Neaton JD, Wentworth D, Daviglus ML, Garside D, et al. Low risk-factor profile and long-term cardiovascular and noncardiovascular mortality and life expectancy: findings for 5 large cohorts of young adult and middle-aged men and women. JAMA 1999; 282:2012–2018.
+7. Mancia G, Fagard R, Narkiewicz K, Redon J, Zanchetti A, Bohm M, et al. 2013 ESH/ESC Guidelines for the management of arterial hypertension: the Task Force for the management of arterial hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC). J Hypertens 2013; 31:1281–1357.
+8. Kunutsor SK, Abbasi A, Adler AI. Gamma-glutamyl transferase and risk of type II diabetes: an updated systematic review and dose-response meta-analysis. Ann Epidemiol 2014; 24:809–816.
+9. Kunutsor SK, Apekey TA, Seddoh D. Gamma glutamyltransferase and metabolic syndrome risk: a systematic review and dose-response metaanalysis. Int J Clin Pract 2015; 69:136–144.
+
+10. Kunutsor SK, Bakker SJ, Kootstra-Ros JE, Gansevoort RT, Dullaart RP. Circulating gamma glutamyltransferase and prediction of cardiovascular disease. Atherosclerosis 2014; 238:356–364.
+11. Yamada Y, Ishizaki M, Kido T, Honda R, Tsuritani I, Ikai E, et al. Alcohol, high blood pressure, and serum gamma-glutamyl transpeptidase level. Hypertension 1991; 18:819–826.
+12. Ikai E, Ishizaki M, Suzuki Y, Ishida M, Noborizaka Y, Yamada Y. Association between hepatic steatosis, insulin resistance and hyperinsulinaemia as related to hypertension in alcohol consumers and obese people. J Hum Hypertens 1995; 9:101–105.
+13. Kissebah AH. Insulin resistance in visceral obesity. Int J Obes 1991; 15 (Suppl 2):109–115.
+14. Zhou MS, Wang A, Yu H. Link between insulin resistance and hypertension: what is the evidence from evolutionary biology? Diabetol Metabol Syndr 2014; 6:12.
+15. Liu CF, Gu YT, Wang HY, Fang NY. Gamma-glutamyltransferase level and risk of hypertension: a systematic review and meta-analysis. PloS One 2012; 7:e48878.
+16. Crippa A, Discacciati A, Larsson SC, Wolk A, Orsini N. Coffee consumption and mortality from all causes, cardiovascular disease, and cancer: a dose-response meta-analysis. Am J Epidemiol 2014; 180:763– 775.
+17. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med 2009; 6:e1000097.
+18. Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie D, et al. Meta-analysis of observational studies in epidemiology. JAMA 2000; 283:2008 – 2012.
+19. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al. The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses 2011; Available from: http://www.ohri. ca/programs/clinical_epidemiology/oxford.asp.
+20. Cheˆne G, Thompson SG. Methods for summarizing the risk associations of quantitative variables in epidemiologic studies in a consistent Form. Am J Epidemiol 1996; 144:610–621.
+21. Greenland S, Longnecker MP. Methods for trend estimation from summarized dose-response data, with applications to meta-analysis. Am J Epidemiol 1992; 135:1301–1309.
+22. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials 1986; 7:177–188.
+23. Orsini N, Li R, Wolk A, Khudyakov P, Spiegelman D. Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software. Am J Epidemiol 2012; 175:66–73.
+24. Orsini N, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized dose-response data. Stata J 2006; 6:40–57.
+25. Harrell FE Jr, Lee KL, Pollock BG. Regression models in clinical studies: determining relationships between predictors and response. J Natl Cancer I 1988; 80:1198–1202.
+26. Jackson D, White IR, Thompson SG. Extending DerSimonian and Laird’s methodology to perform multivariate random effects metaanalyses. Stat Med 2010; 29:1282–1297.
+27. Desquilbet L, Mariotti F. Dose-response analyses using restricted cubic spline functions in public health research. Stat Med 2010; 29:1037– 1057.
+28. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003; 327:557–560.
+29. Higgins JP, Thompson SG. Quantifying heterogeneity in a metaanalysis. Stat Med 2002; 21:1539–1558.
+30. Thompson SG, Sharp SJ. Explaining heterogeneity in meta-analysis: a comparison of methods. Stat Med 1999; 18:2693–2708.
+31. Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics 1994; 50:1088–1101.
+32. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. BMJ 1997; 315:629–634.
+33. Duval S, Tweedie R. Trim and fill: a simple funnel-plot-based method of testing and adjusting for publication bias in meta-analysis. Biometrics 2000; 56:455–463.
+34. Li M, McDermott R. Obesity albuminuria, and gamma-glutamyl transferase predict incidence of hypertension in indigenous Australians in rural and remote communities in northern Australia. J Hypertens 2015; 33:704 – 710.
+35. Hwang JH, Shin JY, Chun B, Lee DH, Kim KY, Park WH, et al. Association between gamma-glutamyltransferase and hypertension
+
+2380
+
+www.jhypertension.com
+
+Volume 33  Number 12  December 2015
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+
+Gamma-glutamyltransferase and hypertension risk
+
+incidence in rural prehypertensive adults. J Prev Med Public Health 2010; 43:18–25. 36. Persijn JP, van der Slik W. A new method for the determination of gamma-glutamyltransferase in serum. J Clin Chem Clin Biochem 1976; 14:421 – 427. 37. Whitfield JB. Gamma glutamyl transferase. Crit Rev Clin Lab Sci 2001; 38:263 – 355. 38. Logue J, Walker JJ, Colhoun HM, Leese GP, Lindsay RS, McKnight JA, et al. Do men develop type 2 diabetes at lower body mass indices than women? Diabetologia 2011; 54:3003–3006. 39. Fall T, Hagg S, Magi R, Ploner A, Fischer K, Horikoshi M, et al. The role of adiposity in cardiometabolic traits: a mendelian randomization analysis. PLoS Med 2013; 10:e1001474. 40. Kunutsor SK, Apekey TA, Khan H. Liver enzymes and risk of cardiovascular disease in the general population: a meta-analysis of prospective cohort studies. Atherosclerosis 2014; 236:7–17. 41. Emdin M, Pompella A, Paolicchi A. Gamma-glutamyltransferase atherosclerosis, and cardiovascular disease: triggering oxidative stress within the plaque. Circulation 2005; 112:2078–2080.
+
+42. Robinson D, Whitehead TP. Effect of body mass and other factors on serum liver enzyme levels in men attending for well population screening. Ann Clin Biochem 1989; 26 (Pt 5):393–400.
+43. Lee DH, Jacobs DR Jr. Association between serum gamma-glutamyltransferase and C-reactive protein. Atherosclerosis 2005; 178:327–330.
+44. Shield KD, Gmel G, Kehoe-Chan T, Dawson DA, Grant BF, Rehm J. Mortality and potential years of life lost attributable to alcohol consumption by race and sex in the United States in 2005. PloS One 2013; 8:e51923.
+45. Gunter EW, Lewis BG, Koncikowski SM. Laboratory procedures used for the Third National Health and Nutrition Examination Survey (NHANES III), 1988–1994. Hyattsville, MD: US Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Environmental Health, National Center for Health Statistics; 1996. Available from: http://www.cdc.gov/nchs/data/ nhanes/nhanes3/cdrom/nchs/manuals/labman.pdf
+46. Thoma C, Day CP, Trenell MI. Lifestyle interventions for the treatment of non-alcoholic fatty liver disease in adults: a systematic review. J Hepatol 2012; 56:255–266.
+
+Reviewers’ Summary Evaluations
+Reviewer 1 Strengths: The demonstration of a linear association between gamma-glutamyltransferase (GGT) level and risk of hypertension, with an 8% increase in the risk of hypertension for every 5 U/L increment in circulating GGT level is of extreme interest. As a matter of fact, this association seems to further expand on the linkage between the liver, alcohol consumption, steatohepatitis and metabolic precursors of hypertension. Weakness: The main weakness was the inability to examine the impact of alcohol consumption as well as of steatohepatitis and of other confounders on GGT levels. This makes impossible to derive any mechanistic conclusion from the meta-analysis.
+
+Reviewer 2 The main strength of this paper is that it is a well- conducted meta-analysis aiming to clarify the independent association of gamma-glutamyltransferase with the development of hypertension and elevated blood pressure. The main weakness is related with the great heterogeneity among the selected studies, especially regarding to the use of covariates what can have a great impact in the results. The fact that not all the studies were fully adjusted could have resulted in a spurious association, specially taking into account that this association could be mediated by the presence of liver steatosis and insulin resistance.
+
+Journal of Hypertension
+
+www.jhypertension.com 2381
+
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+

@@ -1,0 +1,759 @@
+Gamma Glutamyl Transferase and Metabolic Syndrome, Cardiovascular Disease, and Mortality Risk. The Framingham Heart Study
+Douglas S. Lee, Jane C. Evans, Sander J. Robins, Peter W. Wilson, Irene Albano, Caroline S. Fox, Thomas J. Wang, Emelia J. Benjamin, Ralph B. DAgostino and
+Ramachandran S. Vasan Arterioscler. Thromb. Vasc. Biol. published online Nov 9, 2006;
+DOI: 10.1161/01.ATV.0000251993.20372.40
+Arteriosclerosis, Thrombosis, and Vascular Biology is published by the American Heart Association. 7272 Greenville Avenue, Dallas, TX 72514
+Copyright © 2006 American Heart Association. All rights reserved. Print ISSN: 1079-5642. Online ISSN: 1524-4636
+The online version of this article, along with updated information and services, is located on the World Wide Web at: http://atvb.ahajournals.org
+Subscriptions: Information about subscribing to Arteriosclerosis, Thrombosis, and Vascular Biology is online at http://atvb.ahajournals.org/subsriptions/ Permissions: Permissions & Rights Desk, Lippincott Williams & Wilkins, 351 West Camden Street, Baltimore, MD 21202-2436. Phone 410-5280-4050. Fax: 410-528-8550. Email: journalpermissions@lww.com Reprints: Information about reprints can be found online at http://www.lww.com/static/html/reprints.html
+Downloaded from atvb.ahajournals.org at National Institute of Hea on November 13, 2006
+
+Gamma Glutamyl Transferase and Metabolic Syndrome, Cardiovascular Disease, and Mortality Risk
+The Framingham Heart Study
+Douglas S. Lee, Jane C. Evans, Sander J. Robins, Peter W. Wilson, Irene Albano, Caroline S. Fox, Thomas J. Wang, Emelia J. Benjamin, Ralph B. D’Agostino, Ramachandran S. Vasan
+Objective—To determine whether serum ␥-glutamyl transferase (GGT) predicts cardiovascular disease (CVD) morbidity and mortality, accounting for temporal changes in known CVD risk factors and C-reactive protein (CRP).
+Methods and Results—In 3451 Framingham Study participants (mean age 44 years, 52% women) we examined the relations of GGT with CVD risk factors, and prospectively determined the risk of new-onset metabolic syndrome, incident CVD, and death. GGT was positively associated with body mass index, blood pressure, LDL cholesterol, triglycerides, and blood glucose in cross-sectional analysis (PϽ0.005). On follow-up (mean 19 years), 968 participants developed metabolic syndrome, 535 developed incident CVD, and 362 died. The risk of metabolic syndrome increased with higher GGT (multivariable-adjusted hazard ratio [HR] per SD increment log-GGT, 1.26 [95%CI; 1.18 to 1.35]). Adjusting for established CVD risk factors (as time-dependent covariates updated quadriennially) and baseline CRP, a 1-SD increase in log-GGT conferred a 13% increase in CVD risk (Pϭ0.007) and 26% increased risk of death (PϽ0.001). Individuals in the highest GGT quartile experienced a 67% increase in CVD incidence (multivariableadjusted HR 1.67, 95%CI; 1.25 to 2.22).
+Conclusion—An increase in serum GGT predicts onset of metabolic syndrome, incident CVD, and death suggesting that GGT is a marker of metabolic and cardiovascular risk. (Arterioscler Thromb Vasc Biol. 2007;27:000-000.)
+Key Words: biomarkers Ⅲ gamma glutamyl transferase Ⅲ risk factor Ⅲ cardiovascular disease Ⅲ metabolic syndrome Ⅲ mortality
+
+G amma;-glutamyl transferase (GGT) has been regarded as a biomarker of hepatobiliary disease and alcohol consumption/abuse.1 However, GGT is elaborated by extrahepatic tissues including the kidney, epididymis, fibroblasts, lymphocytes, and lung.2–4 Accumulating experimental evidence suggests an important role for GGT in extracellular catabolism of glutathione, the principal thiol antioxidant in humans. GGT enhances the availability of cysteine to promote intracellular glutathione (GSH) resynthesis, thereby counteracting oxidant stress.2,5,6 GGT adsorbs onto circulating low-density lipoprotein cholesterol (LDL) and can catalyze its oxidation.7 It is expressed in the atheromatous core of coronary plaques, where it colocalizes with oxidized LDL and foam cells.8 GGT may also be proinflammatory, because it mediates interconversion of the glutathione-containing inflammatory mediator leukotriene C4 into leukotriene D4.9
+Parallel evidence from epidemiological studies suggest that higher serum GGT is associated with development of cardio-
+
+vascular disease (CVD) risk factors, including diabetes, hypertension, dyslipidemia,10–13 and the metabolic syndrome.10 GGT levels correlate positively with novel cardiovascular risk factors such as C-reactive protein (CRP), fibrinogen, F2-isoprostanes,14 and inversely with antioxidant levels.15 Prior studies associated increased GGT with mortality attributable to ischemic heart and cerebrovascular disease,16–18 but have not addressed whether serum GGT reflects greater burden of CVD risk factors12,13,19 or whether GGT has incremental prognostic utility beyond these risk factors.20,21 Although prior studies have had unique strengths, they did not adjust for established cardiovascular risk factors or CRP16,22–24 and had limited end point selection.24
+We examined the cross-sectional clinical correlates of serum GGT and evaluated, longitudinally, whether higher levels predicted future CVD events and mortality in the Framingham Heart Study. We hypothesized that increasing serum GGT would be associated with elevated risk of
+
+Original received August 3, 2006; final version accepted October 25, 2006. From the Institute for Clinical Evaluative Sciences and University Health Network (D.S.L.), University of Toronto, Canada; the National Heart, Lung, and Blood Institute’s Framingham Heart Study (J.C.E., S.J.R., C.S.F., T.J.W., E.J.B., R.B.D., R.S.V.), Framingham, Mass; the Department of Medicine (P.W.W.), Medical University of South Carolina, Charleston; the Mathematics Department (R.B.D.), Boston University, Boston, Mass; the Cardiology Division, Massachusetts General Hospital, Harvard Medical School, Boston, Mass; the Cardiology Section (E.J.B., R.S.V.) and the Department of Preventive Medicine and Epidemiology (R.S.V.), Boston University School of Medicine, Boston, Mass. Correspondence to Douglas S. Lee, MD, PhD, Scientist, Institute for Clinical Evaluative Sciences, Division of Cardiology, University Health Network, University of Toronto, Rm G-106, 2075 Bayview Ave, Toronto, Ontario, M4N 3M5 Canada. E-mail dlee@ices.on.ca © 2006 American Heart Association, Inc.
+
+Arterioscler Thromb Vasc Biol. is available at http://www.atvbaha.org
+
+DOI: 10.1161/01.ATV.0000251993.20372.40
+
+1
+
+2 Arterioscler Thromb Vasc Biol. January 2007
+
+new-onset metabolic syndrome, incident CVD, and all-cause mortality after accounting for established and novel cardiovascular risk factors. We postulated that GGT would predict CVD risk even after adjusting for vascular risk factors as time-dependent variables during follow-up.
+Methods
+Study Participants
+The Framingham Offspring Study began in 1971 with the enrollment of 5124 offspring of the original cohort participants (and their spouses).25 The second examination cycle (1978 –1982), was attended by 3853 offspring participants (1864 men, 1989 women). Of these, 402 were excluded for the following reasons: missing GGT data (nϭ234, 6%), prevalent CVD (nϭ151, 4%), and missing covariate data (nϭ17, 0.4%). Prior CVD was defined as presence of coronary heart disease (myocardial infarction, coronary insufficiency, angina pectoris), peripheral vascular disease (intermittent claudication), cerebrovascular disease (stroke or transient ischemic attack), or heart failure.26 At each quadrennial Heart Study examination, participants underwent standardized measurements of blood pressure (BP), anthropometry, medical history, physical examination, and laboratory assessment of cardiovascular risk factors. All participants provided written informed consent and the study protocol was approved by the Institutional Review Board of the Boston Medical Center.
+Measurements and Definitions
+Systolic and diastolic BP were the average of two physician-obtained measurements performed after participants had rested at least 5 minutes in a sitting position, using a mercury sphygmomanometer. Hypertension was defined as a systolic BP Ն140 mm Hg or a diastolic BP Ն90 mm Hg, or the use of antihypertensive medication. Current smoking was self-reported and was defined as having smoked cigarettes regularly within the prior year. Alcohol consumption was defined based on self-reported average weekly intake. Serum triglycerides, total and HDL cholesterol, and blood glucose were measured after an overnight fast. Diabetes was defined by fasting blood glucose Ն126 mg/dL or the use of oral hypoglycemic agents or insulin.
+Participants underwent phlebotomy after an overnight fast (between 10 to 12 hours), typically between 7.30 AM and 9 AM. Blood was immediately centrifuged, and plasma and serum specimens were stored at Ϫ20°C until assayed. Uniform measurement of GGT activity in serum was performed using spectrophotometry by detecting the liberation of p-nitroaniline at 405 nm, resulting from the reaction of ␥-glutamyl-p-nitroanilide ϩ glycylglycine (Quest Diagnostics [MedPath]).27 High-sensitivity C-reactive protein (CRP) was measured with a Dade Behring BN100 nephelometer from specimens also obtained at the second offspring examination cycle. The average intra-assay coefficient of variation for CRP was 3.8%.
+Cross-Sectional Correlates of GGT
+We evaluated the association of baseline serum GGT with CVD risk factors and clinical covariates including age, sex, systolic and diastolic BP, hypertension, LDL and HDL cholesterol, serum triglycerides, fasting blood glucose, diabetes, body mass index (BMI), smoking status, and alcohol consumption. We compared serum GGT levels according to presence of metabolic syndrome at baseline, using modified National Cholesterol Education Program (NCEP) criteria, which required at least three of: (1) elevated triglycerides, Ն150 mg/dL; (2) HDL cholesterol Ͻ40 mg/dL [men] or Ͻ50 mg/dL [women]; (3) BP Ն130 mm Hg systolic, Ն85 mm Hg diastolic, or on antihypertensive therapy; (4) fasting blood glucose Ն100 mg/dL; and (5) BMI Ն30 kg/m2.28 We substituted BMI for increased waist circumference because measurements of waist were not obtained at baseline examination.
+
+Prospective Follow-Up for Incident Events
+Participants were followed prospectively for development of metabolic syndrome, incident CVD (fatal or non-fatal coronary heart disease, peripheral vascular disease, cerebrovascular disease, or heart failure), and death over a maximum follow-up duration of 20 years. All CVD events and deaths were systematically reviewed by a three-investigator panel after evaluating all available office and hospitalization records, laboratory test results, death certificates, and autopsy reports.
+Statistical Analysis
+Cross-Sectional Correlates of GGT The distribution of GGT values was right-skewed, therefore a ln-transformation was applied. To account for an upward shift in log-GGT in men relative to women, we standardized the distribution (meanϭ0, SDϭ1) within each sex. The distributions of serum triglyceride and alcohol consumption were skewed, and were also log-transformed. Cross-sectional correlates of GGT were identified using sex-pooled multiple linear regression analysis. Each potential correlate was examined separately in age/sex-adjusted models. Variables that were statistically significant at ␣ϭ0.05 in these models were evaluated in multivariable analysis with forward stepwise selection; covariates significant at ␣ϭ0.15 were retained.
+Longitudinal Analysis of GGT and Clinical Events We used Cox proportional hazards regression to examine the association of baseline GGT with: (1) metabolic syndrome, (2) incident CVD, and (3) all-cause mortality, over 20 year follow-up. We constructed Cox models for pooled sexes because formal tests of interaction (sexϫlog-GGT) were not statistically significant for any outcome. Initially, we determined the risk associated with a onestandard deviation increment in standardized log-transformed GGT. Cutpoints for sex-specific quartiles were defined based on the GGT distribution of all participants at baseline (prior to exclusions). We compared the risk of events in quartiles 2 to 4 relative to the lowest quartile, and also tested for linear trend across quartiles.
+For new-onset metabolic syndrome, the primary analysis examined events over the entire study duration (20 years), after excluding participants with metabolic syndrome at baseline. We also examined the risk of metabolic syndrome according to GGT during short-term follow-up (8-years). New-onset metabolic syndrome was defined by presence of the modified NCEP diagnostic criteria at any subsequent quadriennial examination.29 Because ascertainment of metabolic syndrome required attendance at Heart Study examinations (wheras CVD or death are ascertained irrespective of Heart Study visits), we terminated follow-up at the last examination date if Ͼ2 consecutive examination cycles were unattended. Cox models were adjusted initially for factors unrelated to the metabolic syndrome definition: age, sex, alcohol consumption, and log-CRP. In secondary analysis, we evaluated whether GGT predicted new-onset metabolic syndrome after additional adjustment for BMI, fasting blood glucose, systolic and diastolic BP, serum triglycerides, and smoking.
+For analyses relating GGT to risk of incident CVD and death, we constructed age/sex-adjusted cumulative incidence curves to illustrate risk across GGT quartiles. Cox models estimating risk of incident CVD and mortality were adjusted for age, sex, BMI, diabetes, systolic BP, antihypertensive treatment, total/HDL cholesterol ratio, current smoking, and alcohol consumption at baseline. Additionally, we adjusted for serum creatinine concentration and education level (postsecondary versus non) as an indicator of socioeconomic status in CVD models. Furthermore, we adjusted for aspartate and alanine aminotransferases (AST, ALT), because reports have linked these enzymes to CVD and metabolic syndrome.30,31 Additionally, we adjusted for: (1) baseline CRP; (2) baseline CRP and all other covariates modeled as time-dependent variables (updated at each subsequent quadrennial Framingham examination attended). We examined the discrimination of models that included clinical covariates and log-GGT with and without log-CRP to determine the incremental value of the latter after accounting for GGT, using the c-statistic. In Cox models, we
+
+Lee et al Gamma Glutamyl Transferase and CVD Risk and Mortality 3
+
+TABLE 1. Baseline Participant Characteristics by Sex-Specific GGT Quartile
+
+Sex-Specific Serum GGT Level (units/liter)
+
+Total Sample
+
+Q1 Men 1–11 Women 1– 6
+
+Q2 Men 12–16 Women 7–9
+
+Q3 Men 17–24 Women 10 –13
+
+Q4 Men 25–99 Women 14 – 88
+
+Age, years (SD)†
+
+44 (10)
+
+42 (10)
+
+42 (10)
+
+45 (10)
+
+46 (9)
+
+Women, n (%)
+
+1790 (52)
+
+356 (44)
+
+546 (57)
+
+421 (53)
+
+467 (53)
+
+Body mass index (kg/m2)†
+
+Mean, SD
+
+25.6 (4.3)
+
+24.6 (3.5)
+
+25.0 (4.0)
+
+25.7 (4.4)
+
+27.0 (5.0)
+
+Ͻ25, n (%)
+
+1721 (50)
+
+484 (60)
+
+520 (54)
+
+381 (48)
+
+336 (38)
+
+25–29, n (%)
+
+1250 (36)
+
+257 (32)
+
+339 (35)
+
+313 (39)
+
+341 (38)
+
+Ն30, n (%)
+
+480 (14)
+
+63 (8)
+
+100 (11)
+
+107 (13)
+
+210 (24)
+
+Alcohol consumption, n (%)*†
+
+None
+
+811 (24)
+
+213 (27)
+
+235 (24)
+
+197 (25)
+
+166 (19)
+
+Յ14/wk (M), Յ7/wk (F)
+
+1738 (50)
+
+476 (59)
+
+506 (53)
+
+405 (50)
+
+351 (39)
+
+Ͼ14/wk (M), Ͼ7/wk (F)
+
+902 (26)
+
+115 (14)
+
+218 (23)
+
+199 (25)
+
+370 (42)
+
+Systolic BP, mm Hg (SD)†
+
+122 (16)
+
+118 (14)
+
+119 (15)
+
+123 (17)
+
+127 (17)
+
+Diastolic BP, mm Hg (SD)†
+
+78 (10)
+
+75 (8)
+
+76 (10)
+
+79 (10)
+
+81 (9)
+
+Hypertension, n (%)†
+
+602 (17)
+
+78 (10)
+
+124 (13)
+
+165 (21)
+
+235 (26)
+
+Treated hypertension, n (%)†
+
+327 (9)
+
+31 (4)
+
+60 (6)
+
+71 (9)
+
+165 (19)
+
+Lipid levels (SD)
+
+Total cholesterol, mg/dL†
+
+203 (38)
+
+191 (36)
+
+198 (36)
+
+207 (39)
+
+216 (38)
+
+HDL cholesterol, mg/dL
+
+49 (13)
+
+49 (13)
+
+49 (13)
+
+48 (14)
+
+48 (14)
+
+Total/HDL ratio†
+
+4.5 (1.6)
+
+4.2 (1.3)
+
+4.3 (1.4)
+
+4.7 (1.7)
+
+4.9 (1.7)
+
+LDL cholesterol, mg/dL†
+
+130 (35)
+
+122 (33)
+
+127 (34)
+
+134 (37)
+
+137 (35)
+
+Triglycerides (serum), mg/dL*†
+
+105 (80)
+
+81 (51)
+
+91 (60)
+
+108 (73)
+
+139 (109)
+
+Aspartate aminotransferase (AST), IU/L (SD) 21.1 (11.7) 18.1 (7.8)
+
+19.1 (9.6)
+
+20.8 (11.2) 26.3 (15.0)
+
+Alanine aminotransferase (ALT), IU/L (SD)
+
+25.6 (17.7) 19.4 (8.7)
+
+21.7 (13.3) 25.5 (13.4) 35.7 (25.3)
+
+Serum creatinine concentration, mg/dL (SD)
+
+1.16 (0.24) 1.15 (0.23) 1.15 (0.23) 1.18 (0.24) 1.16 (0.24)
+
+Fasting blood glucose, mg/dL (SD)†
+
+98 (19)
+
+96 (16)
+
+96 (14)
+
+99 (17)
+
+103 (25)
+
+Diabetes, n (%)†
+
+121 (4)
+
+18 (2)
+
+20 (2)
+
+30 (4)
+
+53 (6)
+
+Current smoker, n (%)†
+
+1254 (36)
+
+252 (31)
+
+349 (36)
+
+287 (36)
+
+366 (41)
+
+CRP, mg/L, median (IQR)*†
+
+1.02 (2.06) 0.65 (1.24) 0.82 (1.67) 1.11 (2.21) 1.79 (3.02)
+
+IQRϭInterquartile Range; * tests for trend across quartiles performed using log-transformed values; †P for quartile trend Ͻ0.001
+
+confirmed that the assumption of proportionality of hazards was met.32 Statistical analyses were performed using SAS version 8.2 (Cary, NC) and a two-sided probability value Յ0.05 was considered statistically significant.
+Results
+Cross-Sectional Correlates of GGT Participants in higher GGT quartiles were older, had higher BMI, and were more likely to have hypertension, and elevated lipids, fasting blood glucose, and CRP (Table 1; PϽ0.001 for quartile trend). In the highest quartile, 81.4% of men and 86.9% of women had GGT values within the normal reference range (eg, men Յ50 U/, women Յ40 U/). Crosssectionally, presence of the metabolic syndrome was associated with higher GGT in men (24.9Ϯ15.3 versus 18.9Ϯ14.7 U/; PϽ0.001) and women (19.8Ϯ15.0 versus 11.4Ϯ9.2 U/; PϽ0.001). In stepwise multiple regression models (see the supplemental materials, available online at http://atvb.ahajournals.org), log-GGT was positively associated with age (Pϭ0.009), male sex, smoking, BMI, LDL cholesterol, serum
+
+triglycerides, alcohol consumption, diastolic BP, hypertension treatment (PՅ0.001 for all), and fasting blood glucose (Pϭ0.004). The above factors explained 33% of the interindividual variability in GGT; sex, serum triglycerides, and alcohol consumption were principal correlates explaining a large degree of variation. There was weak positive correlation of log-GGT with log-CRP (Pearson’s rϭ0.27, PϽ0.001), which was of consistent magnitude in men (rϭ0.26) and women (rϭ0.27).
+Serum GGT and Incidence of the Metabolic Syndrome On follow-up, 419 participants (16%, 192 women) developed metabolic syndrome at 8 years, and 968 individuals (37%, 479 women) developed metabolic syndrome over a 20-year period. In multivariable Cox models adjusted for age, sex, alcohol consumption, and CRP, higher GGT was associated with greater risk of developing the metabolic syndrome with a 134% (8-year) to 76% (20-year) increased risk in the top quartile relative to the lowest (Table 2). In models evaluating
+
+4 Arterioscler Thromb Vasc Biol. January 2007
+
+TABLE 2. Hazards Ratios for Metabolic Syndrome Onset According to GGT Levels
+
+Onset of Metabolic Syndrome within 8 years Age/sex-adjusted
+Adjusted for age, sex, and alcohol
+Additional adjustment for CRP
+Onset of Metabolic Syndrome within 20 years Age/sex-adjusted
+Adjusted for age, sex, and alcohol
+Additional adjustment for CRP
+Value of 1-SD log-GGTϭ0.6 †PϽ0.05, ‡PՅ0.01, *PՅ0.001
+
+Log-GGT, 1-SD Increment
+1.39* (1.26–1.52)
+1.45* (1.32–1.60)
+1.38* (1.25–1.53)
+1.29* (1.21–1.38)
+1.33* (1.24–1.42)
+1.26* (1.18–1.35)
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+Referent Referent Referent
+
+1.40† (1.04–1.87)
+1.46† (1.08–1.96)
+1.51‡ (1.11–2.06)
+
+1.76* (1.30–2.39)
+1.83* (1.35–2.48)
+1.64‡ (1.19–2.27)
+
+Referent Referent Referent
+
+1.21† (1.01–1.44)
+1.23† (1.03–1.48)
+1.23† (1.02–1.49)
+
+1.49* (1.23–1.80)
+1.53* (1.26–1.85)
+1.36‡ (1.11–1.66)
+
+Quartile 4
+2.26* (1.69–3.01)
+2.54* (1.89–3.41)
+2.34* (1.72–3.19)
+1.85* (1.54–2.22)
+1.99* (1.65–2.40)
+1.76* (1.45–2.13)
+
+Quartile Trend
+1.30* (1.19–1.42)
+1.35* (1.23–1.48)
+1.30* (1.18–1.43)
+1.23* (1.16–1.30)
+1.26* (1.19–1.33)
+1.20* (1.12–1.27)
+
+log-GGT, a 1-SD increment in log-CRP was associated with a 1.38-fold (95%CI; 1.25 to 1.53, PϽ0.001) and 1.26-fold (95%CI; 1.18 to 1.35, PϽ0.001) risk of metabolic syndrome at 8 and 20 years, respectively. The association of GGT with new-onset metabolic syndrome remained robust in models adjusted for serum AST and ALT (data not shown).
+Adjusting for age, sex, BMI, fasting glucose, systolic BP, diastolic BP, log-triglycerides, alcohol consumption, smoking status, and log-CRP, the association of GGT with metabolic syndrome remained significant. The hazards ratios (HR) per increment in GGT quartile were 1.14 (95%CI; 1.04 to 1.26, PϽ0.01) and 1.09 (95%CI; 1.02 to 1.16, PϽ0.01) in Cox models with 8-year and 20-year follow-up, respectively.
+Serum GGT and CVD and Mortality Risk A total of 65 900 person-years of observation was available in 3451 participants for incident CVD and death. On follow-up (mean 19.1Ϯ3.0 years), 535 participants (15.5%; 173 women) experienced incident CVD, and 362 individuals died (10.5%; 131 women). Age/sex-adjusted cumulative incidence of CVD and death (Figures 1 and 2) displayed an increasing gradient of risk across GGT quartiles (log-rank PϽ0.001 for both outcomes).
+In multivariable models adjusting for established risk factors and CRP, log-GGT was positively related to CVD incidence and a graded increase in CVD risk was observed across GGT quartiles (Table 3). The association of GGT with CVD was maintained in models incorporating CVD risk factors as time-varying covariates (Table 3). A 1-SD increment in log-CRP was associated with a 1.20-fold (95%CI; 1.07 to 1.33, PϽ0.001) risk of incident CVD. After additionally adjusting for serum creatinine concentration and education level, a 1-SD increment in GGT was still associated with a 15% increase in CVD (HR 1.15, 95%CI; 1.05 to 1.27, Pϭ0.004). Those in the highest GGT quartile had a 1.66-fold risk (95%CI; 1.22 to 2.26, Pϭ0.001), and a significant trend was present across quartiles (PϽ0.001).
+
+In multivariable analyses of mortality, the risk increased across GGT quartiles, remaining robust even after adjustment for log-CRP, and risk factors modeled as time-varying covariates (Table 4). Accounting for log-CRP and all other risk factors as time-varying covariates, a 1-SD increment in log-GGT was associated with a 26% increased risk of death. A 1-SD increment in log-CRP was associated with a 1.31fold (95%CI; 1.16 to 1.47, PϽ0.001) risk in the latter models. The associations of GGT with incident CVD and death were maintained after adjustment for serum AST and ALT (data not shown).
+Adjusting for clinical covariates (eg, age, sex, BMI, diabetes, systolic BP, total/HDL cholesterol ratio, current smoking, alcohol consumption) and log-GGT, the c-statistic for CVD risk was 0.785 (95%CI; 0.766 to 0.804). When log-CRP was added, the c-statistic increased minimally to 0.786
+Figure 1. Age/sex-adjusted cumulative incidence of CVD by GGT quartile. Numbers at risk are not the same in each quartile because cut points were determined on all participants with available GGT data (before exclusions).
+
+Lee et al Gamma Glutamyl Transferase and CVD Risk and Mortality 5
+
+Figure 2. Age/sex-adjusted cumulative incidence of mortality by GGT quartile. Numbers at risk are not the same in each quartile because cut points were determined on all participants with available GGT data (before exclusions).
+(95%CI; 0.767 to 0.805). Similarly, the model for mortality including clinical covariates and log-GGT had a c-statistic of 0.799 (95%CI; 0.778 to 0.821), and addition of log-CRP increased it minimally to 0.802 (95%CI; 0.780 to 0.823). There was no significant interaction between GGT and CRP for CVD or mortality prediction.
+Discussion
+Principal Findings The principal findings of our investigations are three-fold. First, serum GGT levels were related cross-sectionally to
+
+CVD risk factors, notably increased age, male sex, dyslipidemia, BMI, glycemia, BP, and smoking. Second, higher serum GGT was associated prospectively with increased incidence of the metabolic syndrome, above and beyond conventional risk factors including CRP. Third, serum GGT was positively associated with incident CVD and death, after accounting for CRP and hepatic enzymes. Because GGT was associated with the metabolic syndrome prospectively, we adjusted for established CVD risk factors as time-varying covariates, and the association of GGT with CVD and mortality remained, suggesting that GGT risk occurs by mechanisms other than promotion/development of known risk factors. Overall, our data suggest that serum GGT predicts development of the CVD risk factor cluster that constitutes the metabolic syndrome, CVD events, and mortality.
+Comparison With Prior Research Prior studies suggested that higher GGT levels predicted all-cause mortality in patients with myocardial infarction or coronary artery disease,20,21 and in middle-aged individuals free of preexisting coronary disease.16,24 Prior studies were limited by use of death certificate diagnoses of coronary heart disease, and none addressed whether GGT predicted vascular risk via promotion of established risk factors.16 Our observations relating GGT to fatal and nonfatal incident CVD events in a community-based sample complement prior studies reporting that higher GGT is associated with cardiovascular death.33 We expand on prior work by demonstrating that GGT is associated with incident CVD even after accounting for baseline CRP, and risk factors modeled as time-varying covariates.
+
+TABLE 3. CVD Event Rates and Hazards Ratios According to GGT Levels
+
+Log-GGT, 1-SD Increment
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+No. With Incident CVD
+
+Events
+
+NA
+
+83
+
+114
+
+132
+
+Age/sex-adjusted rates/1000 person-years
+
+NA
+
+6.8
+
+8.6
+
+10.6
+
+Hazard Ratios (95% CI)
+
+Models Adjusting for Conventional Risk Factors at Baseline§
+
+Age/sex-adjusted
+
+1.28*
+
+Referent
+
+1.22
+
+1.53‡
+
+Multivariable-adjusted
+
+(1.18–1.38) 1.14‡
+
+Referent
+
+(0.92–1.62) 1.16
+
+(1.16–2.01) 1.30
+
+(1.04–1.24)
+
+Models Adjusting for Conventional Risk Factors and CRP at Baseline§
+
+Age/sex- and CRP-adjusted
+
+1.20*
+
+Referent
+
+(0.87–1.54) 1.28
+
+(0.98–1.72) 1.53‡
+
+Adjusted for multiple variablesϩCRP
+
+(1.10–1.31) 1.11†
+
+Referent
+
+(0.96–1.72) 1.23
+
+(1.15–2.04) 1.35†
+
+(1.02–1.22)
+
+(0. 92–1.65)
+
+Models Adjusting for Conventional Risk Factors as Time-Varying Covariates and CRP at Baseline§
+
+Multivariable-adjusted
+
+1.16*
+
+Referent
+
+1.19
+
+(1.01–1.81) 1.38†
+
+Adjusted for multiple variablesϩCRP
+
+(1.07–1.26) 1.13‡
+
+Referent
+
+(0.89–1.58) 1.26
+
+(1.05–1.82) 1.40†
+
+(1.03–1.24)
+
+(0.94–1.68)
+
+(1.05–1.88)
+
+Value of 1-SD log-GGTϭ0.6; NAϭ not applicable; †PϽ0.05, ‡PՅ0.01, *PՅ0.001 §Adjusted for age, sex, BMI, diabetes, systolic BP, total/HDL cholesterol ratio, current smoking, and alcohol consumption
+
+Quartile 4
+206 14.6
+2.11* (1.63–2.74)
+1.61* (1.22–2.11)
+1.88* (1. 43–2.48)
+1.61‡ (1.20–2.14)
+1.69* (1.29–2.21)
+1.67* (1.25–2.22)
+
+Quartile Trend
+NA NA
+1.29* (1.19–1.40)
+1.17* (1.08–1.28)
+1.23* (1.13–1.33)
+1.16‡ (1.06–1.27)
+1.19* (1.10–1.29)
+1.18* (1.08–1.28)
+
+6 Arterioscler Thromb Vasc Biol. January 2007
+
+TABLE 4. Mortality Rates and Hazards Ratios According to GGT Levels
+
+Log-GGT, 1-SD Increment
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+No. of Deaths
+
+Events
+
+NA
+
+50
+
+71
+
+98
+
+Age/sex-adjusted rates/1000 person-years
+
+NA
+
+3.9
+
+4.6
+
+6.1
+
+Hazard Ratios (95% CI)
+
+Models Adjusting for Conventional Risk Factors at Baseline§
+
+Age/sex-adjusted
+
+1.32*
+
+Referent
+
+1.25
+
+1.70‡
+
+Multivariable-adjusted
+
+(1.20–1.46) 1.25*
+
+Referent
+
+(0.87–1.79) 1.21
+
+(1.21–2.39) 1.62‡
+
+(1.13–1.38)
+
+Models Adjusting for Conventional Risk Factors and CRP at Baseline§
+
+Age/sex- and CRP-adjusted
+
+1.27*
+
+Referent
+
+(0.84–1.74) 1.20
+
+(1.14–2.29) 1.65‡
+
+Adjusted for multiple variablesϩCRP
+
+(1.15–1.40) 1.23*
+
+Referent
+
+(0.83–1.74) 1.17
+
+(1.17–2.34) 1.61‡
+
+(1.10–1.37)
+
+(0.81–1.71)
+
+Models Adjusting for Conventional Risk Factors as Time-Varying Covariates and CRP at Baseline§
+
+Multivariable-adjusted
+
+1.30*
+
+Referent
+
+1.25
+
+(1.13–2.29) 1.73‡
+
+Adjusted for multiple variablesϩCRP
+
+(1.17–1.44) 1.26*
+
+Referent
+
+(0.87–1.79) 1.21
+
+(1.23–2.44) 1.67‡
+
+(1.13–1.40)
+
+(0.83–1.75)
+
+(1.18–2.37)
+
+Value of 1-SD log-GGTϭ0.6; NAϭ not applicable; †PϽ0.05, ‡PՅ0.01, *PՅ0.001 §Adjusted for age, sex, BMI, diabetes, systolic BP, total/HDL cholesterol ratio, current smoking, and alcohol consumption
+
+Quartile 4
+143 8.1
+2.21* (1.60–3.05)
+1.94* (1.38–2.73)
+1.94* (1.39–2.72)
+1.83* (1.29–2.60)
+2.16* (1.54–3.02)
+1.95* (1.38–2.76)
+
+Quartile Trend
+NA NA
+1.31* (1.19–1.45)
+1.26* (1.13–1.39)
+1.26* (1.14–1.39)
+1.23* (1.11–1.37)
+1.30* (1.18–1.44)
+1.26* (1.13–1.40)
+
+Although GGT was weakly correlated with CRP in our sample and in prior studies,34 CRP did not abrogate the predictive value of GGT for clinical events. First, adjustment for CRP did not attenuate the association of GGT with CVD or mortality. Second, there was minimal additional effect on model discrimination when CRP was added to a model comprised of clinical covariates and GGT. Finally, there was no statistical interaction between GGT and CRP. Our findings suggest that GGT, a routinely-available metabolic marker and indicator of oxidative stress, is a significant predictor of CVD and mortality events independent of CRP. Our findings suggest that GGT will be an important component of future biomarker and multimarker approaches to cardiovascular risk evaluation.
+Potential Mechanisms of GGT Effect Mechanisms that explain the contribution of GGT to CVD and mortality have not been fully elucidated. GGT is associated with hepatic steatosis35 and insulin resistance,22,23 and is a predictor of incident hypertension36 and diabetes.13,37 Although we observed that the relations of GGT to cardiovascular events and death remained robust after accounting for fasting glucose and components of the metabolic syndrome, it is conceivable that such adjustment incompletely accounts for hepatic insulin resistance and/or steatosis.38 The activity of ectoenzymatic GGT may also modulate the redox status of protein thiols at the cell surface, leading to production of reactive oxygen species and membrane-permeable hydrogen peroxide.39 As noted previously, GGT contributes to oxidative stress pathways in several organ systems, localizes to atheromatous plaques containing oxidized LDL, and is proinflammatory, further implicating this protein in atherogenesis.34,40,41
+
+Strengths and Limitations The strengths of our investigation are its prospective design, consistent definition and validation of CVD events, complete longitudinal ascertainment of deaths, accounting for risk factors as time-varying covariates, and adjustment for CRP. The biological plausibility that GGT mediates vascular risk is reflected by the strength of the associations, temporal relations between baseline GGT and future vascular risk, and consistency of the results across several analyses. Several limitations of our approach merit comment. Establishing that GGT is a “risk factor” for CVD would require additional mechanistic studies that further assess systemic oxidative stress, and evaluate hepatic steatosis and insulin resistance. We did not obtain repeated GGT or CRP measurements but used baseline values, which is a potential limitation because changes could occur over time.23 Also, we did not extend this study to other emerging biomarkers of vascular risk. Nonetheless, GGT assays are widely available analytes which are routinely measurable in clinical laboratories. Lastly, the overwhelming majority of our sample was white, limiting the generalizability to other ethnicities.
+Conclusions In our community-based sample, higher GGT levels predicted CVD, mortality, and development of the metabolic syndrome. The association of GGT with adverse cardiovascular outcomes and death was robust after adjustment for traditional cardiac risk factors and CRP. Our study suggests that further investigation of GGT will provide insights into the pathogenesis of CVD and better define the clinical utility of this marker.
+Sources of Funding
+This work was supported by a Canadian Institutes of Health Research clinician-scientist award (to D.S.L.), National Institute of
+
+Lee et al Gamma Glutamyl Transferase and CVD Risk and Mortality 7
+
+Health/National Heart, Lung, and Blood Institute, contract N01-HC25195, and research grants R01HL073272 (to P.W.W.), K23HL074077 (to T.J.W.), R01HL076784 (to E.J.B.), N01HV28178 (to R.S.V.), R01HL71039 (to R.S.V.), R01HL67288 (to R.S.V.), and 2K24HL04334 (to R.S.V.).
+Disclosures
+None.
+References
+1. Whitfield JB. Gamma glutamyl transferase. Crit Rev Clin Lab Sci. 2001; 38:263–355.
+2. Karp DR, Shimooku K, Lipsky PE. Expression of gamma-glutamyl transpeptidase protects ramos B cells from oxidation-induced cell death. J Biol Chem. 2001;276:3798 –3804.
+3. Albert Z, Orlowska J, Orlowski M, Szewczuk A. Histochemical and biochemical investigations of gamma-glutamyl transpeptidase in the tissues of man and laboratory rodents. Acta Histochem. 1964;18:78 – 89.
+4. Tate SS, Meister A. gamma-Glutamyl transpeptidase: catalytic, structural and functional aspects. Mol Cell Biochem. 1981;39:357–368.
+5. Hanigan MH, Ricketts WA. Extracellular glutathione is a source of cysteine for cells that express gamma-glutamyl transpeptidase. Biochemistry. 1993;32:6302– 6306.
+6. Hochwald SN, Harrison LE, Rose DM, Anderson M, Burt ME. gammaGlutamyl transpeptidase mediation of tumor glutathione utilization in vivo. J Natl Cancer Inst. 1996;88:193–197.
+7. Paolicchi A, Emdin M, Passino C, Lorenzini E, Titta F, Marchi S, Malvaldi G, Pompella A beta-Lipoprotein- and LDL-associated serum gamma-glutamyltransferase in patients with coronary atherosclerosis. Atherosclerosis. 2006;186:80 – 85.
+8. Paolicchi A, Emdin M, Ghliozeni E, Ciancia E, Passino C, Popoff G, Pompella A. Images in cardiovascular medicine. Human atherosclerotic plaques contain gamma-glutamyl transpeptidase enzyme activity. Circulation. 2004;109:1440.
+9. Anderson ME, Allison RD, Meister A. Interconversion of leukotrienes catalyzed by purified gamma-glutamyl transpeptidase: concomitant formation of leukotriene D4 and gamma-glutamyl amino acids. Proc Natl Acad Sci U S A. 1982;79:1088 –1091.
+10. Rantala AO, Lilja M, Kauma H, Savolainen MJ, Reunanen A, Kesaniemi YA. Gamma-glutamyl transpeptidase and the metabolic syndrome. J Intern Med. 2000;248:230 –238.
+11. Lee DH, Ha MH, Kim JR, Gross M, Jacobs DR Jr. Gammaglutamyltransferase, alcohol, and blood pressure. A four year follow-up study. Ann Epidemiol. 2002;12:90 –96.
+12. Lee DH, Ha MH, Kim JH, Christiani DC, Gross MD, Steffes M, Blomhoff R, Jacobs DR Jr. Gamma-glutamyltransferase and diabetes–a 4 year follow-up study. Diabetologia. 2003;46:359 –364.
+13. Perry IJ, Wannamethee SG, Shaper AG. Prospective study of serum gammaglutamyltransferase and risk of NIDDM. Diabetes Care. 1998;21:732–737.
+14. Lee DH, Jacobs DR, Jr., Gross M, Kiefe CI, Roseman J, Lewis CE, Steffes M. Gamma-glutamyltransferase is a predictor of incident diabetes and hypertension: the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2003;49:1358 –1366.
+15. Lee DH, Gross MD, Jacobs DR Jr. Association of serum carotenoids and tocopherols with gamma-glutamyltransferase: the Cardiovascular Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2004;50:582–588.
+16. Wannamethee G, Ebrahim S, Shaper AG. Gamma-glutamyltransferase: determinants and association with mortality from ischemic heart disease and all causes. Am J Epidemiol. 1995;142:699 –708.
+17. Jousilahti P, Rastenyte D, Tuomilehto J. Serum gamma-glutamyl transferase, self-reported alcohol drinking, and the risk of stroke. Stroke. 2000;31:1851–1855.
+18. Bots ML, Salonen JT, Elwood PC, Nikitin Y, Freire dC, Inzitari D, Sivenius J, Trichopoulou A, Tuomilehto J, Koudstaal PJ, Grobbee DE. Gamma-glutamyltransferase and risk of stroke: the EUROSTROKE project. J Epidemiol Community Health. 2002;56(Suppl 1):i25–i29.
+19. Yokoyama H, Hirose H, Moriya S, Saito I. Significant correlation between insulin resistance and serum gamma-glutamyl transpeptidase (gamma-GTP) activity in non-drinkers. Alcohol Clin Exp Res. 2002;26:91S–94S.
+20. Emdin M, Passino C, Michelassi C, Titta F, L’abbate A, Donato L, Pompella A, Paolicchi A. Prognostic value of serum gamma-glutamyl transferase activity after myocardial infarction. Eur Heart J. 2001;22:1802–1807.
+
+21. Karlson BW, Wiklund O, Hallgren P, Sjolin M, Lindqvist J, Herlitz J. Ten-year mortality amongst patients with a very small or unconfirmed acute myocardial infarction in relation to clinical history, metabolic screening and signs of myocardial ischaemia. J Intern Med. 2000;247:449–456.
+22. Nilssen O, Forde OH, Brenn T. The Tromso Study. Distribution and population determinants of gamma-glutamyltransferase. Am J Epidemiol. 1990;132:318 –326.
+23. Nilssen O, Forde OH. Seven-year longitudinal population study of change in gamma-glutamyltransferase: the Tromso Study. Am J Epidemiol. 1994; 139:787–792.
+24. Brenner H, Rothenbacher D, Arndt V, Schuberth S, Fraisse E, Fliedner TM. Distribution, determinants, and prognostic value of gammaglutamyltransferase for all-cause mortality in a cohort of construction workers from southern Germany. Prev Med. 1997;26:305–310.
+25. Kannel WB, Feinleib M, McNamara PM, Garrison RJ, Castelli WP. An investigation of coronary heart disease in families. The Framingham offspring study. Am J Epidemiol. 1979;110:281–290.
+26. Lloyd-Jones DM, Nam BH, D’Agostino RB, Sr., Levy D, Murabito JM, Wang TJ, Wilson PW, O’Donnell CJ. Parental cardiovascular disease as a risk factor for cardiovascular disease in middle-aged adults: a prospective study of parents and offspring. J Am Med Assoc. 2004;291:2204–2211.
+27. Rosalki SB, Tarlow D. Optimized determination of gamma-glutamyltransferase by reaction-rate analysis. Clin Chem. 1974;20:1121–1124.
+28. Grundy SM, Cleeman JI, Daniels SR, Donato KA, Eckel RH, Franklin BA, Gordon DJ, Krauss RM, Savage PJ, Smith SC Jr, Spertus JA, Costa F. Diagnosis and management of the metabolic syndrome. An American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement. Circulation 2005;112:2735–2752.
+29. Executive Summary of The Third Report of The National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of High Blood Cholesterol In Adults (Adult Treatment Panel III). J Am Med Assoc. 2001;285:2486 –2497.
+30. Kerner A, Avizohar O, Sella R, Bartha P, Zinder O, Markiewicz W, Levy Y, Brook GJ, Aronson D. Association between elevated liver enzymes and C-reactive protein: possible hepatic contribution to systemic inflammation in the metabolic syndrome. Arterioscler Thromb Vasc Biol. 2005;25:193–197.
+31. Lee DH, Lim JS, Yang JH, Ha MH, Jacobs DR Jr. Serum gammaglutamyltransferase within its normal range predicts a chronic elevation of alanine aminotransferase: a four year follow-up study. Free Radic Res. 2005;39:589 –593.
+32. Hosmer DW, Lemeshow S. Applied survival analysis. New York: John Wiley and Sons, Inc.; 1999.
+33. Ruttmann E, Brant LJ, Concin H, Diem G, Rapp K, Ulmer H. Gammaglutamyltransferase as a risk factor for cardiovascular disease mortality: an epidemiological investigation in a cohort of 163,944 Austrian adults. Circulation. 2005;112:2130 –2137.
+34. Lee DH, Jacobs DR Jr. Association between serum gamma-glutamyltransferase and C-reactive protein. Atherosclerosis. 2005;178:327–330.
+35. Ikai E, Honda R, Yamada Y. Serum gamma-glutamyl transpeptidase level and blood pressure in nondrinkers: a possible pathogenetic role of fatty liver in obesity-related hypertension. J Hum Hypertens. 1994;8:95–100.
+36. Stranges S, Trevisan M, Dorn JM, Dmochowski J, Donahue RP. Body fat distribution, liver enzymes, and risk of hypertension: evidence from the Western New York Study. Hypertension. 2005;46:1186 –1193.
+37. Nakanishi N, Suzuki K, Tatara K. Serum gamma-glutamyltransferase and risk of metabolic syndrome and type 2 diabetes in middle-aged Japanese men. Diabetes Care. 2004;27:1427–1432.
+38. Ford ES, Abbasi F, Reaven GM. Prevalence of insulin resistance and the metabolic syndrome with alternative definitions of impaired fasting glucose. Atherosclerosis. 2005;181:143–148.
+39. Dominici S, Valentini M, Maellaro E, Del Bello B, Paolicchi A, Lorenzini E, Tongiani R, Comporti M, Pompella A. Redox modulation of cell surface protein thiols in U937 lymphoma cells: the role of gammaglutamyl transpeptidase-dependent H2O2 production and S-thiolation. Free Radic Biol Med. 1999;27:623– 635.
+40. Jean JC, Liu Y, Brown LA, Marc RE, Klings E, Joyce-Brady M. Gammaglutamyl transferase deficiency results in lung oxidant stress in normoxia. Am J Physiol Lung Cell Mol Physiol. 2002;283:L766 –L776.
+41. Joyce-Brady M, Takahashi Y, Oakes SM, Rishi AK, Levine RA, Kinlough CL, Hughey RP. Synthesis and release of amphipathic gammaglutamyl transferase by the pulmonary alveolar type 2 cell. Its redistribution throughout the gas exchange portion of the lung indicates a new role for surfactant. J Biol Chem. 1994;269:14219 –14226.
+

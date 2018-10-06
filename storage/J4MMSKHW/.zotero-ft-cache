@@ -1,0 +1,493 @@
+Atherosclerosis 265 (2017) 102e109
+Contents lists available at ScienceDirect
+Atherosclerosis
+journal homepage: www.elsevier.com/locate/atherosclerosis
+
+Gamma-glutamyltransferase and cardiovascular mortality in Korean
+adults: A cohort study
+Sang-Wook Yi a, b, *, Sang-Hun Lee c, Hee-Jin Hwang b, d, Jee-Jeon Yi e
+a Department of Preventive Medicine and Public Health, Catholic Kwandong University, College of Medicine, Gangneung, 25601, Republic of Korea b Institute for Clinical and Translational Research, Catholic Kwandong University International St. Mary's Hospital, Incheon, 22711, Republic of Korea c Department of Internal Medicine, Catholic Kwandong University International St. Mary's Hospital, Incheon, 22711, Republic of Korea d Department of Family Medicine, Catholic Kwandong University International St. Mary's Hospital, Incheon, 22711, Republic of Korea e Institute for Occupational and Environmental Health, Catholic Kwandong University, Gangneung, 25601, Republic of Korea
+
+article info
+Article history: Received 7 July 2017 Received in revised form 16 August 2017 Accepted 23 August 2017 Available online 26 August 2017
+Keywords: Asians Cardiovascular diseases Cohort studies Gamma-glutamyltransferase Ischemic heart disease Mortality Stroke
+
+abstract
+Background and aims: Insufﬁcient evidence has been reported on the associations between gammaglutamyltransferase (GGT) and cardiovascular disease (CVD) mortality from studies with an adequate number of participants. Methods: 512,990 Korean adults who participated in routine health examinations during the period 2002 e2003 were followed up until 2013. Hazard ratios (HRs) were calculated after adjusting for potential confounders. Results: Each 1-unit higher natural-log-transformed GGT (LogeGGT) level was associated with approximately 30e50% higher mortality risk of CVD (HR ¼ 1.31): hypertensive diseases (HR ¼ 1.31), ischemic heart diseases (IHD, HR ¼ 1.29), total stroke (HR ¼ 1.29), acute myocardial infarction (HR ¼ 1.30), chronic IHD (HR ¼ 1.27), heart failure (HR ¼ 1.48), hemorrhagic stroke (HR ¼ 1.42), and ischemic stroke (HR ¼ 1.27). The associations with CVD mortality did not vary by sex, or alcohol use, whereas they were stronger in younger (<60 years), non-hypertensive (systolic blood pressure [SBP] <140 mmHg), physically more active, normal-weight (body mass index<25 kg/m2), and normocholesterolemic (total cholesterol <200 mg/dL) adults than in their respective counterparts. Adding LogeGGT to prediction models for CVD mortality increased AUC value (0.0020, p < 0.001), especially in persons aged <60 years (0.0055), with SBP <140 mmHg (0.0030), and with both age <60 years and SBP <140 mmHg (0.0086). Conclusions: Higher GGT signiﬁcantly increased the risk of mortality due to CVD and its subtypes. The relative risks were greater in subjects with younger age, no hypertension, more physical activity, normal weight, and normocholesterolemia than in their respective counterparts. In the general population, adding GGT to conventional CVD risk factors may improve the prediction of CVD mortality, especially in subjects younger than 60 years and in those without hypertension.
+© 2017 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Cardiovascular disease (CVD), including ischemic heart disease (IHD) and stroke, is currently the major cause of premature mortality and disability worldwide [1,2]. Several studies have shown that elevated gamma-glutamyltransferase (GGT) activity is associated with higher risk of CVD [3e5], although blood GGT levels have
+* Corresponding author. Department of Preventive Medicine and Public Health, College of Medicine, Catholic Kwandong University, Bumil-ro 579, Gangneung, Gangwon-do, 25601, Republic of Korea.
+E-mail address: ﬂyhigh@cku.ac.kr (S.-W. Yi).
+http://dx.doi.org/10.1016/j.atherosclerosis.2017.08.028 0021-9150/© 2017 Elsevier B.V. All rights reserved.
+
+been mainly used as a liver function test and a marker of alcohol ingestion. Blood GGT is suggested to have the potential to be an indicator, or a risk factor, for cardiovascular risk prediction and evaluation [6e8].
+The available evidence, however, is not consistent regarding the association of elevated GGT activity with the risk of the leading cause of premature mortality: IHD, particularly acute myocardial infarction (MI) [5,7,9]. Information from prospective studies on the associations between GGT and subcategories of CVD, such as heart failure and hemorrhagic stroke, is lacking [10,11]. It is unclear whether the associations between GGT and CVD differ by risk factors such as age [5,12], sex [13], alcohol intake [4,12], and metabolic
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+103
+
+risk factors. Furthermore, despite some evidence linking GGT and CVD, it remains unclear whether GGT provides additional information on top of known conventional risk factors for the prediction of CVD, considering the existence of strong correlations between GGT and conventional risk factors [12,14].
+Through a prospective cohort study that included approximately 513,000 participants, we aimed to examine whether blood GGT levels were associated with the risk of CVD mortality, and whether any such associations varied by individually speciﬁc factors such as sex, age, alcohol use, and blood pressure. Additionally, whether blood GGT provides an incremental beneﬁt on top of known risk factors for the prediction of CVD mortality was examined.
+2. Materials and methods
+2.1. Study population and follow-up
+The National Health Insurance Service (NHIS) provides compulsory health insurance that covers 97% of the Korean population [15]. The study cohort (n ¼ 514,795) comprised a 10% random sample of 5.15 million NHIS beneﬁciaries aged 40e79 years in 2002 who participated in health examinations during the period 2002e2003. A total of 1805 people were excluded due to missing information (n ¼ 1753) on GGT, serum glucose, systolic blood pressure, total cholesterol, and body mass index (BMI) or because they had an extremely high BMI (50 kg/m2, n ¼ 52). For the remaining 512,990 people, follow-up on underlying causes of death until December 31, 2013 was carried out using national death records. The International Classiﬁcation of Diseases-10th Revision (ICD-10) was used to deﬁne death from CVD (I00-I99), and instances of CVD mortality were classiﬁed into hypertensive diseases (I10-I13), IHD (I20-I25), acute MI (I21), chronic IHD (I25), other heart diseases (I26-I51), heart failure (I50), total stroke (I60-I69), hemorrhagic stroke (I60-I62), and ischemic stroke (I63). For research in accordance with the conditions documented in Korean laws, health examination data can be provided without speciﬁc informed consent from the participants [16]. This study was approved by the Institutional Review Board of Catholic Kwandong University, Republic of Korea. Anonymized data were provided to the authors by the NHIS.
+2.2. Data collection
+GGT was measured using the method recommended by the International Federation of Clinical Chemistry (IFCC), or using the Szasz method. Fasting serum glucose and total cholesterol were assayed using enzymatic methods [17]. Blood pressure was measured in a seated position using a standard mercury sphygmomanometer. Weight and height were measured to the nearest kilogram and centimeter, respectively [15]. Body mass index (BMI) was calculated as the weight in kilograms divided by the square of height in meters (kg/m2). Smoking history, alcohol use, and known CVD were self-reported via a questionnaire. The health examinations and data collection followed a standard protocol ofﬁcially documented by the Ministry of Health and Welfare. External quality assessments for clinical chemistry, such as GGT measurements, in hospitals was supervised by the Korean Association of Quality Assurance for Clinical Laboratory, and the quality of assays was regularly assessed [18].
+2.3. Statistical analysis
+GGT values were categorized into six groups using the 20th (reference), 40th, 60th, 80th, and 90th percentiles as sex-speciﬁc
+
+cut-points (quintiles, with the top quintile split). The cut-points corresponded to 20, 28, 40, 64, and 98 U/L in men, and 11, 15, 19, 26, and 35 U/L in women. The participants were also categorized into four groups based on quartiles for comparison with other research [19,20]. Natural-log transformed GGT (LogeGGT) values were also analyzed as a continuous variable.
+HRs for CVD mortality were calculated using Cox proportional hazards models stratiﬁed by age (years) at baseline (40e44, 45e54, 55e64, 65e74, 75e80) after adjustment for age at baseline (continuous variable within each age group), sex (when applicable), a history of heart disease or stroke (yes or no), smoking status (current smoker, former smoker, never-smoker, or missing information [n ¼ 21,660]), alcohol use (frequency; rarely, 2 days/month to 2 days/week, 3e7 days/week, and missing information [n ¼ 9657]), physical activity (at least once a week; yes or no), beneﬁciary income status (deciles; below 4 [low income], 4e7, 8e10 [high income]), systolic blood pressure (SBP; mmHg), serum total cholesterol (mg/dL), fasting serum glucose (mg/dL), and BMI (kg/m2). Dose-response analysis using a restricted cubic spline transformation of LogeGGT with 4 knots (5th, 35th, 65th, and 95th percentiles) with CVD mortality was done to evaluate the nonlinearity of association.
+The area under the curve (AUC) values were estimated using Proc Logistic (ROC statement). A prediction model with an AUC value of 1.0 or 0.5 represents a perfect or an uninformative model, respectively. When investigating changes in the AUC upon addition of GGT, a CVD mortality prediction model that included all variables in the fully adjusted analysis was used.
+Subgroup analyses were done to examine evidence of differences in HRs according to individually speciﬁc characteristics, such as age, sex, and alcohol consumption. An inverse-variance weighted average method was used for the interaction test between subgroups [21]. Subgroup analyses were also used as a sensitivity test.
+All p-values were 2-sided. All analyses used SAS version 9.4 (SAS Institute Inc., Cary, NC, USA).
+3. Results
+3.1. General characteristics
+During 5.3 million person-years of follow-up of 512,990 people (45.8% women), 4647 men and 3114 women died from CVD. At baseline, the mean (standard deviation) age was 53.1 (9.7) years and the mean LogeGGT level was 3.26 (0.76) U/L (Table 1), with values of 3.59 (0.75) U/L for men and 2.87 (0.56) U/L for women. Subjects with higher GGT values tended to be more likely to be current smokers and to exhibit more frequent alcohol use, and less likely to be elderly (70 or above), than those with lower GGT levels. Higher GGT levels were generally associated with higher SBP, fasting glucose, total cholesterol, and BMI values (Table 1).
+3.2. GGT and CVD mortality
+Clear dose-response relationships between GGT and CVD mortality were observed in all participants (Fig. 1) and in both sexes (Supplementary Fig. 1 and 2). Compared with the lowest baseline GGT group, the sex-age adjusted HRs for CVD mortality were 1.06, 1.20, 1.32, 1.58, and 1.86 across the other ﬁve GGT categories (Fig. 1). After adjustment for age and sex, each 1-unit increase in LogeGGT was associated with an approximately 35% higher risk of CVD mortality (HR per 1-unit increase in LogeGGT ¼ 1.35 [95% CI ¼ 1.31e1.39]); and elevations of 33%e42% for deaths from hypertensive diseases, IHD, other heart diseases, and stroke (HRs of 1.42 [1.26e1.59], 1.33 [1.26e1.41], 1.35 [1.25e1.47], and 1.34
+
+104
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+Table 1 Characteristics of participants according to GGT categories.
+
+Characteristics
+
+Total
+
+Sex-speciﬁc GGT percentile
+
+<20%
+
+20% to <40%
+
+40% to <60%
+
+60% to <80%
+
+80% to <90%
+
+90%
+
+N ¼ 512,990
+
+n ¼ 89,774
+
+n ¼ 112,011
+
+n ¼ 104,014
+
+n ¼ 100,740
+
+n ¼ 53,164
+
+n ¼ 53,287
+
+GGT, U/L
+
+37.9
+
+LogeGGT, U/L Age, years
+
+3.26 53.1
+
+SBP, mmHg
+
+127.2
+
+FSG, mg/dL
+
+98.4
+
+Total cholesterol, mg/dL BMI, kg/m2
+
+200.4 24.0
+
+Sex
+
+Women
+
+234,743
+
+Men
+
+278,247
+
+Age group
+
+< 60 years
+
+370,540
+
+60e69 years
+
+104,822
+
+ 70 years
+
+37,628
+
+Self-reported comorbidity
+
+Heart diseases, stroke
+
+9692
+
+Smoking status
+
+Never smoker
+
+329,465
+
+Past smoker
+
+43,577
+
+Current smoker
+
+118,288
+
+Missing
+
+21,660
+
+Alcohol use, frequency (days)
+
+Rarely
+
+285,046
+
+2/month-2/week
+
+160,334
+
+3e7/week
+
+57,953
+
+Missing
+
+9657
+
+Physical activity
+
+1 time/week
+
+210,789
+
+Income status
+
+<4 decile (low income) 118,061
+
+4-7 decile
+
+167,098
+
+>7 decile (high income) 227,831
+
+±54.7 ±0.76 ±9.7 ±18.3 ±34.8 ±38.8 ±3
+(45.8) (54.2)
+(72.2) (20.4) (7.3)
+(1.9)
+(64.2) (8.5) (23.1) (4.2)
+(55.6) (31.3) (11.3) (1.9)
+(41.1)
+(23.0) (32.6) (44.4)
+
+12.6 2.47 53.3 123.4 94.0 188.3 22.9
+34,661 55,113
+63,171 18,316 8287
+1448
+59,542 8336 18,011 3885
+57,722 25,419 4683 1950
+37,432
+19,576 29,342 40,856
+
+±4.0 ±0.36 ±10.3 ±17.4 ±28.5 ±34.3 ±2.7
+(38.6) (61.4)
+(70.4) (20.4) (9.2)
+(1.6)
+(66.3) (9.3) (20.1) (4.3)
+(64.3) (28.3) (5.2) (2.2)
+(41.7)
+(21.8) (32.7) (45.5)
+
+17.8 2.83 52.9 124.9 95.1 196.1 23.5
+57,241 54,770
+80,915 22,392 8704
+1814
+77,418 8783 21,145 4665
+70,415 32,235 7085 2276
+45,886
+26,062 35,628 50,321
+
+±5.7 ±0.33 ±9.9 ±17.8 ±31.8 ±36 ±2.8
+(51.1) (48.9)
+(72.2) (20.0) (7.8)
+(1.6)
+(69.1) (7.8) (18.9) (4.2)
+(62.9) (28.8) (6.3) (2.0)
+(41.0)
+(23.3) (31.8) (44.9)
+
+25.4 3.17 53.0 126.9 97.3 201.1 24.0
+47,436 56,578
+75,657 21,019 7338
+1964
+67,134 9090 23,300 4490
+58,372 33,936 9733 1973
+43,538
+23,778 33,277 46,959
+
+±8.7 ±0.36 ±9.6 ±17.9 ±33.1 ±37 ±2.8
+(45.6) (54.4)
+(72.7) (20.2) (7.1)
+(1.9)
+(64.5) (8.7) (22.4) (4.3)
+(56.1) (32.6) (9.4) (1.9)
+(41.9)
+(22.9) (32.0) (45.1)
+
+36.9 3.52 53.0 128.9 100.1 205.8 24.6
+45,728 55,012
+73,478 20,679 6583
+2103
+62,423 8876 25,102 4339
+50,950 34,600 13,441 1749
+42,012
+22,989 32,504 45,247
+
+±15.0 ±0.43 ±9.4 ±18.1 ±35.4 ±38.9 ±2.9
+(45.4) (54.6)
+(72.9) (20.5) (6.5)
+(2.1)
+(62.0) (8.8) (24.9) (4.3)
+(50.6) (34.3) (13.3) (1.7)
+(41.7)
+(22.8) (32.3) (44.9)
+
+55.4 3.90 53.0 130.6 102.9 209.1 24.9
+24,355 28,809
+38,953 10,858 3353
+1158
+31,832 4549 14,631 2152
+24,521 18,233 9572 838
+21,643
+12,448 17,463 23,253
+
+±25.1 ±0.49 ±9.4 ±18.5 ±39 ±40.9 ±3
+(45.8) (54.2)
+(73.3) (20.4) (6.3)
+(2.2)
+(59.9) (8.6) (27.5) (4.0)
+(46.1) (34.3) (18.0) (1.6)
+(40.7)
+(23.4) (32.8) (43.7)
+
+131.5 4.58 53.4 132.4 107.6 209.8 24.8
+25,322 27,965
+38,366 11,558 3363
+1205
+31,116 3943 16,099 2129
+23,066 15,911 13,439 871
+20,278
+13,208 18,884 21,195
+
+±127.2 ±0.73 ±9.2 ±19.2 ±44.5 ±45.3 ±3.2
+(47.5) (52.5)
+(72.0) (21.7) (6.3)
+(2.3)
+(58.4) (7.4) (30.2) (4.0)
+(43.3) (29.9) (25.2) (1.6)
+(38.1)
+(24.8) (35.4) (39.8)
+
+Data are expressed as mean ± standard deviation or n (%). GGT categories: 1e19 (<20%), 20e27 (20% to <40%), 28e39 (40% to <60%), 40e63 (60% to <80%), 64e97 (80% to <90%), and 98 (90%) U/L in men, 1e10 (<20%), 11e14 (20% to <40%), 15e18 (40% to <60%), 19e25 (60% to <80%), 26e34 (80% to <90%), and 35 (90%) U/L in women. pvalues, which were calculated by the Chi-squared test and 1-way analysis of variance across the GGT groups, were <0.001 for each variable including age at baseline. To convert cholesterol from mg/dL to mmol/L, multiply by 0.0259. To convert glucose from mg/dL to mmol/L, multiply by 0.0555. BMI, body mass index; FSG, fasting serum glucose; GGT, gamma-glutamyltransferase; SBP, systolic blood pressure.
+
+[1.28e1.40], respectively). After further adjustment for personspeciﬁc factors including smoking status, frequency of alcohol use, and SBP, the HRs modestly changed (Table 2). The restricted cubic spline analysis showed that the association of LogeGGT with CVD mortality was generally linear in both sexes (pnonlinearity ¼ 0.1999 in men, 0.4890 in women) and the pattern of association was similar between men and women (Supplementary Fig. 3).
+Mortality was 33%e50% higher for every 1-unit higher LogeGGT score for the various subtypes of heart diseases and stroke, including acute MI, chronic IHD, heart failure, hemorrhagic stroke, and ischemic stroke (HRs of 1.34 [95% CI ¼ 1.25e1.43], 1.33 [95% CI, 1.15e1.54], 1.45 [95% CI, 1.24e1.70], 1.50 [95% CI, 1.39e1.69], and 1.33 [95% CI, 1.23e1.44], respectively), after adjusting for age and sex. When fully adjusted for potential confounders, mortality was on average 27%e48% higher for each 1-unit increment in LogeGGT for the subtypes of heart disease and stroke (Supplementary Table 1). The magnitude of the HRs per 1-unit increase in LogeGGT were similar between acute MI and chronic IHD, while it was greater for hemorrhagic stroke than for ischemic stroke (sexage adjusted HR, 1.50 vs. 1.33, pheterogeneity ¼ 0.029; fully adjusted HR, 1.42 vs. 1.27, pheterogeneity ¼ 0.052), especially in men (fully adjusted HR, 1.58 vs. 1.22, pheterogeneity<0.001).
+When HRs were analyzed in various subgroups (Fig. 2), the HRs for CVD mortality generally did not vary between men and women, persons with or without self-reported heart diseases or stroke,
+
+never versus ever smokers, rare alcohol users versus regular alcohol users, high versus low income earners, and normoglycemic versus hyperglycemic persons. The association, however, was different between subgroups according to age (pinteraction ¼ 0.001), SBP (pinteraction ¼ 0.001), physical activity (pinteraction ¼ 0.052), BMI (pinteraction ¼ 0.026), and blood cholesterol levels (pinteraction ¼ 0.020). For IHD mortality, the estimated relative risk was greater in persons with lower blood pressure (Supplemental Fig. 4, pinteraction ¼ 0.001), while for total stroke mortality, it was greater in younger adults (pinteraction<0.001), men (pinteraction ¼ 0.006), and physically active persons (pinteraction ¼ 0.009) than their counterparts (Supplemental Fig. 5).
+Additional analysis was performed after excluding persons with a history of liver disease, and further adjustment for alanine transaminase and aspartate transaminase in order to minimize the potential impact of liver disorders and to examine the associations of GGT independent of liver function. After such a restriction and further adjustment, the associations of GGT were not weakened (Supplemental Table 3).
+3.3. GGT and prediction of CVD mortality
+In persons without known heart disease or stroke, without GGT in the model, the fully adjusted prediction model showed a fairly good predictive ability for discriminating CVD mortality (AUC ¼ 0.8442). When LogeGGT was added into the model, the AUC
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+105
+
+Fig. 1. Age and sex adjusted HRs* across 6 categories of baseline GGT for mortality from CVD and its subtypes. GGT categories (1e19, 20e27, 28e39, 40e63, 64e97, and 98 U/L in men, 1e10, 11e14, 15e18, 19e25, 26e34, and 35 U/L in women). *HRs and 95% CIs were calculated using Cox proportional hazards models. CI, conﬁdence interval; CVD, cardiovascular disease; GGT, gamma-glutamyltransferase; HR, hazard ratio; IHD, ischemic heart disease; MI, myocardial infarction.
+
+increased signiﬁcantly (change in AUC, 0.0020, p < 0.001, Table 3). The increase in AUC upon the addition of GGT was greater in persons <60 years of age than in persons 60 years of age (0.0055 vs. 0.0021, pheterogeneity ¼ 0.024), in persons with no hypertension (SBP <140 mmHg) than in those with hypertension (0.0030 vs. 0.0013, pheterogeneity ¼ 0.007), and in persons <60 years of age with an SBP <140 mmHg than in those aged 60 years with an SBP <140 mmHg (0.0086 vs. 0.0030, pheterogeneity ¼ 0.031). When a model that only included Framingham risk score variables such as age, sex, smoking status, SBP, total cholesterol, and comorbid diabetes, but not highdensity lipoprotein cholesterol due to the unavailability of that
+
+information, was ﬁtted [22], among persons with an SBP <140 mmHg, the increase in the AUC upon the addition of GGT was also greater in persons aged <60 years than in persons aged 60 years (0.0088 vs. 0.0022, pheterogeneity ¼ 0.008).
+4. Discussion
+In our cohort study of 512,990 Korean adults, we found that higher blood GGT levels were associated with higher mortality from CVD and its subtypes. The presence of clear dose-response associations strengthens the evidence that GGT is a risk factor for
+
+106
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+Table 2 Hazard ratios (HRs) for CVD mortality across GGT categories.
+
+Causes of death
+
+GGT category
+
+No. of deaths
+
+Model 1
+
+Model 2
+
+p
+
+HR
+
+(95% CI)
+
+p
+
+HR
+
+(95% CI)
+
+Total CVD (I00-I99) Hypertensive diseases (I10-I13) IHD (I20-I25) Other heart disease (I26-I51) Total stroke (I60-I69)
+
+<20% 20% to <40% 40% to <60% 60% to <80% 80% to <90% 90% 1 unit higher LogeGGT <20% 20% to <40% 40% to <60% 60% to <80% 80% to <90% 90% 1 unit higher LogeGGT <20% 20% to <40% 40% to <60% 60% to <80% 80% to <90% 90% 1 unit higher LogeGGT <20% 20% to <40% 40% to <60% 60% to <80% 80% to <90% 90% 1 unit higher LogeGGT <20% 20% to <40% 40% to <60% 60% to <80% 80% to <90% 90% 1 unit higher LogeGGT
+
+1365 1493 1489 1499 884 1031 7761 89 101 101 120 54 80 545 374 400 435 411 268 265 2153 190 214 200 226 117 149 1096 668 734 710 705 424 500 3741
+
+0.069 <0.001 <0.001 <0.001 <0.001 <0.001
+0.784 0.242 0.003 0.077 <0.001 <0.001
+0.206 <0.001 <0.001 <0.001 <0.001 <0.001
+0.405 0.158 <0.001 0.001 <0.001 <0.001
+0.313 0.009 <0.001 <0.001 <0.001 <0.001
+
+1.00 1.07 1.21 1.34 1.59 1.87 1.36 1.00 1.04 1.19 1.53 1.37 2.04 1.39 1.00 1.10 1.34 1.42 1.89 1.89 1.37 1.00 1.09 1.16 1.44 1.52 2.00 1.40 1.00 1.06 1.15 1.25 1.50 1.77 1.33
+
+(Reference) (0.99e1.15) (1.12e1.30) (1.24e1.45) (1.46e1.74) (1.72e2.04) (1.32e1.40) (Reference) (0.78e1.39) (0.89e1.59) (1.15e2.03) (0.97e1.94) (1.49e2.81) (1.23e1.57) (Reference) (0.95e1.26) (1.16e1.54) (1.23e1.64) (1.61e2.23) (1.61e2.24) (1.29e1.45) (Reference) (0.89e1.32) (0.95e1.41) (1.18e1.76) (1.20e1.92) (1.59e2.50) (1.29e1.53) (Reference) (0.95e1.17) (1.04e1.28) (1.12e1.40) (1.33e1.71) (1.56e1.99) (1.27e1.40)
+
+0.128 <0.001 <0.001 <0.001 <0.001 <0.001
+0.892 0.371 0.012 0.207 <0.001 <0.001
+0.420 0.001 <0.001 <0.001 <0.001 <0.001
+0.390 0.148 <0.001 0.001 <0.001 <0.001
+0.317 0.013 <0.001 <0.001 <0.001 <0.001
+
+1.00 1.06 1.18 1.30 1.51 1.72 1.31 1.00 1.02 1.14 1.44 1.26 1.81 1.31 1.00 1.06 1.27 1.31 1.70 1.66 1.29 1.00 1.09 1.16 1.45 1.52 1.97 1.39 1.00 1.06 1.15 1.24 1.46 1.64 1.29
+
+(Reference) (0.98e1.14) (1.10e1.27) (1.20e1.40) (1.38e1.65) (1.57e1.87) (1.26e1.35) (Reference) (0.76e1.36) (0.85e1.53) (1.08e1.92) (0.88e1.79) (1.31e2.50) (1.15e1.48) (Reference) (0.92e1.22) (1.10e1.46) (1.14e1.52) (1.44e2.00) (1.40e1.97) (1.21e1.37) (Reference) (0.89e1.33) (0.95e1.42) (1.19e1.78) (1.19e1.93) (1.56e2.48) (1.27e1.51) (Reference) (0.95e1.17) (1.03e1.28) (1.11e1.38) (1.28e1.66) (1.45e1.86) (1.23e1.35)
+
+GGT categories: 1e19 (<20%), 20e27 (20% to <40%), 28e39 (40% to <60%), 40e63 (60% to <80%), 64e97 (80% to <90%), and 98 (90%) U/L in men, 1e10 (<20%), 11e14 (20% to <40%), 15e18 (40% to <60%), 19e25 (60% to <80%), 26e34 (80% to <90%), and 35 (90%) U/L in women. CI, conﬁdence interval; CVD, cardiovascular diseases; GGT, gamma-glutamyltransferase; IHD, ischemic heart disease. Model 1: adjustment was done for age at baseline, sex, smoking status, alcohol use, physical activity, income status, and self-reported heart diseases or stroke. Model 2: adjustment was done for model 1 plus systolic blood pressure, fasting glucose, total cholesterol, and body mass index.
+
+CVD. Each 1-unit increase in the LogeGGT value was on average associated with an approximately 30% higher risk of death from CVD (HR ¼ 1.31), and a 30%e50% greater risk of death from the subgroups of CVD such as hypertensive diseases (HR ¼ 1.31), IHD (HR ¼ 1.29), other heart diseases (HR ¼ 1.39), total stroke (HR ¼ 1.29), acute MI (HR ¼ 1.30), chronic IHD (HR ¼ 1.27), heart failure (HR ¼ 1.48), hemorrhagic stroke (HR ¼ 1.42), and ischemic stroke (HR ¼ 1.27), after full adjustment. In the subgroup analysis, the HRs for CVD mortality generally did not vary by sex, selfreported comorbidity of heart diseases or stroke, smoking status, frequency of alcohol use, income status, or blood glucose level. The association, however, was stronger in younger adults (below 60 years), non-hypertensive persons, physically more active persons, persons with normal weight (BMI <25 kg/m2), and individuals with total cholesterol <200 mg/dL than in their respective counterparts. Upon the addition of LogeGGT in the CVD mortality prediction model, which included age, sex, SBP, fasting glucose, total cholesterol, BMI, smoking status, alcohol use, income status, and physical activity, the AUC value showed a modest increase (0.0020, p < 0.001). The change in AUC values by including GGT was more profound in persons aged <60 years (0.0055), with an SBP <140 mmHg (0.0030), and with both age <60 years and SBP <140 mmHg (0.0086).
+Through previous systematic reviews and our own literature search, six prospective cohort studies that reported associations
+
+between GGT and CVD in Asian populations were identiﬁed [9,13,20,23e25]. The results in Asian populations have been a source of heterogeneity in several meta-analyses [11,26], and the possibility that the association is weaker in Asians than in European-origin populations has been suggested [7,11]. The current study, however, suggests that the overall association is not substantially different between Asian and European-origin populations, since the magnitude of the associations of GGT with CVD found in this study (HR per 1-SD increase in LogeGGT ¼ 1.22 [95% CI ¼ 1.19e1.25]), stroke (1.21 [1.17e1.25]), and heart failure (1.34 [1.19e1.52]) was similar to that of previous meta-analyses (1.23 [95% CI ¼ 1.16e1.29] [3], 1.28, [95% CI ¼ 1.16e1.43] [11], and 1.25 [95% CI ¼ 1.07e1.46] [10], respectively).
+IHD, especially its acute form, has been associated with controversial results; in several large studies, higher GGT activity was not associated with a greater risk of IHD, at least in a subgroup analysis according to sex [5,9,20,26]. In the current study, mortality from IHD, including acute MI, was positively associated with GGT levels in both sexes, and the magnitude of the HRs was found to be similar to those for other forms of CVD.
+For subtypes of stroke, our study conﬁrmed that the association of GGT was stronger for hemorrhagic stroke than for ischemic stroke. The majority of prospective studies [5,9,26,27], except for a few studies with a small number of stroke cases [13,28], showed similar evidence, but without formal statistical tests. A stronger
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+107
+p
+
+Fig. 2. HRs* per 1 unit increment in LogeGGT for total CVD mortality by individual-speciﬁc characteristics. *HRs and 95% CIs were calculated using Cox proportional hazards models stratiﬁed by baseline age (years: 40e44, 45e54, 55e64, 65e74, 75e80), after adjustment for age at baseline (continuous variable), sex, smoking status, alcohol use, physical activity, income status, a history of heart diseases or stroke, SBP, fasting glucose, total cholesterol and BMI. BMI, body mass index; CI, conﬁdence interval; CVD, cardiovascular disease; HR, hazard ratio; LogeGGT, natural-log transformed gamma-glutamyltransferase; SBP, systolic blood pressure.
+
+Table 3 AUC changes upon addition of LogeGGT to the CVD mortality prediction model in participants without self-reported heart disease or stroke at baseline.
+
+Subgroup
+
+No. of participants
+
+No. of deaths
+
+Without LogeGGT
+
+AUC
+
+(95% CI)
+
+With LogeGGT
+
+AUC
+
+(95% CI)
+
+Difference in AUC pdiff
+
+pheterogeneity
+
+Total Age <60 y Age 60 y SBP  140 mmHg SBP < 140 mmHg Age <60 y, SBP <140 mmHg Age 60 y, SBP <140 mmHg
+
+503,298 366,850 136,448 134,056 369,242 287,456 81,786
+
+6976 1602 5374 3525 3451 877 2574
+
+0.8442 0.7627 0.7332 0.7914 0.8490 0.7493 0.7374
+
+(0.8397e0.8486) (0.7512e0.7742) (0.7266e0.7397) (0.7840e0.7988) (0.8424e0.8556) (0.7335e0.7651) (0.728e0.7467)
+
+0.8461 0.7682 0.7353 0.7927 0.8519 0.7579 0.7403
+
+(0.8417e0.8506) (0.7568e0.7795) (0.7288e0.7418) (0.7854e0.8001) (0.8455e0.8584) (0.7422e0.7735) (0.731e0.7496)
+
+0.0020 0.0055 0.0021 0.0013 0.0030 0.0086 0.0030
+
+<0.001 <0.001 <0.001 <0.001 <0.001 <0.001 0.002
+
+0.024 0.007 0.031
+
+A prediction model with an AUC value of 1.0 or 0.5 represents a perfect or an uninformative model, respectively. AUC, area under the receiver operating characteristics curve; CI, conﬁdence interval; FRS, LogeGGT, natural log-transformed GGT; SBP, systolic blood pressure. pdiff: p-value for the difference in the AUC value between models with or without LogeGGT. pheterogeneity: p-value for heterogeneity of the difference in AUC value between models with or without LogeGGT between age and SBP subgroups. The prediction model includes age at baseline, sex, smoking status, alcohol use, physical activity, income status, SBP, fasting glucose, total cholesterol, and body mass index.
+
+108
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+association for hemorrhagic than ischemic stroke, however, was found only in men in the current study. An additional analysis with 8 GGT groups (<15 [reference], 15e19, 20e24, 25e29, 30e39, 40e59, 60e79, and 80 U/L) revealed that only the highest GGT groups (60e79 and  80 U/L in both sexes combined and in men, 80 U/L in women) were associated with higher mortality from hemorrhagic stroke with a P-value <0.05, whereas GGT levels 25 U/L were generally associated with higher mortality from ischemic stroke in both sexes, compared with persons with a GGT level <15 U/L. These results suggest that the underlying mechanisms of the impact of GGT may be different between ischemic and hemorrhagic stroke to some degree.
+GGT has long been used as a marker of alcohol intake, and several studies have found evidence suggesting that the associations of GGT with CVD may be modiﬁed by alcohol consumption [12,20,29]. It has not been completely resolved whether GGT is associated with CVD independently of alcohol intake. Our study found that GGT was associated with higher CVD mortality in rare drinkers and that the associations were not modiﬁed by alcohol intake frequency. Thus, our study strengthens the evidence that higher GGT activity increases the risk of CVD mortality independently of alcohol intake.
+Evidence from several previous studies has suggested that the relative risk of GGT for CVD may be higher at younger ages [5,8,12]. The current study demonstrated that the HRs of GGT for CVD mortality were greater in younger persons (<60 years) and normotensive individuals (SBP <140 mmHg) than in older adults (60 years old or above) and persons with hypertension (SBP 140 mmHg). In our study, the association of GGT was also stronger in persons who engaged in physical activity at least once a week, had a normal weight (BMI <25 kg/m2), and had normal total cholesterol levels (<200 mg/dL) than in persons who engaged in no physical activity, were overweight or obese (BMI 25 kg/m2), and had higher cholesterol levels (200 mg/dL). Wannamethee et al. similarly reported that the risk associated with elevated GGT was higher in persons with a lower cardiovascular risk score, but without providing detailed information about the speciﬁc variables [8]. Kunutsor et al. likewise reported similar ﬁndings, stating that subgroups with lower age, BMI, blood lipids, and SBP seemed to show stronger associations, although the p-value for interaction was below 0.05 only between the age subgroups [12].
+Although it has been suggested that GGT measurements may be useful for CVD risk assessment [6,8], a few recent studies reported that adding GGT to the conventional CVD risk factors did not improve the prediction of risk for CVD or IHD-related mortality [12,14]. The current study found that upon the addition of LogeGGT to the prediction model, the AUC showed a statistically signiﬁcant increase (change in AUC, 0.0020, p < 0.001). The increase of 0.0020 in AUC can be deemed modest; however, the addition of GGT seemed to have the potential to provide an important improvement in risk prediction. For instance, when comparing AUC values with versus without a risk factor in our full model in persons without self-reported heart disease or stroke, only age (change in AUC, 0.1298), SBP (0.0067), and smoking status (0.0033) had more impact than GGT on the prediction of total CVD mortality, while sex, fasting glucose, total cholesterol, BMI, alcohol use, physical activity, and income status had a lower predictive ability than GGT. Furthermore, when we ﬁtted the prediction model in younger adults and in persons with an SBP <140 mmHg, in whom the association of GGT was greatest, the predictive ability (AUC) upon addition of GGT increased from 0.0020 to 0.0055 in persons <60 years, and to 0.0086 in persons aged <60 years with an SBP <140 mmHg. These ﬁndings suggest that GGT measurements have the potential to improve the prediction of CVD mortality, especially in persons younger than 60 years old and with an SBP <140 mmHg.
+
+Additionally, since GGT levels increased the AUC more than other cardiometabolic risk factors, except SBP, upon addition into the prediction model, GGT has the potential to replace other conventional risk factors for the prediction of CVD mortality, not to mention that GGT is stable in storage and that measuring GGT is simple, inexpensive, and does not require fasting for measurements to be made.
+Several putative mechanisms have been suggested to explain the association of elevated GGT with increased CVD risk [7]. GGT may be a marker of antioxidant inadequacy, oxidative and nitrosative stress, and systemic inﬂammation [7,30], potentially independent of cardiometabolic risk factors [31]. The direct role of GGT in the formation of atheromatous plaque was also proposed [6].
+4.1. Strengths and limitations of the study
+A large number of participants, a prospective design, and complete follow-up for death are clear strengths of this study. However, it has several limitations. Non-IFCC methods for measuring GGT, which are associated with lower accuracy [32], were used in some hospitals. However, since lower accuracy was not related to CVD mortality, this may not contribute to an overestimation of the HRs of GGT for CVD mortality. Second, collection of alcohol use information via questionnaire may have some limitations. For example, rare drinkers in the current study were not necessarily lifelong abstainers. However, since the associations were similar across alcohol intake subgroups, this potential misclassiﬁcation is unlikely to signiﬁcantly affect the observed associations in rare drinkers. Furthermore, we performed a validation analysis of alcohol measure by examining associations of alcohol with the mortality risk of alcoholic liver disease, which showed that our alcohol measure was fairly reliable and valid. Third, several risk factors, such as C-reactive protein and subgroups of lipids (such as low-density and highdensity lipoprotein cholesterol, as well as triglycerides) and several predictors including anti-hypertensive and lipid-lowering medications were not adjusted for in the current study. Although additional adjustment for such factors did not substantially change the associations in other studies [10,33], this remains a limitation. Fourth, relative risk estimation using a single baseline measurement of GGT may underestimate its true association, due to the regression dilution effect [34]. Fifth, several medications use, such as anti-epilepsy drugs [35], that may affect both GGT levels and CVD risk, were not adjusted for. Non-adjustment for such medications use might affect the results. Finally, the fact that the study population was homogeneously Korean may affect its generalizability. Some results, such as the magnitude of the relative risk estimation associated with GGT or the magnitude of the change in AUC upon addition of GGT to the risk prediction model, may need to be assessed in other ethnic and regional populations with varying distributions of environmental and individual risk factors, as well as of subtypes of CVD morbidity.
+4.2. Conclusions
+Our cohort study of 512,990 Korean adults suggests that higher blood GGT levels increase mortality from CVD and its subtypes. The associations were stronger in younger, non-hypertensive, physically more active, normal-weight, and normocholesterolemic persons than in their respective counterparts. In the general population, GGT measurements have the potential to improve and to replace other conventional risk factors in the prediction of CVD mortality risk, especially in persons aged <60 years old without hypertension.
+
+S.-W. Yi et al. / Atherosclerosis 265 (2017) 102e109
+
+109
+
+Conﬂict of interest
+The authors declared they do not have anything to disclose regarding conﬂict of interest with respect to this manuscript.
+Financial support
+Health examinations were funded and managed by the NHIS of Korea. This work was supported by research funds from Catholic Kwandong University (201601750001). Catholic Kwandong University had no role in study design, data collection, the writing of the manuscript, or the decision to submit it for publication.
+Author contributions
+SWY conceived the study concept and design, and acquired data. SWY analyzed the data and wrote the ﬁrst draft. SWY, SHL, HJH, and JJY interpreted data and contributed to critical revision of the manuscript. All authors have read and approved of the ﬁnal submitted version of the manuscript. SWY is the study guarantor.
+Acknowledgements
+The authors thank the staff at the Big Data Steering Department at the NHIS for providing the data and support.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http:// dx.doi.org/10.1016/j.atherosclerosis.2017.08.028.
+References
+[1] GBD 2015 DALYs Hale Collaborators, Global, regional, and national disabilityadjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015, Lancet 388 (2016) 1603e1658.
+[2] GBD 2015 Mortality Causes of Death Collaborators, Global, regional, and national life expectancy, all-cause mortality, and cause-speciﬁc mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015, Lancet 388 (2016) 1459e1544.
+[3] S.K. Kunutsor, T.A. Apekey, H. Khan, Liver enzymes and risk of cardiovascular disease in the general population: a meta-analysis of prospective cohort studies, Atherosclerosis 236 (2014) 7e17.
+[4] D.H. Lee, K. Silventoinen, G. Hu, et al., Serum gamma-glutamyltransferase predicts non-fatal myocardial infarction and fatal coronary heart disease among 28,838 middle-aged men and women, Eur. Heart J. 27 (2006) 2170e2176.
+[5] E. Ruttmann, L.J. Brant, H. Concin, et al., Gamma-glutamyltransferase as a risk factor for cardiovascular disease mortality: an epidemiological investigation in a cohort of 163,944 Austrian adults, Circulation 112 (2005) 2130e2137.
+[6] J.E. Mason, R.D. Starke, J.E. Van Kirk, Gamma-glutamyl transferase: a novel cardiovascular risk biomarker, Prev. Cardiol. 13 (2010) 36e41.
+[7] G. Ndrepepa, A. Kastrati, Gamma-glutamyl transferase and cardiovascular disease, Ann. Transl. Med. 4 (2016) 481.
+[8] S.G. Wannamethee, L. Lennon, A.G. Shaper, The value of gammaglutamyltransferase in cardiovascular risk prediction in men without diagnosed cardiovascular disease or diabetes, Atherosclerosis 201 (2008) 168e175.
+[9] S. Ebrahim, J. Sung, Y.M. Song, et al., Serum cholesterol, haemorrhagic stroke, ischaemic stroke, and myocardial infarction: Korean national health system prospective cohort study, BMJ 333 (2006) 22.
+[10] S.K. Kunutsor, J.A. Laukkanen, D.A. Bluemke, et al., Baseline and long-term gamma-glutamyltransferase, heart failure and cardiac arrhythmias in middle-aged Finnish men: prospective study and pooled analysis of published evidence, Eur. J. Prev. Cardiol. 23 (2016) 1354e1362.
+[11] X.W. Zhang, M. Li, W.S. Hou, et al., Association between gamma-
+
+glutamyltransferase level and risk of stroke: a systematic review and metaanalysis of prospective studies, J. Stroke Cerebrovasc. Dis. 24 (2015) 2816e2823. [12] S.K. Kunutsor, S.J. Bakker, J.E. Kootstra-Ros, et al., Circulating gamma glutamyltransferase and prediction of cardiovascular disease, Atherosclerosis 238 (2015) 356e364. [13] Y. Shimizu, H. Imano, T. Ohira, et al., gamma-Glutamyltranspeptidase and incident stroke among Japanese men and women: the Circulatory Risk in Communities Study (CIRCS), Stroke 41 (2010) 385e388. [14] A.P. Kengne, S. Czernichow, E. Stamatakis, et al., Gamma-glutamyltransferase and risk of cardiovascular disease mortality in people with and without diabetes: pooling of three British Health Surveys, J. Hepatol. 57 (2012) 1083e1089. [15] S.W. Yi, H. Ohrr, S.A. Shin, et al., Sex-age-speciﬁc association of body mass index with all-cause mortality among 12.8 million Korean adults: a prospective cohort study, Int. J. Epidemiol. 44 (2015) 1696e1705. [16] S.C. Seong, Y.Y. Kim, Y.H. Khang, et al., Data resource proﬁle: the National Health Information Database of the National Health Insurance Service in South Korea, Int. J. Epidemiol. (2016), http://dx.doi.org/10.1093/ije/dyw253. [17] E.Y. Lee, Y.H. Lee, S.W. Yi, et al., BMI and all-cause mortality in normoglycemia, impaired fasting glucose, newly diagnosed diabetes, and prevalent diabetes: a cohort study, Diabetes Care 40 (2017) 1026e1033. [18] W.K. Min, K.D. Kim, D.J. Kim, et al., Annual report on external quality assessment in clinical chemistry in Korea, J. Laboratory Med. Qual. Assur. 25 (2003) (2002) 1e14. [19] G. Du, Z. Song, Q. Zhang, Gamma-glutamyltransferase is associated with cardiovascular and all-cause mortality: a meta-analysis of prospective cohort studies, Prev. Med. 57 (2013) 31e37. [20] Y. Li, H. Iso, R. Cui, et al., Serum gamma-glutamyltransferase and mortality due to cardiovascular disease in Japanese men and women, J. Atheroscler. Thromb. 23 (2016) 792e799. [21] J.J. Deeks, D.G. Altman, M.J. Bradburn, Statistical methods for examining heterogeneity and combining results from several studies in meta-analysis, in: Systematic Reviews in Health Care, BMJ Publishing Group, 2001, pp. 285e312. [22] R.B. D'Agostino Sr., R.S. Vasan, M.J. Pencina, et al., General cardiovascular risk proﬁle for use in primary care: the Framingham Heart Study, Circulation 117 (2008) 743e753. [23] A. Fujiyoshi, K. Miura, A. Hozawa, et al., Gamma-Glutamyltransferase and mortality risk from heart disease and stroke in Japanese men and women: NIPPON DATA90, CVD Prev. Control 5 (2010) 27e34. [24] A. Hozawa, T. Okamura, T. Kadowaki, et al., gamma-Glutamyltransferase predicts cardiovascular death among Japanese women, Atherosclerosis 194 (2007) 498e504. [25] K.C. Sung, S. Ryu, B.S. Kim, et al., Gamma-Glutamyl transferase is associated with mortality outcomes independently of fatty liver, Clin. Chem. 61 (2015) 1173e1181. [26] A. Fraser, R. Harris, N. Sattar, et al., Gamma-glutamyltransferase is associated with incident vascular events independently of alcohol intake: analysis of the British Women's Heart and Health Study and Meta-Analysis, Arterioscler. Thromb. Vasc. Biol. 27 (2007) 2729e2735. [27] M.L. Bots, J.T. Salonen, P.C. Elwood, et al., Gamma-glutamyltransferase and risk of stroke: the EUROSTROKE project, J. Epidemiol. Community Health 56 (Suppl 1) (2002) i25e29. [28] P. Jousilahti, D. Rastenyte, J. Tuomilehto, Serum gamma-glutamyl transferase, self-reported alcohol drinking, and the risk of stroke, Stroke 31 (2000) 1851e1855. [29] C.F. Liu, Y.T. Gu, H.Y. Wang, et al., Gamma-glutamyltransferase level and risk of hypertension: a systematic review and meta-analysis, PLoS One 7 (2012) e48878. [30] G. Koenig, S. Seneff, Gamma-glutamyltransferase: a predictive biomarker of cellular antioxidant inadequacy and disease risk, Dis. Markers 2015 (2015) 818570. [31] S.S. Ali, E.T. Oni, M.J. Blaha, et al., Elevated gamma-glutamyl transferase is associated with subclinical inﬂammation independent of cardiometabolic risk factors in an asymptomatic population: a cross-sectional study, Nutr. Metab. (Lond) 13 (2016) 37. [32] S. Bulusu, M. Sharma, What does serum gamma-glutamyltransferase tell us as a cardiometabolic risk marker? Ann. Clin. Biochem. 53 (2016) 312e332. [33] C. Weikert, D. Drogan, R. di Giuseppe, et al., Liver enzymes and stroke risk in middle-aged German adults, Atherosclerosis 228 (2013) 508e514. [34] A.M. Strasak, C.C. Kelleher, J. Klenk, et al., Longitudinal change in serum gamma-glutamyltransferase and cardiovascular disease mortality: a prospective population-based study in 76,113 Austrian adults, Arterioscler. Thromb. Vasc. Biol. 28 (2008) 1857e1865. [35] N. Katsiki, D.P. Mikhailidis, D.R. Nair, The effects of antiepileptic drugs on vascular risk factors: a narrative review, Seizure 23 (2014) 677e684.
+

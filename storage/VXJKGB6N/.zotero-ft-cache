@@ -1,0 +1,946 @@
+International Journal of Environmental Research and Public Health
+Article
+Prevalence and Correlates of Hypertension among Japanese Adults, 1975 to 2010
+Katharina Otani 1,2,* ID , Rei Haruyama 2,3 and Stuart Gilmour 2 1 Advanced Therapies Innovation Department, Siemens Healthcare K.K., 1-11-1 Osaki, Shinagawa-ku, Tokyo 141-8644, Japan 2 Department of Global Health Policy, Graduate School of Medicine, The University of Tokyo, 1-3-7 Hongo Bunkyo-ku, Tokyo 113-0033, Japan; rharuyama.obgyn@gmail.com (R.H.); sgilmour@m.u-tokyo.ac.jp (S.G.) 3 Bureau of International Health Cooperation, National Center for Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan * Correspondence: katharina.otani@siemens-healthineers.com
+Received: 27 June 2018; Accepted: 28 July 2018; Published: 3 August 2018
+Abstract: We investigated the prevalence and factors associated with hypertension, its treatment, and control using individual-level data from 300,249 respondents aged 20 years and older from the Japanese National Health and Nutrition Survey for the period of 1975–2010. We applied multivariate random effects logistic regression to assess associations between the risk factors and the prevalence of hypertension, the proportion of uncontrolled hypertension, and the proportions of respondents seeking treatment and controlling hypertension. The trends in the effect of the birth cohort on uncontrolled hypertension were also examined. Having hypertension was associated with being male, older, obese, drinking alcohol, and working in the primary industry and a higher proportion of middle-aged men than women were found being obese and drinking alcohol. Seeking treatment was associated with being older, obese, drinking alcohol, working in a primary industry and exercising. Controlling hypertension was associated with being younger, underweight and exercising. The proportion of individuals with uncontrolled hypertension declined for cohorts born in later years with a steeper decline for women than men. Raising awareness in the hypertensive population, especially among men, could help further reduce the prevalence of hypertension in Japan.
+Keywords: Japan epidemiology; hypertension epidemiology; health surveys; public health
+
+1. Introduction
+Hypertension remains a leading global risk factor for death and disability. In 2011 the World Health Organization (WHO, Geneva, Switzerland) targeted a 25% global reduction in prevalence of hypertension by 2025 [1], but progress varies widely between countries. Over the past 50 years, the mean blood pressure of the Japanese population has seen a steady decline, but hypertension and smoking still remain the two biggest risk factors for non-communicable diseases, in particular, cardiovascular disease [2–4]. Understanding the trends in hypertension prevalence and management is essential to preparing strategies to target this risk factor in Japan. We used individual-level data from the Japanese National Health and Nutrition Survey (NHNS) from 1986 to 2010, and, where available, from 1975 to 2010, to explore the trends and risk factors for hypertension in Japan. We thus expand on previous investigations of blood pressure in the Japanese population [5–7] and aimed to:
+• Analyze trends in and risk factors for uncontrolled hypertension over 35 years and for hypertension over 25 years
+• Identify factors associated with seeking treatment and controlling hypertension
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645; doi:10.3390/ijerph15081645
+
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+2 of 13
+
+• Investigate changing patterns in the proportion of individuals with uncontrolled hypertension by the birth cohort over 35 years.
+Japan has made progress in reducing hypertension and improving management of this condition, but further work is needed. The results of this study may be used to plan interventions in speciﬁc population groups at risk of hypertension, and to raise awareness of the need for the identiﬁcation, treatment, and control of hypertension.
+2. Method
+2.1. Data Sources
+This study used data from the NHNS between 1975 and 2010. The NHNS is a repeated cross-sectional survey conducted annually on a random sample of Japanese citizens in all 47 Japanese prefectures. The sample size was about 28,000 persons in 1975, 20,000 persons between 1976 and 1986, and gradually decreased to about 10,000 or less after 2000 [8,9]. In addition to answering a questionnaire, the respondents were invited to undergo a physical examination that included blood pressure measurements. The response rate to the physical examination was reported as around 50 to 60% [9,10]. Stratiﬁed randomization by prefecture and household in a two-stage cluster sampling design is used for participant selection [8,9,11]. Here, we restricted the analysis to respondents who were at least 20 years old, not pregnant, and whose systolic and diastolic blood pressure data were available. Fifteen-year age brackets were chosen to ensure sufﬁcient numbers of respondents in each age category.
+2.2. Blood Pressure Measurement and Hypertension
+Data on blood pressure values were available from 1975 to 2010 and data on hypertension medication were available from 1986 to 2010. Until 1999, the survey included one measurement of blood pressure in the sitting position, and from 2000 it included two measurements of blood pressure measured in the sitting position with a Riva-Rocci mercury sphygmomanometer after resting [5,11,12]. The two measurements were averaged for analysis, consistent with the Japanese Ministry of Health, Labour and Welfare guidelines [13].
+Hypertension was deﬁned as a systolic blood pressure of at least 140 mmHg or a diastolic blood pressure of at least 90 mmHg or the use of medication for hypertension, in line with the current World Health Organization (WHO, Geneva, Switzerland) guidelines [14,15]. Uncontrolled hypertension was deﬁned in the same way except that respondents who successfully controlled their blood pressure to the normal range by medication were counted as controlled. Values of 50 to less than 300 mmHg for systolic blood pressure and 40 to less than 140 mmHg for diastolic blood pressure were considered valid. Values outside these extremes were omitted. Medicated hypertension was deﬁned as taking medication for hypertension regardless of successful control or not. Controlled hypertension was deﬁned as medicated hypertension with a measured blood pressure in the normal range. Since information on medication was only available after 1986, the prevalence of hypertension and the proportions of medicated hypertension and controlled hypertension were analyzed starting from the survey year 1986.
+2.3. Correlates of Hypertension
+In its guidelines, the Japanese Society of Hypertension deﬁnes the male sex, advanced age, high body mass index (BMI), not exercising, high salt intake, low vegetable and fruit intake, regularly drinking alcohol and smoking as risk factors for hypertension [16]. Job strain, deﬁned as a low control over work-related decisions and having a high workload, has also been reported as a risk factor [17,18] as has socioeconomic status [19]. Risk factors available in the NHNS were sex, age, BMI (1975–2010), salt intake (2000–2010), exercising (1986–2010, 2008 and 2009 missing), drinking alcohol (1986–2010), current smoking status (1986–2010), and occupation (1975–2010). The BMI was calculated as weight
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+3 of 13
+
+in kilograms divided by the square of height in meters, omitting values of weight below 20 kg and of height below one meter. The BMI values of 10 to less than 70 kg/m2 were retained as these have been deﬁned elsewhere as plausible limits [20,21]. The BMI was classiﬁed following WHO guidelines: underweight was deﬁned as BMI less than 18.5 kg/m2; normal as the BMI values from 18.5 to 25 kg/m2; overweight as the BMI values over 25 kg/m2 and obese as 30 kg/m2 or more [22]. For the risk factor analysis, overweight and obese subjects were collapsed into one category of obese deﬁned as 25 kg/m2 BMI or more because Asian populations have been found to be at risk for metabolic disease at lower BMI values than Western populations [23]. In the NHNS, the dietary sodium intake is estimated retrospectively from self-reported food intake [9]. We converted sodium intake to salt intake by multiplication with a factor of 2.54 [24]. Drinking alcohol was deﬁned as regularly drinking more than one glass of Japanese sake (180 mL), one bottle of beer (500 mL), or one double whiskey (60 mL) at least four times a week [5,11]. Exercising was deﬁned as physical activity for more than 30 min at least three times a week for over one year.
+Occupations were classiﬁed into primary, secondary, and tertiary industries, in line with the Japanese Ministry of Internal Affairs and Communication [25]. This classiﬁcation would to some extent reﬂect socioeconomic status, as the primary industries include workers in farms and ﬁsheries, the secondary industries include a large proportion of blue collar workers and the tertiary industries include the largest proportion of white-collar workers and persons with high education levels among the three industries.
+2.4. Statistical Analysis
+All statistical analyses were performed with a commercially available software package (Stata14, StataCorp LP, College Station, TX, USA). We applied multivariate random effects logistic regression to assess the association of hypertension, uncontrolled hypertension, treated hypertension, and controlled hypertension with the covariates, including a random intercept term for prefecture to account for clustering within and unmeasured variations between prefectures. Graphs of the proportion of individuals with uncontrolled hypertension by birth year for birth cohorts were smoothed using a kernel-weighted local polynomial regression smoother.
+3. Results
+3.1. Demographic Characteristics of the Sample
+There were 554,544 observations available after the exclusion of pregnant women. After excluding 5 respondents because of anomalies between gestational age and pregnancy variables, 149,846 respondents because they were less than 20 years old, and 104,210 missing and 54 unrealistic blood pressure measurements, the ﬁnal sample consisted of 300,429 respondents sampled between 1975 and 2010. The mean age was 49.9 ± 16.2 years. Among the respondents, 124,871 were men and 175,558 women with mean ages of 49.6 ± 16.2 years and 49.4 ± 16.1 years, respectively. The mean BMI was 22.9 ± 3.3 kg/m2 for all respondents, 23.2 ± 3.1 kg/m2 for men and 22.7 ± 3.5 kg/m2 for women. The mean salt intake was 11.7 ± 4.8 g/day for all respondents, 12.7 ± 4.8 g/day for men and 11.0 ± 4.8 g/day for women. Table 1 gives an overview of the years of data availability, and the frequencies and proportions of characteristics of the sample.
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+4 of 13
+
+Table 1. The characteristics of the sample.
+
+Frequency
+
+Proportion in % Years of Available Data
+
+Sex
+
+Male
+
+124,871
+
+41.56
+
+1975 to 2010
+
+Female
+
+175,558
+
+58.44
+
+AIngt.eJ.(Eynevairrosn). Res. Public Health 201t8o, 1355, x FOR PEER REVI6E3W,208
+
+21.04
+
+1975 to 240o1f013
+
+35 to 50
+
+91,366
+
+30.41
+
+50 to 6T5able 1. The char1a2ct5e,r3i0s5tics of the samp4le1..71
+
+At least 65
+
+20,F5r5e0quency Propor6t.i8o4n in % Years of Available Data
+
+BMI Sex
+
+UnderweigMhatle
+
+22,31274,871
+
+471..4546
+
+1975 1to972051t0o 2010
+
+Age (years)
+Smoking
+
+NormaFl emale Overweig20htto 35
+Obese35 to 50
+50 to 65
+Non smAokt elerast 65
+
+211,411795,558 58,84623,208 729691,366
+125,305
+123,04202,550
+
+7580..4540 1219..0642 320..4431
+41.71
+763.8.84 2
+
+1975 to 2010
+1986 to 2010
+
+BMI
+
+Current Usmndoekrwereight
+
+43,64202,317
+
+276.4.14 8
+
+1975 to 2010
+
+Drinking alcohol
+
+Less than 4 timeNsoarmwaleek At least 4 timOevsOearbweweseiegehkt
+
+125,421111,419 41,0450782,89462
+
+7705..5304 21294.4..66326
+
+1986 to 2010
+
+ExercisSemoking Less than 3 tCiumNroreensnsatmswmokeoeekrekr
+
+119,81142343,6,04402
+
+772636...181828
+
+1986 1to982061t0o 2010 (2008, 2009 missing)
+
+Drinking alcoholAt leastLA3esttslietmhasaetns44atitmwimeeesesakawweeeekk 37,46142215,0,44101
+
+272453...368642
+
+1986 to 2010
+
+OccupatiEoxnercise
+Occupation
+
+PrimLaersys tihnadnu3sttirmyes a week Secondary industry
+TertiaArtyleiansdt u3 stitmryes a week
+Primary industry
+
+25,781129,814 52,622 186,48375,462
+25,782
+
+796..7138 19.87 7230..8420
+9.73
+
+1986 1to972051t0o 2010
+(2008, 2009 missing)
+1975 to 2010
+
+Secondary industry
+
+52,622
+
+19.87
+
+3.2. Prevalence of Hypertension anTdertPiarryopinodrutsitoryns of Unc1o8n6,t4r8o5lled Hype7r0t.4e0nsion, Treatment, and Control
+
+Fig3u.2r.ePr1evsahleoncwe sof tHhyepetrrtennsdiosn ianndthPreopporteiovnasleofnUcnecoonftrholylepdeHrtyepnersteionsnion(1, 9T8re6a–tm2e0n1t0, a)nadnCdontthroel proportion
+of individuaFilgsuwreit1hshuonwcsotnhterotrlelneddshinyptheerpternevsailoennc(e1o9f7h5y–p2e0r1te0n)sbioyn s(1e9x86a–n2d01a0g) aen. dBethtewpereonpo1r9ti8o6n aofnd 2010, the previnadleivnidceuaolsf whyithpeurntceonnstirolnlehdahsypneortecnhsaionng(e1d97m5–2u0c1h0)ibnymseexnanadndagwe. oBmetweneeonf169586yaenadrs20a1n0,dthoelder but appearsprteovianlecnrceeasoef hinypmeritdendslieo-nagheasdnmotecnhoanfg5e0dtmo ulechssinthmanen6a5nydewarosmoelnd.ofIn65coyneatrrsasatn,dfoorldmerebnuyt ounger than 50aapnpedarws toominecnreaysoeuinnmgeidrdtlhe-aange6d5myeenaorfs,50thtoe lpesrsetvhaalne6n5cyeeoarfshoyldp. eInrtceonnstiroasnt, afonrdmtehneypourongpeorrtion of individuthaalns 5w0iathnduwncoomnetnroyloleudngheyr pthearnte6n5syioeanrsb,oththe sphreovwaleendcedeocf rheyapseinrtgentsrieonndasn.d the proportion of
+individuals with uncontrolled hypertension both showed decreasing trends.
+
+Figure 1. The prevalence of hypertension (1986–2010) and the proportion of individuals with
+Figure 1u.nTcohnetrporlleevdahleynpceertoenfshioynpe(1r9te75n–s2io01n0()1in98J6ap–2an01b0y)saenxdanthdeagper.oportion of individuals with uncontrolled hypertension (1975–2010) in Japan by sex and age.
+
+Int. J. Environ. Res. Public Health 2018, 15, x; doi: FOR PEER REVIEW
+
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+5 of 13
+
+Table 2 shows the prevalence of hypertension (1986–2010), the proportion of individuals with uncontrolled hypertension (1975–2010), the proportion of hypertensive respondents receiving medication (1986–2010), and the proportion of individuals with controlled hypertension (1986—2010) among medicated respondents stratiﬁed by sex and age. The prevalence of hypertension increased with age and was higher among men than women, except for the age group of 65 and older. The proportion of hypertensive respondents seeking treatment increased with age, as did the proportion of respondents who controlled their hypertension with higher proportions of women than men for both. Men of 65 years and older were, however, equally or more successful in controlling their hypertension than women.
+3.3. Risk Factors Associated with Hypertension
+The means and proportions of the risk factors of age, salt intake, BMI, smoking, drinking alcohol, exercising and occupation are shown in Table 3 for one year in the beginning, in the middle and at the end of the period of analysis. Differences between men and women were seen in trends of BMI, smoking, and drinking. The proportion of women who smoke and regularly drink alcohol was still much lower in 2010 than that of men although the difference has narrowed in more recent years compared to the year 1975. Table 4 shows the odds ratios of having hypertension for each factor adjusted for all other factors. Older age was the strongest predictor (OR 42.85, 95% CI 39.93–46.00, for at least 65 compared to 20 to less than 35 years old). The strongest modiﬁable risk factor was BMI (OR 2.55, 95% CI 2.48–2.62 for obese compared to normal weight people). Salt intake and exercise showed no effect. Occupation had a weak association with hypertension.
+3.4. Factors Associated with the Treatment and Control of Hypertension
+Table 4 also shows the association of each risk factor with the treatment and control of hypertension adjusted for all other covariates. The odds of taking medication (OR 1.02, 95% CI 1.02–1.02) and the odds of controlling hypertension (OR 1.05, 95% CI 1.04–1.05) increased year by year. The odds of taking medication increased with age. The odds of controlling hypertension among those who sought treatment was lower for those aged 50 and older than for those younger than 50 years. Obese people had higher odds of seeking treatment than normal weight people (OR 2.07, 95% CI 1.99–2.14), but lower odds of controlling their hypertension (OR 0.75, 95% CI 0.70–0.81). In contrast, underweight people had lower odds of seeking treatment than people of normal weight (OR 0.58, 95% CI 0.53–0.64), but higher odds of controlling their hypertension (OR 1.32, 95% CI 1.10–1.59).
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+6 of 13
+
+Table 2. The prevalence of hypertension (1986–2010) and the proportions of individuals with uncontrolled hypertension (1975–2010), medicated hypertension (1986–2020) and controlled hypertension (1986–2010).
+
+Age (years)
+
+Men
+
+20 to 34
+
+35 to 49
+
+50 to 64
+
+At least 65
+
+Women 20 to 34
+
+35 to 49
+
+50 to 64
+
+At least 65
+
+Hypertension (1986–2010, n = 167,506)
+
+Frequency in Each Age Group
+(Age Group Total)
+
+Proportion (%) in Each Age Group
+(95% CI)
+
+1886 (11,638)
+
+16.2 (15.5–16.9)
+
+6409 (18,057)
+
+35.5 (34.8–36.2)
+
+21,193 (33,253)
+
+63.7 (63.2–64.2)
+
+4712 (6104)
+
+77.2 (76.1–78.2)
+
+670 (16,301)
+
+4.1 (3.8–4.4)
+
+5638 (27,642)
+
+20.4 (19.9–20.9)
+
+26,121 (45,586)
+
+57.3 (56.8–57.8)
+
+7129 (8925)
+
+79.9 (79.0–80.7)
+
+Uncontrolled Hypertension (1975–2010, n = 300,429)
+
+Frequency in Each Age Group
+(Age Group Total)
+
+Proportion (%) in Each Age Group
+(95% CI)
+
+4737 (26,539)
+
+17.8 (17.4–18.3)
+
+13,379 (37,055)
+
+36.1 (35.6–36.6)
+
+31,559 (52,918)
+
+59.6 (59.2–60.0)
+
+5707 (8359)
+
+68.3 (67.3–69.3)
+
+1811 (36,669)
+
+4.9 (4.7–5.2)
+
+12,274 (54,311)
+
+22.6 (22.2–23.0)
+
+39,539 (72,387)
+
+54.6 (54.3–55.0)
+
+8517 (12,191)
+
+69.9 (69.0–70.7)
+
+Medicated Hypertension (1986–2010, n = 73,758)
+
+Frequency in Each Age Group
+(Age Group Total)
+
+Proportion (%) in Each Age Group
+(95% CI)
+
+100 (1886)
+
+5.3 (4.3–6.3)
+
+826 (6409)
+
+12.9 (12.1–13.7)
+
+8236 (21,193)
+
+38.9 (38.2–39.5)
+
+2611 (4712)
+
+55.4 (54.0–56.8)
+
+118 (670)
+
+17.6 (14.7–20.5)
+
+993 (5638)
+
+17.6 (16.6–18.6)
+
+11,217 (26,121)
+
+42.9 (42.3–43.5)
+
+4418 (7129)
+
+62.0 (60.8–63.1)
+
+Controlled Hypertension (1986–2010, n = 28,519)
+
+Frequency in Each Age Group
+(Age Group Total)
+
+Proportion (%) in Each Age Group
+(95% CI)
+
+65 (100)
+
+65.0 (55.7–74.3)
+
+213 (826)
+
+25.8 (22.8–28.8)
+
+1884 (8236)
+
+22.9 (22.0–23.8)
+
+741 (2611)
+
+28.4 (26.7–30.1)
+
+102 (118)
+
+86.4 (80.3–92.6)
+
+331 (993)
+
+33.3 (30.4–36.3)
+
+2836 (11,217)
+
+25.3 (24.5–26.1)
+
+1205 (4418)
+
+27.3 (26.0–28.6)
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+7 of 13
+
+Table 3. The means and proportions of risk factors by sex for the survey years of 1975, 1990, 2000, and 2015.
+
+Survey Year Mean age in years (SD) Mean salt in g/day (SD) Mean BMI in kg/m2 (SD)
+BMI frequency (%)
+Smoking frequency (%)
+
+Underweight Normal weight
+Obese Non-smoker
+
+1975
+
+Men
+
+Women
+
+44.6 (15.2)
+
+44.5 (15.3)
+
+NA
+
+NA
+
+22.2 (2.9)
+680 (7.6%)
+6758 (76.0%)
+1456 (16.4%)
+
+22.4 (3.3)
+1224 (9.7%)
+8948 (70.7%)
+2476 (19.6%)
+
+NA
+
+NA
+
+Current smoker
+
+NA
+
+NA
+
+Drinking alcohol frequency (%) Less than 4 times a week
+
+NA
+
+NA
+
+More than 4 times a week
+
+NA
+
+NA
+
+Exercise frequency (%)
+
+Less than 3 times a week
+
+NA
+
+NA
+
+Occupation frequency (%)
+
+More than 3 times a week Primary industry
+Secondary industry Tertiary industry
+
+NA
+1218 (14.9%)
+2378 (29.1%)
+4572 (56.0%)
+
+NA
+1418 (12.4%)
+1676 (14.7%)
+8312 (72.9%)
+
+1990
+
+Men
+
+Women
+
+50.1 (15.8)
+
+50.1 (15.9)
+
+NA
+
+NA
+
+22.9 (3.0)
+246 (6.2%)
+2822 (70.9%)
+913 (22.9%)
+1755 (44.0%)
+2230 (56.0%)
+1777 (44.6%)
+2208 (55.4%)
+3063 (76.9%)
+922 (23.1%)
+425 (12.5%)
+951 (27.9%)
+2028 (59.6%)
+
+22.7 (3.3)
+439 (8.1%)
+3783 (69.7%)
+1205 (22.2%)
+4890 (90.0%)
+542 (10.0%)
+5089 (93.7%)
+343 (6.3%)
+4414 (81.3%)
+1018 (18.7)
+415 (8.5%)
+914 (18.8%)
+3532 (72.7%)
+
+2000
+
+Men
+
+Women
+
+54.1 (16.2)
+
+53.4 (15.9)
+
+14.3
+
+12.5
+
+(6.0)
+
+(5.0)
+
+23.5
+
+22.9
+
+(3.2)
+
+(3.5)
+
+97 (4.0%)
+
+290 (8.5%)
+
+1617 (66.7%)
+
+2311 (67.5%)
+
+711 (29.3%)
+
+824 (24.1%)
+
+1310 (54.0%)
+
+3045 (89.0%)
+
+1115 (46.0%)
+
+378 (11.0%)
+
+1170 (48.3%)
+
+3113 (91.0%)
+
+1254 (51.7%)
+
+309 (9.0%)
+
+1626 (67.1%)
+
+2454 (71.7%)
+
+796 (32.9%)
+
+967 (28.3%)
+
+184 (10.1%)
+
+142 (4.8%)
+
+457 (25.2%)
+
+467 (15.8%)
+
+1176 (64.7%)
+
+2344 (79.4%)
+
+2010
+
+Men
+
+Women
+
+59.4 (16.0)
+
+58.1 (16.0)
+
+11.8
+
+9.7
+
+(4.6)
+
+(3.8)
+
+23.8
+
+22.7
+
+(3.2)
+
+(3.5)
+
+61 (3.6%)
+
+224 (9.6%)
+
+1068 (63.8%)
+
+1569 (67.5%)
+
+546 (32.6%)
+
+533 (22.9%)
+
+440 (26.3%)
+
+1948 (83.7%)
+
+1230 (73.7%)
+
+379 (16.3%)
+
+483 (28.9%)
+
+1513 (65.0%)
+
+1187 (71.1%)
+
+815 (35.0%)
+
+1063 (63.6%)
+
+1638 (70.4%)
+
+609 (36.4%)
+
+690 (29.6%)
+
+145 (8.8%)
+
+78 (3.4%)
+
+231 (14.0%)
+
+105 (4.5%)
+
+1277 (77.3%)
+
+2137 (92.1%)
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+8 of 13
+
+Table 4. The adjusted odds ratios for the prevalence of hypertension and the proportion of medicated and controlled hypertension for the survey years 1986 to 2010.
+
+Survey year
+
+Per increase of one year
+
+Sex Age (years)
+
+Male Female 20 to 34 35 to 49
+
+50 to 64
+
+at least 65
+
+BMI
+Smoking Drinking alcohol
+Exercise Salt intake Occupation
+
+Underweight Normal Obese
+Non-smoker Current smoker Less than 4 times a week At least 4 times a week Less than 3 times a week At least 3 times a week
+Per 1 g/day Primary industry
+
+Secondary industry Tertiary industry
+
+Prevalence of Hypertension (n = 144,299)
+
+OR (95%CI)
+
+p-Value
+
+0.99 (0.99–0.99)
+
+<0.001
+
+1.35 (1.31–1.39)
+
+1
+
+NA
+
+1
+
+NA
+
+3.22 (3.07 to 3.37)
+
+<0.001
+
+13.49 (12.89–14.13)
+
+<0.001
+
+42.85 (39.93–46.00)
+
+<0.001
+
+0.54 (0.51–0.57)
+
+0.04
+
+1
+
+NA
+
+2.55 (2.48–2.62)
+
+<0.001
+
+1
+
+NA
+
+0.92 (0.89–0.94)
+
+<0.001
+
+1
+
+NA
+
+1.52 (1.47–1.57)
+
+<0.001
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+1.14 (1.09–1.19)
+1.00 (0.97–1.03)
+1
+
+NA <0.001
+0.99 NA
+
+Proportion of Medicated Hypertension (n = 109,229)
+
+OR (95%CI)
+
+p-Value
+
+1.02 (1.02–1.02)
+
+<0.001
+
+0.96 (0.92–1.00)
+
+0.05
+
+1
+
+NA
+
+NA
+
+NA
+
+Proportion of Controlled Hypertension (n = 28,301)
+
+OR (95%CI)
+
+p-Value
+
+1.05 (1.04–1.05)
+
+<0.001
+
+1.06 (0.97–1.15)
+
+0.22
+
+1
+
+NA
+
+NA
+
+NA
+
+1
+
+NA
+
+1
+
+NA
+
+6.47 (6.13–6.83)
+19.09 (17.75–20.53)
+0.58 (0.53–0.64)
+1
+2.07 (1.99–2.14)
+1
+0.75 (0.72–0.79)
+1
+1.21 (1.15–1.27)
+1
+1.09 (1.04–1.13)
+NA
+1.13 (1.07–1.19)
+0.83 (0.79–0.87)
+1
+
+<0.001 <0.001 <0.001
+NA <0.001
+NA <0.001
+<0.001 NA
+<0.001 NA
+<0.001 <0.001
+NA
+
+0.56 (0.50–0.63)
+0.54 (0.47–0.62)
+1.32 (1.10–1.59)
+1
+0.75 (0.70–0.81)
+1
+0.97 (0.87–1.07)
+1
+0.69 (0.63–0.77)
+1
+1.09 (1.01–1.17)
+NA
+0.99 (0.89–1.10)
+0.86 (0.77–0.96)
+1
+
+<0.001
+<0.001
+0.003 NA <0.001 NA 0.49 NA <0.001 NA 0.03 NA 0.83
+0.007 NA
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645 Int. J. Environ. Res. Public Health 2018, 15, x FOR PEER REVIEW
+
+9 of 13 9 of 13
+
+3.5. Effect of Birth Cohort on Uncontrolled Hypertension 3.5. Effect of Birth Cohort on Uncontrolled Hypertension Figure 2 shows that the proportion of individuals with uncontrolled hypertension by birth year
+for birth Fcoighuorert2s sdheocwlisntehdatftohrecporhooprotrstiobnoronf iinndliavtideruaylesawrsithinubncootnhtrmolelendahnydpewrtoenmsieonn obfyablilrtahgyeegarroups. The dTfoehrcelbidinreetchlaicnpoephaeoparptrsseadtroescbltioenbesdetesfetoepreecproehfroofrortrwswbooommrneeninntthlhaaatennrmmyeeeannrfsfooirnraballollathgaegmegergnoruaopnusdp. sw. omen of all age groups.
+
+Figure 2. Uncontrolled hypertension in Japan by birth year (1886 to 1989) and sex for birth cohorts. Figure 2. Uncontrolled hypertension in Japan by birth year (1886 to 1989) and sex for birth cohorts.
+4. Discussion
+4. DiscusTshioisnstudy investigated the prevalence of hypertension and risk factors, the proportions of
+tTrehaitsmsetnutdayndincvonestrtoigl aatmeodngthJeapparneevsealaednucletsofrfohmy1p9e8r6tetons2i0o1n0, athnedprriospkorftaiocntoorfs,intdhievidpuroalpsowrtitihons of treatmunecnotntarnodllecdonhtyrpoelratemnsoionng, Jaanpdantheseeinafdluuelntscefroofmb1ir9th86ctooho2r0t1s0f,rtohme p19ro75potorti2o0n10ofuisnindgivaidluaragles with uncoanntnroulalledcrohsysp-seerctteionnsaiol nsu, ravnedy.thOeurinsﬂtuudeynceexpoafnbdierdthocnohproervtsiofursomstu1d9ie7s5 btoas2e0d1o0nuNsiHngNaS ldaartgaeoannnual crossb-lsoeocdtInioptrnheaselstusimruerelvepeveyer.lisoO[d5,up7r]reascnteudddionyngteohxueprpadrneavdtaae,ldeannocenanopaf lrhyeysvipsieoorutfesNnssHitouNndSiinedsJaatbpaaacnsoel[dl7e]c.otend NbeHtwNeSend1a9t5a6 oanndblood press1u9r8e0 lsehvoewlsed[5t,7h]atatnhde opnrotphoertpiornevoaflienndcieviodfuhalyspweirtthenusnicoonntirnolJlaepdahny[p7e]r.tension defined as systolic
+bInloothdeptriemsseurpeeorvioedr 1p8r0emcemdHinggdoeuclrindeadtain, tahne aangealgyrsoiusposfoNveHr N50Sbdutatdaidconloltemctaerdkebdeltywceheanng1e9i5n6 and 1980tshheoywouendgtehraptotphuelaptiroonp[o7r]t.iTohneopfrionpdoirvtiiodnuoaflsinwdiivtihduuanlcsownitrhoullnecdonhtyroplelerdtehnyspioerntednesiﬁonne, deafisnseydstolic
+bloodasprdeiasstuorleicobvleorod18p0rmesmsuHregodveecrli1n0e0dminmtHheg,agalesogrdoeucplisneodvefror50agbeutgdroidupnsotovmearr5k0edbluytcdhiadngneotin the younmgaerkpedolpyuclhaatinogne [i7n].thTehyeopunrogperoprtoipounlaotfioinnd[7iv].iIdnuoaulsr waniathlysuisncoof nNtrHoNllSeddahtyapbeerttweenesnio1n9,7d5 eaﬁnnded as diast2o0l1ic0,bwloeofdoupnrdestshuatrethoevperro1p0o0rtimonmoHf ign,daivlsidoudaelsclwinitehdufnocroangtreolglerdouhpyspeorvteenrs5io0nbduetcldinidednfootrmmaenrkedly changanedinwtohmeeynooufnaglleargpeospwuiltahtisotenep[7e]r.dIencoliunersainnawlyosmiseonfaNndHiNn Sthdeaotladebreptwopeuenlat1io9n75. and 2010, we found that tphreevpiTrohouepsloyrristrkieopnfaocorttfoeridns dafoisvribdheauinvagilnsgmwhailytehp, euornftecnoolsndioetnrroiladlgeeedn, thiofybiepedseeri,tnednorsuiniroknsintudgdeyacllciwnoheerdoel,fcoaornnmdsisewtneonartnkwidnigwthointmhotehsnee of all ages pwriimtharsyteienpdeurstdreyc. lTinheesseinriswkofmacetonrsa,nedxcienptthoeccoulpdaetriopno-rpeulaltaetdiofna.ctors, were also investigated in a
+pTrheevioriusskafnaacltyosriss ofof rblhoaovdinpgreshsyupreerletevnelssiobnaseiddeonntiﬁNeHdNiSn doautar bsteutwdeyenw1e9r8e6caonndsi2s0te0n2 t[5w] iatnhdthose previcoourrsellyatreedpowrittehdhaasvbineginga msyaslteo,lioc fbololdoedr pagrees,soubreesoef, datrinlekaisnt g14a0lcomhmoHl, ga.ndDrwinokrikngingalcinohtohle hparsimary inducsotrnys.isTtehnetslye breisekn fraepctoorrtesd, eaxscaepritskocfaccutopraitnioont-hreerlaretepdorftsac[5to,7r,s2,6]w. Ienrecoanltsroasitntvoeostthigeratiendveisntigaaptorresvious
+analyInsti.sJ. Eonfvibrolno. oReds. PpurbeliscsHuearleth l2e01v8e, 1ls5, xb;adsoei:dFOoRnPENERHRNEVSIEdWata between 1986 awnwdw2.m0d0p2i.c[o5m]/jaounrdnalc/iojerrprhelated with having a systolic blood pressure of at least 140 mmHg. Drinking alcohol has consistently been
+reported as a risk factor in other reports [5,7,26]. In contrast to other investigators [27,28], we did not
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+10 of 13
+
+ﬁnd evidence of an effect of salt intake on the prevalence of hypertension. One possible reason is that salt intake was estimated from self-reported food intake [8], which may not be precise enough for a quantitative analysis.
+In our analysis, smoking appears to have a blood pressure lowering effect, which has also been reported elsewhere [29]. This effect has been a subject of controversy because smoking is a known risk factor for atherosclerosis, which may lead to more severe forms of hypertension [29]. There is agreement that smoking is overall harmful regardless of its potential impact on blood pressure [29].
+Our results show that primary industry workers are at increased risk of having hypertension. Although speciﬁc information on income or socioeconomic status was not collected in the NHNS, the classiﬁcation of occupations into industries could serve as a proxy indicator of socioeconomic status in Japan, because more people of lower education and lower socioeconomic status work in the primary and secondary industries. Similar results have been found in Western Europe where the odds of hypertension was inversely associated with the education level [30] and for the US where people of lower socioeconomic status had a higher incidence of hypertension [31].
+Our analysis revealed that the prevalence of hypertension declined for men and women except for men between 50 and less than 65. The steepest declines were seen in women of 35 and older. Additionally, the prevalence of hypertension was consistently lower in women than in men of the same age except for women in the age group of 65 and older. Possible explanations for the lower prevalence of hypertension in Japanese women are that they consume less alcohol than men and have a lower BMI than men of the same age [32]. Japan has been successful in managing obesity in women, but obesity prevalence in Japanese men is still increasing [5,32]. We found that the decline in the proportion of individuals with uncontrolled hypertension seemed to have resulted from successful control by medication. A previous report also concluded that control of hypertension by medication was the main reason for a decline of systolic blood pressure in all people, except in young women [5]. Furthermore, we found that birth cohorts of women born between 1920 and 1960 experienced a steeper decrease in the proportion of individuals with uncontrolled hypertension than men born in the same years.
+Our data suggest that the proportion of hypertensive respondents who sought treatment and of those who successfully controlled their hypertension has been increasing with time. This conﬁrmed a result from the survey “National Integrated Project for Prospective Observation of Non-communicable Disease and its Trends in the Aged” (NIPPON DATA) 1980 to 2010, a large survey that is undertaken every 10 years [6]. We found that the adjusted odds of seeking treatment were higher for older and obese respondents, alcohol consumers, workers in the primary industry and individuals who exercised. The adjusted odds of controlling hypertension were higher for underweight and younger respondents and individuals who exercised, suggesting that respondents who are more health conscious are also more likely to control their blood pressure.
+In Japan, every employee is required to undergo a yearly health examination that includes blood pressure measurements [33] and every resident 40 years and older regardless of employment can receive an optional inexpensive yearly health examination that includes a blood pressure measurement [34]. Health examinations in middle age have been shown to be associated with a lower utilization of hospital beds by the elderly [34]. Although the early detection of hypertension was not speciﬁcally investigated, it may be one of the factors contributing to the lower utilization of hospital beds.
+The global targets for non-communicable diseases for 2025 set by the WHO in 2011 include a reduction in the prevalence of age-standardized hypertension by 25% [1]. In 2009 it was 36.8% (95% CI 35.4–38.3%) in Japan [35] and would thus need to decrease to the level of about 28% to meet the WHO target. The Japanese Society of Hypertension recommends the following public healthcare measures to lower the systolic blood pressure of the Japanese: improved nutrition, more exercise, lower alcohol consumption for men, and seeking treatment [36]. Our results provide further evidence for these measures, in particular, that efforts should be made to ensure that men achieve the same decrease in the prevalence of hypertension as women by addressing obesity and drinking, especially targeting
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+11 of 13
+
+middle-aged men. The prevalence of hypertension among Japanese people of 50 years and older remains high, so raising awareness for seeking treatment and controlling blood pressure should be a priority, in particular, among men.
+There were limitations in this analysis. The blood pressure measurements were changed from one to two measurements in the year 2000. We used the averaged blood pressure values which may have resulted in lower blood pressure than using only the ﬁrst measurement. The NHNS contained consistent information on hypertension risk factors only for sex, age, BMI and occupation over the whole time period of 1975 to 2010. Data on hypertension medication, smoking, drinking alcohol and exercising started being collected from 1986, data on exercising were missing for the years of 2008 and 2009 and data on individual level salt intake were recorded from 2000. The participation rate of the physical NHNS examination was about 50 to 60% [9,10], which may have introduced selection bias. Randomization schemes and probability weights were not available, thus, we could not carry out a rigorous survey analysis [9,10,37]. We could not quantitatively compare our results with those of previous reports because of differences in deﬁnitions and statistical methods.
+5. Conclusions
+The prevalence of hypertension has been declining in Japan in adults except recently in middle-aged men. The proportion of individuals with uncontrolled hypertension has been declining in all adults. Japanese women consume less alcohol than men and have a lower BMI than men which may partly explain the lower prevalence of hypertension in women than in men except in the oldest age group. The proportion of individuals with uncontrolled hypertension declined for cohorts born in later years in both men and women of all age groups with a steeper decline for women than men. Raising awareness for seeking treatment and controlling hypertension among the Japanese hypertensive population, in particular, those over 50 years old and lifestyle changes among men could bring Japan nearer the goal of reducing the burden of hypertension, with considerable positive health impacts in Japan’s aging population.
+Author Contributions: Conceptualization, K.O. and S.G.; Methodology, K.O. and S.G.; Software, Stata14, StataCorp LP, College Station, USA; Validation, K.O., R.H. and S.G.; Formal Analysis, K.O.; Investigation, K.O., R.H. and S.G.; Resources, S.G.; Data Curation, K.O., R.H. and S.G.; Writing-Original Draft Preparation, K.O.; Writing-Review & Editing, K.O., R.H. and S.G.; Supervision, S.G.; Project Administration, S.G.; Funding Acquisition, S.G.
+Funding: This research was partly supported by a grant-in-aid for scientiﬁc research from the Japan Society for the Promotion of Science, grant number 16H02643. Permission to use the individual-level NHNS data was granted by the Japanese Ministry of Health, Labour and Welfare to the Department of Global Health Policy, The University of Tokyo, Tokyo, Japan.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. World Health Organization. NCD Global Monitoring Framework. Available online: http://www.who.int/ nmh/global_monitoring_framework/en/ (accessed on 20 June 2018).
+2. Ikeda, N.; Saito, E.; Kondo, N.; Inoue, M.; Ikeda, S.; Satoh, T.; Wada, K.; Stickley, A.; Katanoda, K.; Mizoue, T.; et al. What has made the population of Japan healthy? Lancet 2011, 378, 1094–1105. [CrossRef]
+3. Ikeda, N.; Inoue, M.; Iso, H.; Ikeda, S.; Satoh, T.; Noda, M.; Mizoue, T.; Imano, H.; Saito, E.; Katanoda, K.; et al. Adult mortality attributable to preventable risk factors for non-communicable diseases and injuries in Japan: A comparative risk assessment. PLoS Med. 2012, 9, e1001160. [CrossRef] [PubMed]
+4. Lim, S.S.; Vos, T.; Flaxmann, A.D.; Danaei, G.; Shibuya, K.; Adair-Rohani, H.; AlMazroa, M.A.; Amann, M.; Anderson, H.R.; Andrews, K.G.; et al. A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2020: A systematic analysis for the Global Burden of Disease Study 2010. Lancet 2012, 380, 2240–2260. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+12 of 13
+
+5. Ikeda, N.; Gakidou, E.; Hasegawa, T.; Murray, C.J. Understanding the decline of mean systolic blood pressure in Japan: An analysis of pooled data from the National Nutrition Survey, 1986–2002. Bull. World Health Organ. 2008, 86, 978–988. [CrossRef] [PubMed]
+6. Miura, K.; Nagai, M.; Ohkubo, T. Epidemiology of Hypertension in Japan. Circ. J. 2013, 77, 2226–2231. [CrossRef] [PubMed]
+7. Ueshima, H.; Tatara, K.; Asakura, S.; Okamoto, M. Declining trends in blood pressure level and the prevalence of hypertension, and changes in related factors in Japan, 1956–1980. J. Chronic Dis. 1987, 40, 137–147. [CrossRef]
+8. Katanoda, K.; Matsumura, Y. National Nutrition Survey in Japan—Its methodological transition and current ﬁndings. J. Nutr. Sci. Vitaminol. 2002, 48, 423–432. [CrossRef] [PubMed]
+9. Ikeda, N.; Takimoto, H.; Imai, S.; Miyachi, M.; Nishi, N. Data Resource Proﬁle: The Japan National Health and Nutrition Survey (NHNS). Int. J. Epidemiol. 2015, 44, 1842–1849. [CrossRef] [PubMed]
+10. Tokudome, S.; Nishi, N.; Tanaka, H. Towards a better National Health and Nutrition Survey in Japan. Lancet 2012, 379, e44. [CrossRef]
+11. Japan Ministry of Health Labour and Welfare. National Institute of Health and Nutrition. Section of National Health and Nutrition Survey. Available online: http://www.nibiohn.go.jp/eiken/english/research/project_ nhns.html (accessed on 9 June 2018).
+12. Tanaka, H.; Imai, S.; Nakade, M.; Imai, E.; Takimoto, H. The physical examination content of the Japanese National Health and Nutrition Survey: Temporal changes. Asia Pac. J. Clin. Nutr. 2016, 25, 898–910. [PubMed]
+13. Ministry of Health, Labour and Welfare, Japan The Ministry of Health, Labour, and Welfare. Available online: http://www.mhlw.go.jp/bunya/kenkou/eiyou/dl/h24-houkoku-05.pdf (accessed on 20 June 2018). (In Japanese)
+14. Chobanian, A.V.; Bakris, G.L.; Black, H.R.; Cushman, W.C.; Green, L.A.; Izzo, J.L., Jr.; Jones, D.W.; Materson, B.J.; Oparil, S.; Wright, J.T., Jr.; et al. Seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension 2003, 42, 1206–1252. [CrossRef] [PubMed]
+15. World Health Organization. A Global Brief on Hypertension: Silent Killer, Global Public Health Crisis. Available online: http://www.who.int/cardiovascular_diseases/publications/global_brief_hypertension/ en/ (accessed on 20 June 2018).
+16. Kario, K. Key Points of the Japanese Society of Hypertension Guidelines for the Management of Hypertension in 2014. Pulse 2015, 3, 35–47. [CrossRef] [PubMed]
+17. Landsbergis, P.A.; Dobson, M.; Koutsouras, G.; Schnall, P. Job strain and ambulatory blood pressure: A meta-analysis and systematic review. Am. J. Public Health 2013, 103, e61–e71. [CrossRef] [PubMed]
+18. Babu, G.; Jotheeswaran, A.; Mahapatra, T.; Mahapatra, S.; Kumar, A.S.; Detels, R.; Pearce, N. Is hypertension associated with job strain? A meta-analysis of observational studies. Occup. Environ. Med. 2014, 71, 220–227. [CrossRef] [PubMed]
+19. Colhoun, H.M.; Hemingway, H.; Poulter, N.R. Socio-economic status and blood pressure: An overview analysis. J. Hum. Hypertens. 1998, 12, 91–110. [CrossRef] [PubMed]
+20. Kawai, K.; Yamashita, S.; Yamanaka, T.; Gondo, M.; Morita, C.; Nozaki, T.; Takakura, S.; Hata, T.; Yamada, Y.; Matsubayashi, S.; et al. The longitudinal BMI pattern and body composition of patients with anorexia nervosa who require urgent hospitalization: A case control study. BioPsychoSocial Med. 2011, 5, 14. [CrossRef] [PubMed]
+21. Bhatia, P.; Bindal, V.; Singh, R.; Gonzalez-Heredia, R.; Kalhan, S.; Khetan, M.; John, S. Robot-assisted sleeve gastrectomy in morbidly obese versus super obese patients. JSLS 2014, 18, e2014.00099. [CrossRef] [PubMed]
+22. WHO Expert Consultation. Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies. Lancet 2004, 363, 157–163. [CrossRef]
+23. Ishikawa, Y.; Ishikawa, J.; Ishikawa, S.; Kayaba, K.; Nakamura, Y.; Shimada, K.; Kajii, E.; Pickering, T.G.; Kario, K. Prevalence and Determinants of Prehypertension in a Japanese General Population: The Jichi Medical School Cohort Study. Hypertens. Res. 2008, 31, 1323–1330. [CrossRef] [PubMed]
+24. Kloss, L.; Meyer, J.D.; Graeve, L.; Vetter, W. Sodium intake and its reduction by food reformulation in the European Union—A review. NFS J. 2015, 1, 9–19. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2018, 15, 1645
+
+13 of 13
+
+25. Statistics Bureau. Ministry of Internal Affairs and Communications Statistical Handbook of Japan. Available online: http://www.stat.go.jp/english/data/handbook/c0117.htm#c12 (accessed on 20 June 2018).
+26. Ueshima, H.; Shimamoto, T.; Iida, M.; Konishi, M.; Tanigaki, M.; Doi, M.; Tsujioka, T.; Nagano, E.; Tsuda, C.; Ozawa, H.; et al. Alcohol intake and hypertension among urban and rural Japanese populations. J. Chronic Dis. 1984, 37, 585–592. [CrossRef]
+27. Miura, K.; Okuda, N.; Turin, T.C.; Takashima, N.; Nakagawa, H.; Nakamura, K.; Yoshita, K.; Okayama, A.; Ueshima, H. Dietary salt intake and blood pressure in a representative Japanese population: Baseline analyses of NIPPON DATA80. J. Epidemiol. 2010, 20 (Suppl. 3), S524–S530. [CrossRef] [PubMed]
+28. He, F.J.; Li, J.; Macgregor, G.A. Effect of longer-term modest salt reduction on blood pressure. Cochrane Database Syst. Rev. 2013, 4, Cd004937. [CrossRef] [PubMed]
+29. Virdis, A.; Giannarelli, C.; Fritsch Neves, M.; Taddei, S.; Ghiadoni, L. Cigarette smoking and hypertension. Curr. Pharm. Des. 2010, 16, 2518–2525. [CrossRef] [PubMed]
+30. Dalstra, J.A.; Kunst, A.E.; Borrell, C.; Breeze, E.; Cambois, E.; Costa, G.; Geurts, J.J.; Lahelma, E.; Van Oyen, H.; Rasmussen, N.K.; et al. Socioeconomic differences in the prevalence of common chronic diseases: An overview of eight European countries. Int. J. Epidemiol. 2005, 34, 316–326. [CrossRef] [PubMed]
+31. Brummett, B.H.; Babyak, M.A.; Siegler, I.C.; Shanahan, M.; Harris, K.M.; Elder, G.H.; Williams, R.B. Systolic blood pressure, socioeconomic status, and biobehavioral risk factors in a nationally representative US young adult sample. Hypertension 2011, 58, 161–166. [CrossRef] [PubMed]
+32. Nagai, M.; Ohkubo, T.; Murakami, Y.; Takashima, N.; Kadota, A.; Miyagawa, N.; Saito, Y.; Nishi, N.; Okuda, N.; Kiyohara, Y.; et al. Secular trends of the impact of overweight and obesity on hypertension in Japan, 1980–2010. Hypertens. Res. 2015, 38, 790–795. [CrossRef] [PubMed]
+33. Ikeda, N. Secondary Data Analysis of National Surveys in Japan Toward Improving Population Health. J. Epidemiol. 2016, 26, 106–114. [CrossRef] [PubMed]
+34. Tatara, K.; Shinsho, F.; Suzuki, M.; Takatorige, T.; Nakanishi, N.; Kuroda, K. Relation between use of health check ups starting in middle age and demand for inpatient care by elderly people in Japan. BMJ 1991, 302, 615–618. [CrossRef] [PubMed]
+35. Ikeda, N.; Sapienza, D.; Guerrero, R.; Aekplakorn, W.; Naghavi, M.; Mokdad, A.H.; Lozano, R.; Murray, C.J.; Lim, S.S. Control of hypertension with medication: A comparative analysis of national surveys in 20 countries. Bull. World Health Organ. 2014, 92, 10C–19C. [CrossRef] [PubMed]
+36. Shimamoto, K.; Ando, K.; Fujita, T.; Hasebe, N.; Higaki, J.; Horiuchi, M.; Imai, Y.; Imaizumi, T.; Ishimitsu, T.; Ito, M. The Japanese Society of Hypertension Guidelines for the Management of Hypertension (JSH 2014). Hypertens. Res. 2014, 37, 253–392. [PubMed]
+37. Sasaki, S. The value of the National Health and Nutrition Survey in Japan. Lancet 2011, 378, 1205–1206. [CrossRef]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+

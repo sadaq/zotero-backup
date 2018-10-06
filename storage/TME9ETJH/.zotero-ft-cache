@@ -1,0 +1,535 @@
+www.nature.com/scientificreports
+
+OPEN Predictive Value of Serum Gamma-
+
+glutamyltranspeptidase for Future
+
+Cardiometabolic Dysregulation in
+
+Received: 8 December 2016 Accepted: 27 June 2017 Published: xx xx xxxx
+
+Adolescents- a 10-year longitudinal study
+
+Chien-Ming Lin1,2, Chang-Hsun Hsieh3, Chien-Hsing Lee3, Dee Pei4, Jiunn-Diann Lin5, Chung-Ze Wu5, Yao-Jen Liang6, Yi-Jen Hung3 & Yen-Lin Chen7
+
+Serum gamma-glutamyltransferase (γ-GT) is implicated in the pathogenesis of atherosclerosis and metabolic syndrome (MetS) in adults. The relationships between γ-GT and cardiometabolic dysregulation remains unclear in adolescents. We enrolled 7,072 Taiwanese adolescents and followed them for a median of 6.8 years. The optimal cut-off values (CoVs) of baseline γ-GT to predict future MetS, hypertension (HTN), and type 2 diabetes (T2DM) were determined by receiving operating
+characteristic (ROC) curve. Using these CoVs, the participants were divided into normal- and high-level
+groups. Cox proportional hazard analysis was used to calculate hazard ratios (HRs) for the subjects with a high level of γ-GT for the risk of future cardiometabolic dysregulation. Serum γ-GT was significantly higher in the subjects with MetS than in those without MetS at baseline (p < 0.001). The optimal CoVs of γ-GT were 12 U/L for boys and 11 U/L for girls. In multivariate Cox regression analysis, a higher serum γ-GT level increased the risk of future MetS (HRs 1.98 and 2.85 for boys and girls, respectively, both p < 0.001), but not new onset HTN and T2DM. In conclusion, serum γ-GT levels not only demonstrated an excellent correlation with the presence of MetS and also in predicting future MetS in adolescents.
+
+Adolescents have become increasingly obese worldwide during the last three decades1, 2. Importantly, obese adolescents are likely to stay obese into adulthood and are more likely to develop non-communicable diseases such as metabolic syndrome (MetS), type 2 diabetes (T2DM) and cardiovascular disease (CVD)3–7. Since these diseases are included in the top ten leading causes of death in Taiwan8, the early recognition of adolescents at high risk of future cardiometabolic dysregulation and prevention of associated morbidity and mortality are critical public health issues9, 10.
+The pathogenesis of cardiometabolic dysregulation with regards to genetic and social-environmental factors is unclear, however it probably involves an imbalance between pro- and anti-inflammatory adipocytokines11. Increased levels of pro-inflammatory cytokines such as leptin, tumor necrosis factor-α, interleukin-6 (IL-6), IL-1β and decreased levels of anti-inflammatory cytokines such as adiponectin have been demonstrated both in children and adults with MetS11, 12. Even though high molecular weight adiponectin and a high leptin-to-adiponectin ratio have been reported to be useful biomarkers in establishing MetS13, the limited testing ability in primary care
+
+1Department of Pediatrics, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan. 2Graduate Institute of Medical Sciences, National Defense Medical Center, Taipei, Taiwan. 3Division of Endocrinology and
+Metabolism, Department of Internal Medicine, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan. 4Department of Internal Medicine, Cardinal Tien Hospital, School of Medicine, Fu-Jen Catholic University, New Taipei City, Taiwan. 5Division of Endocrinology and Metabolism, Department of Medicine, Shuang-Ho Hospital, Taipei Medical University, New Taipei City, Taiwan. 6Department of Life Science, Graduate Institute of Applied
+Science and Engineering, College of Science and Engineering, Fu-Jen Catholic University, New Taipei City, Taiwan. 7Department of Pathology, Cardinal Tien Hospital, School of Medicine, Fu-Jen Catholic University, New Taipei City,
+Taiwan. Correspondence and requests for materials should be addressed to Y.-J.H. (email: metahung@yahoo.com)
+orY.-L.C. (email: anthonypatho@gmail.com)
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+1
+
+www.nature.com/scientificreports/
+
+institutes limits their clinical application. With an increasing prevalence of MetS in adolescents14, identifying easy and reliable biomarkers to predict cardiometabolic dysregulation and understanding the relationships between these biomarkers and cardiometabolic dysregulation are also important.
+Gamma-glutamyltranspeptidase (γ-GT) is a liver enzyme that participates in the synthesis and degradation of glutathione as well as xenobiotic detoxification15, 16. Serum γ-GT is a widely used biomarker for alcoholic liver injury and nonalcoholic fatty liver disease (NAFLD). Previous studies have also reported the diagnostic role of serum γ-GT in MetS, T2DM, and CVD, and its predictive role of mortality and morbidity associated with cardiometabolic dysregulation17–20. However, these studies only enrolled middle-aged patients, and thus cannot be extrapolated to adolescents17–20. A recent cohort study recruiting 1,874 adolescents demonstrated that the subjects with NAFLD had higher γ-GT levels and greater liver shear velocity (an indicator of liver fibrosis) than those without NAFLD, even after adjustment for fat mass21. Although the association between serum γ-GT and ultrasound scan-determined liver damage was identified21, the cross-sectional study cannot determine the causality. In addition, the role of γ-GT in future cardiometabolic dysregulation is also uncertain in adolescents. This longitudinal study aimed to evaluate the relationships between baseline γ-GT levels and MetS and its component, and to assess whether optimal cut-off values (CoVs) of γ-GT can predict future MetS, hypertension (HTN) and T2DM in adolescents.
+Methods
+This study was approved by the Ethical Committee of the Cardinal Tien Hospital and the Ethical Committee of MJ Health Screening Centers. Each participant provided written informed consent. The described methods were carried out in accordance with the guidelines of the Declaration of Helsinki.
+Study Participants.  We enrolled subjects from MJ Health Screening Centers, a privately-owned chain of clinics throughout Taiwan which provide regular health examinations to their members. Parental informed consent and assent form the young adolescents were obtained. Data from the participants were collected anonymously and provided for research purposes only. In total, 11,370 subjects aged from 10 to 15 years were enrolled during a 10-year sample period (1999 to 2008) (Fig. 1). The exclusion criteria were those with only one visit (n = 3,545), those with missing data of MetS components or γ-GT (n = 512) and those with a history of alcohol consumption, HTN, type 1 diabetes and those taking medications known to affect MetS components or serum γ-GT levels including antihypertensive agents, corticosteroid, glycemic control agent, antilipid agent, antipsychotics, antidepressants, antiepileptics and immunosuppressants (n = 241). The remaining 7,072 subjects (3,954 boys and 3,118 girls) were enrolled as the study cohort.
+Study Design.  There are two parts to this study. The first was a cross-sectional observation on the relationships between baseline γ-GT levels and MetS and its components. In addition, the optimal CoVs of baseline γ-GT to differentiate the subjects with and without MetS were identified. The second stage of this study was longitudinal. The primary aim of this stage was to validate the CoVs determined in stage 1. Thus, 551 subjects who had MetS at baseline were excluded, and the remaining 6,521 subjects without MetS were followed up annually with the range of 2 to 10 years (median 6.8 years). Based on the γ-GT CoVs, we grouped the subjects without MetS into those with normal- and high-levels of γ-GT. The incidence rates of developing future MetS, HTN and T2DM were then calculated in the two groups.
+General Data and Anthropometric Measurements.  The senior nursing staff used a questionnaire to obtain the subjects’ drinking habits and medical history. Complete physical examinations were then performed. Anthropometric measurement including waist circumference (WC), body weight, body height, systolic blood pressure, and diastolic blood pressure were measured as we described previously22–24. After 10-hour fasting, blood samples were drawn from the antecubital vein for biochemical analysis. Plasma was separated from the blood within 1 hour and stored at −30 °C until fasting plasma glucose (FPG) and lipid profile analysis. The FPG was detected using a glucose oxidase method (YSI 203 glucose analyzer, Scientific Division, Yellow Springs Instruments, Yellow Springs, OH). Total cholesterol, triglycerides (TG), and low-density lipoprotein cholesterol (LDL-C) concentrations were measured by an enzymatic colorimetric method with a Roche Cobas C501 Chemistry Analyzer (Diamond Diagnostics, USA). Serum levels of high-density lipoprotein cholesterol (HDL-C) were determined using an enzymatic colorimetric assay after dextran sulfate precipitation. Serum γ-GT levels were measured using a CX7 biochemistry analyzer (Beckman, Fullerton, CA)22–24.
+Definition of Metabolic Syndrome.  We used the International Diabetes Federation (IDF) consensus definition of MetS in children and adolescents to define MetS22, 25. Subjects having three or more of the following abnormalities were diagnosed with MetS: abdominal obesity (WC ≥ 90th percentile)26, TG ≥ 150 mg/dL, HDL-C < 40 mg/dL, HTN (systolic blood pressure ≥130 or diastolic blood pressure ≥85 mmHg), and FPG concentration ≥100 mg/dL22.
+Statistical Analysis.  Anthropometric and biochemical data were expressed as mean ± standard deviation. All data were tested for normal distribution using the Kolmogorov-Smirnov test and homogeneity of variance with Levene’s test. The t-test was used to evaluate differences in demographic data between the subjects with and without MetS. Univariate and multivariate regression analyses were used to assess correlations between γ-GT and MetS components. The optimal CoVs of γ-GT for a higher likelihood of developing cardiometabolic dysregulation was calculated using receiver operating characteristic (ROC) curve analysis (MedCalc Software, Broekstraat, Mariakerke, Belgium).
+In stage 2, hazard ratios (HRs) of having MetS, HTN and T2DM were calculated using Cox regression analysis. In addition, Kaplan-Meier plots and the log rank test were performed to evaluate the time effect on the incidence
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+2
+
+www.nature.com/scientificreports/
+
+Figure 1.  Enrollment flow diagram. A total of 11,370 participants aged from 10 to 15 years who underwent
+regular health examinations from 1999 to 2008 at MJ Health Screening Centers were enrolled. Among them, the subjects with only one visit (n = 3,545), missing data of MetS components or γ-GT (n = 512), and a history of
+alcohol consumption, HTN, type 1 diabetes and those taking medications known to affect MetS components or serum γ-GT levels (n = 241) were excluded. The remaining 7,072 subjects were enrolled as the study cohort. In stage 1, the optimal CoVs of baseline γ-GT to differentiate the subjects with and without MetS were identified
+by ROC curve. Using these CoVs, the aim of second stage was to validate its predictive role on future MetS,
+HTN and T2DM.
+
+of having MetS, HTN and T2DM between the two groups. All data were analyzed using SPSS 18.0 software (SPSS Inc., Chicago, IL). A p-value (two-sided) < 0.05 was considered to be statistically significant.
+Results Baseline Characteristics and Association between γ-GT and MetS.  The baseline demographic data
+of the participants with and without MetS are shown in Table 1. Of the 3,954 male subjects, 332 (8.4%) with a mean age of 13.31 ± 1.97 years and 219 (7.0%) of 3,118 females with a mean age of 13.47 ± 1.96 years fulfilled the diagnostic criteria of MetS. There were significant differences in all five components of MetS (WC, blood pressure, FPG, HDL-C, and TG) between the subjects with and without MetS in both genders. Notably, the level of serum γ-GT was significantly higher in the subjects with MetS than in those without (p < 0.001).
+Univariate regression analysis showed a significant correlation between γ-GT and all five components of MetS in the males, however, only WC, blood pressure and TG were associated with γ-GT in the females (Table 2). In multivariate regression analysis, WC, HDL-C and TG in the males and WC and TG in the females remained significantly associated with γ-GT levels.
+ROC curve analysis showed that the optimal CoVs of γ-GT were 12 U/L in males and 11 U/L in females (Fig. 2). The areas under the ROC curve were 0.68 for the males (sensitivity 74.1%, specificity 52.0%) and 0.64 for the females (sensitivity 60.3%, specificity 60.2%) (both p < 0.001).
+γ-GT in Predicting Future MetS, HTN, and T2DM.  In univariate Cox regression analysis, the subjects with higher baseline levels of γ-GT (>12 U/L in males, >11 U/L in females) had a higher risk of developing MetS and HTN in both genders, and T2DM in males during the follow-up period (median 6.8 years) (Table 3). In
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+3
+
+www.nature.com/scientificreports/
+
+Male
+
+n Age (years) Waist circumference (cm) Systolic blood pressure (mmHg) Diastolic blood pressure (mmHg) Fasting plasma glucose (mg/dl) Total cholesterol (mg/dl) High density lipoprotein (mg/dl) Low density lipoprotein (mg/dl) Triglyceride (mg/dl) γ-GT (U/L)
+
+MetS (−)
+
+3622
+
+13.2
+
+±2.0
+
+68.6
+
+±10.1
+
+110.7 ±12.7
+
+60.5
+
+±8.6
+
+94.7
+
+±8.2
+
+163.5 ±29.0
+
+56.2
+
+±12.9
+
+92.0
+
+±25.4
+
+76.3
+
+±35.2
+
+14.1
+
+±7.7
+
+MetS (+)
+
+332
+
+14.0
+
+±1.7
+
+82.9
+
+±10.7
+
+127.3 ±13.1
+
+67.5
+
+±10.1
+
+99.9
+
+±8.0
+
+167.6 ±34.4
+
+42.6
+
+±10.3
+
+98.2
+
+±27.7
+
+133.6 ±65.9
+
+20.3
+
+±13.5
+
+P value
+<0.001 <0.001 <0.001 <0.001 <0.001 <0.036 <0.001 <0.001 <0.001 <0.001
+
+Female
+
+MetS (−)
+
+2899
+
+13.5
+
+±2.0
+
+63.8
+
+±7.4
+
+105.1 ±11.5
+
+59.1
+
+±7.7
+
+91.9
+
+±9.4
+
+166.8 ±27.6
+
+58.1
+
+±12.8
+
+93.6
+
+±24.5
+
+75.7
+
+±30.2
+
+10.5
+
+±4.7
+
+MetS (+) 219 13.2 72.8 115.3 62.2 98.6 170.9 44.1 97.8 145.4 13.8
+
+P value
+±1.9 0.031 ±9.2 <0.001 ±14.8 <0.001 ±8.7 <0.001 ±16.4 <0.001 ±33.3 0.079 ±8.8 <0.001 ±29.1 0.038 ±70.3 <0.001 ±8.7 <0.001
+
+Table 1.  Demographic data of the study subjects with and without metabolic syndrome at baseline. Data are shown as mean ± SD. Abbreviations: MetS, metabolic syndrome; MetS(−), without metabolic syndrome; MetS(+), with metabolic syndrome; γ-GT, gamma-glutamyl transferase.
+
+Univariate
+
+Male Waist circumference Systolic blood pressure Diastolic blood pressure Fasting Plasma Glucose High density lipoprotein Triglyceride Female Waist circumference Systolic blood pressure Diastolic blood pressure Fasting Plasma Glucose High density lipoprotein Triglyceride
+
+γ
+0.455 0.221 0.140 0.060 −0.112 0.301
+0.220 0.124 0.059 0.010 −0.012 0.195
+
+p
+<0.001 <0.001 <0.001 <0.001 <0.001 <0.001
+<0.001 <0.001 0.001 0.568 0.491 <0.001
+
+Multivariate
+
+Model 1
+
+β
+
+p
+
+0.418 0.026 0.014 0.024 0.110 0.172
+
+<0.001 0.141 0.380 0.082 <0.001 <0.001
+
+0.170 0.054 −0.001 — — 0.154
+
+<0.001 0.009 0.941 — — <0.001
+
+Model 2
+
+β
+
+p
+
+0.397 0.019 0.013 0.026 0.118 0.167
+
+<0.001 0.285 0.406 0.066 <0.001 <0.001
+
+0.163 0.051 −0.001 — — 0.152
+
+<0.001 0.014 0.946 — — <0.001
+
+Table 2.  Univariate and multivariate regression analysis of the γ-GT and components of the metabolic syndrome Model 1: Adjusted for components of metabolic syndrome. Model 2: Adjusted for components of metabolic syndrome as well as age and low-density lipoprotein.
+
+addition, multivariate Cox regression analysis showed that a higher serum γ-GT level remained a significant risk factor for future MetS (HR 1.98, 95% confidence interval (CI) 1.42–2.77 in males; HR 2.85, 95% CI 1.60–5.08 in females, both p < 0.001), but not in new-onset HTN orT2DM. Kaplan-Meier plots also demonstrated the same findings (Fig. 3).
+Discussion
+The results of this study revealed that the adolescents with MetS not only had higher γ-GT levels, but also a significant association between γ-GT and MetS, particularly WC and TG. These findings suggest that γ-GT may be involved in the pathophysiology of MetS in adolescents. In accordance with this hypothesis, our longitudinal results over a median follow-up period of 6.8 years indicated that a high serum γ-GT level was an independent predictor for future MetS in adolescents. To the best of our knowledge, this is the first large-scale longitudinal study focusing on adolescents to investigate the role of γ-GT on future MetS, HTN and diabetes in the same time.
+Since it is well-known that central obesity and insulin resistance are at the core of MetS, the role of γ-GT in the pathogenesis of MetS might be linked through NAFLD. In subjects with NAFLD, overproduction of glucose and TG from the fatty liver may precipitate the occurrence of MetS. On the other hand, the NAFLD is considered the hepatic manifestation of MetS and commonly associated with obesity27. Therefore, NAFLD was reported to be a useful predictor of MetS28. Conversely, patients with MetS have an increased risk of developing NAFLD29. The highly increasing prevalence of T2DM, obesity, and lifestyle changes (mainly exercise withdrawal) in the general population also makes NAFLD the most common diagnosis in daily clinical practices30. Even though NAFLD as a cause or a consequence of MetS is still being debated, an elevated level of γ-GT secondary to excessive liver fat
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+4
+
+www.nature.com/scientificreports/
+
+Figure 2.  Receiver operating characteristic curves for serum γ-GT in both genders. Receiver operating characteristic curves and optimal cut-off values for serum γ-GT for differentiating between MetS and non-MetS
+in (a) male and (b) female adolescents.
+
+accumulation has been demonstrated in patients with MetS and NAFLD17. As expected, γ-GT has been reported to be a surrogate marker of NAFLD, and also a promising biomarker for MetS and its components in adults19, 20.
+However, little is known about the associations of γ-GT concentration with MetS and the role of γ-GT as
+features of MetS in adolescents. To elucidate this uncertainty, Kong et al. enrolled 2,067 healthy Hong Kong participants aged 6–20 years and demonstrated that high γ-GT levels were associated with components of MetS, especially obesity and high blood pressure31. Even though these striking findings support the assumption that serum γ-GT might be a potential predictor for MetS in the youth population, the cross-sectional study could not provide information regarding the temporal and causal relationship between γ-GT and MetS31. The present study taking advantage of large-scale longitudinal follow-up aimed to assess the predictive value of γ-GT on future MetS in adolescent males and females. Interestingly, our results showed that γ-GT levels were distinctly associated
+with the WC, HDL-C and TG components of MetS in the males, but only WC and TG in the females. Similarly, previous studies also suggested differences in age and gender in the way MetS is expressed in adults32 as in adolescents33. Even though the phenotype of MetS determined by gender was identifiable, we found that a hypertriglyceridemic waist (HTGW) was strongly related to γ-GT levels in both genders, suggesting that HTGW is a useful index for metabolic dysregulation33–35. In addition to γ-GT, our results also showed that WC in males and
+HDL-C in females had predictive power for new-onset MetS. These findings reinforce the hypothesis that MetS is
+a heterogeneous condition, so that the predictive parameters of MetS in affected subjects can be influenced by age, gender, and race/ethnicity36. Taken together, our compelling findings not only identify the relationships between γ-GT, current MetS and future MetS, but also validate differences in gender in the variable expression of MetS in adolescents31, 33, 35.
+Emerging evidence has revealed the association between NAFLD and increasing odds of MetS24. The risk
+reduction of MetS may be achieved by lowering liver fat. Although pharmacologic therapies for NAFLD remains unavailable37, lifestyle interventions such as dieting and exercise have been considered effective38. In regard to
+exercise, Keating et al. reported that aerobic exercise training may help to burn fat in liver and viscera regardless of aerobic exercise dose or intensity39. Another study on resistance exercise also demonstrated that resistance training lead to a significant reduction in liver fat content and a greater glycemic control in the meanwhile40. Even though the existing evidences all supported the role of exercise on improving NAFLD and MetS38–40, the precise mechanisms were still unclear. On the other hand, the measurement of serum γ-GT level was a less expensive,
+widely available and easily interpretable way in primary care institutes to predict MetS, compared to ultrasound
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+5
+
+www.nature.com/scientificreports/
+
+Univariate Cox Regression
+
+Hazard Ratio (95% CI)
+
+(a) Metabolic syndrome
+
+Male
+
+γ-GT > 12 U/L
+
+2.526 (1.824–3.500)
+
+WC > criteria*
+
+4.508 (2.919–6.961)
+
+BP > criteria*
+
+1.199 (0.740–1.942)
+
+FPG > 100 mg/dl 1.517 (1.068–2.156)
+
+HDL-C<criteria* 1.067 (0.689–1.652)
+
+TG > 150 mg/dl
+
+1.184 (0.641–2.185)
+
+Female
+
+γ-GT > 11 U/L
+
+2.793 (1.589–4.910)
+
+WC > criteria*
+
+1.859 (1.025–3.373)
+
+BP > criteria*
+
+0.522 (0.072–3.783)
+
+FPG > 100 mg/dl 1.204 (0.477–3.041)
+
+HDL-C<criteria* 2.940 (1.669–5.178)
+
+TG > 150 mg/dl
+
+0.930 (0.226–3.831)
+
+(b) Hypertension
+
+Male
+
+γ-GT > 12 U/L
+
+2.068 (1.339–3.194)
+
+WC > criteria*
+
+3.092 (1.816–5.265)
+
+BP > criteria*
+
+3.281 (2.032–5.299)
+
+FPG > 100 mg/dl 0.845 (0.484–1.477)
+
+HDL-C<criteria* 1.273 (0.745–2.175)
+
+TG > 150 mg/dl
+
+1.544 (0.773–3.084)
+
+Female
+
+γ-GT > 11 U/L
+
+4.312 (1.069–17.395)
+
+WC > criteria*
+
+5.955 (0.732–48.428)
+
+BP > criteria*
+
+14.494 (3.457–60.769)
+
+FPG > 100 mg/dl 1.541 (0.189–12.582)
+
+HDL-C<criteria* 1.810 (0.452–7.243)
+
+TG > 150 mg/dl
+
+7.387 (1.477–36.935)
+
+(c) Diabetes
+
+Male
+
+γ-GT > 12 U/L
+
+3.165 (1.094–9.160)
+
+WC > criteria*
+
+5.224 (1.187–22.985)
+
+BP > criteria*
+
+1.193 (0.271–5.250)
+
+FPG > 100 mg/dl 1.755 (0.610–5.055)
+
+HDL-C<criteria* 1.331 (0.379–4.679)
+
+TG > 150 mg/dl
+
+1.871 (0.425–8.234)
+
+Female
+
+γ-GT > 11 U/L
+
+2.378 (0.862–6.561)
+
+WC > criteria*
+
+0.824 (0.309–2.196)
+
+BP > criteria*
+
+1.667 (0.220–12.619)
+
+FPG > 100 mg/dl 0.672 (0.089–5.091)
+
+HDL-C<criteria* 1.109 (0.403–3.052)
+
+TG > 150 mg/dl
+
+0.046 (0.000–1178.588)
+
+p value
+<0.001 <0.001 0.461 0.020 0.771 0.590
+<0.001 0.041 0.520 0.694 <0.001 0.920
+0.001 <0.001 <0.001 0.554 0.377 0.218
+0.040 0.095 <0.001 0.686 0.402 0.015
+0.034 0.029 0.815 0.297 0.656 0.407
+0.094 0.699 0.621 0.700 0.841 0.553
+
+Multivariate Cox Regression Hazard Ratio (95% CI) p value
+
+1.980 3.881 0.915 1.437 0.925 0.746
+
+(1.417–2.765) (2.481–6.069) (0.562–1.489) (1.008–2.048) (0.593–1.444) (0.401–1.390)
+
+<0.001 <0.001 0.721 0.045 0.732 0.357
+
+2.850 1.547 0.362 1.220 2.880 0.422
+
+(1.598–5.082) (0.840–2.850) (0.049–2.674) (0.483–3.080) (1.625–5.104) (0.099–1.793)
+
+<0.001 0.162 0.320 0.674 <0.001 0.242
+
+1.551 2.548 2.660 0.732 0.941 0.913
+
+(0.989–2.433) (1.459–4.449) (1.624–4.355) (0.416–1.288) (0.543–1.632) (0.447–1.864)
+
+0.056 0.001 <0.001 0.279 0.828 0.803
+
+2.351 3.333 8.210 1.119 1.141 2.893
+
+(0.517–10.693) (0.379–29.288) (1.830–36.835) (0.130–9.627) (0.253–5.143) (0.448–18.663)
+
+0.269 0.278 0.006 0.919 0.864 0.264
+
+2.429 4.023 0.785 1.654 1.107 1.046
+
+(0.812–7.266) (0.875–18.496) (0.175–3.522) (0.568–4.819) (0.303–4.051) (0.224–4.882)
+
+0.112 0.074 0.752 0.356 0.878 0.955
+
+2.757 0.742 1.555 0.680 1.236 0.000
+
+(0.980–7.755) (0.271–2.033) (0.199–12.164) (0.090–5.161) (0.444–3.437) (0.000–—)
+
+0.055 0.562 0.674 0.710 0.685 0.978
+
+Table 3.  Hazard ratios of γ-GT and components of the metabolic syndrome in developing future metabolic
+syndrome, hypertension and type 2 diabetes. BP, blood pressure; CI, confidence interval; FPG, fasting plasma glucose; γ-GT, gamma-glutamyltranspeptidase; HDL-C, high-density lipoprotein cholesterol; WC, waist circumference. *Criteria for WC were according to the cut-off value by Sung et al.26; criteria for BP were systolic BP ≥ 130 mmHg or diastolic BP ≥ 85 mmHg; criteria for HDL-C was<40 mg/dL. BP, blood pressure; CI, confidence interval; FPG, fasting plasma glucose; γ-GT, gamma-glutamyltranspeptidase; HDL-C, high-density
+lipoprotein cholesterol; WC, waist circumference. *Criteria for WC were according to the cut-off value by Sung et al.26; criteria for BP were systolic BP ≥ 130 mmHg or diastolic BP ≥ 85 mmHg; criteria for HDL-C was <40 mg/dL.
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+6
+
+www.nature.com/scientificreports/
+
+Figure 3.  Kaplan-Meier plot of developing future MetS, HTN and T2DM by different γ-GT levels. KaplanMeier curves estimate with log rank test was applied for the event-free probability between the subjects with normal γ-GT levels (≤12 U/L) and high γ-GT levels (>12 U/L).
+scan-determined NAFLD21. Considering the cost-effectiveness, the CoVs of γ-GT provided in the present study might be a useful tool to evaluate the long-term efficacy of exercise on NAFLD and MetS, and to clarify their relationships, at least in Taiwanese adolescents.
+Although the detailed mechanisms that the link γ-GT with HTN and atherosclerotic CVD remain elusive, there are some possible explanations for their relationships41, 42. Previous studies showed that γ-GT is significantly related to markers of inflammation such as fibrinogen, C-reactive protein and F2-isoprostanes42, 43. Furthermore, γ-GT is thought to be involved in the pathogenesis of atherosclerosis on the basis of expression of γ-GT in human atherosclerotic lesions43, 44. Additionally, the activity of ectoenzymatic γ-GT has been reported to play a pivotal role in the generation of free radical species through modulating the redox status of protein thiols at the cell surface43, 45. This evidence supports the possibility that serum γ-GT is not only a marker of inflammation and oxidative stress but also a potential predictor for future HTN42–45.
+However, the results of previous studies have been inconsistent with regards to the relationship between γ-GT and HTN. Kim et al. found a meaningful relationship between high γ-GT levels and HTN only in drinkers46, but Stranges et al. reported that a higher γ-GT level increased the risk of HTN in both subjects who did and did not drink alcohol43, 47. Interestingly, our results showed that serum γ-GT levels did not have a predictive power for future HTN, suggesting a possible different pathophysiology in incident HTN in adolescents. The discrepancies between previous studies on adults and our study may be because our subjects were younger, and because they had low CoVs of γ-GT and fewer deleterious lifestyle factors (such as heavy alcohol consumption, cigarette smoking, and physical inactivity)46, 47. Further studies including participants with a wide range of age, different genetic background, insulin resistance status, and inflammatory and oxidative condition are needed to elucidate the true role of γ-GT in predicting HTN.
+Even within a normal range of concentration, serum γ-GT has been reported to be related to the presence of diabetes17, 42, 48. However, our results did not support serum γ-GT activity as a predictor of T2DM in adolescents. Several possible explanations are as follows: First, epidemiological study on prevalence of diabetes in Taiwan reported that adolescents have less than a 1% prevalence of T2DM49. Second, the natural time-course of diabetes is a critical confounding factor while assessing the relationship between metabolic predictors and the development of T2DM. Our subjects were relatively young so that normal glucose levels might be observed at a much earlier age in consideration of ‘compensated period’, i.e., higher secretion of plasma insulin to maintain glucose homeostasis22. In support of this, Kong et al. have shown high γ-GT levels did not pose a significant risk to dysglycaemia because of their young participants31. Finally, our participants were around the age of puberty, and higher levels of sex hormones may have inhibited lipogenesis and improved insulin sensitivity50. However,
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+7
+
+www.nature.com/scientificreports/
+
+plasma insulin levels parallel to fasting glucose levels were unavailable in this study. Thus we could not evaluate the association between γ-GT and insulin resistance.
+The strengths of this study include its longitudinal population-based design and the large number of participants. In addition, this is the first clinical study to identify the optimal CoVs of γ-GT in predicting future MetS in adolescents. Using this simple and widely available biomarker may be helpful in initiating preventive strategies for adolescent MetS. However, there are also several limitations to this study. First, selection bias might exist due to study participants selected from a health screening center rather than from the community. However, the aim of this study was to observe relationships between factors, and thus there should be minimal effects. Second, all subjects of our study were ethnically Chinese, limiting the generalizability of the results to other ethnicities. Finally, data on the levels of serum alanine aminotransferase, insulin, fibrinogen, C-reactive protein, adiponectin and F2-isoprostanes were lacking. Further studies including these parameters and assessing the relationships between γ-GT, systemic oxidative stress, and inflammatory status are needed.
+In conclusion, the treatment and prevention of MetS in adolescents has become a public health priority. Our findings suggest that serum γ-GT levels could serve as a clinical predictor for future MetS in adolescents. Using such a low-cost and widely used metabolic biomarker may help pediatricians to screen adolescents at high risk of MetS at an early stage and prevent subsequent deleterious consequences.
+References
+1. Wang, Y. & Lobstein, T. Worldwide trends in childhood overweight and obesity. Int J Pediatr Obes. 1, 11–25 (2006). 2. Chu, N. F. Prevalence of obesity in Taiwan. Obes Rev. 6, 271–274 (2005). 3. Bhasin, S. et al. Sex hormone-binding globulin, but not testosterone, is associated prospectively and independently with incident
+metabolic syndrome in men: the framingham heart study. Diabetes Care. 34, 2464–2470, doi:10.2337/dc11-0888 (2011). 4. Freedman, D. S., Mei, Z., Srinivasan, S. R., Berenson, G. S. & Dietz, W. H. Cardiovascular risk factors and excess adiposity among
+overweight children and adolescents et al. Cardiovascular risk factors and excess adiposity among overweight children and adolescents: the Bogalusa Heart Study. J Pediatr. 150, 12–17.e2 (2007). 5. Li, C., Ford, E. S., Zhao, G. & Mokdad, A. H. Prevalence of pre-diabetes and its association with clustering of cardiometabolic risk factors and hyperinsulinemia among U.S. adolescents: National Health and Nutrition Examination Survey 2005–2006. Diabetes Care. 32, 342–347, doi:10.2337/dc08-1128 (2009). 6. Alberti, K. G., Zimmet, P. & Shaw, J. Metabolic syndrome–a new world-wide definition. A Consensus Statement from the International Diabetes Federation. Diabetic Med. 23, 469–480 (2006). 7. Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults. Executive Summary of The Third Report of The National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of High Blood Cholesterol In Adults (Adult Treatment Panel III). JAMA. 285, 2486–2497 (2001). 8. Hsiao, A. J., Chen, L. H. & Lu, T. H. Ten leading causes of death in Taiwan: A comparison of two grouping lists. J Formos Med Assoc. 114, 679–680, doi:10.1016/j.jfma.2013.12.003 (2015). 9. Wiegand, S. et al. Gamma-glutamyl transferase is strongly associated with degree of overweight and sex. J Pediatr Gastroenterol Nutr. 52, 635–638, doi:10.1097/MPG. 0b013e3181f8417f (2011). 10. S.E. Lipshultz et al. (eds), Pediatric Metabolic Syndrome-Comprehensive Clinical Review and Related Health Issues (2012). 11. Mirza, S. et al. Type 2-diabetes is associated with elevated levels of TNF-alpha, IL-6 and adiponectin and low levels of leptin in a population of Mexican Americans: a cross-sectional study. Cytokine. 57, 136–142, doi:10.1016/j.cyto.2011.09.029 (2012). 12. Valle, M. et al. Low-grade systemic inflammation, hypoadiponectinemia and a high concentration of leptin are present in very young obese children, and correlate with metabolic syndrome. Diabetes Metab. 31, 55–62 (2005). 13. Falahi, E., Khalkhali Rad, A. H. & Roosta, S. What is the best biomarker for metabolic syndrome diagnosis? Diabetes Metab Syndr 9, 366–372, doi:10.1016/j.dsx.2013.06.014 (2015). 14. Weinstock, R. S. et al. Metabolic syndrome is common and persistent in youth-onset type 2 diabetes: Results from the TODAY clinical trial. Obesity. (Silver Spring) 23, 1357–1361, doi:10.1002/oby.21120 (2015). 15. Schulman, J. D. et al. Glutathionuria: inborn error of metabolism due to tissue deficiency of gamma-glutamyl transpeptidase. Biochem Biophys Res Commun. 65, 68–74 (1975). 16. Yokoyama, H. [Gamma glutamyl transpeptidase (gammaGTP) in the era of metabolic syndrome]. Nihon Arukoru Yakubutsu Igakkai Zasshi. 42, 110–124 (2007). 17. Wannamethee, S. G., Shaper, A. G., Lennon, L. & Whincup, P. H. Hepatic enzymes, the metabolic syndrome, and the risk of type 2 diabetes in older men. Diabetes Care. 28, 2913–2918 (2005). 18. Nakanishi, N., Suzuki, K. & Tatara, K. Serum gamma-glutamyltransferase and risk of metabolic syndrome and type 2 diabetes in middle-aged Japanese men. Diabetes Care. 27, 1427–1432 (2004). 19. Rantala, A. O. et al. Gamma-glutamyl transpeptidase and the metabolic syndrome. J Intern Med. 248, 230–238 (2000). 20. Lee, D. S. et al. Gamma glutamyl transferase and metabolic syndrome, cardiovascular disease, and mortality risk: the Framingham Heart Study. Arterioscler Thromb Vasc Biol. 27, 127–133 (2007). 21. Lawlor, D. A. et al. Nonalcoholic fatty liver disease, liver fibrosis, and cardiometabolic risk factors in adolescence: a cross-sectional study of 1874 general population adolescents. J Clin Endocrinol Metab. 99, E410–417, doi:10.1210/jc.2013-3612 (2014). 22. Sun, H. L., Pei, D., Lue, K. H. & Chen, Y. L. Uric acid levels can predict metabolic syndrome and hypertension in adolescents: a 10year longitudinal study. PLoS One. 10, e0143786, doi:10.1371/journal.pone.0143786 (2015). 23. Huang, C. L. et al. Normal fasting plasma glucose predicts type 2 diabetes and cardiovascular disease in elderly population in Taiwan. QJM. 109, 515–522 (2015). 24. Chen, J. H. et al. The power of serum uric acid in predicting metabolic syndrome diminishes with age in an elderly chinese population. J Nutr Health Aging. doi:10.1007/s12603-015-0633-6 (2015). 25. Zimmet, P. et al. The metabolic syndrome in children and adolescents - an IDF consensus report. Pediatr Diabetes. 8, 299–306 (2007). 26. Sung, R. Y. et al. Waist circumference and waist-to-height ratio of Hong Kong Chinese children. BMC Public Health. 8, 324, doi:10.1186/1471-2458-8-324 (2008). 27. Gaggini, M. et al. Non-alcoholic fatty liver disease (NAFLD) and its connection with insulin resistance, dyslipidemia, atherosclerosis and coronary heart disease. Nutrients. 5, 1544–1560, doi:10.3390/nu5051544 (2013). 28. Yki-Järvinen, H. Non-alcoholic fatty liver disease as a cause and a consequence of metabolic syndrome. Lancet Diabetes Endocrinol. 2, 901–910, doi:10.1016/S2213-8587(14)70032-4 (2014). 29. Manco, M. Metabolic syndrome in childhood from impaired carbohydrate metabolism to nonalcoholic fatty liver disease. J Am Coll Nutr. 30, 295–303 (2011). 30. Tarantino, G. Should nonalcoholic fatty liver disease be regarded as a hepatic illnessonly? World J Gastroenterol. 13, 4669–4672 (2007).
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+8
+
+www.nature.com/scientificreports/
+31. Kong, A. P. et al. Associations of uric acid and gamma-glutamyltransferase (GGT) with obesity and components of metabolic syndrome in children and adolescents. Pediatr Obes. 8, 351–357, doi:10.1111/j.2047-6310.2012.00115.x (2013).
+32. Kuk, J. L. & Ardern, C. I. Age and sex differences in the clustering of metabolic syndrome factors: association with mortality risk. Diabetes Care. 33, 2457–2461, doi:10.2337/dc10-0942 (2010).
+33. Botton, J. et al. Relationship between gamma-glutamyltransferase and fat mass in a general population of 8-17 years old children. The FLVS II study. Diabetes Metab. 33, 354–359 (2007).
+34. He, S. et al. Hypertriglyceridemic waist might be an alternative to metabolic syndrome for predicting future diabetes mellitus. PLoS One. 8, e73292, doi:10.1371/journal.pone.0073292 (2013).
+35. Viitasalo, A. et al. Clustering of metabolic risk factors is associated with high-normal levels of liver enzymes among 6- to 8-year-old children: the PANIC study. Metab Syndr Relat Disord. 10, 337–343 (2012).
+36. DeBoer, M. D., Dong, L. & Gurka, M. J. Racial/ethnic and sex differences in the relationship between uric acid and metabolic syndrome in adolescents: an analysis of National Health and Nutrition Survey 1999–2006. Metabolism. 61, 554–561, doi:10.1016/j. metabol.2011.09.003 (2012).
+37. Chalasani, N. et al. The diagnosis and management of non-alcoholic fatty liver disease: practice Guideline by the American Association for the Study of Liver Diseases, American College of Gastroenterology, and the American Gastroenterological Association. Hepatology. 55, 2005–2023, doi:10.1002/hep.25762 (2012).
+38. Cortez-Pinto, H. & Machado, M. Impact of body weight, diet and lifestyle on nonalcoholic fatty liver disease. Expert review of gastroenterology & hepatology. 2, 217–231, doi:10.1586/17474124.2.2.217 (2008).
+39. Keating, S. E. et al. Effect of aerobic exercise training dose on liver fat and visceral adiposity. Journal of hepatology. 63, 174–182, doi:10.1016/j.jhep.2015.02.022 (2015).
+40. Hallsworth, K. et al. Resistance exercise reduces liver fat and its mediators in non-alcoholic fatty liver disease independent of weight loss. Gut. 60, 1278–1283, doi:10.1136/gut.2011.242073 (2011).
+41. Liu, C. F., Gu, Y. T., Wang, H. Y. & Fang, N. Y. Gamma-glutamyltransferase level and risk of hypertension: a systematic review and meta-analysis. PLoS One. 7, e48878, doi:10.1371/journal.pone.0048878 (2012).
+42. Lee, D. H. et al. Gamma-glutamyltransferase is a predictor of incident diabetes and hypertension: the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem. 49, 1358–1366 (2003).
+43. Liu, C. F., Gu, Y. T., Wang, H. Y. & Fang, N. Y. Gamma-glutamyltransferase level and risk of hypertension: a systematic review and meta-analysis. PLoS One. 7, e48878, doi:10.1371/journal.pone.0048878 (2012).
+44. Franzini, M. et al. Gamma-glutamyltransferase activity in human atherosclerotic plaques–biochemical similarities with the circulating enzyme. Atherosclerosis. 202, 119–127, doi:10.1016/j.atherosclerosis.2008.03.023 (2009).
+45. Lee, D. H., Blomhoff, R. & Jacobs, D. R. Jr. Is serum gamma glutamyltransferase a marker of oxidative stress? Free Radic Res. 38, 535–539 (2004).
+46. Kim, N. H. et al. Serum gamma-glutamyl transferase level is an independent predictor of incident hypertension in Korean adults. Clin Exp Hypertens. 34, 402–409, doi:10.3109/10641963.2012.665539 (2012).
+47. Stranges, S., Trevisan, M., Dorn, J. M., Dmochowski, J. & Donahue, R. P. Body fat distribution, liver enzymes, and risk of hypertension: evidence from the Western New York Study. Hypertension. 46, 1186–1193 (2005).
+48. Kim, D. J. et al. Serum gamma-glutamyltransferase within its normal concentration range is related to the presence of diabetes and cardiovascular risk factors. Diabet Med. 22, 1134–1140 (2005).
+49. Jiang, Y. D., Chang, C. H., Tai, T. Y., Chen, J. F. & Chuang, L. M. Incidence and prevalence rates of diabetes mellitus in Taiwan: analysis of the 2000-2009 Nationwide Health Insurance database. J Formos Med Assoc. 111, 599–604, doi:10.1016/j.jfma.2012.09.014 (2012).
+50. Mauvais-Jarvis, F. Estrogen and androgen receptors: regulators of fuel homeostasis and emerging targets for diabetes and obesity. Trends Endocrinol Metab. 22, 24–33, doi:10.1016/j.tem.2010.10.002 (2011).
+Acknowledgements
+This study was supported by grants from the Tri-Service General Hospital of the National Defense Medical Center (TSGH-C104-024 and TSGH-C105-023), Taiwan.
+Author Contributions
+Y.J.H. and Y.L.C. designed the research. C.H.H., C.H.L., D.P., J.D.L., C.Z.W., and Y.J.L. conducted the research and performed statistical analysis. C.M.L. wrote the manuscript. All authors read and approved the final manuscript.
+Additional Information
+Competing Interests: The authors declare that they have no competing interests.
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2017
+
+SCIENTIFIC RePorTS | 7: 9636 | DOI:10.1038/s41598-017-09719-8
+
+9
+

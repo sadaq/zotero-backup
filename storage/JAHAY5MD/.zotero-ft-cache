@@ -1,0 +1,738 @@
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+RESEARCH
+The Organization of the ␥-Glutamyl Transferase Genes and Other Low Copy
+Repeats in Human Chromosome 22q11
+John E. Collins,1 Andrew J. Mungall, Karen L. Badcock, Joanne M. Fay, and Ian Dunham
+Sanger Centre, Wellcome Trust Genome Campus, Hinxton, Cambs CB10 1SA, UK
+A clone map consisting of YACs, cosmids, and fosmids has been constructed covering low copy repeat regions of human chromosome 22q11. A combination of clone restriction digest analysis, single-copy landmark content analysis, HindIII–Sau3AI fingerprinting, and sequencing of PCR products derived from clones was required to resolve the map in this region. Seven repeat-containing contigs were placed in 22q11, five containing ␥-glutamyl transferase (GGT) sequences described previously. In one case, a single interval at the resolution of the YAC map was shown to contain at least three GGT sequences after higher resolution mapping. The sequence information was used to design a rapid PCR/restriction digest technique that distinguishes the GGT loci placed in the YAC map. This approach has allowed us to resolve the previous cDNA and mapping information relating to GGT and link it to the physical map of 22q11.
+[The sequence data described in this paper have been submitted to EMBL under accession nos. Z93342 (gene 11; EMBL identification no. HSGGT11), Z93343 (gene 12; EMBL no. HSGGT12), Z93344 (gene 1; EMBL no. HSGGT1A), Z93345 (gene 2; EMBL no. HSGGT2A), Z93346 (gene 3; EMBL no. HSGGT3A), Z93347 (gene 3-like; EMBL no. HSGGT3L), and Z93348 (gene 6; EMBL no. HSGGT6).]
+
+The human genome consists of high, medium, and low copy repetitive DNA and single-copy DNA (Britten and Kohne 1968). Low copy repeated sequences have been observed as multigene families either clustered or scattered throughout the genome. Some repeated sequences have been detected on a limited number of chromosomes, for example, ␤-glucuronidase pseudogenes on chromosomes 5, 6, and 22 (Sargent et al. 1994). Chromosome-specific repeats have also been identified on chromosome 5 (Thompson et al. 1993), chromosome 16 (Germino et al. 1992; Stallings et al. 1992), chromosome 19 (Ashworth et al. 1995), chromosome 22 (Halford et al. 1993; Collins et al. 1995), chromosome X (Bardoni et al. 1988; Li et al. 1992), and chromosome Y (Ngo et al. 1986).
+Low copy repeat sequences interfere with genome mapping techniques and require specialized approaches. It is not always immediately apparent that these sequences occur more than once in the genome. For instance, Stallings et al. (1992) noted that repetitive sequences had resulted in apparent
+1Corresponding author. E-MAIL jec@sanger.ac.uk; FAX 011-44-1223-4949-19.
+
+false overlaps in a cosmid contig on chromosome 16. A region of low copy repeats was also found on chromosome 19, but a modified fingerprinting method was able to resolve cosmids in this region (Olsen et al. 1994). Repetitive DNA also leads to yeast artificial chromosome (YAC) instability (Neil et al. 1990), which hampers the YAC mapping strategy.
+Chromosome 22 contains a number of low copy repeats in q11 including anonymous DNA fragments and expressed sequences. Complex restriction fragment patterns were obtained from Southern blots hybridized with D22S209 (Dumanski et al. 1991) and D22S207 (Carlbom et al. 1991). Fluorescence in situ hybridization (FISH) studies showed that a number of probes detected sequences on either side of a balanced translocation in 22q11 (Lindsay et al. 1993) and comparisons to primate DNA suggested a recent evolutionary origin for these repeats (Halford et al. 1993). Croce et al. (1987) mapped three breakpoint cluster region (BCR)-like loci to 22q11. Heisterkamp and Groffen (1988) isolated cosmid clones with the BCR cDNA and detected fragments of the gamma-glutamyl transferase (GGT) gene in close proximity. The human GGT
+
+522 GENOME RESEARCH
+
+7:522–531 ©1997 by Cold Spring Harbor Laboratory Press ISSN 1054-9803/97 $5.00
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+cDNA (Rajpert De Meyts et al. 1988; Sakamuro et al. 1988) was assigned to human chromosome 22 using in situ hybridization (Bulle et al. 1987) and at least four copies were identified in man, whereas only one was found in rat (Pawlak et al. 1988). Pawlak et al. (1989) went on to describe two human cDNA clones, GGTI transcribed in adult liver and kidney, and GGTII transcribed only in the kidney. Courtay et al. (1994) isolated seven genomic clones that could encode the GGT mRNA. They concluded that a single GGT locus encoded a ubiquitously expressed gene and proposed that a further four genes were expressed in a tissue-specific manner. At least four immunoglobulin ␭ (IGL)-like loci have been mapped to chromosome 22, VpreB (IGLV-derived) (Bauer et al. 1988) and 14.1, 16.2, and 16.1 (IGLCderived) (Chang et al. 1986; Schiff et al. 1989), now called IGLL1, IGLL2, and IGLL3, respectively (Bauer et al. 1993).
+During the assembly of a chromosome 22 YAC collection, we identified several groups of low copy repeats mapping to 22q11 (Collins et al. 1995). Initial landmark content analysis produced conflicting results and contigs could not be constructed. To overcome these problems we have used a series of approaches to construct and refine the physical map of this region. YACs containing different loci of a repetitive landmark were identified by restriction enzyme analysis and together with other singlecopy landmark data from the surrounding YACs a series of contigs was assembled (Collins et al. 1995). Bacterial clones were isolated using the GGT sequence from cosmid and fosmid libraries and placed into intervals defined by the YAC clones. A 387-bp region encompassing part of the GGT gene was amplified from YAC and bacterial clones representative of each interval, sequenced, and compared with the sequences obtained by Courtay et al. (1994). This allowed the sequences of Courtay et al. to be positioned relative to the YAC map (Collins et al. 1995), identifying one sequence per interval, except in the GGT.2 interval, which contains at least three different loci. This analysis indicates the extremely high level of sequence homology between these loci. The detailed and high resolution mapping necessary to resolve these repeats has major implications for future genome mapping and sequencing projects.
+RESULTS
+Construction of a long-range map of 22q11 revealed seven regions containing low copy repeat landmarks, five of which included a GGT locus, numbered GGT.1 to GGT.5 from the centromere (Fig. 1).
+
+LOW COPY REPEATS IN HUMAN CHROMOSOME 22q11
+Initially, the landmark content strategy used to assemble the 22q YAC map (Collins et al. 1995) was insufficient to assemble contigs in 22q11 and further mapping techniques were required. A combination of clone restriction digest analysis, HindIII– Sau3AI fingerprinting (Coulson et al. 1986), and sequencing PCR products derived from clones was employed. Forty-one YACs contained both GGT and BCR-like sequences (D22S287E), consistent with the observations of Heisterkamp and Groffen (1988).
+Identification of YACs Containing Low Copy Repeats in 22q11
+During screening of whole genomic YAC libraries with chromosome 22 landmarks, GGT, BCR-like (D22S287E), KI-1640 (D22S207), and KI-145 (D22S131) identified between two and five times as many clones as expected for a single-copy sequence. A total of 138 YACs were found to contain at least one of these repeated landmarks, of which 76 YACs contained more than one (Table 1).
+Separating Repeated Landmarks
+To establish whether GGT, D22S287E, and D22S207 mapped to more than one locus, Southern blots of genomic DNA restriction digested with a panel of enzymes were hybridized separately with the labeled PCR products of GGT1/2 and D22S287E, and hexamer-labeled D22S207 DNA. The enzymes that gave the largest number of restriction fragments were used to digest the DNA of five unrelated individuals (10 chromosomes) to indicate whether the fragments observed were attributable to restriction fragment length polymorphisms (RFLPs). Three combinations of restriction enzymes and probes showed potentially useful patterns of restriction enzyme fragments (Table 2). The GGT1/2 sequencetagged site (STS) identified five PvuII fragments in genomic DNA with no evidence that these fragments were attributable to RFLP. The D22S287E STS identified two PvuII fragments, with the D22S287E.E displaying a polymorphic 2.3-kb fragment as identified in a single YAC from the Imperial Cancer Research Fund (ICRF) library (see GGT.2 contig in Fig. 1 for mapping position). The D22S207 probe identified two HindIII fragments that were placed into three intervals in the YAC map. The restriction enzyme analysis was used with the single-copy landmarks to place groups of YACs into regions of 22q11 (Fig. 1; Collins et al. 1995, Fig. 2).
+
+GENOME RESEARCH 523
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+COLLINS ET AL.
+
+Figure 1 Map position of low copy repeats and summary of diagnostic mapping information. An ideogram of 22q is shown; below is a line representing 22q11 with the genetic landmarks described by Buetow et al. (1994) indicated (not to scale) and covering a distance of 34.2 cM. The seven repeat-containing contigs are indicated by a solid line separated by dashes. The repetitive landmark content or GGT interval of the seven repeat-containing contigs is shown above the line representing each contig. Below each landmark further mapping information is shown where appropriate, with the analysis performed indicated on the left. The PvuII and HindIII fragments are as labeled in Table 2. (L) GGTI (liver)-amplified fragment; (K) GGTII (kidney)-amplified fragment; (N) neither GGTI- or GGTII-amplified; and (U) unknown. (FP1–FP4) Bacterial clone contigs constructed by fingerprinting as described in the text. The GGT genes 1–3, 6, 11–13 are numbered according to Courtay et al. (1994) and the GGT genes I and II are numbered according to Pawlak et al. (1989). Gene 13 has not been placed in this interval experimentally, but displays a single base missing as compared with gene 11 (Table 3), hence the ? symbol.
+
+Some of the landmarks, GGT.C, D22S287E.E, D22S287E.F, and D22S207.B, were still present in more than one interval as compared with surrounding single-copy landmarks.
+Further clones containing repeated landmarks were isolated with the GGT1/2 STS from three bacterial clone libraries made from flow-sorted chromosomes representing ∼17 chromosome equivalents. The 158 clones were grouped by use of the diagnostic PvuII restriction enzyme digestion (see Table 2), indicating 80 GGT.B clones, 58 GGT.C clones, and 20 GGT.D clones (no GGT.A clones were identified). GGT.C clones maps to the GGT.1, GGT.3, and GGT.5 intervals and GGT.D clones map to the GGT.4 interval, which is consistent with the number of clones isolated (Fig. 1). However, GGT.B maps to a single interval (GGT.2) but appeared to be over-
+
+represented in all three libraries, averaging four clones for every one anticipated. These data suggest that there is either a large cloning bias for sequences in this region or that there is more than one GGT.B locus in the GGT.2 interval. All 78 clones from the N library were also tested with the D22S287E, D22S207, and D22S131 landmarks. The results were consistent with the YAC map landmark order. Cosmids in the GGT.3 interval were also found in the cosmid map across the IGLC region (Frippiat et al. 1995).
+Cosmid clones from the N library were subjected to HindIII–Sau3AI fingerprint analysis (Coulson et al. 1986). The clones fell into four contigs (Fig. 1). Contig FP1 (34 cosmids) contained only cosmids from the GGT.2 interval, contig FP2 (11 cosmids) contained GGT.5-interval cosmids, contig
+
+524 GENOME RESEARCH
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+LOW COPY REPEATS IN HUMAN CHROMOSOME 22q11
+
+Table 1. The Number of YACs Identified with Repetitive Landmarks in 22q11
+
+GGT
+
+Locus present in YACs
+
+D22S287E
+
+D22S131
+
+D22S207
+
+Number of YACs
+
++
+
+‫מ‬
+
++
+
++
+
++
+
+‫מ‬
+
++
+
+‫מ‬
+
++
+
++
+
++
+
++
+
+‫מ‬
+
++
+
+‫מ‬
+
++
+
+‫מ‬
+
++
+
+‫מ‬
+
+‫מ‬
+
+‫מ‬
+
+‫מ‬
+
+‫מ‬
+
+‫מ‬
+
+No. of YACS
+
+94
+
+61
+
+‫מ‬
+
+‫מ‬
+
+33
+
+‫מ‬
+
+‫מ‬
+
+15
+
++
+
+‫מ‬
+
+19
+
+‫מ‬
+
++
+
+1
+
++
+
+‫מ‬
+
+6
+
+‫מ‬
+
++
+
+20
+
+‫מ‬
+
+‫מ‬
+
+8
+
++
+
+‫מ‬
+
+3
+
+‫מ‬
+
++
+
+9
+
++
+
+‫מ‬
+
+16
+
++
+
++
+
+3
+
+‫מ‬
+
++
+
+5
+
+47
+
+38
+
+138
+
+Shown are 138 YACs containing at least one of the low copy repeats. The number of YACs containing the different repeat combinations is shown in the last column, with columns 1–4 indicating the repeat loci present (+) or absent (‫ )מ‬from each group of YACs.
+
+FP3 (13 cosmids) contained GGT.3-interval cosmids, and contig FP4 (five cosmids) contained GGT.4-interval cosmids. The large number of GGT.B cosmids from the GGT.2-interval fingerprinted into a single deep stack.
+Pawlak et al. (1989) published cDNA sequences termed GGTI and GGTII. Northern blotting showed that GGTI is detected in liver and kidney, whereas GGTII is only detected in kidney (Goodspeed et al. 1989; Pawlak et al. 1989). All bacterial clones were used in a PCR assay with two pairs of primers that detect either a GGTI (GGT.L) or GGTII (GGT.K) cDNA sequence (D. Figlewicz and G. Rouleau, pers. comm.) by priming from single base differences be-
+
+tween these two sequences (Fig. 2). The clones fell into three groups: amplified with the GGT.K primers (all GGT.2-interval clones), amplified with the GGT.L primers (all GGT.3- and GGT.5-interval clones), or not amplified with either primer (all GGT.4-interval clones), suggesting that the intervals GGT.3 or GGT.5 or both contain the GGTI gene and the GGT.2 interval contains the GGTII gene.
+Courtay et al. (1994) described seven very similar genomic GGT sequences and proposed that these represented seven GGT genes. Courtay et al. sequenced between bases 1902 and 2148 (amino acids 414 to 493) of the cDNA sequence J04131 (Fig. 2). These exon-only sequences showed several
+
+Table 2. Fragments Detected in Genomic DNA by Chromosome 22 Landmarks
+
+Landmark
+
+GGT
+
+D22S287E
+
+D22S207
+
+PvuII fragment
+
+size (kb)
+
+PvuII fragment
+
+size (kb)
+
+HindIII fragment
+
+size (kb)
+
+GGT.A GGT.B GGT.BCD GGT.C GGT.D
+
+6.0 1.6 0.8 0.55 0.45
+
+D22S287E.E
+
+4.0
+
+D22S287E.F
+
+3.0
+
+D22S207.A
+
+5.0
+
+D22S207.B
+
+4.0
+
+GENOME RESEARCH 525
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+COLLINS ET AL.
+
+(Collins et al. 1995). Somatic cell hy-
+
+brid data (not shown) suggests that it is
+
+on chromosome 22, although no
+
+clones were isolated from the chromo-
+
+some 22-only cosmid and fosmid li-
+
+braries. One possible map position for
+
+this GGT sequence is neighboring
+
+N52H8 and D22S446 (Collins et al.
+
+1995, Fig. 2), as one YAC in the map,
+
+yR34IC11, contains GGT.A. This re-
+
+Figure 2 The cDNA sequence of GGT is shown as a black horizontal gion lies in the middle of the IGLV lo-
+
+line. Diagonal bars indicate where regions have been omitted for display purposes. Numbering is as in the EMBL/GenBank sequence release no. J04131. PCR primers are shown as bold characters with the region amplified marked by a bar below. The 3Ј end of each primer is indicated by an arrow. Two intron sequences are indicated at 2005 and 2118 bp.
+
+cus (Frippiat et al. 1995), a region known to undergo chromosomal rearrangement, and so perhaps unstable in YACs. Because none of the other GGT.A YACs map to this interval and
+
+because of the possibility of chimerism
+
+in yR34IC11, the GGT.A landmark
+
+single nucleotide differences as listed in Table 3. To
+
+could not be placed in the map.
+
+establish the position of the sequences identified by
+
+Courtay et al., 24 cosmids from the N library that
+
+mapped to different regions of 22q11 were chosen Simplifying GGT Loci Identification
+
+for sequencing. These were amplified with the GGT.AMP primers (1929 to 2146 in J04131) and sequenced using the GGT.AMP primers and an internal primer GGT.AMP 2B. Comparison of the sequence differences shown in Table 3 revealed five of the seven sequences described by Courtay et al., positioning these genes into intervals of the YAC map (Fig. 1). There were no cosmids containing gene 12 or 13 sequences, and a new sequence, gene 3-like (one base different to gene 3 within the 88-bp in-
+
+Placing the GGT loci on the YAC map had used time-consuming and complex procedures that did not separate all the loci (see GGT.C above). The YAC and cosmid sequence analysis was used to design a simpler GGT locus detection and separation method. Analysis of the sequence of the GGT loci showed that three restriction enzymes could be used to distinguish each of the YAC map intervals (Table 4).
+
+tron), was identified. These data also showed that
+
+the GGT.2 interval contains at least three distinct sequences. As the N cosmid library was made from a
+
+DISCUSSION
+
+single chromosome these sequences cannot repre- The presence of low copy repeats in 22q11 ham-
+
+sent polymorphism of a single locus in the GGT.2 pered the assembly of a landmark content YAC map
+
+interval. However, they are not far enough apart to across the region. Methods were developed to dis-
+
+be positioned into separate intervals in the YAC tinguish repetitive landmarks by cleavage of cloned
+
+map. The published GGT.AMP sequence of gene 13 DNA with restriction enzymes followed by Southern
+
+is very similar to gene 3 and 11, suggesting that this blotting and hybridization, or by restriction enzyme
+
+too is a GGT.2 locus. However, this cannot be con- digests of PCR-amplified products from individual
+
+firmed until a clone with this locus is identified. To clones. It is clear from the experiments using the
+
+confirm the cosmid sequencing data and GGT gene single chromosome flow-sorted cosmid libraries
+
+mapping, two YACs from each of the five loci in the that the multiple bands detected by the Southern
+
+map were amplified with GGT.AMP. The sequence blot analysis of the GGT loci were not attributable
+
+of 10 PCR products confirmed the cosmid sequence to RFLPs. This was not confirmed for D22S287E or
+
+and other mapping data without exception. The D22S207; however, the data presented make it un-
+
+gene 12 sequence was found in the GGT.1 YAC map likely that they are RFLPs. The blotting method was
+
+interval, although this locus was not represented in complex and time-consuming and did not distin-
+
+the bacterial clones. The two YACs covering the guish all the loci in the YAC map into single-copy
+
+GGT.2 interval contained gene 3 and gene 11.
+
+landmarks. Although the PCR amplification and re-
+
+The locus corresponding to the GGT.A PvuII striction enzyme digest method was simpler, it re-
+
+fragment (Table 2) does not appear in the YAC map quired obtaining sequences displaying nucleotide
+
+526 GENOME RESEARCH
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+LOW COPY REPEATS IN HUMAN CHROMOSOME 22q11
+
+Table 3. Nucleotide Variation in GGT Sequences
+
+Position in
+
+sequence
+
+Gene
+
+J04131
+
+Gene 1 Gene 2 Gene 3 3-like Gene 6 Gene 11 Gene 12 Gene 13
+
+1955a
+
+—
+
+—
+
+T
+
+1962
+
+C
+
+C
+
+T
+
+1973
+
+T
+
+T
+
+C
+
+1974
+
+G
+
+G
+
+A
+
+2021
+
+C
+
+C
+
+T
+
+2025
+
+A
+
+C
+
+C
+
+2030
+
+G
+
+G
+
+G
+
+2033
+
+C
+
+C
+
+T
+
+2034
+
+G
+
+G
+
+G
+
+2073
+
+G
+
+T
+
+G
+
+2094
+
+A
+
+A
+
+G
+
+2108
+
+C
+
+C
+
+A
+
+T
+
+—
+
+T
+
+T
+
+C
+
+T
+
+C
+
+T
+
+C
+
+A
+
+A
+
+A
+
+T
+
+C
+
+T
+
+C
+
+C
+
+C
+
+G
+
+G
+
+G
+
+T
+
+C
+
+C
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+A
+
+G
+
+A
+
+C
+
+A
+
+—
+
+—
+
+T
+
+T
+
+T
+
+C
+
+A
+
+A
+
+C
+
+T
+
+C
+
+C
+
+T
+
+G
+
+C
+
+C
+
+A
+
+G
+
+G
+
+G
+
+G
+
+G
+
+C
+
+A
+
+Sequences from Courtay et al. (1994). aBase not in J04131.
+
+differences between loci that disrupt an enzyme site. The sequence analysis of PCR-amplified fragments proved the most robust and comprehensive method for detecting the differences between these loci.
+Examination of the GGT family of loci in more detail suggests there may be up to eight different loci. YACs were identified for six GGT loci, five in the map and one not placed. The sequence analysis indicated two possible additional loci in the GGT.2 YAC map interval. Figlewicz et al. (1993) observed more intense hybridization signals, as compared with a single-copy landmark, with a GGT probe that maps to this region and concluded that there were multiple copies of the locus in this interval. These loci may be too close together to detect different intervals in the YAC map. Courtay et al. (1994) showed that gene 6 was expressed in all tissues
+
+tested. This has been mapped to the GGT.5 interval on the YAC map and is the same nucleotide sequence described by Pawlak et al. (1989) as GGTI. GGTII (Pawlak et al. 1989) is the same as the gene 3 sequence, maps to the GGT.2 locus in the YAC map, and is a kidney-specific transcript on Northern blots (Goodspeed et al. 1989; Pawlak et al. 1989), as confirmed by the kidney-specific GGT primers. Four other genes were found to be expressed by Courtay et al. (1994) in a tissue-specific manner and these have also been mapped to GGT intervals on the YAC map (Fig. 1). The fate of the other transcripts is unknown.
+The reason for the numerous GGT loci (at least eight) in man is unclear. Compared with gene 6 (J04131 and GGTI), gene 1 contains two single base differences that do not alter the amino acid sequence; genes 3 and 11–13 lose the reading frame at
+
+Table 4. Size of Restriction Fragments Produced by Digestion of the GGT–AMP PCR Product from the Five GGT Intervals
+
+YAC map interval
+
+EagI
+
+Restriction enzyme fragment (bp)
+
+KpnI
+
+NlaIII
+
+GGT.1 GGT.2 GGT.3 GGT.4 GGT.5
+
+387 225 + 162 387 387 225 + 162
+
+340 + 47 387 387 387 340 + 47
+
+188 + 129 + 38 + 17 + 15 188 + 146 + 38 + 15 203 + 129 + 38 + 17 188 + 146 + 38 + 15 188 + 129 + 38 + 17 + 15
+
+GENOME RESEARCH 527
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+COLLINS ET AL.
+1930 bp and gene 2 at 1980 bp with the correct reading frame regained after nine amino acid residues in gene 3 and 11. Expression studies have shown gene 6 mRNA in every tissue tested, whereas genes 1–3 and 13 were tissue-specific. The rat genome contains a single GGT locus (Pawlak et al. 1988). It is possible that many of the GGT loci are products of the chromosomal duplications that appear to have occurred in 22q11, often in association with a BCR-like (D22S287E) sequence (Heisterkamp and Groffen 1988).
+The low copy repeats are dispersed across 22q11. PCR amplification of many of these groups of loci suggests they contain very similar nucleotide sequences, at least over short distances. Each block of repeats contains a subset of loci with no one region containing them all. Undoubtedly there are more repeated loci in 22q11 as the map shows only those used to screen the libraries or the chromosome 22 YAC collection. The region has been shown to be unstable with interstitial deletions leading to the CATCH22 phenotype (Scambler 1993). The instability could be attributable to recombination between the dispersed repeats, as seen on the X chromosome in the deletion causing steroid sulphatase deficiency (Yen et al. 1990) and the inversion in factor VIII causing severe hemophilia A (Lakich et al. 1993; Naylor et al. 1993), as well as a duplication on 17p causing a gene dosage increase and Charcot– Marie–Tooth disease type 1A (Pentao et al. 1992). Chromosomal rearrangements resulting from low copy repeat regions may also be associated with the spinal muscular atrophy phenotype mapped to 5q13 (Theodosiou et al. 1994). Several of the YACs show instability in a region where two groups of low copy repeats, have been mapped close together (see Collins et al. 1995, Fig. 2). The map suggests that the two blocks of repeats are separated by two singlecopy landmarks. Surprisingly no YAC was found to contain both blocks of low copy repeats with two large Centre d’Etude du Polymorphisme Humain (CEPH) YACs (yM765E3 and yM841B6) apparently missing either one or both blocks. However, to our knowledge, there is as yet no direct evidence that the repeats described here are involved in the chromosomal rearrangements reported in DiGeorge syndrome or velocardiofacial syndrome.
+The difficulties encountered in 22q11 have implications for the human genome project as a whole. Existing large-scale mapping methods, such as landmark content analysis and fingerprinting (in the GGT.2 interval), have been unable to produce contigs across the region. The whole-genome mapping projects (Chumakov et al. 1995; Hudson et al.
+
+1995) have produced contigs in 22q11 that differ from Collins et al. (1995), and discrepancies can often be traced to problems with low copy repeats. The high-resolution YAC and cosmid map of chromosome 16 and 19 contains multigene families and noncoding repetitive sequences that also required special attention during contig assembly (see Olsen et al. 1994; Ashworth et al. 1995; Doggett et al. 1995). The existence of low copy repeats such as those described here may interfere with production of sequence-ready maps and genomic DNA sequence in several regions of the human genome, and may require more detailed mapping methods to be applied.
+METHODS
+Clone Isolation
+YAC clone isolation was described in Collins et al. (1995). Bacterial clones were isolated by hybridization of the GGT1/2 STS (Collins et al. 1992) to gridded arrays of the flow-sorted chromosome 22 cosmid libraries LL22NCO1 (E library) and LL22NCO3 (N library) and a flow-sorted chromosome 22 fosmid library (F library) (Kim et al. 1992) as described in Bentley et al. (1992).
+Clone Restriction Digest Analysis
+YAC DNA was prepared in agarose (Bentley et al. 1992) and bacterial clone DNA was prepared by alkaline lysis. Human genomic DNA was obtained from Sigma (D-3035: D-3160) or kindly provided by C. Cole (Sanger Centre, Hinxton, UK). A quarter of a plug (∼2.5 µg) of YAC plus yeast DNA, 5 µg of human genomic DNA or 100 ng of bacterial clone DNA in solution was digested overnight with 20–50 units of the appropriate restriction enzyme (NEB) under conditions as recommended by the manufacturers, plus 1 mM of spermidine. DNA was separated on 1% agarose gels, Southern-blotted onto Hybond N membrane (Amersham), and hybridized with the relevant probe incorporating 32P by hexamer (Hodgson and Fisk 1987) or PCR (Bentley et al. 1992) labeling. Southern blot filters were washed twice for 30 min to 0.5‫ ן‬SSC at 65°C. Hybridization signals were visualized by autoradiography.
+Amplification and Sequencing of PCR Products
+The primer pair described by Courtay et al. (1994) (GGT.AMP1 and 2) was used to amplify the target sequence from bacterial clone colony slurry or extracted YAC DNA in 50 mM KCl, 10 mM Tris-HCl (pH 8.3) 1.5 mM MgCl2, 0.05 U/µl of Taq DNA polymerase (Perkin Elmer), and 0.01 U/µl of Perfect Match (Stratagene) for 30 cycles denaturing at 94°C for 30 sec, annealing at 65°C for 30 sec, and synthesis at 72°C for 30 sec. DNA sequencing was performed with 200 ng of precipitated PCR-amplified products using a Taq FS Terminator Kit (ABI Prism, Perkin Elmer) in cycle sequencing of 95°C for 30 sec, 50°C for 30 sec, and 60°C for 3 min for 25 cycles. Samples
+
+528 GENOME RESEARCH
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+were separated on a 4.75% acrylamide gels in a 373 stretch ABI Fluorescent Sequencer and processed with ABI software.
+The following primers were synthesised on an ABI 394 DNA/RNA synthesiser according to the manufacturer’s instructions: GGT.AMP.1, AATGGACGACTTCAGCTCTCC; GGT.AMP.2, AGCCGAACCAGAGGTTGTAGA; GGT.AMP.2B, AGAGCGGCTGCTTCCCT; GGT.LK.1, ATCGCGTCCACCTTCATCG; GGT.L.2, CAGAGTCCCCTTCCTGG; GGT.K.2, CCCAAAGTCCTCTTCCTCA. For other primers refer to Collins et al. (1992, 1995).
+Digestion of PCR Products
+Approximately 30 ng of PCR amplified product (prepared as for sequencing) was digested with 5–20 units of restriction enzyme for 1 hr. Products were separated by electrophoresis on 2.5% agarose gels and visualized with ethidium bromide.
+Nomenclature
+GGT.1 to GGT.5 refer to intervals defined by the YAC map of Collins et al. (1995). GGT.A to GGT.D describe specific PvuII restriction fragments derived from clones as defined by experiment (see Table 2). GGT.I and GGT.II refer to the cDNA sequences of (Pawlak et al. 1989). GGT.L is the product of PCR amplification using primers designed from the GGTI cDNA. GGT.K is the product of PCR amplification using primers designed from the GGTII cDNA. The GGT genes 1–3, 6, 11–13 are numbered according to Courtay et al. (1994).
+ACKNOWLEDGMENTS
+We thank M. Ross, C. Cole, and D. Bentley for comments on the manuscript. The chromosome-specific cosmid libraries LL22NCO1 and LL22NCO3 were provided by P. de Jong and were constructed at the Biomedical Science Division, Lawrence Livermore National Laboratories, under the auspices of the National Laboratory Gene Library Project sponsored by the U.S. Department of Energy. The fosmid library was a gift from U.-J. Kim and M. Simon. The data described in this paper are also available through a chromosome 22 database available by ftp from ftp.sanger.ac.uk in directory pub/ human/chr22/release-1996-11-25. This work was supported by The Wellcome Trust.
+The publication costs of this article were defrayed in part by payment of page charges. This article must therefore be hereby marked ‘‘advertisement’’ in accordance with 18 USC section 1734 solely to indicate this fact.
+REFERENCES
+Ashworth L.K., M.A. Batzer, B. Brandriff, E. Branscomb, P. de Jong, E. Garcia, J.A. Garnes, L.A. Gordon, J.E. Lamerdin, G. Lennon, H. Mohrenweiser, A.S. Olsen, T. Slezak, and A.V. Carrano. 1995. An integrated metric physical map of human chromosome 19. Nature Genet. 11: 422–427.
+Bardoni, B., S. Guioli, E. Raimondi, R. Heilig, J.L. Mandel, S. Ottolenghi, and G. Camerino. 1988. Isolation and characterization of a family of sequences dispersed on the human X chromosome. Genomics 3: 32–38.
+
+LOW COPY REPEATS IN HUMAN CHROMOSOME 22q11
+Bauer, S.R., K. Huebner, M. Budarf, J. Finan, J. Erikson, B.S. Emanuel, P.C. Nowell, C.M. Croce, and F. Melchers. 1988. The human Vpre B gene is located on chromosome 22 near a cluster of V lambda gene segments. Immunogenetics 28: 328–333.
+Bauer, T.R., Jr., H.E. McDermid, M.L. Budarf, M.L. Van Keuren, and B.B. Blomberg. 1993. Physical location of the human immunoglobulin lambda-like genes, 14.1, 16.1, and 16.2. Immunogenetics 38: 387–399.
+Bentley, D.R., C. Todd, J. Collins, J. Holland, I. Dunham, S. Hassock, A. Bankier, and F. Giannelli. 1992. The development and application of automated gridding for efficient screening of yeast and bacterial ordered libraries. Genomics 12: 534–541.
+Britten, R.J. and D.E. Kohne. 1968. Repeated sequences in DNA. Hundreds of thousands of copies of DNA sequences have been incorporated into the genomes of higher organisms. Science 161: 529–540.
+Buetow, K.H., J.L. Weber, S. Ludwigsen, T. Scherpbier Heddema, G.M. Duyk, V.C. Sheffield, Z. Wang, and J.C. Murray. 1994. Integrated human genome-wide maps constructed using the CEPH reference panel. Nature Genet. 6: 391–393.
+Bulle, F., M.G. Mattei, S. Siegrist, A. Pawlak, E. Passage, M.N. Chobert, Y. Laperche, and G. Guellaen. 1987. Assignment of the human gamma-glutamyl transferase gene to the long arm of chromosome 22. Hum. Genet. 76: 283–286.
+Carlbom, E., N. Sugawa, C. Larsson, P.J. Scambler, J.P. Dumanski, V.P. Collins, and M. Nordenskjold. 1991. Identification of twelve new RFLP-markers on chromosome 22q11-qter. Hum. Genet. 88: 135–138.
+Chang, H., E. Dmitrovsky, P.A. Hieter, K. Mitchell, P. Leder, L. Turoczi, I. R. Kirsch, and G.F. Hollis. 1986. Identification of three new Ig lambda-like genes in man. J. Exp. Med. 163: 425–435.
+Chumakov, I.M., P. Rigault, I. Le Gall, C. Bellanne´-Chantelot, A. Billault, S. Guillou, P. Soularue, G. Guasconi, E. Poullier, I. Gros et al. 1995. A YAC contig map of the human genome. Nature 377: 175–298.
+Collins, J.E., L.A. Everett, D.R. Bentley, and I. Dunham. 1992. A panel of human chromosome 22-specific sequence tagged sites. Genomics 14: 1098–1103.
+Collins, J.E., C.G. Cole, L.J. Smink, C.L. Garrett, M.A. Leversha, C.A. Soderlund, G.L. Maslen, L.A. Everett, K.M. Rice, A.J. Coffey et al. 1995. A high-density YAC contig map of human chromosome 22. Nature 377: 367–379.
+Coulson, A., J. Sulston, S. Brenner, and J. Karn. 1986. Towards a physical map of the genome of the nematode C. elegans. Proc. Natl. Acad. Sci. 83: 7821–7825.
+Courtay, C., N. Heisterkamp, G. Siest, and J. Groffen. 1994.
+
+GENOME RESEARCH 529
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+COLLINS ET AL.
+Expression of multiple gamma-glutamyltransferase genes in man. Biochem. J. 297: 503–508.
+Croce, C.M., K. Huebner, M. Isobe, E. Fainstain, B. Lifshitz, E. Shtivelman, and E. Canaani. 1987. Mapping of four distinct BCR-related loci to chromosome region 22q11: Order of BCR loci relative to chronic myelogenous leukemia and acute lymphoblastic leukemia breakpoints. Proc. Natl. Acad. Sci. 84: 4–8.
+Doggett, N.A., L.A. Goodwin, J.G. Tesmer, L.J. Meincke, D.C. Bruce, L.M. Clark, M.R. Alther, A.A Ford, H.-C. Chi, B.L. Marrone et al. 1995. An integrated physical map of human chromosome 16. Nature (Suppl.) 377: 335–364.
+Dumanski, J.P., E. Carlbom, V.P. Collins, M. Nordenskjold, B.S. Emanuel, M.L. Budarf, H.E. McDermid, R. Wolff, P. O’Connell, R. White et al. 1991. A map of 22 loci on human chromosome 22. Genomics 11: 709–719.
+Figlewicz, D.A., O. Delattre, G. Guellaen, A. Krizus, G. Thomas, J. Zucman, and G.A. Rouleau. 1993. Mapping of human gamma-glutamyl transpeptidase genes on chromosome 22 and other human autosomes. Genomics 17: 299–305.
+Frippiat, J.P., S.C. Williams, I.M. Tomlinson, G.P. Cook, D. Cherif, D. Le-Paslier, J.E. Collins, I. Dunham, G. Winter, and M.-P. Lefranc. 1995. Organization of the human immunoglobin lambda light-chain locus on chromosome 22q11.2. Hum. Mol. Genet. 4: 983–991.
+Germino, G.G., D. Weinstat Saslow, H. Himmelbauer, G.A. Gillespie, S. Somlo, B. Wirth, N. Barton, K.L. Harris, A.M. Frischauf, and S.T. Reeders. 1992. The gene for autosomal dominant polycystic kidney disease lies in a 750-kb CpG-rich region. Genomics 13: 144–151.
+Goodspeed, D.C., T.J. Dunn, C.D. Miller, and H.C. Pitot. 1989. Human gamma–glutamyl transpeptidase cDNA: Comparison of hepatoma and kidney mRNA in the human and rat. Gene 76: 1–9.
+Halford, S., E. Lindsay, M. Nayudu, A.H. Carey, A. Baldini, and P.J. Scambler. 1993. Low-copy-number repeat sequences flank the DiGeorge/velo-cardio-facial syndrome loci at 22q11. Hum. Mol. Genet. 2: 191–196.
+Heisterkamp, N. and J. Groffen. 1988. Duplication of the bcr and gamma-glutamyl transpeptidase genes. Nucleic Acids Res. 16: 8045–8056.
+Hodgson, C.P. and R.Z. Fisk. 1987. Hybridization probe size control: Optimized ‘‘oligolabelling.’’ Nucleic Acids Res. 15: 6295.
+Hudson T.J., L.D. Stein, S.S. Gerety, J. Ma, A.B. Castle, J. Silva, D.K. Slonim, R. Baptista, L. Kruglyak, S.-H. Zu, X. Hu et al. 1995. An STS-based map of the human genome. Science 270: 1945–1954.
+Kim, U.J., H. Shizuya, P.J. de Jong, B. Birren, and M.I. Simon. 1992. Stable propagation of cosmid sized human
+
+DNA inserts in an F factor based vector. Nucleic Acids Res. 20: 1083–1085.
+Lakich, D., H.H. Kazazian, Jr., S.E. Antonarakis, and J. Gitschier. 1993. Inversions disrupting the factor VIII gene are a common cause of severe haemophilia A. Nature Genet. 5: 236–241.
+Li, X.M., P.H. Yen, and L.J. Shapiro. 1992. Characterization of a low copy repetitive element S232 involved in the generation of frequent deletions of the distal short arm of the human X chromosome. Nucleic Acids Res. 20: 1117–1122.
+Lindsay, E.A., S. Halford, R. Wadey, P.J. Scambler, and A. Baldini. 1993. Molecular cytogenetic characterization of the DiGeorge syndrome region using fluorescence in situ hybridization. Genomics 17: 403–407.
+Naylor, J., A. Brinke, S. Hassock, P.M. Green, and F. Giannelli. 1993. Characteristic mRNA abnormality found in half the patients with severe haemophilia A is due to large DNA inversions. Hum. Mol. Genet. 2: 1773–1778.
+Neil, D.L., A. Villasante, R.B. Fisher, D. Vetrie, B. Cox, and C. Tyler Smith. 1990. Structural instability of human tandemly repeated DNA sequences cloned in yeast artificial chromosome vectors. Nucleic Acids Res. 18: 1421–1428.
+Ngo, K.Y., G. Vergnaud, C. Johnsson, G. Lucotte, and J. Weissenbach. 1986. A DNA probe detecting multiple haplotypes of the human Y chromosome. Am. J. Hum. Genet. 38: 407–418.
+Olsen, A., S. Teglund, D. Nelson, L. Gordon, A. Copeland, A. Georgescu, A. Carrano, and S. Hammarstrom. 1994. Gene organization of the pregnancy-specific glycoprotein region on human chromosome 19: Assembly and analysis of a 700-kb cosmid contig spanning the region. Genomics 23: 659–668.
+Pawlak, A., O. Lahuna, F. Bulle, A. Suzuki, N. Ferry, S. Siegrist, N. Chikhi, M. N. Chobert, G. Guellaen, and Y. Laperche. 1988. Gamma-glutamyl transpeptidase: A single copy gene in the rat and a multigene family in the human genome. J. Biol. Chem. 263: 9913–9916.
+Pawlak, A., S.J. Wu, F. Bulle, A. Suzuki, N. Chikhi, N. Ferry, J.H. Baik, S. Siegrist, and G. Guellaen. 1989. Different gamma-glutamyl transpeptidase mRNAs are expressed in human liver and kidney. Biochem. Biophys. Res. Commun. 164: 912–918.
+Pentao, L., C.A. Wise, A.C. Chinault, P.I. Patel, and J.R. Lupski. 1992. Charcot–Marie–Tooth type 1A duplication appears to arise from recombination at repeat sequences flanking the 1.5 Mb monomer unit. Nature Genet. 2: 292–300.
+Rajpert De Meyts, E., N. Heisterkamp, and J. Groffen. 1988. Cloning and nucleotide sequence of human gamma-glutamyl transpeptidase. Proc. Natl. Acad. Sci. 85: 8840–8844.
+
+530 GENOME RESEARCH
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+Sakamuro, D., M. Yamazoe, Y. Matsuda, K. Kangawa, N. Taniguchi, H. Matsuo, H. Yoshikawa, and N. Ogasawara. 1988. The primary structure of human gamma-glutamyl transpeptidase. Gene 73: 1–9.
+Sargent, C.A., I.J. Chalmers, M. Leversha, and N.A. Affara. 1994. A rearrangement on chromosome 5 of an expressed human beta-glucuronidase pseudogene. Mamm. Genome 5: 791–796.
+Scambler, P.J. 1993. Deletions of human chromosome 22 and associated birth defects. Curr. Opin. Genet. Dev. 3: 432–437.
+Schiff, C., M. Milili, and M. Fougereau. 1989. Isolation of early immunoglobulin lambda-like gene transcripts in human fetal liver. Eur. J. Immunol. 19: 1873–1878.
+Stallings, R.L., N.A. Doggett, K. Okumura, and D.C. Ward. 1992. Chromosome 16-specific repetitive DNA sequences that map to chromosomal regions known to undergo breakage/rearrangement in leukemia cells. Genomics 13: 332–338.
+Theodosiou, A.M., K.E. Morrison, A.M. Nesbit, R.J. Daniels, L. Campbell, M.J. Francis, Z. Christodoulou, and K.E. Davis. 1994. Complex repetitve arrangements of gene sequence in the candidate region of the spinal muscular atropy gene in 5q13. Am. J. Hum. Genet. 55 :1209–1217.
+Thompson, T.G., K.E. Morrison, P. Kleyn, U. Bengtsson, T.C. Gilliam, K.E. Davies, J.J. Wasmuth, and J.D. McPherson. 1993. High resolution physical map of the region surrounding the spinal muscular atrophy gene. Hum. Mol. Genet. 2: 1169–1176.
+Yen, P.H., X.M. Li, S.P. Tsai, C. Johnson, T. Mohandas, and L.J. Shapiro. 1990. Frequent deletions of the human X chromosome distal short arm result from recombination between low copy repetitive elements. Cell 61: 603–610.
+
+LOW COPY REPEATS IN HUMAN CHROMOSOME 22q11
+
+Received January 23, 1997; accepted in revised form March 24, 1997.
+
+GENOME RESEARCH 531
+
+Erratum
+Genome Research 7: 522–531
+The Organization of the ␥-Glutamyl Transferase Genes and Other Low Copy Repeats in Human Chromosome 22q11 John E. Collins, Andrew J. Mungall, Karen L. Badcock, Joanne M. Fay, and Ian Dunham
+During preparation of Figure 1 of the above manuscript, a mistake was introduced into the alignment of the referenced genetic map. This resulted in the position of three markers being incorrect relative to the repeat contigs described. The revised figure is shown below. With reference to the line labeled 22q11 on the left side of the diagram, the marker F8VWFP should be on the right side of the contig containing GGT.1, the marker COMT should be on the right side of the contig containing only D22S131, and the marker TOP1P2 should be on the right side of the contig containing GGT.5. This positions the markers correctly relative to the long-range map described in the paper.
+
+942 GENOME RESEARCH
+
+7:942 ©1997 by Cold Spring Harbor Laboratory Press ISSN 1054-9803/97 $5.00
+
+Downloaded from genome.cshlp.org on September 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+The Organization of the γ-Glutamyl Transferase Genes and Other Low Copy Repeats in Human Chromosome 22q11
+John E. Collins, Andrew J. Mungall, Karen L. Badcock, et al.
+Genome Res. 1997 7: 522-531 Access the most recent version at doi:10.1101/gr.7.5.522
+
+Related Content Corrections for vol. 7, p. 522 Genome Res. September , 1997 7: 942
+
+References
+
+This article cites 44 articles, 6 of which can be accessed free at: http://genome.cshlp.org/content/7/5/522.full.html#ref-list-1
+Articles cited in: http://genome.cshlp.org/content/7/5/522.full.html#related-urls
+
+License
+
+Email Alerting Receive free email alerts when new articles cite this article - sign up in the box at the Service top right corner of the article or click here.
+
+To subscribe to Genome Research go to: http://genome.cshlp.org/subscriptions
+Cold Spring Harbor Laboratory Press
+

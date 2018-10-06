@@ -1,0 +1,743 @@
+a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
+
+RESEARCH ARTICLE
+Gamma-glutamyltransferase and risk of cardiovascular mortality: A dose-response meta-analysis of prospective cohort studies
+Junna Wang1☯, Dandan Zhang2☯, Rongzhong Huang3, Xingsheng Li2*, Wenxiang Huang1*
+1 Department of Infectious Diseases, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China, 2 Department of Gerontology, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, China, 3 Department of Rehabilitation Medicine, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, China
+☯ These authors contributed equally to this work. * lxs2858@163.com (XSL); hwx8623@163.com (WXH)
+Abstract
+
+OPEN ACCESS
+Citation: Wang J, Zhang D, Huang R, Li X, Huang W (2017) Gamma-glutamyltransferase and risk of cardiovascular mortality: A dose-response metaanalysis of prospective cohort studies. PLoS ONE 12(2): e0172631. doi:10.1371/journal. pone.0172631
+Editor: Yoshihiro Fukumoto, Kurume University School of Medicine, JAPAN
+Received: November 22, 2016
+Accepted: February 7, 2017
+Published: February 23, 2017
+Copyright: © 2017 Wang et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability Statement: All relevant data are within the paper and its Supporting Information files.
+Funding: This project was supported by the Chongqing Science Foundation, China (No: KJ130332), The young elite talents project (No: 2014) in the second Affiliated Hospital of Chongqing Medical University and the research projects of Health Bureau, Chongqing, China (No:20102153). The funders play a role in decision to publish, or preparation of the manuscript.
+
+Background
+Serum gamma-glutamyltransferase (GGT) elevation likely contributes to cardiovascular (CV) mortality, however it has remained unknown whether a dose-response relationship exists between serum GGT and CV mortality.
+Methods
+We searched the PubMed, EMBASE, and Cochrane library databases for prospective cohort studies published up to October 2, 2016. Summary hazard ratios (HRs) with their corresponding 95% confidence intervals (CIs) were calculated using a fixed effects model.
+Findings
+Nine prospective studies, including 527,589 participants and more than 7,011 cases, were included in this meta-analysis. For the moderate, high, and highest levels of GGT, the pooled HRs of CV mortality were 1.11 (95% CI = 1.04–1.19), 1.29 (95% CI = 1.21–1.38) and 1.59 (95% CI = 1.47–1.72), respectively (all p < 0.05 as compared to the lowest levels of GGT). Additionally, the HR per incremental increase of GGT by 10 U/L was 1.10 (95% CI = 1.08–1.11). Evidence of a positive relationship with nonlinear trend for GGT elevation with CV mortality in females was found (P = 0.04 for nonlinearity). However, a linear model was better fit to illustrate the GGT-CV mortality among males (P = 0.304 for nonlinearity).
+Conclusions
+These findings indicate that serum GGT activity within the reference interval is positively associated with increased risk of CV mortality in a dose-response manner.
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+1 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Competing interests: The authors have declared that no competing interests exist.
+
+Introduction
+Cardiovascular disease (CVD) is one of the leading causes of mortality in developed countries and responsible for an estimated 17.5 million annual deaths in the world [1], representing as much as 60% of all deaths in regions such as Eastern Europe [2]. Despite age-standardized death rates from CVDs are estimated to be steadily decreasing for decades in the world as a whole, nonetheless, population growth and aging may lead to increase the absolute burden of CVDs [3]. Therefore, early prognosis and effective primary prevention are essential to lower the burden of this fatal disease, and identification of modifiable and biological factors would be imperative in changing CV mortality throughout whole communities and populations.
+Serum gamma-glutamyltransferase (GGT), a commonly used marker of hepatobiliary disease and excess alcohol consumption [4,5], is a plasma membrane enzyme that can degrade the circulating antioxidant glutathione (GSH) and increase intracellular GSH synthesis by assimilating and reutilizing the precursor amino acid [6,7]. Beyond its physiological functions, a large number of epidemiological studies have emerged that link serum GGT within its reference interval to the incidence of chronic conditions and diseases, including metabolic syndrome, diabetes, hypertension, body mass index, hyperlipidemia and others [8–13]. It is not understood why serum GGT levels within the normal interval would be associated with various clinical diseases. In fact, serum GTT has been shown to have pleiotropic effects ranging from antioxidant to pro-oxidant [14]. However, the precise mechanism by which serum GGT activity is predominantly antioxidant or pro-oxidant in the context of various clinical diseases is not currently understood.
+Despite the mechanism being unknown, there are considerable prospective studies published reporting on the independent role of serum GGT in the pathogenesis and clinical evolution of cardiovascular diseases [15,16] and CV mortality in the general population [17–24]. However, individual studies regarding the association between serum GGT levels and increased risk of CV mortality have been inconsistent. Findings from studies of the third US National Health and Nutrition Examination Survey showed that the risk of cardiovascular mortality for persons with elevated GGT was diminished and no longer statistically significant after controlling numerous CVD risk factors among 14,950 adult participants [25]. Similarly, no significant relationships between serum GGT and CV mortality were observed in 2,724 Japanese men, for whom the prevalence of smoking and drinking is high [26]. Therefore, the predictive role of serum GGT in monitoring CV mortality is still controversial, and the evolving debate is focused on whether established cardiovascular risk factors may attribute to the increased risk of CV mortality. Previous meta-analysis described that baseline levels of GGT were associated with an increased future risk of CV and all-cause mortality [27,28], however, few of these studies established a dose-response of GGT exposure associated with the risk increase or determined the shape of dose-response curve to find whether it is a linear relation, saturation or U-shaped curve relation between GGT exposure level and CV mortality risk. Additionally, numerous new studies have been reported in recent years [21–23], therefore, it is meaningful to clarify these contradictory results between serum GGT and the risk of CV mortality and more precisely evaluate the shape of dose-response association between serum GGT and CV mortality.
+
+Materials and methods Search strategy
+We followed the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guideline [29] for performing and reporting corresponding results in this meta-
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+2 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+analysis (S1 Appendix). We systematically searched all published articles indexed in PubMed, EMBASE and Cochrane Library before October 2, 2016 without language or time limitations. The following medical subject headings were used for searching the relevant literatures: (Gamma- glutamyltransferase OR GGT OR liver enzymes OR γ-Glutamyltransferase OR gamma-GT OR γ-GT OR nonalcoholic fatty liver disease) and (cohort OR observational OR prospective OR follow-up OR longitudinal) and (cardiovascular mortality OR cardiovascular disease OR myocardial infarction OR ischemic heart disease OR coronary artery disease OR heart diseases OR coronary disease OR mortality OR CVD OR death OR heart death OR sudden death OR cause of death OR all-cause mortality OR cardiac death OR CV death OR deaths) (S2 Appendix). Additionally, we contacted the original authors to obtain extra information if necessary, and reviewed reference lists of other relevant studies and pertinent reviews to identify works that were not found in the database search.
+Eligibility criteria
+The included studies in the meta-analysis had to meet the following criteria: 1) have a prospective cohort design (eg, not cross-sectional design, case-control design, retrospective cohort design, literature reviews and experimental design); 2) subjects enrolled in the study at baseline were free of any pre-existing diseases, especially cardiovascular diseases in the general population; 3) the exposure of interest was serum GGT concentration and the corresponding categories were more than 2 levels; 4) the outcome of interest was CV mortality; 5) Reported adjusted HRs or relative risks (RRs) with 95% CIs at least three quantitative GGT categories, or provided the number of cases and total participants or person-years for each category of serum GGT levels; 6) the reported HRs or RRs had been adjusted at least for age and gender; 7) the duration of follow-up was more than five years.
+Data extraction and validity assessment
+One investigator (J.N.W) extracted the data from the eligible studies, another investigator (D. D.Z) validated the data for accuracy independently with a standardized form as follows: first author’s name, publication year, country of the participants, name of study or source of participants, baseline survey period, follow-up time (year), age at recruitment (mean or range), gender (female, male or both combined), mean or median range of GGT levels in each category, the size of observational population and CV mortality cases for each GGT levels, values of HRs or RRs with their 95% CIs by quantile, and adjusted potential confounders. Additionally, if the articles presented the data separately by gender, we treated them as two independent studies and extracted the data separately. When diverse adjustments were provided, we extracted the HRs (95% CIs) with the most confounders adjusted. For studies with published data in people with and without diabetes separately, we just extracted the results in subjects without diabetes. The summary data of each identified work in our meta-analysis were presented in Table 1. The quality of included studies was assessed by the Newcastle-Ottawa Quality Assessment Scale for cohort studies [30].
+Data synthesis and statistical analysis
+We conducted separate meta-analyses for different levels of GGT concentration categorized into four levels as in a meta-analysis of Coffee Consumption and Risk of Cardiovascular Disease [31]. We calculated the pooled risks and 95% CIs of CV mortality by the general variancebased method that requires information on the RRs or HRs and the 95% CIs for each study [32]. We separated the GGT exposure levels into four groups, including the lowest, the moderate, the high, and the highest groups. In each included study, we considered the lowest and the
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+3 / 19
+
+4 / 19
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+Table 1. The basic characteristics of the nine cohort prospective studies included in meta-analysis.
+
+Study
+
+Region
+
+Kengne A P, 2012 [20]
+
+Britain
+
+Ruttmann E, 2005 [17]
+
+Austria
+
+Wannamethee Britain S G,2008 [18]
+
+Name of study or Year of
+
+source of
+
+Baseline
+
+participants
+
+survey
+
+HSE/SHeS
+
+1994– 2009
+
+VHM&PP
+
+1985– 2001
+
+BRHS
+
+1978– 2004
+
+Gender (female/ Male/ Both) M
+F
+M
+F
+M
+
+Follow- Age or up (mean range ± SD) (yr) mean
+(yr)
+
+10.1
+
+53.8
+
+10.1±5.0 41.8
+
+10.8±4.9 42
+
+24
+
+40–59
+
+HR/ Case/ RR Total
+HR 402/ 7866
+317/ 9403
+HR 1571/ 74830
+HR 1455/ 89114
+RR 1043/ 6997
+
+GGT Level (U/L)
+1. 12 2. 18 3. 25 4. 49 1. 11 2. 17 3. 25 4. 49 1. <14 2. 14–27 3. 28–41 4. 42–55 5. !56 1. <9 2. 9–17 3. 18–26 4. 27–35 5. !36 1. <11 2. 11–14 3. 15–21 4. !22
+
+95%CI
+1. 1 2. 0.95 (0.78–1.16) 3. 0.94 (0.76–1.16) 4. 1.46 (1.22–1.75) 1. 1 2. 1.04 (0.82–1.32) 3. 1.29 (1.03–1.61) 4. 1.77 (1.47–2.13) 1. 1 2. 1.17 (1.02–1.33) 3. 1.28 (1.08–1.53) 4. 1.39 (1.09–1.78) 5. 1.64 (1.35–2.0) 1. 1 2. 1.04 (0.88–1.22) 3. 1.35 (1.11–1.64) 4. 1.46 (1.14–1.88) 5. 1.51 (1.21–1.89) 1. 1 2. 1.10 (0.91,1.32) 3. 1.13 (0.93,1.37) 4. 1.40 (1.16,1.70)
+
+Breitling L P, 2011[19]
+
+Germany WCB
+
+Koehler E M, 2014 [21]
+
+Netherlands Rotterdam
+
+Sung K C, 2015 Korea [22]
+
+HSP
+
+1986–
+
+M
+
+1992
+
+1990– 2009
+
+Both
+
+2002– 2009
+
+Both
+
+17
+
+25–64 HR 507/ 1. <11
+
+1. 1
+
+19090 2. 11–14
+
+2. 1.07 (0.71–1.62)
+
+3. 15–21
+
+3. 1.27 (0.87–1.86)
+
+4. 22–38
+
+4. 1.61 (1.11–2.35)
+
+5. !39
+
+5. 2.02 (1.39–2.94)
+
+19.5
+
+70.3
+
+HR 672/
+
+1. GGT(1) 1. 1
+
+5186 2. GGT(2) 2. 1.40 (1.10,1.77)
+
+3. GGT(3) 3. 1.58 (1.24,2.01)
+
+4. GGT(4) 4. 1.47 (1.14,1.91)
+
+5. GGT(5) 5. 2.07 (1.43,2.99)
+
+7
+
+40.2
+
+HR 178/
+
+1. 1–12
+
+1. 1
+
+260260 2. 13–19
+
+2. 0.92 (0.50–1.70)
+
+3. 20–34
+
+3. 1.21 (0.67–2.20)
+
+4. !35
+
+4. 1.35 (0.72–2.56)
+
+Adjusted confounders
+Age and sex
+
+Study quality
+8
+
+Age, body mass index, systolic
+
+9
+
+blood pressure, cholesterol,
+
+triglycerides, glucose, smoking,
+
+work status, and year of
+
+examination.
+
+Age, social class, smoking, alcohol 9 intake, physical activity, preexisting evidence of undiagnosed CHD, BMI, systolic blood pressure, cholesterol, blood glucose and HDL-cholesterol.
+
+Age, Nationality, DM, IHD,
+
+8
+
+occupation, HT, BMI, smoking,
+
+elevated blood glucose,
+
+triglycerides, cholesterol, alcohol.
+
+Age, sex, education, smoking
+
+8
+
+status, alcohol intake, BMI,
+
+diabetes mellitus, hypertension,
+
+and total cholesterol levels.
+
+Age, sex, smoking status, alcohol 8 intake, diabetes, LDL cholesterol, history of heart disease, hypertension, history of stroke and fatty liver, HDL cholesterol, regular exercise, and BMI.
+(Continued )
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+Table 1. (Continued)
+
+Study
+
+Region
+
+Li Y, 2016 [23] Japan
+
+Haring R, 2009 Germany [24]
+
+Hozawa A, 2007 Japan [26]
+
+Name of study or Year of
+
+source of
+
+Baseline
+
+participants
+
+survey
+
+EPOCH-JAPAN NP
+
+Gender (female/ Male/ Both)
+M
+
+F
+
+SHIP
+
+NP
+
+M
+
+F
+
+NIPPON DATA 1990–
+
+M
+
+2000
+
+F
+
+Follow- Age or up (mean range ± SD) (yr) mean
+(yr)
+
+8.7
+
+40–79
+
+7.3
+
+20–79
+
+9.6
+
+52.5
+
+HR/ Case/ RR Total HR 361/
+15987
+340/ 25053
+HR NP
+NP
+HR 83/ 2724
+HR 82/ 4122
+
+GGT Level (U/L)
+1. 1–16 2. 17–24 3. 25–40 4. 41–837 1. 1–9 2. 10–13 3. 14–18 4. 19–435 1. Q1 2. Q2 3. Q3 4. Q4 5. Q5 1. Q1 2. Q2 3. Q3 4. Q4 5. Q5 1. 1–12 2. 13–24 3. 25–49 4. 50–468 1. 1–12 2. 13–24 3. 25–49 4. 50–295
+
+95%CI
+1. 1 2. 1.32(0.99–1.76) 3. 1.33(0.96–1.82) 4. 1.39(0.97–1.99) 1. 1 2. 1.04(0.73–1.47) 3. 1.01(0.69–1.48) 4. 1.58(1.08–2.29) 1. 1 2. 1.67 (0.72–3.88) 3. 1.86 (0.81–4.30) 4. 1.48 (0.61–3.60) 5. 2.80 (1.24–6.31) 1. 1 2. 1.52 (0.36–6.43) 3. 1.22 (0.28–5.33) 4. 1.85 (0.47–7.21) 5. 2.34 (0.61–8.96) 1. 1 2. 0.99 (0.48–2.04) 3. 0.77 (0.34–1.76) 4. 0.84 (0.30–2.39) 1. 1 2. 1.16 (0.68–1.98) 3. 1.89 (0.95–3.75) 4. 2.97 (1.06–8.34)
+
+Adjusted confounders
+
+Study quality
+
+Age, drinking status, smoking
+
+9
+
+status, BMI, systolic blood
+
+pressure, serum triglycerides
+
+levels, serum total cholesterol
+
+levels, aspartate
+
+aminotransferase, alanine
+
+aminotransferase.
+
+Age in decades, waist
+
+9
+
+circumference, alcohol
+
+consumption, physical activity,
+
+educational level, civil status,
+
+equalized income, and Functional
+
+Comorbidity Index.
+
+Age, alcohol consumption,
+
+9
+
+cigarette, smoking, GOT, GPT,
+
+body mass index, HDL-
+
+cholesterol, total-cholesterol,
+
+triglyceride, habitual exercise,
+
+systolic BP, use of
+
+antihypertensive medication and
+
+diabetes.
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Abbreviations: M, male; F, female; SD, standard deviation; BMI, Body mass index; NP, not provided; Q, Quintile; BP, blood pressure; GOT, Glutamic-oxaloacetic transaminase; GPT, Glutamicpyruvic transaminase; HDL, High-density lipoprotein; LDL, Low-density lipoprotein; CHD, coronary heart disease; IHD, ischemic heart disease; HT, hypertension; DM, Diabetes mellitus; VHM&PP, Vorarlberg Health Monitoring and Promotion Program; NIPPON DATA, National Integrated Project for Prospective Observation of Non-communicable Disease and Its Trends in the Aged; SHIP, Study of Health in Pomerania; EPOCH-JAPAN, The Evidence for Cardiovascular Prevention from Observational Cohorts; BRHS, British Regional Heart Study; HSE, Health Survey of England; SHeS, Scottish Health Survey; WCB, Workmen’s Compensation Board; HSP, Health screening program; HRs, hazard ratios; RRs, relative risks; CIs, conﬁdence intervals.
+doi:10.1371/journal.pone.0172631.t001
+
+5 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+highest GGT categories to be the lowest and highest groups, respectively. Therefore, if the number of GGT exposure categories was four, the second and third categories corresponded to the moderate and the high groups. However, if the original studies had five exposure categories, we pooled the HRs of the third and the fourth categories with inverse variance weight and used combined estimate for the high group.
+To identify whether there is a potential nonlinear relationship between GGT levels and CV mortality, a two-stage dose-response meta-analysis was performed. We used the generalized least-squares (GLST) calculation described by Orsini and colleagues [33] and multivariate maximum likelihood methods to estimate the nonlinear trends in the effect, applying 4 fixed knots at the 5%, 35%, 65%, and 95% percentiles of GGT exposure level [34–36]. At the first stage, we constructed study-specific slopes (linear trends) and 95% CIs for every 10% increase in GGT exposure level within each study using the fixed effects model. At the second stage, we combined the study-specific estimates to obtain the summary risk estimates assuming a random-effects model. Calculations for the dose-response meta-analysis included the distributions of cases and person years, median or mean of serum GGT levels for each comparison group, and adjusted HRs with corresponding 95% CIs for more than two categories of GGT exposure. The median level of serum GGT for each category was assigned to each corresponding HR estimate. We designated the midpoint of the lower and upper boundaries as the value of GGT exposure. When the upper boundary for the highest categories of GGT exposure was not provided, we calculate the value of exposure by the lower boundary multiplying 1.5 [37]. If the lowest category was open-ended, we assumed it to be zero [38]. In order to examine whether a nonlinear models exists between GGT and CV mortality, a P value was obtained from the test of the null hypothesis that the coefficient of the second spline is equal to zero. For the 3 articles [17,18,20] that did not provide person years for each GGT category, we calculated data for inclusion in the analysis from mean follow-up duration and number of subjects. Two studies [21,24] were excluded in the dose-response meta analyses because they did not report the number of subjects (total number of CV mortality or corresponding GGT exposure level).
+Furthermore, we performed subgroup analysis according to study location, gender, age, follow-up time, sample size, adjustment of diabetes mellitus, body mass index (BMI) and alcohol intake. To check whether the results could have been affected markedly by a single study, diverse sensitivity analyses were carried out by removing one study at a time and recalculating the pooled estimates for the remainder of the studies.
+Heterogeneity among studies was quantitatively evaluated using the chi-square-based Q test (P < 0.1, significant heterogeneity) and I2 statistic (I2 < 30%, low heterogeneity; I2 = 30– 50%, moderate heterogeneity; I2 > 50%, substantial heterogeneity) [39]. A random-effect model was applied if the heterogeneity was significant, otherwise, a fixed-effect model was conducted [40]. Potential publication bias was tested by the application of contour-enhanced funnel plots [41], Begg’s rank correlation test [42] and Egger’s linear regression test [43] with P values less than 0.05 indicating publication bias. Statistical calculations and figures were performed using Stata 14.0 version software (Stata Corp, College Station (TX)).
+Results
+Study characteristics
+A total of nine independent prospective articles [17–24,26] containing fourteen studies reporting serum GGT and CV mortality were used in the meta-analysis, including more than 7,011 CV mortality cases identified among 527,589 participants (Fig 1). Of these, seven epidemiological articles [17–20,22,23,26] were finally included in the dose-response meta analysis, comprised of 515,446 participants (6,339 CV mortality cases). Of the nine cohort articles, three
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+6 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Fig 1. Flow diagram of eligible literature selection. doi:10.1371/journal.pone.0172631.g001
+articles were conducted in Asia including two studies from Japan [23,26] and one from Korea [22], the remaining six articles were conducted in Europe, one in Austria [17], one in Netherlands [21], two in Britain [18,20] and two in Germany [19,24]. Five articles reported the effects of serum GGT on CV mortality separated by gender [17,20,23,24,26], two articles [21,22] reported their results without distinguishing by gender, and two articles [18,19] reported the results on males only. The follow-up duration was ranging from 7 to 24 years, and sample sizes ranging from >5,000 to >260,000 subjects. The age of participants at baseline varied from 20– 79 years. The incidence of CV mortality in enrolled studies ranged from 2.1%-5.1% in males,
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+7 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+which was always higher than corresponding data in females (1.4%-3.4%) from the same cohort. In all studies, CV-specific mortality was assessed by medical records or death certificates based on International Classification of Diseases (ICD) codes-9,10. All except one studies [20] provided multivariate-adjusted risk estimates (e.g., age, sex, body mass index, smoking, cholesterol, et al.). Each of the eligible articles was awarded at least eight stars according to the Newcastle-Ottawa Quality Assessment Scale for cohort studies.
+GGT and CV mortality incidence
+High versus low. Compared to the subjects with the lowest GGT categories in fourteen studies, the pooled HRs (95% CI) for CV mortality incidence were 1.11 (95% CI: 1.04–1.19, P = 0.002) for the moderate, 1.29 (95% CI: 1.21–1.38, P = 0.000) for the high and 1.59 (95% CI: 1.47–1.72, P = 0.000) for the highest categories of GGT levels. The P values for heterogeneity of the Q test in the above analyses were 0.64, 0.079 and 0.409, respectively, moderate heterogeneity was only upon analyzing the high versus the lowest categories of GGT (Fig 2).
+Dose-response analyses. We found a significant dose-response association between serum GGT levels and the incidence of CV mortality. Using a restricted cubic splines model, there was no evidence of departure from nonlinearity among the data from the included studies (Pnonlinearity < 0.001. see Fig 3A). The nonlinear dose-response trends showed a significantly increased risk of CV mortality with increasing serum GGT concentrations up to 52.5U/L and then the hazard ratios stabilized approximately at the value of 1.6. An approximate 10% (HR = 1.10, 95% CI = 1.08–1.11) increase in cardiovascular-related deaths occurred per 10 U/L increment in GGT elevation, with substantial heterogeneity (I2 = 55.8%, P = 0.012) (Fig 4). However, when we further restricted the analyses to studies among females, the shape of the curve became steeper and there was evidence of a significantly increased risk within the high normal range of GGT (P = 0.04. Fig 3B). In contrast, there was no nonlinear relationship between GGT and CV mortality risk among males (P = 0.304. Fig 3C), indicating that a linear model was better fit to illustrate the GGT-CV mortality among males. The study-specific HRs per 10 U/L increase in serum GGT concentration are presented in S1 Table. When stratified by geographical location, examination of the dose-response analysis suggested that nonlinearity relationship also existed in the European populations (P for nonlinearity = 0.003; Fig 3D). Nonetheless, in analysis restricted to Asian populations, we did not detect a significant nonlinear dose-response relationship after pooling the results (P for nonlinearity = 0.238; Fig 3E). A weighted linear relationship was demonstrated (P = 0.003).
+Subgroup and sensitivity analysis
+To examine the stability of the primary results, we carried out subgroup analyses across the 11 studies [17–20,22,23,26] included in our dose-response analysis. The association did not appear to be modified by sample size, follow-up duration, geographic region of the study cohort or adjusted for diabetes mellitus (Table 2). Restricting the analysis to studies that adjusted for BMI did not alter the results. However, the results should be explained carefully as all of the original studies except one study [20] adjusted for BMI. Alcohol consumption was a suggestive effect modifier of the relationship between GGT and CV mortality, where specifically, studies that adjusted for alcohol consumption observed a somewhat stronger positive association (HR per 10 U/L = 1.12; 95% CI, 1.09–1.15), compared to studies that did not adjust for alcohol consumption (HR per 10 U/L = 1.09; 95% CI, 1.07–1.10), with Pinteraction = 0.029. In addition, there was significant difference between subgroups when stratified by gender and age (P < 0.05 for inter-subgroup comparison). The results of sensitivity analyses are present in S2 Table. Ignoring a single study and reevaluating summarized HRs of the remaining studies
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+8 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Fig 2. Forest plot of hazard ratios of the moderate, the high and the highest vs. the lowest category of serum GGT with CV mortality risk. The squares represent the risk estimate for each individual study, with the area reflecting the weight assigned to the study. The horizontal line across each square represents the 95% confidence interval. The diamond represents the summary risk estimate, with width representing 95% confidence interval. The pooled hazard ratios were calculated by a fixed-effect model for all p values for heterogeneity >0.05. Abbreviation: CI, confidence interval; HR, hazard ratio. The hazard ratios were adjusted for potential confounders.
+doi:10.1371/journal.pone.0172631.g002
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+9 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Fig 3. Dose-response relationship between serum GGT levels and risk of CV-mortality in prospective studies. Restricted cubic splines and generalized least squares dose-response models on evaluation of association between GGT and risk of CV mortality. (A) Overall analysis; (B) females; (C) males; (D) Europe; (E) Asia. The solid line represents the fitted hazard Ratio curve compared to the subgroup with the lowest mean levels of serum GGT, and Lines with long dashes represent 95% CI of this risk by restricted cubic splines model. Lines with short dashes represent the weighted regression index compared to subgroup with lowest mean levels of serum GGT by generalized least squares model.
+doi:10.1371/journal.pone.0172631.g003
+in turn did not significantly alter the initial relationship of GGT and CV mortality risk. These findings confirm the reliability of our results.
+Publication bias analysis
+There was no evidence of publication bias for any association as revealed by Begg’s test and Egger’s test (all P > 0.05).
+Discussion
+We performed a meta-analysis of the moderate, the high, and the highest levels of serum GGT compared to the lowest level of serum GGT and dose-response relationship between GGT and the incidence of CV mortality. There was evidence of a nonlinear positive dose-response relationship between GGT and CV mortality after pooling seven articles including 515,446 participants and 6,339 cases of CV mortality. Notably, a flat association was observed in the lowest range of GGT levels < 13U/L, thereafter the shape of dose-response curve was steeper with serum GGT levels 13 -< 52.5U/L. Furthermore, the increases in risk somewhat flattened at above 52.5U/L GGT. For the dose-response meta-analysis, increases of 10U/L of circulating GGT levels were associated with a 10% increase in the risk of CV mortality. Sensitivity analysis was conducted further and did not significantly alter the result. No evidence of heterogeneity or publication bias was detected across the 9 prospective articles. Compared with the lower categories, those of the moderate or highest GGT activity categories did have a significantly increased risk of CV mortality in all participants combined and in subgroups. There is an incremental increase in CV mortality of approximately 9% for males and 12% for females per 10 U/L of GGT elevation, this association seems to be stronger for females than males.
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+10 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Fig 4. The two-stage dose-response meta-analysis on serum GGT and CV mortality. The squares represent the risk estimate for each individual study, with the area reflecting the weight assigned to the study. The horizontal line across each square represents the 95% confidence interval. The diamond represents the summary risk estimate, with width representing 95% confidence interval. CI, confidence interval; HR, hazard ratio.
+doi:10.1371/journal.pone.0172631.g004
+However, the current findings should be interpreted critically, considering that the GGT level of comparison groups was quite different.
+The results from the British Women’s Heart and Health Study indicated that GGT activity did not have a causal role in the incidence of coronary heart disease (CHD), independent of alcohol intake [44]. However, a prospective study in the Japanese population found that the serum GGT level was predictive of mortality from cardiovascular mortality among females for whom the prevalence of ever-drinkers was very low, but no associations were seen among males [26]. The reason for the gender difference remains unclear, and the authors suggested that the difficulty in controlling for the effects of alcohol consumption in males might partly account for the gender difference. One possible explanation for this result could be that moderate alcohol consumption reduces the risk of atherosclerosis by increasing plasma concentrations of high-density lipoprotein (HDL) cholesterol, a well-established major protective factor against CHD [45]. In addition, γ-GT is recently considered to be an oxidative stress marker. A Japan study reported that a positive correlation was observed between the circulating oxidative
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+11 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+
+Table 2. Subgroup analyses of pooled Hazard Ratios (HRs) of CV mortality per 10 U/L increase in GGT level.
+
+Subgroup
+All studies sex Male Female Follow-up duration !10y <10y Sample size !10000 <10000 Age !50 y <50y Study location Europe Asia Adjusted for DM Yes No Adjusted for alcohol Yes No Adjusted for BMI Yes No
+
+Number of studies
+11
+6 4
+6 5
+6 5
+5 2
+6 5
+4 7
+7 4
+9 2
+
+HR(95%CI)
+1.10 (1.08, 1.11)
+1.09 (1.07, 1.10) 1.12 (1.09, 1.15)
+1.09 (1.08, 1.11) 1.12 (1.09, 1.16)
+1.09 (1.07, 1.11) 1.11 (1.08, 1.13)
+1.11 (1.08, 1.13) 1.07 (1.05, 1.09)
+1.09 (1.08, 1.11) 1.12 (1.09, 1.16)
+1.10 (1.06, 1.15) 1.09 (1.08, 1.11)
+1.12 (1.09, 1.15) 1.09 (1.07, 1.10)
+1.09(1.07,1.11) 1.11(1.09,1.14)
+
+P value
+0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+Test for heterogenity*
+
+I2(%) Pheterogensity Pinteraction
+
+58.9
+
+0.007
+
+70.4 0.10
+
+0.005 0.391
+
+0.039
+
+60.0
+
+0.029
+
+56.9
+
+0.054
+
+0.109
+
+64.1
+
+0.016
+
+56.0
+
+0.059
+
+0.249
+
+57.5
+
+0.052
+
+50.0
+
+0.157
+
+0.039
+
+60.0
+
+0.029
+
+56.9
+
+0.054
+
+0.109
+
+60.7
+
+0.054
+
+63.9
+
+0.011
+
+0.776
+
+37.4
+
+0.143
+
+69.9
+
+0.019
+
+0.029
+
+60.2
+
+0.010
+
+56.2
+
+0.131
+
+0.160
+
+*For the test of heterogeneity in each subgroup, we also calculated the I2 statistic, and 50% was regarded as the cutoff point for non-signiﬁcant and signiﬁcant levels. Moderate heterogeneity was detected in our doseresponse meta-analysis and heterogeneity was found when stratiﬁed by sex, age and adjustment for alcohol. Abbreviations: HRs, hazard ratios; RRs, relative risks; CIs, conﬁdence intervals; DM, Diabetes mellitus; BMI, Body mass index.
+
+doi:10.1371/journal.pone.0172631.t002
+
+status and serum γ-GT levels at active estrogen stage among subjectively healthy women, which may indicate a different oxidative stress condition by menopausal stage [46]. Similarly, a Norway study confirmed that an increase in γ-GT was positively correlated with oral contraceptive use and menopause [47]. However, whether estrogen level plays a critical role in gender differences between GGT levels and CV mortality risk is still far from clear and requires further data to clarify the mechanism.
+Several researchers have also reported that the association between serum GGT activity and CV mortality appears to be stronger in younger versus older subjects [17,18,20,22]. The Minnesota Heart Survey Epidemiologic Follow-up Study reported that the serum GGT concentration was a predictor for mortality from cardiovascular disease among populations aged less than 70 years, but no associations were seen among subjects aged more than or equal to 70 years [48]. Similar age interactions were noted by Wannamethee et al. in their analyses of the
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+12 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+British Regional Heart Study [18]. However, recent reports supported positive associations between GGT and risk of CV mortality separately in the elderly where the mean age was 70 years [21,49]. Further studies are required to clarify the association in younger individuals.
+Similar to previous meta-analyses [27,28], our dose-response meta-analysis found that the incidence risk of CV mortality increased with the elevation of serum GGT concentration, implying that serum GGT is a dose-dependent risk factor for the incidence of CV mortality. Several possible mechanisms could explain this association between GGT activity and CV mortality. There is growing evidence that GGT levels may be indirectly linked to atherosclerosis via coexistent oxidative stress [50], one of the most important contributors to vascular injury. GGT has been found within carotid and coronary plaques, colocalized with oxidized lipids and CD68+ foam cells [51–52], which may promote iron-dependent oxidation of lowdensity lipoprotein (LDL) and lead to further development of atherosclerotic plaques by influencing plaque evolution and rupture [4,53]. In addition, GGT is associated with subclinical microinflammatory response by modulating mediators such as leukotrienes [54] and S-nitrosoglutathione (GSNO) [55]. Findings from the cross-sectional analysis performed in the Multi-Ethnic Study of Atherosclerosis (MESA) cohort showed that evidence of significant linear trends for increasing trends in biomarkers of arteriosclerosis with graded increases in GGT, including oxidized low-density lipoproteins (oxLDL), interleukin-6 (IL-6), C-reactive protein (CRP), and soluble intercellular adhesion molecule-1 (sICAM-1)[56]. An Italy study indicated that macrophages may contribute to plaque b-GGT accumulation under inflammatory conditions, the heaviest of the four GGT fractions identified in plasma, which in turn play a role in the progression of atherosclerosis by modulating inflammatory processes in the plaque environment [57]. Epidemiologic evidence have shown that serum GGT levels are associated with coronary flow reserve (CFR) [58–60], arterial stiffness [61] and coronary artery calcification [62]. For instance, a Turkey study confirmed that serum GGT levels were inversely correlated with the coronary flow reserve (CFR) in normal individuals, which reflect coronary microvascular function and have been shown to be early manifestations of atherosclerosis and coronary artery disease [58–60]. Moreover, growing numbers of studies have revealed a strong association of GGT with various atherosclerotic risk factors, such as hypertension, metabolic syndrome, diabetes and others [8–10]. However, most of the studies were from epidemiologic data and to date the original articles are still limited.
+Based on the RR or HR values for every dose category in each study included in the doseresponse analysis, the association between serum GGT activity and the risk of CV mortality was significant in 1 study [17] and was mixed in the other 10 studies [17–20,22,23,26] (Table 1). In the study-specific dose-response meta-analysis using a 10 U/L incremental increase of GGT, the variation in the incidence of CV mortality was significant in 9 studies (P < 0.05) and not significant in 2 studies (P > 0.05) (S1 Table). However, our meta-analysis showed substantial significant heterogeneity across the 11 prospective studies (I2 = 55.8%, P = 0.012), therefore, the results should be interpreted with caution.
+For subgroup analyses of the dose-response meta-analysis, the incidence of CV mortality increased with rises in GGT concentration in all subgroups with moderate to substantial heterogeneity, which did not alter much in the subgroup analyses. There are differences in serum GGT levels between males and females in our included studies. Therefore, within the subgroup analysis we examined gender as possible sources of heterogeneity. Females were more sensitive to develop CV mortality on the same GGT elevation degree than males (P < 0.05), revealing that gender might be confounding the GGT-CV mortality association. When stratified by age, our subgroup analysis revealed a stronger relationship on GGT-CV mortality in the older (P < 0.05). However, several researchers have reported that the association between serum GGT activity and CV mortality appears to be stronger in younger versus older subjects
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+13 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+[17,18,20,22]. The reason for these seemingly inconsistent results remains unknown, though they might be driven in part by the wide range of age and the limited studies included in our subgroup stratified by age. Recently, a study in community-dwelling individuals aged 50 to 99 years suggested that excess risk of cardiovascular mortality was found in older persons with elevations in serum GGT, and the slope of the hazard curve for cardiovascular mortality is relatively flat when the age less than approximately 66 years old, and rose steeply thereafter [63], which further supported our findings.
+We also examined region, number of participants, and length of follow-up as possible sources of heterogeneity, nevertheless, heterogeneity between studies did not alter much in the subgroup analyses. There is substantial evidence that alcohol consumption has been reported to be U-curve or J-curve association with CAD [64–65]. As GGT is the most common marker of excessive alcohol consumption, we conducted subgroups by adjusted alcohol consumption. Interestingly, there was some evidence of heterogeneity (Pheterogeneity = 0.029 for both comparisons), with a stronger association among studies that adjusted alcohol consumption, so it seems plausible that the relationship between GGT and CV mortality risk varies by alcohol consumption. In addition, GGT has been demonstrated to be positively associated with several cardiovascular disease risk factors, such as BMI [66] and diabetes mellitus [8], whereas there was no significant difference between subgroups classified by BMI and diabetes mellitus. Of course, the observed heterogeneity could be attributable to differences in environmental factors, methodological factors in design, and how the studies were conducted.
+Compared with the previous meta-analyses [27], our study has several notable strengths. To explore the relationship of serum GGT concentration and CV mortality quantitatively, we performed a dose-response meta-analysis of published prospective studies and found a positive nonlinear relationship, which is a novel finding. Meanwhile, the total number of participants (n = 515,446) and CV mortality cases (n = 6,339) were sufficiently large, and the duration of follow-up was long, ranging from 7 to 24 years. As a result, the prospective cohort studies included in our meta-analysis are of high-quality, which allowed for detection of potential associations and eliminated the potential for recall and selection bias. Furthermore, we conducted subgroup analyses and sensitivity analyses to find out whether some characteristics could explain the results and evaluate robustness. No individual study was able to alter the nonlinear trend when we removed it from the dose-response meta-analysis. Therefore, the results are more reliable as they are not overly influenced by the effect of a single study.
+Limitations of this meta-analysis should be mentioned. First, all included studies measured GGT level on a single occasion at baseline. Considering the within-subject variation of GGT level and measurement error, our results might be subject to regression dilution bias [67], indicating an underestimated effect size for the association of GGT levels with CV mortality. Second, several included studies used death certificate to ascertain the causes of death [17,19,20,23,24]. However, information from death certificate can be inaccurate [68]. Therefore, misclassification bias possibly affected our results on the associations between GGT levels and risks of death from cardiovascular disease. Third, the noticeable limitation of our study was the potential for bias due to the inability to fully adjust for confounders, such as CRP [69] and non-alcoholic fatty liver disease (NAFLD) [70], which might bias the results toward the exaggeration or underestimation of risk estimates, therefore, the positive effect of increasing GGT level on CV mortality could be attributed to other risk factors. Fourth, the prospective cohort studies focusing on the GGT-CV mortality association were mainly conducted in Europe, and this relationship should be evaluated in studies involving other ethnicities. Finally, our results may be influenced by language bias. Although no restrictions were imposed on language of publications to minimize this bias when searching the electronic databases, all analyzed studies were published in English.
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+14 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+Conclusions
+Altogether, our meta-analysis contributes to the literature by exploring the nonlinear doseresponse relationship between GGT and the risk of CV mortality. These results indicated that GGT in normal range might be an individualized predictor in screening incidents of CV events. However, the potential mechanisms are still limited. Further research is necessary to further clarify the mechanisms and examine the potential modifiers of the GGT-CV mortality relationship.
+Supporting information
+S1 Appendix. PRISMA checklist. The PRISMA Checklist of this meta-analysis. (DOC)
+S2 Appendix. Search strategy. (PDF)
+S1 Table. Study-specific and summary HRs for CV mortality, per 10 U/L increase in GGT level. (PDF)
+S2 Table. Dose-response meta-analysis on Hazard Ratios (HRs) for CV mortality per 10U/ L increase in GGT, each study removed in turn. (PDF)
+Author Contributions
+Conceptualization: JNW WXH.
+Data curation: JNW DDZ WXH.
+Formal analysis: JNW DDZ RZH.
+Funding acquisition: XSL WXH.
+Investigation: RZH XSL.
+Software: JNW DDZ.
+Writing – original draft: JNW DDZ.
+Writing – review & editing: XSL WXH.
+References
+1. Ezzati M, Obermeyer Z, Tzoulaki I, Mayosi BM, Elliott P, Leon DA. The contributions of risk factor trends and medical care to cardiovascular mortality trends. Nat Rev Cardiol. 2015; 12(9): 508–530. doi: 10. 1038/nrcardio.2015.82 PMID: 26076950
+2. Dugani S, Gaziano T A. 25 by 25: Achieving Global Reduction in Cardiovascular Mortality. Curr Cardiol Rep. 2016; 18(1): 1–6.
+3. Kontis V, Mathers CD, Rehm J, Stevens GA, Shield KD, Bonita R, et al. Contribution of six risk factors to achieving the 25× 25 non-communicable disease mortality reduction target: a modelling study. The Lancet. 2014; 384(9941): 427–437.
+4. Whitfield J B. Gamma glutamyl transferase. Crit Rev Clin Lab Sci. 2001; 38(4): 263–355. doi: 10.1080/ 20014091084227 PMID: 11563810
+5. Rollason J G, Pincherle G, Robinson D. Serum gamma glutamyltranspeptidase in relation to alcohol consumption. Clinica Chimica Acta. 1972; 39(1): 75–80
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+15 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+6. Bulusu S, Sharma M. What does serum γ-glutamyltransferase tell us as a cardiometabolic risk marker?. Ann Clin Biochem. 2016; 53(Pt 3):312–32. doi: 10.1177/0004563215597010 PMID: 26139450
+7. Turgut O, Tandogan I. Gamma-glutamyltransferase to determine cardiovascular risk: shifting the paradigm forward[J]. J Atheroscler Thromb. 2011; 18(3): 177–181. PMID: 21041983
+8. Kunutsor S K, Abbasi A, Adler A I. Gamma-glutamyl transferase and risk of type II diabetes: an updated systematic review and dose-response meta-analysis. Ann Epidemiol. 2014; 24(11): 809–816. doi: 10. 1016/j.annepidem.2014.09.001 PMID: 25263236
+9. Lee DS, Evans JC, Robins SJ, Wilson PW, Albano I, Fox CS, et al. Gamma Glutamyl Transferase and Metabolic Syndrome, Cardiovascular Disease, and Mortality Risk The Framingham Heart Study. Arterioscler Thromb Vasc Biol. 2007; 27(1):127–33. doi: 10.1161/01.ATV.0000251993.20372.40 PMID: 17095717
+10. Kunutsor S K, Apekey T A, Cheung B M Y. Gamma-glutamyltransferase and risk of hypertension: a systematic review and dose—response meta-analysis of prospective evidence. J Hypertens. 2015; 33 (12): 2373–2381. doi: 10.1097/HJH.0000000000000763 PMID: 26485462
+11. Daeppen JB, Smith TL, Schuckit MA. Influence of age and body mass index on g-glutamyltransferase activity: a 15-year follow-up evaluation in a community sample. Alcohol Clin Exp Res. 1998; 22:941–4. PMID: 9660326
+12. van Barneveld T, Seidell JC, Traag N, Hautvast JG. Fat distribution and gamma-glutamyl transferase in relation to serum lipids and blood pressure in 38-year old Dutch males. Eur J Clin Nutr. 1989; 43 (12):809–18. PMID: 2576402
+13. Kim DJ, Noh JH, Cho NH, Lee BW, Choi YH, Jung JH, et al. Serum γ-glutamyltransferase within its normal concentration range is related to the presence of diabetes and cardiovascular risk factors. Diabet Med. 2005; 22(9):1134–40. doi: 10.1111/j.1464-5491.2005.01581.x PMID: 16108838
+14. Lee DH, Gross MD, Steffes MW, Jacobs DR Jr. Is serum gamma-glutamyltransferase a biomarker of xenobiotics, which are conjugated by glutathione?. Arterioscler Thromb Vasc Biol. 2008; 28(4):e26–8. doi: 10.1161/ATVBAHA.107.159376 PMID: 18354088
+15. Lee DH, Silventoinen K, Hu G, Jacobs DR Jr, Jousilahti P, Sundvall J, et al. Serum gamma-glutamyltransferase predicts non-fatal myocardial infarction and fatal coronary heart disease among 28,838 middle-aged men and women. Eur Heart J. 2006; 27(18):2170–6. doi: 10.1093/eurheartj/ehl086 PMID: 16772340
+16. Meisinger C, Do¨ring A, Schneider A, Lo¨wel H; KORA Study Group. Serum γ-glutamyltransferase is a predictor of incident coronary events in apparently healthy men from the general population. Atherosclerosis. 2006; 189(2): 297–302. doi: 10.1016/j.atherosclerosis.2006.01.010 PMID: 16483579
+17. Ruttmann E, Brant LJ, Concin H, Diem G, Rapp K, Ulmer H, et al. γ-Glutamyltransferase as a Risk Factor for Cardiovascular Disease Mortality An Epidemiological Investigation in a Cohort of 163 944 Austrian Adults. Circulation. 2005; 112(14):2130–7. doi: 10.1161/CIRCULATIONAHA.105.552547 PMID: 16186419
+18. Wannamethee S G, Lennon L, Shaper A G. The value of gamma-glutamyltransferase in cardiovascular risk prediction in men without diagnosed cardiovascular disease or diabetes. Atherosclerosis. 2008; 201(1): 168–175. doi: 10.1016/j.atherosclerosis.2008.01.019 PMID: 18378241
+19. Breitling LP, Claessen H, Drath C, Arndt V, Brenner H. Gamma-glutamyltransferase,general and cause-specific mortality in 19,000 construction workers followed over 20 years. J Hepatol. 2011; 55 (3):594–601. doi: 10.1016/j.jhep.2010.12.029 PMID: 21256904
+20. Kengne AP, Czernichow S, Stamatakis E, Hamer M, Batty GD. Gamma-glutamyltransferase and risk of cardiovascular disease mortality in people with and without diabetes: pooling of three British Health Surveys. J Hepatol. 2012; 57(5): 1083–1089. doi: 10.1016/j.jhep.2012.06.034 PMID: 22796154
+21. Koehler EM, Sanna D, Hansen BE, van Rooij FJ, Heeringa J, Hofman A, et al. Serum liver enzymes are associated with all-cause mortality in an elderly population. Liver Int. 2014; 34(2):296–304. doi: 10. 1111/liv.12311 PMID: 24219360
+22. Sung KC, Ryu S, Kim BS, Cheong ES, Park DI, Kim BI, et al. γ-Glutamyl Transferase Is Associated with Mortality Outcomes Independently of Fatty Liver. Clin Chem. 2015; 61(9):1173–81. doi: 10.1373/ clinchem.2015.240424 PMID: 26152752
+23. Li Y, Iso H, Cui R, Murakami Y, Yatsuya H, Miura K, et al. Serum γ-glutamyltransferase and Mortality due to Cardiovascular Disease in Japanese Men and Women. J Atheroscler Thromb. 2016; 23(7):792– 9. doi: 10.5551/jat.32698 PMID: 26875518
+24. Haring R, Wallaschofski H, Nauck M, Do¨rr M, Baumeister SE, Vo¨lzke H. Ultrasonographic hepatic steatosis increases prediction of mortality risk from elevated serum gamma-glutamyl transpeptidase levels. Hepatology. 2009; 50(5):1403–11. doi: 10.1002/hep.23135 PMID: 19670414
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+16 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+25. Ruhl C E, Everhart J E. Elevated serum alanine aminotransferase and γ-glutamyltransferase and mortality in the United States population. Gastroenterology. 2009; 136(2): 477–485. e11. doi: 10.1053/j. gastro.2008.10.052 PMID: 19100265
+26. Hozawa A, Okamura T, Kadowaki T, Murakami Y, Nakamura K, Hayakawa T, et al. γ-Glutamyltransferase predicts cardiovascular death among Japanese women. Atherosclerosis. 2007; 194(2): 498–504. doi: 10.1016/j.atherosclerosis.2006.08.058 PMID: 17034795
+27. Du G, Song Z, Zhang Q. Gamma-glutamyltransferase is associated with cardiovascular and all-cause mortality: a meta-analysis of prospective cohort studies. Prev Med. 2013; 57(1):31–7. doi: 10.1016/j. ypmed.2013.03.011 PMID: 23571185
+28. Long Y, Zeng F, Shi J, Tian H, Chen T. Gamma-glutamyltransferase predicts increased risk of mortality: A systematic review and meta-analysis of prospective observational studies. Free Radic Res. 2014; 48 (6):716–28. doi: 10.3109/10715762.2014.902055 PMID: 24684379
+29. Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Ann Intern Med. 2009; 151(4):264–9, W64. PMID: 19622511
+30. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al. The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses. 2000.
+31. Ding M, Bhupathiraju SN, Satija A, van Dam RM, Hu FB. Long-term coffee consumption and risk of cardiovascular disease: a systematic review and a dose-response meta-analysis of prospective cohort studies[J]. Circulation. 2014; 129(6):643–59. doi: 10.1161/CIRCULATIONAHA.113.005925 PMID: 24201300
+32. Petitti D B. Meta-analysis, decision analysis, and cost-effectiveness analysis: methods for quantitative synthesis in medicine. Oxford University Press, 1999.
+33. Orsini N, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized doseresponse data. Stata Journal. 2006; 6(1): 40.
+34. Durrleman S, Simon R. Flexible regression models with cubic splines. Statistics in medicine. 1989; 8 (5): 551–561. PMID: 2657958
+35. Harrell FE Jr, Lee KL, Pollock BG. Regression models in clinical studies: determining relationships between predictors and response. J Natl Cancer Inst. 1988; 80(15):1198–202 PMID: 3047407
+36. van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach and meta-regression. Stat Med. 2002; 21(4):589–624. PMID: 11836738
+37. Rong Y, Chen L, Zhu T, Song Y, Yu M, Shan Z, et al. Egg consumption and risk of coronary heart disease and stroke: dose-response meta-analysis of prospective cohort studies[J]. BMJ. 2013; 346: e8539. doi: 10.1136/bmj.e8539 PMID: 23295181
+38. Wallin A, Orsini N, Wolk A. Red and processed meat consumption and risk of ovarian cancer: a doseresponse meta-analysis of prospective studies. Br J Cancer. 2011; 104(7):1196–201 doi: 10.1038/bjc. 2011.49 PMID: 21343939
+39. Higgins J, Thompson S G. Quantifying heterogeneity in a meta-analysis. Stat Med. 2002; 21(11): 1539–1558 doi: 10.1002/sim.1186 PMID: 12111919
+40. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986; 7(3):177–88. PMID: 3802833
+41. Peters JL, Sutton AJ, Jones DR, Abrams KR, Rushton L. Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. J Clin Epidemiol 2008; 61:991–6. doi: 10.1016/j.jclinepi.2007.11.010 PMID: 18538991
+42. Begg C B, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics. 1994; 50(4):1088–101. PMID: 7786990
+43. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997; 315(7109):629–34. PMID: 9310563
+44. Fraser A, Harris R, Sattar N, Ebrahim S, Smith GD, Lawlor DA. Gamma-glutamyltransferase is associated with incident vascular events independently of alcohol intake analysis of the British women’s heart and health study and meta-analysis. Arterioscler Thromb Vasc Biol. 2007; 27(12):2729–35. doi: 10. 1161/ATVBAHA.107.152298 PMID: 17932318
+45. D O e Silva E R, Foster D, M G Harper M, et al. Alcohol consumption raises HDL cholesterol levels by increasing the transport rate of apolipoproteins AI and A-II. Circulation, 2000, 102(19): 2347–2352. PMID: 11067787
+46. Chen J T, Kotani K. Serum γ-glutamyltranspeptidase and oxidative stress in subjectively healthy women: an association with menopausal stages. Aging Clin Exp Res. 2016; 28(4):619–24. doi: 10. 1007/s40520-015-0460-y PMID: 26438207
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+17 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+47. Nilssen O, Førde O H. Seven-year longitudinal population study of change in gamma-glutamyltransferase: the Tromsø Study. Am J Epidemiol. 1994; 139(8): 787–792 PMID: 7909980
+48. Lee DH, Buijsse B, Steffen L, Holtzman J, Luepker R, Jacobs DR Jr. Association between serum gamma-glutamyltransferase and cardiovascular mortality varies by age:the Minnesota Heart Survey. Eur J Cardiovasc Prev Rehabil. 2009; 16(1):16–20. doi: 10.1097/HJR.0b013e32830aba5c PMID: 18753951
+49. Loomba R, Doycheva I, Bettencourt R, Cohen B, Wassel CL, Brenner D, et al. Serum γ-glutamyltranspeptidase predicts all-cause,cardiovascular and liver mortality in older adults. J Clin Exp Hepatol. 2013; 3(1):4–11. doi: 10.1016/j.jceh.2012.10.004 PMID: 23997501
+50. Uc¸ar H, Gu¨r M, Go¨zu¨kara MY, Kalkan GY, Baykan AO, Tu¨rkoğlu C, et al. Gamma glutamyl transferase activity is Independently associated with oxidative stress rather than SYNTAX score. Scand J Clin Lab Invest. 2015; 75(1): 7–12. doi: 10.3109/00365513.2014.954141 PMID: 25180444
+51. Emdin M, Passino C, Donato L, Paolicchi A, Pompella A. Serum gamma-glutamyltransferase as a risk factor of ischemic stroke might be independent of alcohol consumption. Stroke. 2002; 33(4): 1163– 1164. PMID: 11935077
+52. Paolicchi A, Emdin M, Ghliozeni E, Ciancia E, Passino C, Popoff G, et al. Human atherosclerotic plaques contain gamma-glutamyl transpeptidase enzyme activity. Circulation. 2004; 109(11): 1440–1440. doi: 10.1161/01.CIR.0000120558.41356.E6 PMID: 15037540
+53. Emdin M, Pompella A, Paolicchi A. Gamma-glutamyltransferase, atherosclerosis, and cardiovascular disease triggering oxidative stress within the plaque. Circulation. 2005; 112(14): 2078–2080. doi: 10. 1161/CIRCULATIONAHA.105.571919 PMID: 16203922
+54. Wickham S, West MB, Cook PF, Hanigan MH. Gamma-glutamyl compounds: substrate specificity of gamma-glutamyl transpeptidase enzymes. Anal Biochem. 2011; 414(2):208–14. doi: 10.1016/j.ab. 2011.03.026 PMID: 21447318
+55. Angeli V, Tacito A, Paolicchi A, Barsacchi R, Franzini M, Baldassini R, et al. A kinetic study of gammaglutamyltransferase (GGT)-mediated S-nitrosoglutathione catabolism. Arch Biochem Biophys. 2009; 481(2):191–6. doi: 10.1016/j.abb.2008.10.027 PMID: 19000649
+56. Bradley RD, Fitzpatrick AL, Jacobs DR Jr, Lee DH, Swords Jenny N, Herrington D. Associations between γ-glutamyltransferase (GGT) and biomarkers of atherosclerosis: the multi-ethnic study of atherosclerosis (MESA). Atherosclerosis. 2014; 233(2): 387–393. doi: 10.1016/j.atherosclerosis.2014.01. 010 PMID: 24530768
+57. Belcastro E, Franzini M, Cianchetti S, Lorenzini E, Masotti S, Fierabracci V, et al. Monocytes/macrophages activation contributes to b-gamma- glutamyltransferase accumulation inside atherosclerotic plaques. J Transl Med. 2015; 13(1): 1.
+58. C¸ iftc¸i O, Gu¨llu¨ H, Gu¨nday M, C¸ alişkan M, Kulaksizoğlu S, Erdoğan D, C¸ alişkan Z, et al. Association between serum γ-glutamyltransferase levels and coronary microvascular function. Coron Artery Dis. 2013; 24(3):201–8. doi: 10.1097/MCA.0b013e32835e5c86 PMID: 23399927
+59. Galderisi M, Cicala S, Caso P, De Simone L, D’Errico A, Petrocelli A, et al. Coronary flow reserve and myocardial diastolic dysfunction in arterial hypertension. Am J Cardiol. 2002; 90(8):860–4. PMID: 12372574
+60. Erdogan D, Gullu H, Caliskan M, Yildirim I, Ulus T, Bilgi M, et al. Coronary flow reserve in dipper and non-dipper hypertensive patients. Blood Press. 2005; 14(6):345–52. doi: 10.1080/ 08037050500356550 PMID: 16403688
+61. Saijo Y, Utsugi M, Yoshioka E, Horikawa N, Sato T, Gong Y, et al. The relationship of gamma-glutamyltransferase to C-reactive protein and arterial stiffness. Nutr Metab Cardiovasc Dis. 2008; 18(3): 211– 219. doi: 10.1016/j.numecd.2006.10.002 PMID: 17412574
+62. Rumberger JA, Simons DB, Fitzpatrick LA, Sheedy PF, Schwartz RS. Coronary artery calcium area by electron-beam computed tomography and coronary atherosclerotic plaque area A histopathologic correlative study. Circulation. 1995; 92(8): 2157–2162. PMID: 7554196
+63. Mahady SE, Wong G, Turner RM, Mitchell P, Macaskill P, Craig JC, et al. Elevated Liver Enzymes and Mortality in Older Individuals: A Prospective Cohort Study. J Clin Gastroenterol. 2016; [Epub ahead of print].
+64. Gjerde H, Amundsen A, Skog OJ, Mørland J, Aasland OG. Serum Gamma-glutamyltransferase: an epidemiological indicator of alcohol consumption?. Br J Addict. 1987; 82(9): 1027–1031 PMID: 2890368
+65. Klatsky A L. Alcohol and cardiovascular diseases: where do we stand today?[J]. J Intern Med. 2015; 278(3):238–50. doi: 10.1111/joim.12390 PMID: 26158548
+66. Danielsson J, Kangastupa P, Laatikainen T, Aalto M, Niemela¨ O. Individual and joint impacts of ethanol use, BMI, age and gender on serum gamma- glutamyltransferase levels in healthy volunteers. Int J Mol Sci. 2013; 14(6): 11929–11941. doi: 10.3390/ijms140611929 PMID: 23736697
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+18 / 19
+
+Gamma-glutamyltransferase and cardiovascular mortality
+67. MacMahon S, Peto R, Cutler J, Collins R, Sorlie P, Neaton J, et al. Blood pressure, stroke, and coronary heart disease: part 1, prolonged differences in blood pressure: prospective observational studies corrected for the regression dilution bias. Lancet. 1990; 335(8692):765–74. PMID: 1969518
+68. Kircher T, Nelson J, Burdo H. The autopsy as a measure of accuracy of the death certificate. N Engl J Med. 1985; 313(20):1263–9. doi: 10.1056/NEJM198511143132005 PMID: 4058507
+69. Ali SS, Oni ET, Blaha MJ, Veledar E, Feiz HR, Feldman T, et al. Elevated gamma-glutamyl transferase is associated with subclinical inflammation independent of cardiometabolic risk factors in an asymptomatic population: a cross-sectional study. Nutr Metab (Lond). 2016; 13(1): 1.
+70. Sinn DH, Cho SJ, Gu S, Seong D, Kang D, Kim H, et al. Persistent Nonalcoholic Fatty Liver Disease Increases Risk for Carotid Atherosclerosis. Gastroenterology. 2016; 150(7).
+
+PLOS ONE | DOI:10.1371/journal.pone.0172631 February 23, 2017
+
+19 / 19
+

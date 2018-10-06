@@ -1,0 +1,314 @@
+Circ J 2007; 71: 1567 – 1572
+Association Between Serum Gamma-Glutamyltransferase Level and Prehypertension Among US Adults
+
+Anoop Shankar, MD, PhD; Jialiang Li, PhD*
+
+Background Higher serum gamma-glutamyltransferase (GGT) levels, a marker of oxidative stress, are implicated in the development and progression of hypertension; however, data from non-Caucasian ethnicities are limited. Also, currently there is little data available on the association between serum GGT level and clinically relevant blood pressure (BP) categories earlier in the disease continuum, when hypertension prevention efforts may be applicable. The association between serum GGT and prehypertension was examined in a nationally representative sample of US adults. Methods and Results Cross-sectional study among 5,827 National Health and Nutrition Examination Survey 1999–2002 participants aged ≥18 years without cardiovascular disease (CVD) and hypertension. The main outcome-of-interest was the presence of prehypertension (systolic BP 120–139 mmHg or diastolic BP 80–89 mmHg) (n=2,269). Higher serum GGT levels were positively associated with prehypertension, independent of smoking, waist circumference, diabetes, cholesterol levels and other confounders. The multivariable odds ratio (95% conﬁdence intervals) comparing quartile 4 of GGT (>29 U/L) to quartile 1 (<13 U/L) was 1.84 (1.37–2.46), p<0.0001. This association persisted in separate analyses among men and women. The results were consistent in subgroup analyses by race-ethnicity, age, smoking, alcohol intake, body mass index, waist circumference and diabetes. In non-parametric models, the positive association between serum GGT and prehypertension appeared to be present across the full range of GGT, without any threshold effect. Conclusions Higher serum GGT levels are associated with prehypertension in a nationally representative sample of US adults, free of CVD and hypertension. (Circ J 2007; 71: 1567 – 1572)
+Key Words: GGT; Hypertension; NHANES; Prehypertension
+
+Gamma-glutamyltransferase (GGT) is present in serum and the surface of most cell types, and is the enzyme responsible for initiating extracellular catabolism of glutathione, the main antioxidant in mammalian cells1. Increased GGT activity may be a response to oxidative stress, which can increase the transport of glutathione precursors into cells.1,2 Recent reports also indicate a direct role for GGT in the generation of reactive oxygen species2.–6 In this context, emerging evidence from epidemiological studies indicates that GGT may have a role in the pathogenesis of cardiovascular disease, diabetes mellitus and metabolic syndrome7.–9 Similarly, recent cross-sectional and longitudinal studies have also noted a relatively independent association between elevated serum GGT levels and hypertension.9–14 However, for hypertension, with the exception of recent results from the biracial Coronary Artery Risk Development in Young Adults (CARDIA) Study, data from non-Caucasian race-ethnicities in the USA are limited9. Also, in light of the overall positive association between serum GGT and clinical hypertension reported in previous epidemiological studies, it is not entirely clear if there is a continuous dose – response relationship
+(Received April 15, 2007; revised manuscript received May 24, 2007; accepted June 7, 2007) Department of Community, Occupational, and Family Medicine, Yong Loo Lin School of Medicine, *Department of Statistics and Applied Probability, National University of Singapore, Singapore Mailing address: Anoop Shankar, MD, PhD, Department of Community, Occupational, and Family Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Block MD3, 16 Medical Drive, Singapore 117597. E-mail: ashankar@nus.edu.sg
+Circulation Journal Vol.71, October 2007
+
+in this association or if this association is evident only beyond a particular threshold level of serum GGT. Further, currently there is little data available on the association between serum GGT level and clinically relevant blood pressure (BP) categories earlier in the disease continuum when hypertension prevention efforts may be applicable. Prehypertension, as deﬁned by the Seventh Joint National Committee (JNC7) on prevention, detection, evaluation and treatment of high blood pressure and including those with systolic BP ranging from 120–139 mmHg or diastolic BP ranging from 80–89 mmHg, is identiﬁed as a predictor for developing hypertension and a stage were primary prevention of hypertension is possible.15–17 In this context, we examined the association between serum GGT levels and prehypertension in a nationally representative sample of US adults, who were free of hypertension, participating in the National Health and Nutrition Examination Survey (NHANES) 1999–2002, after adjusting for several important confounders. We also employed non-parametric analytical techniques to examine the dose – response nature of the association between serum GGT levels and prehypertension graphically.
+Methods
+Study Participants The NHANES 1999–2002 was a nationally representa-
+tive sample of the United States of America’s non-institutionalized, civilian population. The procedures involved in NHANES 1999–2002 have been published in detail and are available online1.8,19 In brief, the NHANES study included a
+
+1568
+stratiﬁed multistage probability sample based on selection of counties, blocks, households and individuals within households and included the oversampling of non-Hispanic blacks and Mexican Americans to provide stable estimates for these groups. Subjects signed a consent form, and approval was obtained from the Human Subjects Committee in the US Department of Health and Human Service.
+Overall, 9,836 adults ≥18 years of age participated in the interview and examination components of NHANES 1999–2002. Of these participants, systolic and diastolic BP was available for 9,483 participants (96%). We further excluded (not mutually exclusive categories) participants with prevalent hypertension (n=3,109), participants with missing covariable data (eg, serum total cholesterol) (n= 578) and participants with self-reported history of cardiovascular disease (n=891), including coronary heart disease, myocardial infarction, angina or stroke. This resulted in 5,827 normotensive participants who were included for all analyses. Out of the 5,827 normotensive participants, 2,269 had prehypertension.
+Main Outcome of Interest: Presence of Prehypertension Seated systolic and diastolic BPs were measured using
+a mercury sphygmomanometer according to the American Heart Association and JNC7 recommendations.15,18 Up to 3 measurements were averaged for systolic and diastolic pressures. Patients were considered hypertensive if they reported current BP-reducing medication use and/or had systolic BPs ≥140 mmHg and/or diastolic BPs ≥90 mmHg.15 In the current analysis, we excluded participants with hypertension. The preferred outcome of interest in the current study was the presence of prehypertension, deﬁned as systolic BP 120–139 mmHg systolic or diastolic BP 80–89 mmHg based on JNC7 criteria.15
+Exposure Measurements Age, gender, race/ethnicity, smoking status, alcohol in-
+take (g/day), level of education, history of diabetes and oral hypoglycemic drug intake or insulin administration, hypertension and antihypertensive medication were assessed using a questionnaire. Individuals who had not smoked ≥100 cigarettes in their lifetimes were considered never smokers, those who had smoked ≥100 cigarettes in their lifetimes were considered former smokers if they answered negatively to the question “Do you smoke now?” and current smokers if they answered afﬁrmatively. Body mass index (BMI) was calculated as weight in kilograms divided by height in meters squared. After asking the participant to lift up their shirt, waist circumference was measured at the iliac crest to the nearest 0.1 cm.
+Detailed descriptions about blood collection and processing are provided in the NHANES Laboratory/Medical Technologists Procedures Manual1.8 Serum GGT concentration was assayed with a Hitachi 737 Analyzer (BoehringerMannheim Diagnostics, Indianapolis, IN, USA) at White Sands Research Center, Alamogordo, New Mexico (USA); details of laboratory measurements are available online1.8 Serum total cholesterol was measured enzymatically. Serum glucose was measured at the University of Missouri Diabetes Diagnostic Laboratory using a modiﬁed hexokinase enzymatic method. Glycosylated hemoglobin was also measured at the University of Missouri using a boronate afﬁnity high-performance liquid chromatography system. Diabetes was deﬁned using American Diabetes Association criteria as follows: a serum glucose ≥126 mg/dl after fasting
+
+SHANKAR A et al.
+for a minimum of 8 h, a serum glucose ≥200 mg/dl for those who fasted <8 h before their NHANES visit, or self-reported current use of oral hypoglycemic medication or insulin.
+Statistical Analysis Because of their skewed distributions, serum GGT was
+log-transformed (base 2) when initially analyzed as a continuous variable. We examined serum GGT level as quartiles: <13 U/L, 13–19 U/L, 20–29 U/L and >29 U/L. Initial analyses based on gender-speciﬁc GGT quartiles gave similar results as GGT quartiles for the whole cohort; cutoffs for the whole cohort were therefore used to simplify the presented tables. The odds ratio (OR) (95% conﬁdence interval (CI)) of prehypertension was calculated for each GGT level, with the lowest quartile as the reference, using multivariable logistic regression models. We used 2 models: the age (years), sex-adjusted model; and the multivariable model additionally adjusted for race-ethnicity (non-Hispanic whites, non-Hispanic blacks, Mexican Americans, others), education categories (<high school, high school, >high school), smoking (never, former, current), alcohol intake (g/day), waist circumference (cm), diabetes (absent, present), glycosylated hemoglobin level (%) and serum cholesterol (mg/dl). Trends in the OR of prehypertension across increasing serum GGT category were determined modeling GGT categories as an ordinal variable. To examine the consistency of the observed association between serum GGT levels and prehypertension, we performed subgroup analyses by gender, race-ethnicity (Non-Hispanic whites, African Americans, Mexican-Americans and others), age (<60, ≥60 years), current smoking (absent, present), current drinking (absent, present), BMI (<25, ≥25 kg/m2), waist circumference (low [men <102 cm, women <88 cm], high [men ≥102 cm, women ≥88 cm]), and diabetes mellitus (absent, present)2.0 In a supplementary analysis, to examine if the observed association between serum GGT and prehypertension was explained by inﬂammation, we additionally adjusted for C-reactive protein levels (mg/L) in the multivariable model. Sample weights that account for the unequal probabilities of selection, oversampling and nonresponse were applied for all analyses using SUDAAN (version 8.0; Research Triangle Institute, Research Triangle Park, NC, USA) and SAS (version 9.2.; SAS institute, Cary, NC, USA) softwares; standard errors were estimated using the Taylor series linearization method. To examine the dose – response relationship between the observed association between GGT levels and prehypertension without linearity assumptions, we used ﬂexible non-parametric logistic regression employing the generalized additive modeling approach (R system for statistical computing, available from Comprehensive R Archive Network [http://www.CRAN. R-project.org]) to calculate the odds of prehypertension, adjusting for all covariates in the multivariable model. The odds of prehypertension were then plotted against increasing GGT levels (both on the log scale).21
+Results
+Among 5,827 adults ≥18 years of age, without hypertension and cardiovascular disease included in the current analysis, 2,269 subjects had prehypertension. Table 1 presents the characteristics of NHANES population by serum GGT quartiles. Subjects with higher serum GGT levels were more likely to be: older, Non-Hispanic black, Mexican American, smokers (current and ever), diabetic; to have:
+Circulation Journal Vol.71, October 2007
+
+Serum GGT and Prehypertension
+
+Table 1 Characteristics of the Study Population by Categories of Serum GGT Levels*
+
+Characteristics
+
+Quartile 1 (<13 U/L)
+
+Serum GGT quartiles
+Quartile 2 Quartile 3 (13–19 U/L) (19–29 U/L)
+
+Quartile 4 (>29 U/L)
+
+p value†
+
+No. at risk Age, years Women, % Race-ethnicity, %*
+Non-Hispanic whites Non-Hispanic blacks Mexican Americans Others Education categories, %* Below high school High school Above high school Smoking, %* Never smoker Ever smoker Current smoker Alcohol intake, g/day Body mass index, kg/m2 Waist circumference, cm Diabetes, %* Glycosylated hemoglobin, % Total cholesterol, mg/dl C-reactive protein, mg/dl Prehypertension, %* Systolic blood pressure, mmHg Diastolic blood pressure, mmHg
+
+1,480 32.7±14.6 84.7±0.01
+50.4±1.2 11.5±0.8 27.5±1.1 10.5±0.7
+28.1±1.1 24.5±1.1 47.2±1.2
+71.3±1.1 28.7±1.1 13.1±0.8 4.4±20.5 25.6±5.3 87.8±13.6 1.7±0.3 5.1±0.5 189.5±45.9 0.3±0.5 21.5±1.1 110.0±10.7 65.0±11.5
+
+1,610 36.0±16.9 57.1±0.01
+
+1,343 39.1±16.6 40.1±0.01
+
+48.3±1.2 16.0±0.8 26.0±1.1 9.6±0.7
+
+40.8±1.2 21.8±1.0 28.2±1.1 9.0±0.7
+
+30.0±1.1 25.0±1.1 44.7±1.2
+
+34.4±1.2 23.0±1.1 42.4±1.2
+
+67.0±1.1 33.0±1.1 17.3±0.9 7.9±32.1 26.1±5.8 89.3±14.08 2.0±0.3 5.2±0.6 185.9±38.3 0.3±0.6 35.1±1.2 114.0±10.6 67.9±10.6
+
+56.2±1.2 43.8±1.2 23.7±1.0 11.0±33.5 27.8±5.8 94.6±14.3 5.1±0.5 5.4±0.9 194.6±40.8 0.3±0.5 46.1±1.2 116.6±10.8 69.7±10.6
+
+1,394 40.9±15.0 31.4±0.01
+38.5±1.2 18.8±0.9 34.0±1.2 8.5±0.7
+37.6±1.2 23.8±1.1 38.3±1.2
+49.0±1.2 51.0±1.2 30.0±1.1 17.0±46.9 28.9±6.0 98.9±14.9 7.4±0.6 5.5±1.1 204.2±41.1 0.4±0.9 54.8±1.2 118.5±10.3 71.2±11.1
+
+<0.0001 <0.001
+<0.0001 <0.0001 <0.0001
+0.2967
+<0.0001 0.5976
+<0.0001
+<0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001
+
+*Data presented are row percentages or mean values and corresponding standard error, based on 5,827 normotensive participants ≥18 years participating in the National Health and Nutrition Examination Survey 1999–2000, USA. †p estimated from linear regression or logistic regression models, as appropriate, with GGT categories as an ordinal variable.
+GGT, gamma-glutamyltransferase.
+
+Table 2 Association Between Serum GGT Levels and Prehypertension
+
+Serum GGT quartiles
+
+No. at risk (n=5,827)
+
+Prehypertension cases
+(n=2,269)
+
+Age, sexadjusted OR
+(95%CI)
+
+Multivariableadjusted OR (95%CI)*
+
+Quartile 1 (<13 U/L) Quartile 2 (13–19 U/L) Quartile 3 (19–29 U/L) Quartile 4 (>29 U/L) P value Log-transformed serum GGT, U/L
+
+1,480 1,610 1,343 1,394
+5,827
+
+319 566 620 764
+2,269
+
+1 (referent) 1.60 (1.26, 2.02) 2.27 (1.75, 2.95) 3.28 (2.50, 4.31)
+<0.0001 1.57 (1.41, 1.74)
+
+1 (referent) 1.28 (1.03, 1.59) 1.50 (1.16, 1.95) 1.84 (1.37, 2.46)
+<0.0001 1.39 (1.24, 1.56)
+
+*Adjusted for age (years), sex (male, female), race-ethnicity (non-Hispanic whites, non-Hispanic blacks, Mexican Americans, others), education categories (<high school, high school, >high school), smoking (never, former, current), alcohol intake (g/day), waist circumference (cm), diabetes (absent, present), glycosylated hemoglobin level (%), and serum cholesterol (mg/dl); based on 5,827 normotensive participants ≥18 years participating in the National Health and Nutrition Examination Survey 1999–2000, USA. OR, odds ratio; CI, confidence interval. Other abbreviation see in Table 1.
+
+Table 3 Association Between Increasing Serum GGT Levels and Prehypertension, by Gender
+
+Serum GGT quartiles
+
+Men (n=2,756)
+
+Women (n=3,071)
+
+No. at risk
+
+Multivariable OR
+
+No. at risk
+
+Multivariable OR
+
+(prehypertension cases) (95%CI) (prehypertension cases) (95%CI)
+
+Quartile 1 (<13 U/L) Quartile 2 (13–19 U/L) Quartile 3 (19–29 U/L) Quartile 4 (>29 U/L) P value Log-transformed serum GGT, U/L
+
+273 (102) 722 (316) 805 (424) 956 (585)
+2,756 (1,427)
+
+1 (referent) 1.24 (0.92, 1.69) 1.28 (0.86, 1.91) 1.92 (1.31, 2.80)
+0.0019 1.42 (1.14, 1.77)
+
+1,207 (217) 888 (250) 538 (196) 438 (179)
+3,071 (842)
+
+1 (referent) 1.33 (0.87, 2.02) 1.71 (1.14, 2.57) 1.70 (1.07, 2.70)
+0.0293 1.23 (1.01, 1.49)
+
+*Adjusted for age (years), sex (male, female), race-ethnicity (non-Hispanic whites, non-Hispanic blacks, Mexican Americans, others), education categories (<high school, high school, >high school), smoking (never, former, current), alcohol intake (g/day), waist circumference (cm), diabetes (absent, present), glycosylated hemoglobin level (%), and serum cholesterol (mg/dl); based on 5,827 normotensive participants ≥18 years participating in the National Health and Nutrition Examination Survey 1999–2000, USA. Abbreviations see in Tables 1,2.
+
+Circulation Journal Vol.71, October 2007
+
+1569
+
+1570
+
+SHANKAR A et al.
+
+Table 4 Association Between Serum GGT Level and Prehypertension, Within Selected Subgroups
+
+Stratified subgroups
+
+No. at risk
+
+Prehypertension cases
+
+Multivariable OR (95%CI) of prehypertension associated with P-interaction
+log-transformed GGT, U/L
+
+Race-ethnicity Non-Hispanic whites Non-Hispanic blacks Mexican Americans/others
+Age <60 years ≥60 years
+Current smoking Absent Present
+Current drinker Absent Present
+Body mass index <25 kg/m2 ≥25 kg/m2
+Waist circumference, cm Low (men <102 cm, women <88 cm) High (men ≥102 cm, women ≥88 cm)
+Diabetes mellitus Absent Present
+
+2,639 1,002 2,186
+5,125 702
+4,615 1,212
+4,311 1,516
+2,407 3,420
+2,407 3,420
+5,595 232
+
+1,070 420 779
+1,781 488
+1,753 516
+1,593 676
+741 1,528
+741 1,528
+2,116 153
+
+1.37 (1.18, 1.59)
+
+0.42
+
+1.24 (0.98, 1.55)
+
+1.59 (1.36, 1.86)
+
+1.43 (1.26, 1.61)
+
+0.31
+
+1.20 (0.89, 1.61)
+
+1.36 (1.20, 1.54)
+
+0.62
+
+1.43 (1.21, 1.71)
+
+1.32 (1.17, 1.49)
+
+0.62
+
+1.41 (1.18, 1.69)
+
+1.21 (0.94, 1.56)
+
+0.27
+
+1.61 (1.39, 1.86)
+
+1.24 (1.04, 1.47)
+
+0.31
+
+1.50 (1.27, 1.77)
+
+1.39 (1.23, 1.57)
+
+0.67
+
+1.23 (0.74, 2.05)
+
+*OR (95%CI) adjusted for age (years), sex (male, female), race-ethnicity (non-Hispanic whites, non-Hispanic blacks, Mexican Americans, others), education categories (<high school, high school, >high school), smoking (never, former, current), alcohol intake (g/day), waist circumference (cm), diabetes (absent, present), glycosylated hemoglobin level (%), and serum cholesterol (mg/dl); based on 5,827 normotensive participants ≥18 years participating in the National Health and Nutrition Examination Survey 1999–2000, USA. Abbreviations see in Tables 1,2.
+
+Predicted odds of prehypertension Participant number
+
+8 1000
+4
+800 2
+600 1
+
+0.5
+
+400
+
+0.25
+
+200
+
+0.13
+
+0
+
+4
+
+8 16 32 64 128
+
+Gamma-Glutamyltransferase, U/L
+
+Fig 1. Multivariable-adjusted odds of prehypertension according to serum gamma-glutamyltransferase level (U/L). Solid thick line represents the predicted odds of prehypertension from nonparametric logistic regression; dashed lines, 95% conﬁdence limits for the nonparametric logistic regression estimates. The non-parametric logistic regression was adjusted for age (years), sex (male, female), race-ethnicity (nonHispanic whites, non-Hispanic blacks, Mexican Americans, others), education categories (<high school, high school, >high school), smoking (never, former, current), alcohol intake (g/day), waist circumference (cm), diabetes (absent, present), glycosylated hemoglobin level (%) and serum cholesterol (mg/dl). Data is based on 5,827 normotensive participants ≥18 years participating in the National Health and Nutrition Examination Survey 1999–2000, USA. X axis: serum gamma-glutamyltransferase level (U/L) plotted in log scale. Y1 axis: predicted odds of prehypertension plotted in log scale. Y2 axis: participant number for each serum gamma-glutamyltransferase level.
+
+consumed more grams of alcohol/day, a higher BMI, a higher waist circumference, higher glycosylated hemoglobin levels, total cholesterol, and C-reactive protein levels; and to be less likely to have a post-high school education than those with lower serum GGT. Mean systolic and diastolic BP and the prevalence of prehypertension increased with increasing GGT categories.
+Table 2 presents the ORs of prehypertension with increasing serum GGT quartile. Increasing GGT quartiles were positively associated with prehypertension in both the age, sex-adjusted and multivariable-adjusted models; models evaluating trends in this association were also statistically signiﬁcant. When serum GGT was analyzed as a continuous variable, the positive association with prehypertension persisted. In Table 3, we present the genderspecific analysis for the association between increasing GGT levels and prehypertension. A clear positive association between GGT and prehypertension was present both among men and women.
+In Table 4, we examined the OR of prehypertension associated with increasing levels of log-transformed serum GGT within subgroups of race-ethnicity, age, current smoking, current drinking, BMI, waist circumference and diabetes mellitus. In general, the positive association between higher GGT level and prehypertension was consistently present within these subgroups also and the OR estimates in Table 4 ranged from 1.20 to 1.61.
+We then employed non-parametric models to examine if the observed positive association between serum GGT and prehypertension was present across the full range of GGT levels available in the present study (Fig 1). Among the adults without clinical hypertension examined in the present study, overall, there appeared to be a continuous association between serum GGT and prehypertension with
+Circulation Journal Vol.71, October 2007
+
+Serum GGT and Prehypertension
+increasing GGT levels; there was no evidence of any threshold effect. On closer examination, the dose – response association between serum GGT and prehypertension appeared to be most evident at serum GGT levels within normal limits (approximately <55 g/L).
+In a supplementary analysis, to examine if the observed association between serum GGT and prehypertension was explained by inﬂammation, we additionally adjusted for C-reactive protein levels (mg/dl) in the multivariable model in Table 2. The results were essentially similar. Compared to serum GGT quartile 1 (referent), the OR (95% CI) of prehypertension was 1.55 (1.22–1.97) in quartile 2, 1.90 (1.44– 2.49) in quartile 3 and 2.58 (1.92–3.48) in quartile 4; p<0.0001. In a second supplementary analysis, we examined the association between quartiles of serum GGT and hypertension. Consistent with the results for prehypertension, we observed a dose-dependent, positive association between increasing serum GGT and hypertension. Compared to subjects in serum GGT quartile 1 (referent), the multivariable OR (95% CI) of hypertension was 1.14 (0.94–1.38) in quartile 2, 1.37 (1.12–1.67) in quartile 3 and 1.78 (1.37–2.30), in quartile 4; p<0.0001.
+Discussion
+Higher serum GGT levels were found to be positively associated with prehypertension in a representative sample of US adults, free of hypertension and cardiovascular disease. This association persisted after adjusting for age, sex, race-ethnicity, waist circumference, smoking, alcohol intake, diabetes mellitus, glycosylated hemoglobin levels and serum cholesterol, and was consistently present in subgroup analysis by gender and important confounders. The OR of prehypertension increased in a dose-dependent manner with increasing quartiles of serum GGT. In a subsequent analysis, employing nonparametric models, the observed positive association between serum GGT quartiles and prehypertension was present continuously across the full range of GGT. Our results are in agreement with the current understanding of the role of GGT in hyerptension development, and further contribute to the current literature by: (1) suggesting that GGT levels are related to clinically relevant BP stages even earlier in the disease continuum, including prehypertension when primary prevention is possible; and (2) demonstrating the association between GGT and prehypertension among major race-ethnicities in the USA.9,13,14,17,22
+Our finding of a positive association between higher serum GGT level and prehypertension shows high internal validity, as shown by the magnitude of this association; independence from related factors such as smoking, alcohol intake, waist circumference and diabetes mellitus; dose – response trend in nonparametric models; and the consistency of this association in subgroup analyses by gender, race and several other factors. In nonparametric models, the dose – response relation between GGT and prehypertension appeared to be most evident at serum GGT levels within normal limits (<55 g/L), a ﬁnding consistent with previous reports looking at hypertension.14 In the current study, the observed association between serum GGT and prehypertension was present among non-drinkers also and persisted after adjusting for grams of alcohol intake among current drinkers. As serum GGT is also a marker of alcohol intake, these ﬁndings are consistent with the hypothesis of an association with prehypertension independent of alcohol intake1. These results are also in agreement with previous cross-
+Circulation Journal Vol.71, October 2007
+
+1571
+sectional and longitudinal epidemiologic studies that reported a positive association between higher serum GGT level and clinical hypertension, and extend the evidence to the earlier stage of prehypertension, when primary prevention of hypertension is possible.9–14,17
+Several lines of recent evidence suggest that an association between serum GGT and hypertension is plausible, including a direct role of GGT in the generation of reactive oxygen species; an indirect role as a marker of increased extracellular catabolism of antioxidant glutathione in response to oxidative stress; its predictive relationship to future elevations in plasma F2-isoprostanes, an oxidative damage product of arachidonic acid; its relationship to markers of inﬂammation; and its relationship to insulin resistance and components of the metabolic syndrome.1–6,8,9,23,24 Also, serum GGT has been shown to be associated with reduced kidney function among men without hypertension or diabetes2. 5
+As the current study examined a nationally representative sample of US adults, these results are generalizable to US adults. Furthermore, all data were collected following rigorous methodology, including a study protocol with quality control checks as discussed in the NHANES website.18,19 The main study limitation is the cross-sectional nature of NHANES, which precludes conclusions regarding the temporal nature of the association between serum GGT and prehypertension.
+In conclusion, higher serum GGT levels were found to be positively associated with prehypertension in a representative sample of US adults. Approximately 31% of US adults are reported to have prehypertension, a stage with higher risk of converting to clinical hypertension, but when primary prevention is still possible1.6,17,26 In the light of our ﬁndings, a corollary observation is that subjects with prehypertension may be a good target group for future hypertension prevention trials that aim to reduce serum GGT levels through interventions based on nutritional or lifestyle factors shown to be inversely associated with serum GGT in observational studies.11,27
+References
+1. Whitﬁeld JB. Gamma glutamyl transferase. Crit Rev Clin Lab Sci 2001; 38: 263 – 355.
+2. Lee DH, Blomhoff R, Jacobs DR Jr. Is serum gamma glutamyltransferase a marker of oxidative stress? Free Radic Res 2004; 38: 535 – 539.
+3. Stark AA, Russell JJ, Langenbach R, Pagano DA, Zeiger E, Huberman E. Localization of oxidative damage by a glutathionegamma-glutamyl transpeptidase system in preneoplastic lesions in sections of livers from carcinogen-treated rats. Carcinogenesis 1994; 15: 343 – 348.
+4. Paolicchi A, Tongiani R, Tonarelli P, Comporti M, Pompella A. gamma-Glutamyl transpeptidase-dependent lipid peroxidation in isolated hepatocytes and HepG2 hepatoma cells. Free Radic Biol Med 1997; 22: 853 – 860.
+5. Paolicchi A, Emdin M, Ghliozeni E, Ciancia E, Passino C, Popoff G, et al. Images in cardiovascular medicine: Human atherosclerotic plaques contain gamma-glutamyl transpeptidase enzyme activity. Circulation 2004; 109: 1440 – 1441.
+6. Emdin M, Pompella A, Paolicchi A. Gamma-glutamyltransferase, atherosclerosis, and cardiovascular disease: Triggering oxidative stress within the plaque. Circulation 2005; 112: 2078 – 2080.
+7. Lee DH, Silventoinen K, Hu G, Jacobs DR Jr, Jousilahti P, Sundvall J, et al. Serum gamma-glutamyltransferase predicts non-fatal myocardial infarction and fatal coronary heart disease among 28,838 middleaged men and women. Eur Heart J 2006; 27: 2170 – 2176.
+8. Lee DS, Evans JC, Robins SJ, Wilson PW, Albano I, Fox CS, et al. Gamma glutamyl transferase and metabolic syndrome, cardiovascular disease, and mortality risk: The Framingham Heart Study. Arterioscler Thromb Vasc Biol 2007; 27: 127 – 133.
+
+1572
+9. Lee DH, Jacobs DR Jr, Gross M, Kiefe CI, Roseman J, Lewis CE, et al. Gamma-glutamyltransferase is a predictor of incident diabetes and hypertension: The Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem 2003; 49: 1358 – 1366.
+10. Yamada Y, Ishizaki M, Kido T, Honda R, Tsuritani I, Ikai E, et al. Alcohol, high blood pressure, and serum gamma-glutamyl transpeptidase level. Hypertension 1991; 18: 819 – 826.
+11. Nilssen O, Forde OH, Brenn T. The Tromso Study: Distribution and population determinants of gamma-glutamyltransferase. Am J Epidemiol 1990; 132: 318 – 326.
+12. Ikai E, Honda R, Yamada Y. Serum gamma-glutamyl transpeptidase level and blood pressure in nondrinkers: A possible pathogenetic role of fatty liver in obesity-related hypertension. J Hum Hypertens 1994; 8: 95 – 100.
+13. Lee DH, Ha MH, Kim JR, Gross M, Jacobs DR. Gamma-glutamyltransferase, alcohol, and blood pressure: A four year follow-up study. Ann Epidemiol 2002; 12: 90 – 96.
+14. Stranges S, Trevisan M, Dorn JM, Dmochowski J, Donahue RP. Body fat distribution, liver enzymes, and risk of hypertension: Evidence from the Western New York Study. Hypertension 2005; 46: 1186 – 1193.
+15. Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL, et al; Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. National Heart, Lung, and Blood Institute; National High Blood Pressure Education Program Coordinating Committee. Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension 2003; 42: 1206 – 1252.
+16. Vasan RS, Larson MG, Leip EP, Kannel WB, Levy D. Assessment of frequency of progression to hypertension in non-hypertensive participants in the Framingham Heart Study: A cohort study. Lancet 2001; 358: 1682 – 1686.
+17. Whelton PK, He J, Appel LJ, Cutler JA, Havas S, Kotchen TA, et al. Primary prevention of hypertension: Clinical and public health advisory from The National High Blood Pressure Education Program. JAMA 2002; 288: 1882 – 1888.
+18. National Center for Health Statistics. NHANES 1999–2002 Survey
+
+SHANKAR A et al.
+Questionnaires, Examination Components and Laboratory Components [article online]. Available online from: www.cdc.gov/nchs/ about/major/nhanes/questexam01_02.htm [Accessed March 05 2007], 2007. 19. National Center for Health Statistics. NHANES 1999–2002 addendum to the NHANES III analytic guidelines [article online]. Available online from: www.cdc.gov/nchs/data/nhanes/guidelines1.pdf [Accessed March 05 2007], 2007. 20. Clinical Guidelines on the Identiﬁcation, Evaluation, and Treatment of Overweight and Obesity in Adults: The Evidence Report. National Institutes of Health. Obes Res 1998; 6(Suppl 2): 51S – 209S. 21. Figueiras A, Cadarso-Suarez C. Application of nonparametric models for calculating odds ratios and their conﬁdence intervals for continuous exposures. Am J Epidemiol 2001; 154: 264 – 275. 22. Grundy SM. Gamma-glutamyl transferase: Another biomarker for metabolic syndrome and cardiovascular risk. Arterioscler Thromb Vasc Biol 2007; 27: 4 – 7. 23. Ortega E, Koska J, Salbe AD, Tataranni PA, Bunt JC. Serum gammaglutamyl transpeptidase is a determinant of insulin resistance independently of adiposity in Pima Indian children. J Clin Endocrinol Metab 2006; 91: 1419 – 1422. 24. Thamer C, Tschritter O, Haap M, Shirkavand F, Machann J, Fritsche A, et al. Elevated serum GGT concentrations predict reduced insulin sensitivity and increased intrahepatic lipids. Horm Metab Res 2005; 37: 246 – 251. 25. Ryu S, Chang Y, Kim DI, Kim WS, Suh BS. Gamma-Glutamyltransferase as a predictor of chronic kidney disease in nonhypertensive and nondiabetic Korean men. Clin Chem 2007; 53: 71 – 77. 26. Wang Y, Wang QJ. The prevalence of prehypertension and hypertension among US adults according to the new joint national committee guidelines: New challenges of the old problem. Arch Intern Med 2004; 164: 2126 – 2134. 27. Lee DH, Steffen LM, Jacobs DR. Association between serum gamma-glutamyltransferase and dietary factors: The Coronary Artery Risk Development in Young Adults (CARDIA) Study. Am J Clin Nutr 2004; 79: 600 – 605.
+
+Circulation Journal Vol.71, October 2007
+
