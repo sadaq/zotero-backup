@@ -12,17 +12,17 @@
 	"browserSupport": "gcsv",
 	"priority": 100,
 	"inRepository": false,
-	"lastUpdated": "2018-09-24 18:13:34"
+	"lastUpdated": "2018-10-07 00:50:03"
 }
 
 var Translator = {
   initialize: function () {},
-  version: "5.1.1",
+  version: "5.1.2",
   BetterCSLYAML: true,
   BetterTeX: false,
   BetterCSL: true,
   // header == ZOTERO_TRANSLATOR_INFO -- maybe pick it from there
-  header: {"translatorID":"0f238e69-043e-4882-93bf-342de007de19","label":"Better CSL YAML","description":"exports references in pandoc-compatible CSL-YAML format, with added citation keys and parsing of metadata","creator":"Emiliano heyns","target":"yaml","minVersion":"4.0.27","maxVersion":"","displayOptions":{"keepUpdated":false},"translatorType":2,"browserSupport":"gcsv","priority":100,"inRepository":false,"lastUpdated":"2018-09-24 18:13:34"},
+  header: {"translatorID":"0f238e69-043e-4882-93bf-342de007de19","label":"Better CSL YAML","description":"exports references in pandoc-compatible CSL-YAML format, with added citation keys and parsing of metadata","creator":"Emiliano heyns","target":"yaml","minVersion":"4.0.27","maxVersion":"","displayOptions":{"keepUpdated":false},"translatorType":2,"browserSupport":"gcsv","priority":100,"inRepository":false,"lastUpdated":"2018-10-07 00:50:03"},
   override: {"DOIandURL":true,"asciiBibLaTeX":true,"asciiBibTeX":true,"autoAbbrev":false,"autoAbbrevStyle":false,"autoExport":false,"autoExportIdleWait":false,"autoExportPrimeExportCacheBatch":false,"autoExportPrimeExportCacheThreshold":false,"autoPin":false,"biblatexExtendedDateFormat":false,"biblatexExtendedNameFormat":true,"bibtexParticleNoOp":true,"bibtexURL":true,"cacheFlushInterval":false,"citeCommand":false,"citekeyFold":false,"citekeyFormat":false,"citeprocNoteCitekey":false,"csquotes":false,"debug":false,"debugLog":false,"itemObserverDelay":false,"jabrefFormat":false,"keyConflictPolicy":false,"keyScope":false,"kuroshiro":false,"lockedInit":false,"parseParticles":false,"postscript":false,"preserveBibTeXVariables":false,"qualityReport":false,"quickCopyMode":false,"quickCopyPandocBrackets":false,"rawLaTag":false,"relativeFilePaths":false,"scrubDatabase":false,"skipFields":false,"skipWords":false,"sorted":false,"strings":false,"suppressTitleCase":false,"testing":false,"warnBulkModify":false},
   options: {"keepUpdated":false},
 
