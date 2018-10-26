@@ -1,0 +1,1 @@
+Krux.ns.healthline.kxjsonp_consent_set_1({"status":400,"body":{"code":"bad_request","request_id":"1jXYAfAR2D4MRjTOcQNKq3","timestamp":1540372595,"pr":"gdpr","settings":{"dc":1,"al":1,"tg":1,"cd":1,"sh":1,"re":1},"idt":"device","idv":"","errors":{"idv":"no identifier found for user"},"dt":"kxcookie"}});
