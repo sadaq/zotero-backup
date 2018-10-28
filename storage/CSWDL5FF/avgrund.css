@@ -1,0 +1,12 @@
+.avgrund-popin{position:fixed;background:#fff;overflow:hidden;visibility:hidden;opacity:0;filter:alpha(opacity=0);top:50%;left:50%;z-index:100002;box-shadow:0 0 15px rgba(0,0,0,.5)}
+.avgrund-overlay{background:#000;width:100%;position:relative;top:-2000px;left:0;z-index:100001;visibility:hidden;opacity:0;filter:alpha(opacity=0)}
+body.avgrund-ready,.avgrund-ready .avgrund-popin,.avgrund-ready .avgrund-overlay{-webkit-transform-origin:50% 50%;-moz-transform-origin:50% 50%;-ms-transform-origin:50% 50%;-o-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transition:0.3s all ease-out;-moz-transition:0.3s all ease-out;-ms-transition:0.3s all ease-out;-o-transition:0.3s all ease-out;transition:0.3s all ease-out}
+body.avgrund-shrink.avgrund-active{overflow:hidden}
+body.avgrund-active{overflow:hidden;top:0;right:0;bottom:0;left:0;position:absolute}
+.avgrund-active .avgrund-popin{visibility:visible;opacity:1;filter:alpha(opacity=100);position:fixed;top:0;bottom:0;left:0;right:0;margin:auto}
+.avgrund-active .avgrund-overlay{visibility:visible;opacity:.5;filter:alpha(opacity=50);height:20000px;position:absolute}
+
+
+/*** close button ***/
+.avgrund-close,.avgrund-close:link{display:block;color:#555;font-size:13px;text-decoration:none;text-transform:uppercase;position:absolute;top:6px;right:10px}
+.avgrund-close:after{content:"\e624";font-family:"icomoon";font-size:28px;color:#fff;padding:4px 6px;line-height:30px}
