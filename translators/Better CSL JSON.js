@@ -12,17 +12,17 @@
 	"browserSupport": "gcsv",
 	"inRepository": false,
 	"priority": 100,
-	"lastUpdated": "2018-10-07 00:49:57"
+	"lastUpdated": "2018-10-29 21:40:16"
 }
 
 var Translator = {
   initialize: function () {},
-  version: "5.1.2",
+  version: "5.1.5",
   BetterCSLJSON: true,
   BetterTeX: false,
   BetterCSL: true,
   // header == ZOTERO_TRANSLATOR_INFO -- maybe pick it from there
-  header: {"translatorID":"f4b52ab0-f878-4556-85a0-c7aeedd09dfc","label":"Better CSL JSON","description":"exports references in pandoc-compatible CSL-JSON format, with added citation keys and parsing of metadata","creator":"Emiliano heyns","target":"json","minVersion":"4.0.27","maxVersion":"","displayOptions":{"keepUpdated":false},"translatorType":2,"browserSupport":"gcsv","inRepository":false,"priority":100,"lastUpdated":"2018-10-07 00:49:57"},
+  header: {"translatorID":"f4b52ab0-f878-4556-85a0-c7aeedd09dfc","label":"Better CSL JSON","description":"exports references in pandoc-compatible CSL-JSON format, with added citation keys and parsing of metadata","creator":"Emiliano heyns","target":"json","minVersion":"4.0.27","maxVersion":"","displayOptions":{"keepUpdated":false},"translatorType":2,"browserSupport":"gcsv","inRepository":false,"priority":100,"lastUpdated":"2018-10-29 21:40:16"},
   override: {"DOIandURL":true,"asciiBibLaTeX":true,"asciiBibTeX":true,"autoAbbrev":false,"autoAbbrevStyle":false,"autoExport":false,"autoExportIdleWait":false,"autoExportPrimeExportCacheBatch":false,"autoExportPrimeExportCacheThreshold":false,"autoPin":false,"biblatexExtendedDateFormat":false,"biblatexExtendedNameFormat":true,"bibtexParticleNoOp":true,"bibtexURL":true,"cacheFlushInterval":false,"citeCommand":false,"citekeyFold":false,"citekeyFormat":false,"citeprocNoteCitekey":false,"csquotes":false,"debug":false,"debugLog":false,"itemObserverDelay":false,"jabrefFormat":false,"keyConflictPolicy":false,"keyScope":false,"kuroshiro":false,"lockedInit":false,"parseParticles":false,"postscript":false,"preserveBibTeXVariables":false,"qualityReport":false,"quickCopyMode":false,"quickCopyPandocBrackets":false,"rawLaTag":false,"relativeFilePaths":false,"scrubDatabase":false,"skipFields":false,"skipWords":false,"sorted":false,"strings":false,"suppressTitleCase":false,"testing":false,"warnBulkModify":false},
   options: {"keepUpdated":false},
 
@@ -1726,7 +1726,7 @@ function unalias(item) {
     }
 }
 // import & export translators expect different creator formats... nice
-function simplifyForExport(item) {
+function simplifyForExport(item, dropAttachments = false) {
     unalias(item);
     item.tags = item.tags ? item.tags.map(tag => tag.tag) : [];
     item.notes = item.notes ? item.notes.map(note => note.note || note) : [];
@@ -1742,6 +1742,8 @@ function simplifyForExport(item) {
             }
         }
     }
+    if (dropAttachments)
+        item.attachments = [];
     return item;
 }
 exports.simplifyForExport = simplifyForExport;

@@ -17,17 +17,17 @@
 	"browserSupport": "gcsv",
 	"priority": 100,
 	"inRepository": false,
-	"lastUpdated": "2018-10-07 00:49:53"
+	"lastUpdated": "2018-10-29 21:40:12"
 }
 
 var Translator = {
   initialize: function () {},
-  version: "5.1.2",
+  version: "5.1.5",
   BetterBibTeXJSON: true,
   BetterTeX: false,
   BetterCSL: false,
   // header == ZOTERO_TRANSLATOR_INFO -- maybe pick it from there
-  header: {"translatorID":"36a3b0b5-bad0-4a04-b79b-441c7cef77db","label":"BetterBibTeX JSON","description":"exports and imports references in BetterBibTeX debug format. Mostly for BBT-internal use","creator":"Emiliano Heyns","target":"json","minVersion":"4.0.27","maxVersion":"","configOptions":{"async":true,"getCollections":true},"displayOptions":{"exportNotes":true,"exportFileData":false},"translatorType":3,"browserSupport":"gcsv","priority":100,"inRepository":false,"lastUpdated":"2018-10-07 00:49:53"},
+  header: {"translatorID":"36a3b0b5-bad0-4a04-b79b-441c7cef77db","label":"BetterBibTeX JSON","description":"exports and imports references in BetterBibTeX debug format. Mostly for BBT-internal use","creator":"Emiliano Heyns","target":"json","minVersion":"4.0.27","maxVersion":"","configOptions":{"async":true,"getCollections":true},"displayOptions":{"exportNotes":true,"exportFileData":false},"translatorType":3,"browserSupport":"gcsv","priority":100,"inRepository":false,"lastUpdated":"2018-10-29 21:40:12"},
   override: {"DOIandURL":true,"asciiBibLaTeX":true,"asciiBibTeX":true,"autoAbbrev":false,"autoAbbrevStyle":false,"autoExport":false,"autoExportIdleWait":false,"autoExportPrimeExportCacheBatch":false,"autoExportPrimeExportCacheThreshold":false,"autoPin":false,"biblatexExtendedDateFormat":false,"biblatexExtendedNameFormat":true,"bibtexParticleNoOp":true,"bibtexURL":true,"cacheFlushInterval":false,"citeCommand":false,"citekeyFold":false,"citekeyFormat":false,"citeprocNoteCitekey":false,"csquotes":false,"debug":false,"debugLog":false,"itemObserverDelay":false,"jabrefFormat":false,"keyConflictPolicy":false,"keyScope":false,"kuroshiro":false,"lockedInit":false,"parseParticles":false,"postscript":false,"preserveBibTeXVariables":false,"qualityReport":false,"quickCopyMode":false,"quickCopyPandocBrackets":false,"rawLaTag":false,"relativeFilePaths":false,"scrubDatabase":false,"skipFields":false,"skipWords":false,"sorted":false,"strings":false,"suppressTitleCase":false,"testing":false,"warnBulkModify":false},
   options: {"exportNotes":true,"exportFileData":false},
 
@@ -1741,7 +1741,7 @@ function unalias(item) {
     }
 }
 // import & export translators expect different creator formats... nice
-function simplifyForExport(item) {
+function simplifyForExport(item, dropAttachments = false) {
     unalias(item);
     item.tags = item.tags ? item.tags.map(tag => tag.tag) : [];
     item.notes = item.notes ? item.notes.map(note => note.note || note) : [];
@@ -1757,6 +1757,8 @@ function simplifyForExport(item) {
             }
         }
     }
+    if (dropAttachments)
+        item.attachments = [];
     return item;
 }
 exports.simplifyForExport = simplifyForExport;
@@ -1915,7 +1917,7 @@ Translator.doExport = () => {
     while ((item = Zotero.nextItem())) {
         if (item.itemType === 'attachment')
             continue;
-        itemfields.simplifyForExport(item);
+        itemfields.simplifyForExport(item, Translator.options.dropAttachments);
         item.relations = item.relations ? (item.relations['dc:relation'] || []) : [];
         const validFields = itemfields.valid.get(item.itemType);
         for (const field of Object.keys(item)) {
